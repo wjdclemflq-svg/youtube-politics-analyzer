@@ -319,13 +319,12 @@ async loadTieredChannels() {
         await this.collectTrendingDetails(collectedData);
         break;
         
-    default:
-  // 수동 실행
+ default:
   console.log('🔧 수동 실행 모드');
-  // loadChannels 대신 tieredChannels 사용
-  const allChannels = [...tieredChannels.tier1, ...tieredChannels.tier2, ...tieredChannels.tier3];
-  collectedData.channels = await this.fetchChannelsBatch(allChannels.slice(0, 50));
-  collectedData.videos = await this.fetchRSSBatch(allChannels);
+  const manualChannels = [...tieredChannels.tier1, ...tieredChannels.tier2, ...tieredChannels.tier3];
+  collectedData.channels = await this.fetchChannelsBatch(manualChannels.slice(0, 50));
+  collectedData.videos = await this.fetchRSSBatch(manualChannels);
+  break;
     
     // 통계 업데이트
     collectedData.statistics = {
@@ -508,6 +507,7 @@ if (require.main === module) {
 }
 
 module.exports = OptimizedYouTubeCollector;
+
 
 
 
