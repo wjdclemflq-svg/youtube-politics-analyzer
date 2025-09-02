@@ -106,38 +106,35 @@ class OptimizedYouTubeCollector {
   }
 
   // 채널 계층 분류
-  async loadTieredChannels() {
-    const channelsPath = path.join(this.configDir, 'channels-tiered.json');
+async loadTieredChannels() {
+  const channelsPath = path.join(this.configDir, 'channels.json');
+  
+  try {
+    const data = fs.readFileSync(channelsPath, 'utf8');
+    const parsed = JSON.parse(data);
     
-    try {
-      const data = fs.readFileSync(channelsPath, 'utf8');
-      return JSON.parse(data);
-    } catch (error) {
-      // 기본 채널 목록 사용
-      const channels = await this.loadChannels();
+    // 이미 계층 구조인 경우
+    if (parsed.tier1) {
+      return parsed;
+    }
+    
+    // 배열인 경우 자동 분할 (loadChannels 호출 없이)
+    if (Array.isArray(parsed)) {
       return {
-        tier1: channels.slice(0, 20),   // 상위 20개
-        tier2: channels.slice(20, 50),  // 중간 30개
-        tier3: channels.slice(50)        // 나머지
+        tier1: parsed.slice(0, 20),
+        tier2: parsed.slice(20, 50),
+        tier3: parsed.slice(50)
       };
     }
-  }
-
- async loadTieredChannels() {
-  // 먼저 계층 파일 시도
-  const tieredPath = path.join(this.configDir, 'channels-tiered.json');
-  if (fs.existsSync(tieredPath)) {
-    const data = fs.readFileSync(tieredPath, 'utf8');
-    return JSON.parse(data);
+  } catch (error) {
+    console.error('채널 로드 실패:', error.message);
   }
   
-  // 없으면 일반 채널 파일에서 자동 분할
-  const channelsPath = path.join(this.configDir, 'channels.json');
-  const channels = await this.loadChannels();
+  // 기본값
   return {
-    tier1: channels.slice(0, 20),
-    tier2: channels.slice(20, 50),
-    tier3: channels.slice(50)
+    tier1: ['UChT_3672e3gi9TzLUCpv'],
+    tier2: [],
+    tier3: []
   };
 }
 
@@ -511,4 +508,5 @@ if (require.main === module) {
 }
 
 module.exports = OptimizedYouTubeCollector;
+
 
