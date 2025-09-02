@@ -1,15 +1,40 @@
 {
-  "name": "youtube-politics-analyzer",
+  "name": "youtube-politics-analyzer-optimized",
   "version": "2.0.0",
-  "description": "대규모 정치 유튜브 분석 대시보드 - 10x Optimized",
+  "description": "최적화된 대규모 정치 유튜브 분석 시스템",
+  "main": "index.html",
+  "scripts": {
+    "collect": "node scripts/optimized-collect.js",
+    "collect:morning": "node scripts/optimized-collect.js --type=morning_rss",
+    "collect:noon": "node scripts/optimized-collect.js --type=noon_light",
+    "collect:afternoon": "node scripts/optimized-collect.js --type=afternoon_rss",
+    "collect:evening": "node scripts/optimized-collect.js --type=evening_medium",
+    "collect:night": "node scripts/optimized-collect.js --type=night_full",
+    "collect:dawn": "node scripts/optimized-collect.js --type=dawn_rss",
+    "merge": "node scripts/optimized-merge.js",
+    "dashboard": "node scripts/generate-dashboard.js",
+    "cleanup": "node scripts/cleanup-old-data.js",
+    "quota:check": "node scripts/check-quota.js",
+    "quota:reset": "node scripts/reset-quota.js",
+    "cache:clear": "node scripts/clear-cache.js",
+    "test": "node scripts/test-collection.js",
+    "analyze": "node scripts/analyze-performance.js",
+    "tier:update": "node scripts/update-tiers.js",
+    "report": "node scripts/generate-report.js"
+  },
   "dependencies": {
     "axios": "^1.6.0",
     "xml2js": "^0.6.2",
     "cheerio": "^1.0.0-rc.12"
   },
-  "scripts": {
-    "collect": "node scripts/collect.js",
-    "merge": "node scripts/merge.js",
-    "test": "node scripts/collect.js --mode=light"
-  }
+  "devDependencies": {
+    "dotenv": "^16.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_USERNAME/youtube-politics-analyzer"
+  },
+  "keywords": ["youtube", "analytics", "politics", "optimization", "cache"],
+  "author": "Your Name",
+  "license": "MIT"
 }
