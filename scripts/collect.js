@@ -325,7 +325,7 @@ async loadTieredChannels() {
   collectedData.channels = await this.fetchChannelsBatch(manualChannels.slice(0, 50));
   collectedData.videos = await this.fetchRSSBatch(manualChannels);
   break;
-    
+    }    
     // 통계 업데이트
     collectedData.statistics = {
       totalChannels: collectedData.channels.length,
@@ -507,6 +507,7 @@ if (require.main === module) {
 }
 
 module.exports = OptimizedYouTubeCollector;
+
 
 
 
