@@ -1,0 +1,86 @@
+name: YouTube Data Collection
+
+on:
+  schedule:
+    # KST 오전 6시 = UTC 21:00 (전날)
+    - cron: '0 21 * * *'
+    # KST 오후 10시 = UTC 13:00
+    - cron: '0 13 * * *'
+  workflow_dispatch:
+    inputs:
+      collection_type:
+        description: 'Collection type'
+        required: false
+        default: 'manual'
+        type: choice
+        options:
+          - morning
+          - night
+          - manual
+
+jobs:
+  collect-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Setup Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
+        cache: 'npm'
+    
+    - name: Install dependencies
+      run: npm install
+    
+    - name: Determine collection type
+      id: collection
+      run: |
+        if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+          echo "type=${{ github.event.inputs.collection_type }}" >> $GITHUB_OUTPUT
+        else
+          HOUR=$(TZ=Asia/Seoul date +%H)
+          if [ "$HOUR" -eq 6 ]; then
+            echo "type=morning" >> $GITHUB_OUTPUT
+          else
+            echo "type=night" >> $GITHUB_OUTPUT
+          fi
+        fi
+        echo "timestamp=$(TZ=Asia/Seoul date '+%Y-%m-%d %H:%M:%S')" >> $GITHUB_OUTPUT
+    
+    - name: Run data collection
+      env:
+        YOUTUBE_API_KEY1: ${{ secrets.YOUTUBE_API_KEY1 }}
+        YOUTUBE_API_KEY2: ${{ secrets.YOUTUBE_API_KEY2 }}
+        YOUTUBE_API_KEY3: ${{ secrets.YOUTUBE_API_KEY3 }}
+        COLLECTION_TYPE: ${{ steps.collection.outputs.type }}
+      run: |
+        echo "🚀 Starting ${{ steps.collection.outputs.type }} collection at ${{ steps.collection.outputs.timestamp }}"
+        node scripts/collect.js --type=${{ steps.collection.outputs.type }}
+    
+    - name: Merge data files
+      run: node scripts/merge.js
+    
+    - name: Generate summary
+      run: |
+        echo "## 📊 Collection Summary" >> $GITHUB_STEP_SUMMARY
+        echo "- Type: ${{ steps.collection.outputs.type }}" >> $GITHUB_STEP_SUMMARY
+        echo "- Time: ${{ steps.collection.outputs.timestamp }}" >> $GITHUB_STEP_SUMMARY
+        echo "- Status: ✅ Success" >> $GITHUB_STEP_SUMMARY
+        
+        if [ -f "data/summary.json" ]; then
+          echo "### Data Stats" >> $GITHUB_STEP_SUMMARY
+          cat data/summary.json | jq -r '.stats | to_entries[] | "- \(.key): \(.value)"' >> $GITHUB_STEP_SUMMARY
+        fi
+    
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add data/
+        git diff --staged --quiet || git commit -m "📊 Data update: ${{ steps.collection.outputs.type }} collection at ${{ steps.collection.outputs.timestamp }}"
+        git push
