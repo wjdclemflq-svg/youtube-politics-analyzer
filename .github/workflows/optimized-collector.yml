@@ -31,6 +31,11 @@ on:
           - dawn_rss
           - manual
 
+permissions:
+  contents: write
+  actions: read
+
+
 jobs:
   collect-data:
     runs-on: ubuntu-latest
