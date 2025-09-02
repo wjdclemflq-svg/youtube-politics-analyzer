@@ -1,67 +1,129 @@
-name: Optimized YouTube Data Collection
+name: Optimized YouTube Collection
 
 on:
   schedule:
-    - cron: '0 21 * * *'  # 오전 6시
-    - cron: '0 5 * * *'   # 오후 2시
-    - cron: '0 13 * * *'  # 오후 10시
-    - cron: '0 1 * * 0'   # 일요일 오전 10시
+    # KST 07:00 = UTC 22:00 (전날) - RSS만
+    - cron: '0 22 * * *'
+    # KST 11:00 = UTC 02:00 - 가벼운 수집
+    - cron: '0 2 * * *'
+    # KST 15:00 = UTC 06:00 - RSS만
+    - cron: '0 6 * * *'
+    # KST 19:00 = UTC 10:00 - 중간 수집
+    - cron: '0 10 * * *'
+    # KST 23:00 = UTC 14:00 - 전체 수집
+    - cron: '0 14 * * *'
+    # KST 03:00 = UTC 18:00 - RSS만
+    - cron: '0 18 * * *'
     
   workflow_dispatch:
     inputs:
-      collection_mode:
-        description: 'Collection mode'
+      collection_type:
+        description: 'Collection type'
         required: false
-        default: 'smart'
+        default: 'manual'
         type: choice
         options:
-          - smart
-          - light
-          - full
+          - morning_rss
+          - noon_light
+          - afternoon_rss
+          - evening_medium
+          - night_full
+          - dawn_rss
+          - manual
 
 jobs:
   collect-data:
     runs-on: ubuntu-latest
     
     steps:
-    - uses: actions/checkout@v3
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
     
-    - uses: actions/setup-node@v3
+    - name: Setup Node.js
+      uses: actions/setup-node@v3
       with:
         node-version: '18'
+        cache: 'npm'
     
-    - run: npm install
+    - name: Install dependencies
+      run: npm install
     
-    - name: Determine mode
-      id: mode
+    - name: Determine collection type
+      id: collection
       run: |
         if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-          echo "mode=${{ github.event.inputs.collection_mode }}" >> $GITHUB_OUTPUT
+          echo "type=${{ github.event.inputs.collection_type }}" >> $GITHUB_OUTPUT
         else
-          HOUR=$(date +%H)
-          DAY=$(date +%u)
-          if [ "$DAY" -eq 7 ]; then
-            echo "mode=full" >> $GITHUB_OUTPUT
-          elif [ "$HOUR" -lt 12 ]; then
-            echo "mode=light" >> $GITHUB_OUTPUT
-          else
-            echo "mode=smart" >> $GITHUB_OUTPUT
-          fi
+          HOUR=$(TZ=Asia/Seoul date +%H)
+          case $HOUR in
+            7) TYPE="morning_rss" ;;
+            11) TYPE="noon_light" ;;
+            15) TYPE="afternoon_rss" ;;
+            19) TYPE="evening_medium" ;;
+            23) TYPE="night_full" ;;
+            3) TYPE="dawn_rss" ;;
+            *) TYPE="manual" ;;
+          esac
+          echo "type=$TYPE" >> $GITHUB_OUTPUT
+        fi
+        echo "timestamp=$(TZ=Asia/Seoul date '+%Y-%m-%d %H:%M:%S')" >> $GITHUB_OUTPUT
+        echo "hour=$(TZ=Asia/Seoul date +%H)" >> $GITHUB_OUTPUT
+    
+    - name: Check quota status
+      run: |
+        if [ -f "data/collection-summary.json" ]; then
+          echo "## 📊 현재 할당량 상태" >> $GITHUB_STEP_SUMMARY
+          cat data/collection-summary.json | jq -r '.[-1].quotaStatus[] | "- \(.key): \(.used)/10000 사용 (\(.percentage)%)"' >> $GITHUB_STEP_SUMMARY
         fi
     
-    - name: Collect data
+    - name: Run optimized collection
       env:
         YOUTUBE_API_KEY1: ${{ secrets.YOUTUBE_API_KEY1 }}
         YOUTUBE_API_KEY2: ${{ secrets.YOUTUBE_API_KEY2 }}
         YOUTUBE_API_KEY3: ${{ secrets.YOUTUBE_API_KEY3 }}
-      run: node scripts/collect.js --mode=${{ steps.mode.outputs.mode }}
-    
-    - run: node scripts/merge.js
-    
-    - name: Commit changes
+        COLLECTION_TYPE: ${{ steps.collection.outputs.type }}
       run: |
-        git config user.name "GitHub Action"
-        git config user.email "action@github.com"
-        git add data/
-        git diff --staged --quiet || git commit -m "📊 Data update: ${{ steps.mode.outputs.mode }} collection"
+        echo "🚀 실행: ${{ steps.collection.outputs.type }} at ${{ steps.collection.outputs.timestamp }}"
+        node scripts/optimized-collect.js
+    
+    - name: Merge hourly data
+      if: steps.collection.outputs.hour == '23'
+      run: node scripts/optimized-merge.js
+    
+    - name: Update dashboard data
+      run: node scripts/generate-dashboard.js
+    
+    - name: Generate collection report
+      run: |
+        echo "## 📊 수집 결과 리포트" >> $GITHUB_STEP_SUMMARY
+        echo "- 타입: ${{ steps.collection.outputs.type }}" >> $GITHUB_STEP_SUMMARY
+        echo "- 시간: ${{ steps.collection.outputs.timestamp }}" >> $GITHUB_STEP_SUMMARY
+        
+        if [ -f "data/latest.json" ]; then
+          echo "### 수집 통계" >> $GITHUB_STEP_SUMMARY
+          cat data/latest.json | jq -r '.statistics | "- 채널: \(.totalChannels)개\n- 동영상: \(.totalVideos)개\n- API 사용: \(.quotaUsed) 유닛\n- 캐시 적중: \(.cacheHits)개"' >> $GITHUB_STEP_SUMMARY
+        fi
+        
+        if [ -f "data/collection-summary.json" ]; then
+          echo "### 일일 누적 현황" >> $GITHUB_STEP_SUMMARY
+          cat data/collection-summary.json | jq -r 'group_by(.date)[-1] | map(.stats.apiUsage) | add | "- 오늘 총 API 사용: \(.) 유닛"' >> $GITHUB_STEP_SUMMARY
+        fi
+    
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add data/ -f
+        git diff --staged --quiet || git commit -m "📊 최적화 수집: ${{ steps.collection.outputs.type }} at ${{ steps.collection.outputs.timestamp }}"
+        git push
+    
+    - name: Cleanup old data (weekly)
+      if: steps.collection.outputs.type == 'night_full' && github.event.schedule == '0 14 * * 0'
+      run: |
+        echo "🧹 주간 데이터 정리 시작"
+        node scripts/cleanup-old-data.js
+        git add data/ -f
+        git diff --staged --quiet || git commit -m "🧹 주간 데이터 정리"
         git push
