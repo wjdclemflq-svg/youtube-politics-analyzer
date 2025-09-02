@@ -1,0 +1,35 @@
+{
+  "name": "youtube-politics-analyzer",
+  "version": "2.0.0",
+  "description": "Dynamic YouTube Political Channel Discovery & Analysis System",
+  "main": "scripts/collect-dynamic.js",
+  "scripts": {
+    "start": "node scripts/collect-dynamic.js",
+    "discover": "node scripts/discover-channels.js",
+    "analyze": "node scripts/analyze-videos.js",
+    "test": "YOUTUBE_API_KEY=test node scripts/collect-dynamic.js --test",
+    "backup": "cp data/latest.json data/backup/backup_$(date +%Y%m%d_%H%M%S).json"
+  },
+  "keywords": [
+    "youtube",
+    "politics",
+    "analytics",
+    "korean",
+    "trending",
+    "monitoring"
+  ],
+  "author": "wjdclemflq-svg",
+  "license": "MIT",
+  "dependencies": {
+    "googleapis": "^105.0.0",
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wjdclemflq-svg/youtube-politics-analyzer.git"
+  }
+}
