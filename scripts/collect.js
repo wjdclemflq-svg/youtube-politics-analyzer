@@ -123,16 +123,23 @@ class OptimizedYouTubeCollector {
     }
   }
 
-  async loadChannels() {
-    const channelsPath = path.join(this.configDir, 'channels.json');
-    try {
-      const data = fs.readFileSync(channelsPath, 'utf8');
-      return JSON.parse(data);
-    } catch (error) {
-      console.error('채널 목록 로드 실패:', error.message);
-      return [];
-    }
+ async loadTieredChannels() {
+  // 먼저 계층 파일 시도
+  const tieredPath = path.join(this.configDir, 'channels-tiered.json');
+  if (fs.existsSync(tieredPath)) {
+    const data = fs.readFileSync(tieredPath, 'utf8');
+    return JSON.parse(data);
   }
+  
+  // 없으면 일반 채널 파일에서 자동 분할
+  const channelsPath = path.join(this.configDir, 'channels.json');
+  const channels = await this.loadChannels();
+  return {
+    tier1: channels.slice(0, 20),
+    tier2: channels.slice(20, 50),
+    tier3: channels.slice(50)
+  };
+}
 
   // RSS 최적화 수집
   async fetchRSSBatch(channelIds) {
@@ -504,3 +511,4 @@ if (require.main === module) {
 }
 
 module.exports = OptimizedYouTubeCollector;
+
