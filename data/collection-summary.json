@@ -1,0 +1,33 @@
+[
+  {
+    "date": "2025-09-02",
+    "hour": 20,
+    "type": "manual",
+    "stats": {
+      "channels": 1,
+      "videos": 15,
+      "apiUsage": 1,
+      "cacheHits": 1
+    },
+    "quotaStatus": [
+      {
+        "key": "API_KEY1",
+        "used": 1,
+        "remaining": 9999,
+        "percentage": "0.0"
+      },
+      {
+        "key": "API_KEY2",
+        "used": 0,
+        "remaining": 10000,
+        "percentage": "0.0"
+      },
+      {
+        "key": "API_KEY3",
+        "used": 0,
+        "remaining": 10000,
+        "percentage": "0.0"
+      }
+    ]
+  }
+]
