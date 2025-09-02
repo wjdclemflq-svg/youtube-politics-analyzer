@@ -1,86 +1,67 @@
-name: YouTube Data Collection
+name: Optimized YouTube Data Collection
 
 on:
   schedule:
-    # KST 오전 6시 = UTC 21:00 (전날)
-    - cron: '0 21 * * *'
-    # KST 오후 10시 = UTC 13:00
-    - cron: '0 13 * * *'
+    - cron: '0 21 * * *'  # 오전 6시
+    - cron: '0 5 * * *'   # 오후 2시
+    - cron: '0 13 * * *'  # 오후 10시
+    - cron: '0 1 * * 0'   # 일요일 오전 10시
+    
   workflow_dispatch:
     inputs:
-      collection_type:
-        description: 'Collection type'
+      collection_mode:
+        description: 'Collection mode'
         required: false
-        default: 'manual'
+        default: 'smart'
         type: choice
         options:
-          - morning
-          - night
-          - manual
+          - smart
+          - light
+          - full
 
 jobs:
   collect-data:
     runs-on: ubuntu-latest
     
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
-      with:
-        token: ${{ secrets.GITHUB_TOKEN }}
+    - uses: actions/checkout@v3
     
-    - name: Setup Node.js
-      uses: actions/setup-node@v3
+    - uses: actions/setup-node@v3
       with:
         node-version: '18'
-        cache: 'npm'
     
-    - name: Install dependencies
-      run: npm install
+    - run: npm install
     
-    - name: Determine collection type
-      id: collection
+    - name: Determine mode
+      id: mode
       run: |
         if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-          echo "type=${{ github.event.inputs.collection_type }}" >> $GITHUB_OUTPUT
+          echo "mode=${{ github.event.inputs.collection_mode }}" >> $GITHUB_OUTPUT
         else
-          HOUR=$(TZ=Asia/Seoul date +%H)
-          if [ "$HOUR" -eq 6 ]; then
-            echo "type=morning" >> $GITHUB_OUTPUT
+          HOUR=$(date +%H)
+          DAY=$(date +%u)
+          if [ "$DAY" -eq 7 ]; then
+            echo "mode=full" >> $GITHUB_OUTPUT
+          elif [ "$HOUR" -lt 12 ]; then
+            echo "mode=light" >> $GITHUB_OUTPUT
           else
-            echo "type=night" >> $GITHUB_OUTPUT
+            echo "mode=smart" >> $GITHUB_OUTPUT
           fi
         fi
-        echo "timestamp=$(TZ=Asia/Seoul date '+%Y-%m-%d %H:%M:%S')" >> $GITHUB_OUTPUT
     
-    - name: Run data collection
+    - name: Collect data
       env:
         YOUTUBE_API_KEY1: ${{ secrets.YOUTUBE_API_KEY1 }}
         YOUTUBE_API_KEY2: ${{ secrets.YOUTUBE_API_KEY2 }}
         YOUTUBE_API_KEY3: ${{ secrets.YOUTUBE_API_KEY3 }}
-        COLLECTION_TYPE: ${{ steps.collection.outputs.type }}
-      run: |
-        echo "🚀 Starting ${{ steps.collection.outputs.type }} collection at ${{ steps.collection.outputs.timestamp }}"
-        node scripts/collect.js --type=${{ steps.collection.outputs.type }}
+      run: node scripts/collect.js --mode=${{ steps.mode.outputs.mode }}
     
-    - name: Merge data files
-      run: node scripts/merge.js
+    - run: node scripts/merge.js
     
-    - name: Generate summary
+    - name: Commit changes
       run: |
-        echo "## 📊 Collection Summary" >> $GITHUB_STEP_SUMMARY
-        echo "- Type: ${{ steps.collection.outputs.type }}" >> $GITHUB_STEP_SUMMARY
-        echo "- Time: ${{ steps.collection.outputs.timestamp }}" >> $GITHUB_STEP_SUMMARY
-        echo "- Status: ✅ Success" >> $GITHUB_STEP_SUMMARY
-        
-        if [ -f "data/summary.json" ]; then
-          echo "### Data Stats" >> $GITHUB_STEP_SUMMARY
-          cat data/summary.json | jq -r '.stats | to_entries[] | "- \(.key): \(.value)"' >> $GITHUB_STEP_SUMMARY
-        fi
-    
-    - name: Commit and push changes
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
+        git config user.name "GitHub Action"
+        git config user.email "action@github.com"
         git add data/
-        git diff --staged --quiet || git commit -m "📊 Data update: ${{ steps.collection.outputs.type }} collection at ${{ steps.collection.outputs.timestamp }}"
+        git diff --staged --quiet || git commit -m "📊 Data update: ${{ steps.mode.outputs.mode }} collection"
         git push
