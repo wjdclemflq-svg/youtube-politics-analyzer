@@ -1,7 +1,7 @@
 name: Optimized YouTube Collection
 
 on:
-  schedule:
+ # schedule:
     # KST 07:00 = UTC 22:00 (전날) - RSS만
     - cron: '0 22 * * *'
     # KST 11:00 = UTC 02:00 - 가벼운 수집
