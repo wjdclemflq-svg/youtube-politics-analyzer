@@ -1,24 +1,15 @@
 {
   "name": "youtube-politics-analyzer",
-  "version": "1.0.0",
-  "description": "대규모 정치 유튜브 분석 대시보드",
-  "main": "index.html",
-  "scripts": {
-    "collect:morning": "node scripts/collect.js --type=morning",
-    "collect:night": "node scripts/collect.js --type=night",
-    "merge": "node scripts/merge.js",
-    "test": "node scripts/collect.js --test"
-  },
+  "version": "2.0.0",
+  "description": "대규모 정치 유튜브 분석 대시보드 - 10x Optimized",
   "dependencies": {
     "axios": "^1.6.0",
     "xml2js": "^0.6.2",
     "cheerio": "^1.0.0-rc.12"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/YOUR_USERNAME/youtube-politics-analyzer"
-  },
-  "keywords": ["youtube", "analytics", "politics"],
-  "author": "Your Name",
-  "license": "MIT"
+  "scripts": {
+    "collect": "node scripts/collect.js",
+    "merge": "node scripts/merge.js",
+    "test": "node scripts/collect.js --mode=light"
+  }
 }
