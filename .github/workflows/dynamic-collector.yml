@@ -109,7 +109,25 @@ jobs:
               if (process.env.GITHUB_STEP_SUMMARY) {
                 const summary = \`
 # 📊 YouTube Collection Report
-**Time: \${report.timestamp}
+- name: 📊 Generate summary report
+        run: |
+          if [ -f "data/latest.json" ]; then
+            echo "📋 Collection Report"
+            echo "=================="
+            node -e "
+              const data = require('./data/latest.json');
+              const channels = data.channels?.length || 0;
+              const videos = data.videos?.length || 0;
+              const spikes = data.spikes?.length || 0;
+              console.log('Timestamp:', new Date().toISOString());
+              console.log('Channels:', channels);
+              console.log('Videos:', videos);
+              console.log('Spikes:', spikes);
+              console.log('Above Average:', data.aboveAverage?.length || 0);
+            "
+          else
+            echo "No data file found"
+          fi
 ## 📈 Statistics
 - **Channels:** \${report.collection.channels}
 - **Videos:** \${report.collection.videos}  
