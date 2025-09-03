@@ -1,92 +1,236 @@
-name: Dynamic YouTube Channel Discovery & Analysis
+name: Dynamic YouTube Politics Collector
 
 on:
   schedule:
-    - cron: '0 15,21,3,9 * * *'
+    # 6시간마다 실행 (한국시간 기준 0시, 6시, 12시, 18시)
+    - cron: '0 */6 * * *'
   workflow_dispatch:
-
-permissions:
-  contents: write
+    inputs:
+      channel_limit:
+        description: 'Maximum number of channels to analyze'
+        required: false
+        default: '50'
+        type: string
+      debug_mode:
+        description: 'Enable debug logging'
+        required: false
+        default: 'false'
+        type: boolean
+      force_discovery:
+        description: 'Force new channel discovery'
+        required: false
+        default: 'false'
+        type: boolean
 
 jobs:
-  collect:
+  collect-and-analyze:
     runs-on: ubuntu-latest
     
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
           node-version: '18'
       
-      - name: Install packages
+      - name: Install dependencies
         run: |
           npm init -y
-          npm install googleapis@105.0.0
+          npm install googleapis
       
-      - name: Create directories
+      - name: Set environment variables
         run: |
-          mkdir -p data
-          mkdir -p data/backup
-          mkdir -p data/daily
+          echo "YOUTUBE_API_KEY=${{ secrets.YOUTUBE_API_KEY }}" >> $GITHUB_ENV
+          echo "CHANNEL_LIMIT=${{ github.event.inputs.channel_limit || '50' }}" >> $GITHUB_ENV
+          echo "DEBUG_MODE=${{ github.event.inputs.debug_mode || 'false' }}" >> $GITHUB_ENV
+          echo "FORCE_DISCOVERY=${{ github.event.inputs.force_discovery || 'false' }}" >> $GITHUB_ENV
       
-      - name: Run collection
-        env:
-          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+      - name: Check API Key
         run: |
-          echo "Starting collection at $(date)"
-          node scripts/collect-dynamic.js
-          
-          if [ -f "data/latest.json" ]; then
-            echo "Collection successful"
-            ls -lh data/latest.json
-          fi
-      
-      - name: Backup data
-        if: success()
-        run: |
-          if [ -f "data/latest.json" ]; then
-            cp data/latest.json "data/backup/$(date +%Y%m%d_%H%M%S).json"
-            cp data/latest.json "data/daily/$(date +%Y-%m-%d).json"
-            echo "Backup created"
-            
-            # 오래된 백업 정리
-            find data/backup -name "*.json" -mtime +7 -delete 2>/dev/null || true
-            find data/daily -name "*.json" -mtime +30 -delete 2>/dev/null || true
-          fi
-      
-      - name: Generate summary
-        if: success()
-        run: |
-          if [ -f "data/latest.json" ]; then
-            node -e "
-              const fs = require('fs');
-              const data = JSON.parse(fs.readFileSync('data/latest.json'));
-              const summary = {
-                timestamp: new Date().toISOString(),
-                channels: data.channels?.length || 0,
-                videos: data.videos?.length || 0,
-                shorts: data.statistics?.totalShorts || 0
-              };
-              fs.writeFileSync('data/summary.json', JSON.stringify(summary, null, 2));
-              console.log('Summary created:', summary);
-            "
-          fi
-      
-      - name: Commit data
-        run: |
-          git config --global user.name 'GitHub Actions'
-          git config --global user.email 'actions@github.com'
-          git add data/
-          
-          if git diff --staged --quiet; then
-            echo "No changes"
+          if [ -z "$YOUTUBE_API_KEY" ]; then
+            echo "❌ YouTube API Key is not set!"
+            exit 1
           else
-            CHANNELS=$(node -e "const d=require('./data/latest.json'); console.log(d.channels?.length || 0)" 2>/dev/null || echo "0")
-            VIDEOS=$(node -e "const d=require('./data/latest.json'); console.log(d.videos?.length || 0)" 2>/dev/null || echo "0")
-            
-            git commit -m "Update: $CHANNELS channels, $VIDEOS videos - $(date)"
-            git push
+            echo "✅ YouTube API Key is configured"
           fi
+      
+      - name: Discover Channels (Conditional)
+        id: discover
+        run: |
+          # 채널 파일이 없거나 강제 발견 모드일 때만 실행
+          if [ ! -f "data/channels.json" ] || [ "$FORCE_DISCOVERY" == "true" ]; then
+            echo "🔍 Discovering channels..."
+            node scripts/discover-channels.js
+          else
+            # 파일이 24시간 이상 되었으면 업데이트
+            if [ -f "data/channels.json" ]; then
+              last_modified=$(stat -c %Y data/channels.json 2>/dev/null || stat -f %m data/channels.json)
+              current_time=$(date +%s)
+              age=$((current_time - last_modified))
+              
+              # 24시간 = 86400초
+              if [ $age -gt 86400 ]; then
+                echo "📊 Channel list is older than 24 hours, updating..."
+                node scripts/discover-channels.js
+              else
+                echo "✅ Using existing channel list (updated $(($age / 3600)) hours ago)"
+              fi
+            fi
+          fi
+      
+      - name: Analyze Videos and Shorts
+        run: |
+          echo "📹 Analyzing videos and shorts..."
+          node scripts/analyze-videos.js
+      
+      - name: Generate Statistics
+        run: |
+          echo "📊 Generating statistics..."
+          if [ -f "data/summary.json" ]; then
+            echo "Summary statistics:"
+            cat data/summary.json | jq '.'
+          fi
+      
+      - name: Create Backup
+        run: |
+          # 시간별 백업
+          timestamp=$(date +%Y%m%d_%H%M%S)
+          mkdir -p data/backup
+          
+          if [ -f "data/latest.json" ]; then
+            cp data/latest.json "data/backup/latest_${timestamp}.json"
+          fi
+          
+          # 일일 백업 (하루에 한 번만)
+          daily_backup="data/daily/$(date +%Y%m%d).json"
+          mkdir -p data/daily
+          
+          if [ ! -f "$daily_backup" ] && [ -f "data/latest.json" ]; then
+            cp data/latest.json "$daily_backup"
+            echo "📁 Created daily backup: $daily_backup"
+          fi
+          
+          # 오래된 백업 정리 (7일 이상)
+          find data/backup -name "*.json" -mtime +7 -delete 2>/dev/null || true
+          find data/daily -name "*.json" -mtime +30 -delete 2>/dev/null || true
+      
+      - name: Update Dashboard Data
+        run: |
+          # index.html이 있다면 최신 데이터로 업데이트
+          if [ -f "index.html" ]; then
+            echo "🌐 Dashboard will use latest data from data/latest.json"
+          fi
+          
+          # 통계 요약 생성
+          if [ -f "data/summary.json" ]; then
+            echo "📈 Current Statistics:"
+            echo "========================"
+            jq -r '
+              "Channels Analyzed: \(.totalChannelsAnalyzed)",
+              "Total Videos: \(.totalVideos)",
+              "Total Shorts: \(.totalShorts)",
+              "Total Views: \(.totalViewCount | tostring | tonumber | . / 1000000 | floor)M",
+              "Average Views per Short: \(.averageViewsPerShort)"
+            ' data/summary.json
+          fi
+      
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          
+          # 변경사항 확인
+          if [ -n "$(git status --porcelain)" ]; then
+            git add data/
+            
+            # 커밋 메시지에 통계 포함
+            if [ -f "data/summary.json" ]; then
+              channels=$(jq -r '.totalChannelsAnalyzed' data/summary.json)
+              videos=$(jq -r '.totalVideos' data/summary.json)
+              shorts=$(jq -r '.totalShorts' data/summary.json)
+              commit_msg="🎬 Update: ${channels} channels, ${videos} videos, ${shorts} shorts"
+            else
+              commit_msg="📊 Update YouTube politics data"
+            fi
+            
+            git commit -m "$commit_msg" -m "Last updated: $(date)"
+            git push
+            
+            echo "✅ Successfully pushed updates"
+          else
+            echo "ℹ️ No changes to commit"
+          fi
+      
+      - name: Check API Quota Usage
+        if: always()
+        run: |
+          echo "📊 Estimated API Quota Usage:"
+          echo "================================"
+          
+          # 예상 API 사용량 계산
+          channels_checked="${CHANNEL_LIMIT:-50}"
+          
+          # search.list: 100 units per call
+          # channels.list: 1 unit per call  
+          # playlistItems.list: 1 unit per call
+          # videos.list: 1 unit per call
+          
+          search_calls=15  # 검색어 수
+          channel_calls=$channels_checked
+          playlist_calls=$channels_checked
+          video_calls=$((channels_checked * 2))  # 채널당 2번 호출 예상
+          
+          search_units=$((search_calls * 100))
+          channel_units=$channel_calls
+          playlist_units=$playlist_calls
+          video_units=$video_calls
+          
+          total_units=$((search_units + channel_units + playlist_units + video_units))
+          
+          echo "Search API calls: $search_calls (${search_units} units)"
+          echo "Channel API calls: $channel_calls (${channel_units} units)"
+          echo "Playlist API calls: $playlist_calls (${playlist_units} units)"
+          echo "Video API calls: $video_calls (${video_units} units)"
+          echo "--------------------------------"
+          echo "Total estimated units: ${total_units} / 10,000 daily quota"
+          echo "Usage: $((total_units * 100 / 10000))%"
+          
+          if [ $total_units -gt 10000 ]; then
+            echo "⚠️ WARNING: Estimated usage exceeds daily quota!"
+          else
+            echo "✅ Within daily quota limits"
+          fi
+      
+      - name: Create Issue on Failure
+        if: failure()
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const issueTitle = `🚨 YouTube Collector Failed - ${new Date().toISOString()}`;
+            const issueBody = `
+            The YouTube Politics Collector workflow failed.
+            
+            **Workflow Run:** [${context.runNumber}](${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId})
+            **Time:** ${new Date().toISOString()}
+            **Error:** Check the workflow logs for details.
+            
+            **Possible causes:**
+            - YouTube API quota exceeded
+            - API key issues
+            - Network connectivity problems
+            - Script errors
+            
+            Please investigate and fix the issue.
+            `;
+            
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: issueTitle,
+              body: issueBody,
+              labels: ['bug', 'automation']
+            });
