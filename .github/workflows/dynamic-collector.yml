@@ -1,26 +1,23 @@
-name: Dynamic YouTube Politics Collector
+name: Dynamic YouTube Politics Collector (3 Keys)
 
 on:
   schedule:
-    # 6시간마다 실행 (한국시간 기준 0시, 6시, 12시, 18시)
-    - cron: '0 */6 * * *'
+    - cron: '0 */6 * * *'  # 6시간마다
   workflow_dispatch:
     inputs:
       channel_limit:
-        description: 'Maximum number of channels to analyze'
+        description: 'Maximum channels to analyze'
         required: false
-        default: '50'
-        type: string
-      debug_mode:
-        description: 'Enable debug logging'
+        default: '90'
+      use_rotation:
+        description: 'Use API key rotation'
         required: false
-        default: 'false'
+        default: 'true'
         type: boolean
-      force_discovery:
-        description: 'Force new channel discovery'
-        required: false
-        default: 'false'
-        type: boolean
+
+permissions:
+  contents: write
+  issues: write
 
 jobs:
   collect-and-analyze:
@@ -29,8 +26,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Setup Node.js
         uses: actions/setup-node@v3
@@ -44,193 +39,97 @@ jobs:
       
       - name: Set environment variables
         run: |
-          echo "YOUTUBE_API_KEY=${{ secrets.YOUTUBE_API_KEY }}" >> $GITHUB_ENV
-          echo "CHANNEL_LIMIT=${{ github.event.inputs.channel_limit || '50' }}" >> $GITHUB_ENV
-          echo "DEBUG_MODE=${{ github.event.inputs.debug_mode || 'false' }}" >> $GITHUB_ENV
-          echo "FORCE_DISCOVERY=${{ github.event.inputs.force_discovery || 'false' }}" >> $GITHUB_ENV
+          # 3개 API 키 설정
+          echo "YOUTUBE_API_KEY_1=${{ secrets.YOUTUBE_API_KEY_1 }}" >> $GITHUB_ENV
+          echo "YOUTUBE_API_KEY_2=${{ secrets.YOUTUBE_API_KEY_2 }}" >> $GITHUB_ENV
+          echo "YOUTUBE_API_KEY_3=${{ secrets.YOUTUBE_API_KEY_3 }}" >> $GITHUB_ENV
+          
+          # 구버전 호환성을 위한 기본 키
+          echo "YOUTUBE_API_KEY=${{ secrets.YOUTUBE_API_KEY_1 }}" >> $GITHUB_ENV
+          
+          echo "CHANNEL_LIMIT=${{ github.event.inputs.channel_limit || '90' }}" >> $GITHUB_ENV
+          echo "USE_ROTATION=${{ github.event.inputs.use_rotation || 'true' }}" >> $GITHUB_ENV
       
-      - name: Check API Key
+      - name: Check API Keys
         run: |
-          if [ -z "$YOUTUBE_API_KEY" ]; then
-            echo "❌ YouTube API Key is not set!"
+          echo "🔑 Checking API Keys..."
+          key_count=0
+          
+          if [ ! -z "$YOUTUBE_API_KEY_1" ]; then
+            echo "✅ API Key #1 is set"
+            key_count=$((key_count + 1))
+          fi
+          
+          if [ ! -z "$YOUTUBE_API_KEY_2" ]; then
+            echo "✅ API Key #2 is set"
+            key_count=$((key_count + 1))
+          fi
+          
+          if [ ! -z "$YOUTUBE_API_KEY_3" ]; then
+            echo "✅ API Key #3 is set"
+            key_count=$((key_count + 1))
+          fi
+          
+          echo "📊 Total API Keys available: $key_count"
+          
+          if [ $key_count -eq 0 ]; then
+            echo "❌ No API keys configured!"
             exit 1
-          else
-            echo "✅ YouTube API Key is configured"
           fi
       
-      - name: Discover Channels (Conditional)
-        id: discover
+      - name: Discover Channels with Rotation
         run: |
-          # 채널 파일이 없거나 강제 발견 모드일 때만 실행
-          if [ ! -f "data/channels.json" ] || [ "$FORCE_DISCOVERY" == "true" ]; then
-            echo "🔍 Discovering channels..."
-            node scripts/discover-channels.js
+          if [ "$USE_ROTATION" == "true" ] && [ -f "scripts/discover-channels-rotation.js" ]; then
+            echo "🔄 Using 3-key rotation system..."
+            node scripts/discover-channels-rotation.js
           else
-            # 파일이 24시간 이상 되었으면 업데이트
-            if [ -f "data/channels.json" ]; then
-              last_modified=$(stat -c %Y data/channels.json 2>/dev/null || stat -f %m data/channels.json)
-              current_time=$(date +%s)
-              age=$((current_time - last_modified))
-              
-              # 24시간 = 86400초
-              if [ $age -gt 86400 ]; then
-                echo "📊 Channel list is older than 24 hours, updating..."
-                node scripts/discover-channels.js
-              else
-                echo "✅ Using existing channel list (updated $(($age / 3600)) hours ago)"
-              fi
-            fi
+            echo "📝 Using single key system..."
+            node scripts/discover-channels.js
           fi
       
       - name: Analyze Videos and Shorts
+        continue-on-error: true
         run: |
-          echo "📹 Analyzing videos and shorts..."
-          node scripts/analyze-videos.js
+          if [ -f "data/channels.json" ]; then
+            echo "📹 Analyzing videos..."
+            node scripts/analyze-videos.js || echo "Some videos could not be analyzed"
+          else
+            echo "⚠️ No channels.json found"
+          fi
       
-      - name: Generate Statistics
+      - name: Generate Statistics Report
         run: |
-          echo "📊 Generating statistics..."
+          if [ -f "data/channels.json" ]; then
+            echo "📊 Channel Statistics:"
+            channels_count=$(cat data/channels.json | grep -o '"id"' | wc -l)
+            echo "  Total channels: $channels_count"
+          fi
+          
           if [ -f "data/summary.json" ]; then
-            echo "Summary statistics:"
-            cat data/summary.json | jq '.'
+            echo "📊 Video Statistics:"
+            cat data/summary.json
           fi
       
-      - name: Create Backup
-        run: |
-          # 시간별 백업
-          timestamp=$(date +%Y%m%d_%H%M%S)
-          mkdir -p data/backup
-          
-          if [ -f "data/latest.json" ]; then
-            cp data/latest.json "data/backup/latest_${timestamp}.json"
-          fi
-          
-          # 일일 백업 (하루에 한 번만)
-          daily_backup="data/daily/$(date +%Y%m%d).json"
-          mkdir -p data/daily
-          
-          if [ ! -f "$daily_backup" ] && [ -f "data/latest.json" ]; then
-            cp data/latest.json "$daily_backup"
-            echo "📁 Created daily backup: $daily_backup"
-          fi
-          
-          # 오래된 백업 정리 (7일 이상)
-          find data/backup -name "*.json" -mtime +7 -delete 2>/dev/null || true
-          find data/daily -name "*.json" -mtime +30 -delete 2>/dev/null || true
-      
-      - name: Update Dashboard Data
-        run: |
-          # index.html이 있다면 최신 데이터로 업데이트
-          if [ -f "index.html" ]; then
-            echo "🌐 Dashboard will use latest data from data/latest.json"
-          fi
-          
-          # 통계 요약 생성
-          if [ -f "data/summary.json" ]; then
-            echo "📈 Current Statistics:"
-            echo "========================"
-            jq -r '
-              "Channels Analyzed: \(.totalChannelsAnalyzed)",
-              "Total Videos: \(.totalVideos)",
-              "Total Shorts: \(.totalShorts)",
-              "Total Views: \(.totalViewCount | tostring | tonumber | . / 1000000 | floor)M",
-              "Average Views per Short: \(.averageViewsPerShort)"
-            ' data/summary.json
-          fi
-      
-      - name: Commit and Push Changes
+      - name: Commit and Push
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           
-          # 변경사항 확인
           if [ -n "$(git status --porcelain)" ]; then
             git add data/
             
-            # 커밋 메시지에 통계 포함
+            # 커밋 메시지 생성
             if [ -f "data/summary.json" ]; then
-              channels=$(jq -r '.totalChannelsAnalyzed' data/summary.json)
-              videos=$(jq -r '.totalVideos' data/summary.json)
-              shorts=$(jq -r '.totalShorts' data/summary.json)
-              commit_msg="🎬 Update: ${channels} channels, ${videos} videos, ${shorts} shorts"
+              channels=$(grep -o '"totalChannelsAnalyzed":[0-9]*' data/summary.json | cut -d':' -f2 || echo "0")
+              videos=$(grep -o '"totalVideos":[0-9]*' data/summary.json | cut -d':' -f2 || echo "0")
+              shorts=$(grep -o '"totalShorts":[0-9]*' data/summary.json | cut -d':' -f2 || echo "0")
+              commit_msg="🎬 Update: ${channels} channels, ${videos} videos, ${shorts} shorts (3-key rotation)"
             else
-              commit_msg="📊 Update YouTube politics data"
+              commit_msg="📊 Update YouTube data (3-key rotation)"
             fi
             
-            git commit -m "$commit_msg" -m "Last updated: $(date)"
+            git commit -m "$commit_msg"
             git push
-            
-            echo "✅ Successfully pushed updates"
           else
-            echo "ℹ️ No changes to commit"
+            echo "No changes to commit"
           fi
-      
-      - name: Check API Quota Usage
-        if: always()
-        run: |
-          echo "📊 Estimated API Quota Usage:"
-          echo "================================"
-          
-          # 예상 API 사용량 계산
-          channels_checked="${CHANNEL_LIMIT:-50}"
-          
-          # search.list: 100 units per call
-          # channels.list: 1 unit per call  
-          # playlistItems.list: 1 unit per call
-          # videos.list: 1 unit per call
-          
-          search_calls=15  # 검색어 수
-          channel_calls=$channels_checked
-          playlist_calls=$channels_checked
-          video_calls=$((channels_checked * 2))  # 채널당 2번 호출 예상
-          
-          search_units=$((search_calls * 100))
-          channel_units=$channel_calls
-          playlist_units=$playlist_calls
-          video_units=$video_calls
-          
-          total_units=$((search_units + channel_units + playlist_units + video_units))
-          
-          echo "Search API calls: $search_calls (${search_units} units)"
-          echo "Channel API calls: $channel_calls (${channel_units} units)"
-          echo "Playlist API calls: $playlist_calls (${playlist_units} units)"
-          echo "Video API calls: $video_calls (${video_units} units)"
-          echo "--------------------------------"
-          echo "Total estimated units: ${total_units} / 10,000 daily quota"
-          echo "Usage: $((total_units * 100 / 10000))%"
-          
-          if [ $total_units -gt 10000 ]; then
-            echo "⚠️ WARNING: Estimated usage exceeds daily quota!"
-          else
-            echo "✅ Within daily quota limits"
-          fi
-      
-      - name: Create Issue on Failure
-        if: failure()
-        uses: actions/github-script@v6
-        with:
-          script: |
-            const issueTitle = `🚨 YouTube Collector Failed - ${new Date().toISOString()}`;
-            const issueBody = `
-            The YouTube Politics Collector workflow failed.
-            
-            **Workflow Run:** [${context.runNumber}](${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId})
-            **Time:** ${new Date().toISOString()}
-            **Error:** Check the workflow logs for details.
-            
-            **Possible causes:**
-            - YouTube API quota exceeded
-            - API key issues
-            - Network connectivity problems
-            - Script errors
-            
-            Please investigate and fix the issue.
-            `;
-            
-            await github.rest.issues.create({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              title: issueTitle,
-              body: issueBody,
-              labels: ['bug', 'automation']
-            });
