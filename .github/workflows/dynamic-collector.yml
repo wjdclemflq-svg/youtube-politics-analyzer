@@ -110,7 +110,7 @@ jobs:
               if (process.env.GITHUB_STEP_SUMMARY) {
                 const summary = \`
 # 📊 YouTube Collection Report
-**Time:** \${report.timestamp}
+**Time: \${report.timestamp}
 ## 📈 Statistics
 - **Channels:** \${report.collection.channels}
 - **Videos:** \${report.collection.videos}  
