@@ -26,138 +26,99 @@ jobs:
     timeout-minutes: 30
     
     steps:
-      - name: 🎯 Checkout repository
+      - name: Checkout repository
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
       
-      - name: 🔧 Setup Node.js
+      - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
           node-version: '18'
-          cache: 'npm'
       
-      - name: 📦 Install dependencies
+      - name: Install dependencies
         run: |
           npm init -y || true
-          npm install googleapis@^105.0.0
-          npm install dotenv
+          npm install googleapis@105.0.0 --save
+          npm install dotenv --save
+          echo "Dependencies installed successfully"
       
-      - name: 🗂️ Create data directories
+      - name: Create data directories
         run: |
           mkdir -p data/daily
           mkdir -p data/backup
+          echo "Directories created"
       
-      - name: 🔍 Run Dynamic Discovery & Analysis
+      - name: Run Dynamic Discovery and Analysis
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
           DEBUG_MODE: ${{ github.event.inputs.debug_mode || 'false' }}
           CHANNEL_LIMIT: ${{ github.event.inputs.channel_limit || '50' }}
         run: |
-          echo "🚀 Starting Dynamic Collection Process"
-          echo "⏰ Time: $(date '+%Y-%m-%d %H:%M:%S')"
-          echo "📊 Channel Limit: $CHANNEL_LIMIT"
+          echo "Starting Dynamic Collection Process"
+          echo "Time: $(date '+%Y-%m-%d %H:%M:%S')"
+          echo "Channel Limit: $CHANNEL_LIMIT"
           
           # 메인 수집 스크립트 실행
           node scripts/collect-dynamic.js
           
           # 실행 결과 확인
           if [ -f "data/latest.json" ]; then
-            echo "✅ Data collection successful"
-            echo "📊 File size: $(du -h data/latest.json | cut -f1)"
+            echo "Data collection successful"
+            echo "File size: $(du -h data/latest.json | cut -f1)"
             
             # 간단한 통계 출력
             node -e "
               const data = require('./data/latest.json');
-              console.log('📈 Collection Stats:');
-              console.log('  • Channels:', data.channels?.length || 0);
-              console.log('  • Videos:', data.videos?.length || 0);
-              console.log('  • Spikes:', data.spikes?.length || 0);
-              console.log('  • Above Average:', data.aboveAverage?.length || 0);
+              console.log('Collection Stats:');
+              console.log('  Channels:', data.channels?.length || 0);
+              console.log('  Videos:', data.videos?.length || 0);
+              console.log('  Spikes:', data.spikes?.length || 0);
+              console.log('  Above Average:', data.aboveAverage?.length || 0);
             "
           else
-            echo "⚠️ Warning: latest.json not found"
+            echo "Warning: latest.json not found"
           fi
       
-      - name: 📊 Generate summary report
-        run: |
-          node -e "
-            const fs = require('fs');
-            const path = require('path');
-            
-            try {
-              const data = JSON.parse(fs.readFileSync('data/latest.json', 'utf8'));
-              
-              const report = {
-                timestamp: new Date().toISOString(),
-                collection: {
-                  channels: data.channels?.length || 0,
-                  videos: data.videos?.length || 0,
-                  spikes: data.spikes?.length || 0
-                },
-                topChannels: data.channels?.slice(0, 5).map(ch => ({
-                  title: ch.title,
-                  subscribers: ch.subscriberCount,
-                  views: ch.viewCount
-                })) || []
-              };
-              
-              console.log('📋 Collection Report:');
-              console.log(JSON.stringify(report, null, 2));
-              
-              // GitHub Actions 요약에 추가
-              if (process.env.GITHUB_STEP_SUMMARY) {
-                const summary = \`
-# 📊 YouTube Collection Report
-- name: 📊 Generate summary report
+      - name: Generate summary report
         run: |
           if [ -f "data/latest.json" ]; then
-            echo "📋 Collection Report"
+            echo "Collection Report"
             echo "=================="
             node -e "
-              const data = require('./data/latest.json');
-              const channels = data.channels?.length || 0;
-              const videos = data.videos?.length || 0;
-              const spikes = data.spikes?.length || 0;
-              console.log('Timestamp:', new Date().toISOString());
-              console.log('Channels:', channels);
-              console.log('Videos:', videos);
-              console.log('Spikes:', spikes);
-              console.log('Above Average:', data.aboveAverage?.length || 0);
+              const fs = require('fs');
+              const data = JSON.parse(fs.readFileSync('data/latest.json', 'utf8'));
+              const report = {
+                timestamp: new Date().toISOString(),
+                channels: data.channels?.length || 0,
+                videos: data.videos?.length || 0,
+                spikes: data.spikes?.length || 0
+              };
+              console.log('Report generated at:', report.timestamp);
+              console.log('Total channels:', report.channels);
+              console.log('Total videos:', report.videos);
+              console.log('Trending spikes:', report.spikes);
+              
+              // Save summary
+              fs.writeFileSync('data/summary.json', JSON.stringify(report, null, 2));
             "
           else
-            echo "No data file found"
+            echo "No data file to generate report"
           fi
-## 📈 Statistics
-- **Channels:** \${report.collection.channels}
-- **Videos:** \${report.collection.videos}  
-- **Trending Spikes:** \${report.collection.spikes}
-## 🏆 Top Channels
-\${report.topChannels.map((ch, i) => 
-  \`\${i+1}. **\${ch.title}** - \${ch.subscribers?.toLocaleString() || 0} subscribers\`
-).join('\\n')}
-\`;
-                fs.appendFileSync(process.env.GITHUB_STEP_SUMMARY, summary);
-              }
-              
-            } catch (error) {
-              console.error('Error generating report:', error.message);
-            }
-          "
       
-      - name: 🔄 Backup old data
+      - name: Backup old data
         run: |
           if [ -f "data/latest.json" ]; then
             BACKUP_FILE="data/backup/backup_$(date +%Y%m%d_%H%M%S).json"
             cp data/latest.json "$BACKUP_FILE"
-            echo "📦 Backed up to: $BACKUP_FILE"
+            echo "Backed up to: $BACKUP_FILE"
             
             # 7일 이상 된 백업 삭제
             find data/backup -name "backup_*.json" -mtime +7 -delete
-            echo "🗑️ Cleaned up old backups"
+            echo "Cleaned up old backups"
           fi
       
-      - name: 💾 Commit and push changes
+      - name: Commit and push changes
         run: |
           git config --global user.name 'GitHub Actions Bot'
           git config --global user.email 'actions@github.com'
@@ -166,65 +127,32 @@ jobs:
           git add data/
           
           if git diff --staged --quiet; then
-            echo "📝 No changes to commit"
+            echo "No changes to commit"
           else
             # 커밋 메시지에 통계 포함
-            CHANNELS=$(node -e "const d=require('./data/latest.json'); console.log(d.channels?.length || 0)")
-            VIDEOS=$(node -e "const d=require('./data/latest.json'); console.log(d.videos?.length || 0)")
+            if [ -f "data/latest.json" ]; then
+              CHANNELS=$(node -e "const d=require('./data/latest.json'); console.log(d.channels?.length || 0)")
+              VIDEOS=$(node -e "const d=require('./data/latest.json'); console.log(d.videos?.length || 0)")
+            else
+              CHANNELS=0
+              VIDEOS=0
+            fi
             
-            git commit -m "🔄 Update: $CHANNELS channels, $VIDEOS videos analyzed
-            
-Time: $(date '+%Y-%m-%d %H:%M:%S KST')
+            COMMIT_MSG="Update: $CHANNELS channels, $VIDEOS videos analyzed"
+            COMMIT_BODY="Time: $(date '+%Y-%m-%d %H:%M:%S KST')
 Channels: $CHANNELS
 Videos: $VIDEOS
 Action: ${{ github.run_number }}"
             
+            git commit -m "$COMMIT_MSG" -m "$COMMIT_BODY"
             git push origin main
-            echo "✅ Changes pushed successfully"
+            echo "Changes pushed successfully"
           fi
       
-      - name: 🏷️ Create release (weekly)
-        if: github.event.schedule == '0 15 * * 0'  # 일요일 자정 (KST)
-        run: |
-          TAG="v$(date +%Y.%W)"
-          TITLE="Weekly Report - Week $(date +%W), $(date +%Y)"
-          
-          # 주간 통계 생성
-          node -e "
-            const fs = require('fs');
-            const data = JSON.parse(fs.readFileSync('data/latest.json', 'utf8'));
-            
-            const stats = {
-              channels: data.channels?.length || 0,
-              totalViews: data.channels?.reduce((sum, ch) => sum + (ch.viewCount || 0), 0) || 0,
-              avgGrowth: (data.channels?.reduce((sum, ch) => sum + parseFloat(ch.dailyGrowthRate || 0), 0) / (data.channels?.length || 1)).toFixed(2)
-            };
-            
-            const body = \`## 📊 Weekly Statistics
-- Total Channels Monitored: \${stats.channels}
-- Total Views: \${stats.totalViews.toLocaleString()}
-- Average Daily Growth Rate: \${stats.avgGrowth}%
-            
-### 🏆 Top Growing Channels
-\${data.channels?.slice(0, 10).map((ch, i) => 
-  \`\${i+1}. **\${ch.title}** - Growth: \${ch.dailyGrowthRate}%\`
-).join('\\n') || 'No data'}\`;
-            
-            fs.writeFileSync('release_body.txt', body);
-          "
-          
-          BODY=$(cat release_body.txt)
-          
-          gh release create "$TAG" \
-            --title "$TITLE" \
-            --notes "$BODY" \
-            data/latest.json \
-            data/summary.json
-      
-      - name: 📧 Error notification
+      - name: Error notification
         if: failure()
         run: |
-          echo "❌ Workflow failed!"
+          echo "Workflow failed!"
           echo "Error details:"
           echo "  - Job: ${{ github.job }}"
           echo "  - Run: ${{ github.run_number }}"
@@ -236,7 +164,7 @@ Action: ${{ github.run_number }}"
     if: always()
     
     steps:
-      - name: 🧹 Clean up workflow runs
+      - name: Clean up workflow runs
         uses: Mattraks/delete-workflow-runs@v2
         with:
           token: ${{ github.token }}
