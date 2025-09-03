@@ -30,6 +30,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wjdclemflq-svg/youtube-politics-analyzer.git"
-  }
+    "url": "git+https://github.com/wjdclemflq-svg/youtube-politics-analyzer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wjdclemflq-svg/youtube-politics-analyzer/issues"
+  },
+  "homepage": "https://github.com/wjdclemflq-svg/youtube-politics-analyzer#readme"
 }
