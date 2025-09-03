@@ -2,172 +2,42 @@ name: Dynamic YouTube Channel Discovery & Analysis
 
 on:
   schedule:
-    # 한국 시간 기준 6시간마다 실행 (00:00, 06:00, 12:00, 18:00 KST)
-    - cron: '0 15,21,3,9 * * *'  # UTC 시간
-  
+    - cron: '0 15,21,3,9 * * *'
   workflow_dispatch:
-    inputs:
-      debug_mode:
-        description: 'Enable debug mode'
-        required: false
-        default: 'false'
-      channel_limit:
-        description: 'Maximum channels to analyze'
-        required: false
-        default: '50'
 
 permissions:
   contents: write
-  actions: read
 
 jobs:
-  discover-and-analyze:
+  collect:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
     
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
       
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
           node-version: '18'
       
-      - name: Install dependencies
+      - name: Install packages
         run: |
-          npm init -y || true
-          npm install googleapis@105.0.0 --save
-          npm install dotenv --save
-          echo "Dependencies installed successfully"
+          npm init -y
+          npm install googleapis@105.0.0
       
-      - name: Create data directories
-        run: |
-          mkdir -p data/daily
-          mkdir -p data/backup
-          echo "Directories created"
+      - name: Create directories
+        run: mkdir -p data
       
-      - name: Run Dynamic Discovery and Analysis
+      - name: Run collection
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-          DEBUG_MODE: ${{ github.event.inputs.debug_mode || 'false' }}
-          CHANNEL_LIMIT: ${{ github.event.inputs.channel_limit || '50' }}
-        run: |
-          echo "Starting Dynamic Collection Process"
-          echo "Time: $(date '+%Y-%m-%d %H:%M:%S')"
-          echo "Channel Limit: $CHANNEL_LIMIT"
-          
-          # 메인 수집 스크립트 실행
-          node scripts/collect-dynamic.js
-          
-          # 실행 결과 확인
-          if [ -f "data/latest.json" ]; then
-            echo "Data collection successful"
-            echo "File size: $(du -h data/latest.json | cut -f1)"
-            
-            # 간단한 통계 출력
-            node -e "
-              const data = require('./data/latest.json');
-              console.log('Collection Stats:');
-              console.log('  Channels:', data.channels?.length || 0);
-              console.log('  Videos:', data.videos?.length || 0);
-              console.log('  Spikes:', data.spikes?.length || 0);
-              console.log('  Above Average:', data.aboveAverage?.length || 0);
-            "
-          else
-            echo "Warning: latest.json not found"
-          fi
+        run: node scripts/collect-dynamic.js
       
-      - name: Generate summary report
+      - name: Commit data
         run: |
-          if [ -f "data/latest.json" ]; then
-            echo "Collection Report"
-            echo "=================="
-            node -e "
-              const fs = require('fs');
-              const data = JSON.parse(fs.readFileSync('data/latest.json', 'utf8'));
-              const report = {
-                timestamp: new Date().toISOString(),
-                channels: data.channels?.length || 0,
-                videos: data.videos?.length || 0,
-                spikes: data.spikes?.length || 0
-              };
-              console.log('Report generated at:', report.timestamp);
-              console.log('Total channels:', report.channels);
-              console.log('Total videos:', report.videos);
-              console.log('Trending spikes:', report.spikes);
-              
-              // Save summary
-              fs.writeFileSync('data/summary.json', JSON.stringify(report, null, 2));
-            "
-          else
-            echo "No data file to generate report"
-          fi
-      
-      - name: Backup old data
-        run: |
-          if [ -f "data/latest.json" ]; then
-            BACKUP_FILE="data/backup/backup_$(date +%Y%m%d_%H%M%S).json"
-            cp data/latest.json "$BACKUP_FILE"
-            echo "Backed up to: $BACKUP_FILE"
-            
-            # 7일 이상 된 백업 삭제
-            find data/backup -name "backup_*.json" -mtime +7 -delete
-            echo "Cleaned up old backups"
-          fi
-      
-      - name: Commit and push changes
-        run: |
-          git config --global user.name 'GitHub Actions Bot'
+          git config --global user.name 'GitHub Actions'
           git config --global user.email 'actions@github.com'
-          
-          # 변경사항 확인
           git add data/
-          
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-          else
-            # 커밋 메시지에 통계 포함
-            if [ -f "data/latest.json" ]; then
-              CHANNELS=$(node -e "const d=require('./data/latest.json'); console.log(d.channels?.length || 0)")
-              VIDEOS=$(node -e "const d=require('./data/latest.json'); console.log(d.videos?.length || 0)")
-            else
-              CHANNELS=0
-              VIDEOS=0
-            fi
-            
-            COMMIT_MSG="Update: $CHANNELS channels, $VIDEOS videos analyzed"
-            COMMIT_BODY="Time: $(date '+%Y-%m-%d %H:%M:%S KST')
-Channels: $CHANNELS
-Videos: $VIDEOS
-Action: ${{ github.run_number }}"
-            
-            git commit -m "$COMMIT_MSG" -m "$COMMIT_BODY"
-            git push origin main
-            echo "Changes pushed successfully"
-          fi
-      
-      - name: Error notification
-        if: failure()
-        run: |
-          echo "Workflow failed!"
-          echo "Error details:"
-          echo "  - Job: ${{ github.job }}"
-          echo "  - Run: ${{ github.run_number }}"
-          echo "  - Time: $(date)"
-
-  cleanup:
-    runs-on: ubuntu-latest
-    needs: discover-and-analyze
-    if: always()
-    
-    steps:
-      - name: Clean up workflow runs
-        uses: Mattraks/delete-workflow-runs@v2
-        with:
-          token: ${{ github.token }}
-          repository: ${{ github.repository }}
-          retain_days: 7
-          keep_minimum_runs: 10
+          git commit -m "Update data" || echo "No changes"
+          git push
