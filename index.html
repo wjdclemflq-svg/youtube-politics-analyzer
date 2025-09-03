@@ -907,11 +907,11 @@ class EnhancedYouTubeDashboard {
       
       console.log('📁 데이터 로드 시작, baseUrl:', baseUrl);
       
-      // 🔴 수정된 부분: latest.json을 먼저 시도
-      const [mainData, summaryData] = await Promise.all([
-        this.loadDataFile(`${baseUrl}/data/latest.json`).catch(() => null),  // 👈 변경됨!
-        this.loadDataFile(`${baseUrl}/data/summary.json`).catch(() => null)
-      ]);
+      // 수정 (channels.json을 읽도록)
+    const [mainData, summaryData] = await Promise.all([
+    this.loadDataFile(`${baseUrl}/data/channels.json`).catch(() => null),  // 변경!
+    this.loadDataFile(`${baseUrl}/data/summary.json`).catch(() => null)
+     ]);
 
       if (mainData) {
         this.data = mainData;
@@ -1602,3 +1602,4 @@ document.addEventListener('DOMContentLoaded', () => {
 </script>
 </body>
 </html>
+
