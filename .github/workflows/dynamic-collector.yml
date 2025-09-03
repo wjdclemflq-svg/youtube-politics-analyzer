@@ -4,7 +4,6 @@ on:
   schedule:
     # 한국 시간 기준 6시간마다 실행 (00:00, 06:00, 12:00, 18:00 KST)
     - cron: '0 15,21,3,9 * * *'  # UTC 시간
-
   
   workflow_dispatch:
     inputs:
