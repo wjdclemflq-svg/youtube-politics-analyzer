@@ -293,7 +293,7 @@ async function main() {
       console.log('\n📈 급성장 채널 TOP 5:');
       summaryStats.topGrowingChannels.forEach((ch, i) => {
         console.log(`  ${i + 1}. ${ch.title}`);
-        console.log(`     성장률: ${ch.growthRate}% | 조회수 증가: ${ch.viewGrowth.toLocaleString()}`);
+        console.log(`     성장률: ${ch.growthRate || 0}% | 조회수 증가: ${(ch.viewGrowth || 0).toLocaleString()}`);
       });
     }
     
