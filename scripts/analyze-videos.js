@@ -1,335 +1,345 @@
 const { google } = require('googleapis');
-const youtube = google.youtube('v3');
-const fs = require('fs');
+const fs = require('fs').promises;
 const path = require('path');
 
-// API 키 설정
-const API_KEY = process.env.YOUTUBE_API_KEY;
+// YouTube API 설정
+const youtube = google.youtube({
+  version: 'v3',
+  auth: process.env.YOUTUBE_API_KEY
+});
 
-// 동영상 이전 데이터 로드
-function loadVideoHistory() {
-  try {
-    const historyPath = path.join(__dirname, '../data/video-history.json');
-    if (fs.existsSync(historyPath)) {
-      return JSON.parse(fs.readFileSync(historyPath, 'utf8'));
-    }
-  } catch (error) {
-    console.error('Error loading video history:', error.message);
-  }
-  return {};
+// Duration을 초 단위로 변환 (ISO 8601 형식)
+function parseDuration(duration) {
+  if (!duration) return 0;
+  
+  const match = duration.match(/PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?/);
+  if (!match) return 0;
+  
+  const hours = parseInt(match[1] || 0);
+  const minutes = parseInt(match[2] || 0);
+  const seconds = parseInt(match[3] || 0);
+  
+  return hours * 3600 + minutes * 60 + seconds;
 }
 
-// 동영상 상세 정보 가져오기
-async function getVideoDetails(videoIds) {
-  if (!videoIds.length) return [];
+// 숏츠 판별 함수 (개선된 로직)
+function isShorts(video) {
+  const duration = parseDuration(video.contentDetails?.duration);
+  const title = (video.snippet?.title || '').toLowerCase();
+  const description = (video.snippet?.description || '').toLowerCase();
   
+  // 1. 60초 이하는 무조건 숏츠
+  if (duration > 0 && duration <= 60) {
+    return true;
+  }
+  
+  // 2. 61-90초 사이인데 제목/설명에 shorts 키워드가 있는 경우
+  if (duration > 60 && duration <= 90) {
+    if (title.includes('shorts') || title.includes('#shorts') || 
+        description.includes('#shorts') || title.includes('숏츠') ||
+        title.includes('쇼츠')) {
+      return true;
+    }
+  }
+  
+  // 3. 세로 형식 비디오 확인 (9:16 비율)
+  const thumbnails = video.snippet?.thumbnails;
+  if (thumbnails?.high) {
+    const aspectRatio = thumbnails.high.width / thumbnails.high.height;
+    if (aspectRatio < 0.6) { // 세로 비디오 (9:16 = 0.5625)
+      return duration <= 90;
+    }
+  }
+  
+  return false;
+}
+
+// 채널의 최신 비디오 가져오기
+async function getChannelVideos(channelId, maxResults = 50) {
   try {
-    const response = await youtube.videos.list({
-      key: API_KEY,
-      part: 'statistics,snippet,contentDetails',
-      id: videoIds.join(','),
-      maxResults: 50
+    // 채널의 uploads 플레이리스트 ID 가져오기
+    const channelResponse = await youtube.channels.list({
+      id: channelId,
+      part: 'contentDetails'
     });
     
-    return response.data.items || [];
-  } catch (error) {
-    console.error('Error fetching video details:', error.message);
-    return [];
-  }
-}
-
-// 채널의 최근 동영상 가져오기
-async function getChannelRecentVideos(channelId, maxResults = 50) {
-  try {
-    const response = await youtube.search.list({
-      key: API_KEY,
-      part: 'id,snippet',
-      channelId: channelId,
-      type: 'video',
-      order: 'date',
+    if (!channelResponse.data.items || channelResponse.data.items.length === 0) {
+      console.log(`Channel not found: ${channelId}`);
+      return [];
+    }
+    
+    const uploadsPlaylistId = channelResponse.data.items[0].contentDetails.relatedPlaylists.uploads;
+    
+    // 플레이리스트에서 최신 비디오 가져오기
+    const playlistResponse = await youtube.playlistItems.list({
+      playlistId: uploadsPlaylistId,
+      part: 'snippet,contentDetails',
       maxResults: maxResults
     });
     
-    return response.data.items || [];
+    const videoIds = playlistResponse.data.items.map(item => item.contentDetails.videoId);
+    
+    if (videoIds.length === 0) {
+      return [];
+    }
+    
+    // 비디오 상세 정보 가져오기
+    const videosResponse = await youtube.videos.list({
+      id: videoIds.join(','),
+      part: 'snippet,contentDetails,statistics'
+    });
+    
+    return videosResponse.data.items || [];
+    
   } catch (error) {
     console.error(`Error fetching videos for channel ${channelId}:`, error.message);
     return [];
   }
 }
 
-// 동영상 성장률 계산
-function calculateVideoGrowth(video, previousData) {
-  const currentViews = parseInt(video.statistics.viewCount || 0);
-  const currentLikes = parseInt(video.statistics.likeCount || 0);
-  const currentComments = parseInt(video.statistics.commentCount || 0);
+// 검색으로 최신 숏츠 찾기
+async function searchRecentShorts(query, maxResults = 50) {
+  try {
+    const searchResponse = await youtube.search.list({
+      q: query,
+      type: 'video',
+      videoDuration: 'short', // 0-4분
+      order: 'date',          // 최신순
+      publishedAfter: new Date(Date.now() - 24 * 60 * 60 * 1000).toISOString(), // 24시간 이내
+      maxResults: maxResults,
+      part: 'id',
+      regionCode: 'KR',
+      relevanceLanguage: 'ko'
+    });
+    
+    const videoIds = searchResponse.data.items.map(item => item.id.videoId);
+    
+    if (videoIds.length === 0) {
+      return [];
+    }
+    
+    // 비디오 상세 정보 가져오기
+    const videosResponse = await youtube.videos.list({
+      id: videoIds.join(','),
+      part: 'snippet,contentDetails,statistics'
+    });
+    
+    return videosResponse.data.items || [];
+    
+  } catch (error) {
+    console.error(`Search error for query "${query}":`, error.message);
+    return [];
+  }
+}
+
+// 메인 분석 함수
+async function main() {
+  console.log('=== Starting Video Analysis ===');
   
-  // 업로드 경과 시간 계산
-  const publishedAt = new Date(video.snippet.publishedAt);
-  const ageInHours = (Date.now() - publishedAt) / (1000 * 60 * 60);
-  const ageInDays = ageInHours / 24;
+  // 1. 채널 목록 로드
+  const channelsFile = path.join(process.cwd(), 'data', 'channels.json');
+  let channels = [];
   
-  // 이전 데이터와 비교
-  const previous = previousData[video.id] || {};
-  const previousViews = previous.viewCount || 0;
-  const viewGrowth = currentViews - previousViews;
-  
-  // 시간당 조회수 (초기 속도)
-  const viewsPerHour = currentViews / Math.max(ageInHours, 1);
-  
-  // 최근 증가율 (이전 체크 이후)
-  let recentGrowthRate = 0;
-  if (previous.timestamp) {
-    const hoursSinceLastCheck = (Date.now() - new Date(previous.timestamp).getTime()) / (1000 * 60 * 60);
-    recentGrowthRate = viewGrowth / Math.max(hoursSinceLastCheck, 1);
+  try {
+    const channelsData = await fs.readFile(channelsFile, 'utf-8');
+    const parsedData = JSON.parse(channelsData);
+    channels = parsedData.channels || [];
+    console.log(`Loaded ${channels.length} channels`);
+  } catch (error) {
+    console.error('Error loading channels:', error.message);
+    return;
   }
   
-  // 참여도 지표
-  const engagementRate = currentViews > 0 ? 
-    ((currentLikes + currentComments) / currentViews * 100) : 0;
-  
-  return {
-    videoId: video.id,
-    title: video.snippet.title,
-    channelId: video.snippet.channelId,
-    channelTitle: video.snippet.channelTitle,
-    thumbnail: video.snippet.thumbnails?.medium?.url || video.snippet.thumbnails?.default?.url,
-    publishedAt: video.snippet.publishedAt,
-    
-    // 현재 통계
-    viewCount: currentViews,
-    likeCount: currentLikes,
-    commentCount: currentComments,
-    
-    // 이전 통계
-    previousViewCount: previousViews,
-    viewGrowth,
-    
-    // 성장 지표
-    ageInHours: Math.round(ageInHours),
-    ageInDays: ageInDays.toFixed(1),
-    viewsPerHour: Math.round(viewsPerHour),
-    recentGrowthRate: Math.round(recentGrowthRate),
-    
-    // 참여도
-    engagementRate: engagementRate.toFixed(2),
-    
-    // 동영상 길이
-    duration: video.contentDetails?.duration,
-    
-    // 카테고리
-    categoryId: video.snippet.categoryId,
-    tags: video.snippet.tags || []
-  };
-}
-
-// 채널 평균 성과 계산
-function calculateChannelAverages(videos) {
-  if (!videos.length) return null;
-  
-  const totalViews = videos.reduce((sum, v) => sum + v.viewCount, 0);
-  const avgViews = Math.round(totalViews / videos.length);
-  
-  const totalEngagement = videos.reduce((sum, v) => sum + parseFloat(v.engagementRate), 0);
-  const avgEngagement = (totalEngagement / videos.length).toFixed(2);
-  
-  // 24시간 이내 동영상의 평균 조회수
-  const recentVideos = videos.filter(v => v.ageInHours <= 24);
-  const avgRecentViews = recentVideos.length > 0 ?
-    Math.round(recentVideos.reduce((sum, v) => sum + v.viewCount, 0) / recentVideos.length) : 0;
-  
-  return {
-    totalVideos: videos.length,
-    avgViews,
-    avgEngagement,
-    avgRecentViews,
-    recentVideoCount: recentVideos.length
-  };
-}
-
-// 급증 동영상 찾기
-function findSpikingVideos(allVideos) {
-  // 최근 48시간 이내 업로드된 동영상 중
-  // 시간당 조회수가 높거나 최근 증가율이 높은 동영상
-  
-  return allVideos
-    .filter(v => v.ageInHours <= 48)
-    .filter(v => v.viewCount >= 1000) // 최소 1000뷰 이상
-    .sort((a, b) => {
-      // 최근 증가율 우선, 없으면 시간당 조회수로 정렬
-      if (a.recentGrowthRate > 0 && b.recentGrowthRate > 0) {
-        return b.recentGrowthRate - a.recentGrowthRate;
-      }
-      return b.viewsPerHour - a.viewsPerHour;
-    });
-}
-
-// 평균 대비 우수 동영상 찾기
-function findAboveAverageVideos(videosByChannel) {
-  const aboveAverageVideos = [];
-  
-  for (const [channelId, data] of Object.entries(videosByChannel)) {
-    const { videos, averages } = data;
-    
-    if (!averages || averages.avgViews === 0) continue;
-    
-    // 평균 대비 성과 계산
-    videos.forEach(video => {
-      const performanceRatio = video.viewCount / averages.avgViews;
-      
-      // 평균의 2배 이상 성과를 낸 동영상
-      if (performanceRatio >= 2 && video.viewCount >= 10000) {
-        aboveAverageVideos.push({
-          ...video,
-          channelAvgViews: averages.avgViews,
-          performanceRatio: performanceRatio.toFixed(2)
-        });
-      }
-    });
-  }
-  
-  // 성과 비율로 정렬
-  return aboveAverageVideos.sort((a, b) => 
-    parseFloat(b.performanceRatio) - parseFloat(a.performanceRatio)
-  );
-}
-
-// 메인 분석 함수 (숏츠 중심)
-async function analyzeVideos(channels) {
-  console.log('📊 숏츠 및 4분 미만 동영상 분석 시작');
-  console.log(`📺 ${channels.length}개 채널 분석 예정`);
-  
-  const videoHistory = loadVideoHistory();
+  // 2. 비디오 수집
   const allVideos = [];
-  const videosByChannel = {};
+  const allShorts = [];
+  const processedChannels = [];
   
-  // 숏츠 통계
-  let totalShorts = 0;
-  let totalShortVideos = 0;
-  
-  // 채널별로 동영상 분석
-  for (let i = 0; i < channels.length; i++) {
+  // 채널별 비디오 수집
+  for (let i = 0; i < Math.min(channels.length, 50); i++) { // 처음 50개 채널만
     const channel = channels[i];
-    console.log(`  [${i + 1}/${channels.length}] ${channel.channelTitle} 분석 중...`);
+    console.log(`\n[${i+1}/50] Analyzing channel: ${channel.title}`);
     
-    try {
-      // 1. 채널의 최근 숏츠/짧은 동영상 목록 가져오기
-      const recentVideos = await getChannelRecentVideos(channel.channelId, 30);
-      
-      if (recentVideos.length === 0) {
-        console.log(`    ⚠️ 숏츠/짧은 동영상 없음`);
-        continue;
-      }
-      
-      // 2. 동영상 상세 정보 가져오기
-      const videoIds = recentVideos.map(v => v.id.videoId);
-      const videoDetails = await getVideoDetails(videoIds);
-      
-      // 3. 각 동영상의 성장률 계산 (4분 미만만)
-      const analyzedVideos = videoDetails
-        .map(video => calculateVideoGrowth(video, videoHistory))
-        .filter(v => v !== null);  // 4분 초과 영상 제외
-      
-      // 숏츠 통계 업데이트
-      totalShorts += analyzedVideos.filter(v => v.isShorts).length;
-      totalShortVideos += analyzedVideos.filter(v => !v.isShorts).length;
-      
-      // 4. 채널 평균 계산
-      const channelAverages = calculateChannelAverages(analyzedVideos);
-      
-      // 결과 저장
-      videosByChannel[channel.channelId] = {
-        channelTitle: channel.channelTitle,
-        videos: analyzedVideos,
-        averages: channelAverages,
-        shortsCount: analyzedVideos.filter(v => v.isShorts).length,
-        shortVideoCount: analyzedVideos.filter(v => !v.isShorts).length
+    const videos = await getChannelVideos(channel.id, 30); // 채널당 최신 30개
+    
+    let channelShorts = 0;
+    let channelVideos = 0;
+    
+    for (const video of videos) {
+      const videoData = {
+        id: video.id,
+        channelId: channel.id,
+        channelTitle: channel.title,
+        title: video.snippet.title,
+        description: video.snippet.description?.substring(0, 200),
+        publishedAt: video.snippet.publishedAt,
+        duration: video.contentDetails.duration,
+        durationSeconds: parseDuration(video.contentDetails.duration),
+        viewCount: parseInt(video.statistics.viewCount || 0),
+        likeCount: parseInt(video.statistics.likeCount || 0),
+        commentCount: parseInt(video.statistics.commentCount || 0),
+        thumbnails: video.snippet.thumbnails,
+        tags: video.snippet.tags || [],
+        isShorts: isShorts(video)
       };
       
-      allVideos.push(...analyzedVideos);
+      allVideos.push(videoData);
       
-      console.log(`    ✅ ${analyzedVideos.length}개 숏츠/짧은 동영상 분석 완료`);
-      console.log(`       - 숏츠: ${analyzedVideos.filter(v => v.isShorts).length}개`);
-      console.log(`       - 1-4분: ${analyzedVideos.filter(v => !v.isShorts).length}개`);
-      
-      // API 할당량 보호
-      await new Promise(resolve => setTimeout(resolve, 200));
-      
-    } catch (error) {
-      console.error(`    ❌ 오류: ${error.message}`);
+      if (videoData.isShorts) {
+        allShorts.push(videoData);
+        channelShorts++;
+      } else {
+        channelVideos++;
+      }
+    }
+    
+    processedChannels.push({
+      ...channel,
+      videosAnalyzed: videos.length,
+      shortsCount: channelShorts,
+      regularVideosCount: channelVideos
+    });
+    
+    console.log(`  Found: ${channelShorts} shorts, ${channelVideos} regular videos`);
+    
+    // API 할당량 관리
+    if ((i + 1) % 10 === 0) {
+      console.log(`\nProcessed ${i + 1} channels, waiting...`);
+      await new Promise(resolve => setTimeout(resolve, 3000));
     }
   }
   
-  console.log(`\n📈 분석 결과 정리 중...`);
-  console.log(`  🎬 총 숏츠: ${totalShorts}개`);
-  console.log(`  📹 총 짧은 영상 (1-4분): ${totalShortVideos}개`);
+  // 3. 추가 숏츠 검색 (최신 트렌딩)
+  console.log('\n=== Searching for additional trending shorts ===');
+  const searchTerms = ['정치 shorts', '윤석열 shorts', '이재명 shorts', '국회 shorts', '뉴스 shorts'];
   
-  // 급증 동영상 찾기 (숏츠 우선)
-  const spikingVideos = findSpikingVideos(allVideos);
-  console.log(`  🔥 급증 숏츠/동영상: ${spikingVideos.length}개`);
-  
-  // 평균 대비 우수 동영상 찾기
-  const aboveAverageVideos = findAboveAverageVideos(videosByChannel);
-  console.log(`  ⭐ 평균 대비 우수: ${aboveAverageVideos.length}개`);
-  
-  // 동영상 이력 업데이트
-  const newHistory = {};
-  allVideos.forEach(video => {
-    newHistory[video.videoId] = {
-      viewCount: video.viewCount,
-      likeCount: video.likeCount,
-      commentCount: video.commentCount,
-      isShorts: video.isShorts,
-      durationInSeconds: video.durationInSeconds,
-      timestamp: new Date().toISOString()
-    };
-  });
-  
-  const historyPath = path.join(__dirname, '../data/video-history.json');
-  fs.writeFileSync(historyPath, JSON.stringify(newHistory, null, 2));
-  
-  // 결과 반환
-  return {
-    summary: {
-      totalChannelsAnalyzed: Object.keys(videosByChannel).length,
-      totalVideosAnalyzed: allVideos.length,
-      totalShorts,
-      totalShortVideos,
-      spikingVideosCount: spikingVideos.length,
-      aboveAverageCount: aboveAverageVideos.length
-    },
-    spikes: spikingVideos.slice(0, 50),      // 상위 50개
-    aboveAverage: aboveAverageVideos.slice(0, 30), // 상위 30개
-    channelDetails: videosByChannel,
-    timestamp: new Date().toISOString()
-  };
-}
-
-// 모듈 내보내기
-module.exports = {
-  analyzeVideos,
-  getChannelRecentVideos,
-  calculateVideoGrowth
-};
-
-// 직접 실행 시 (테스트용)
-if (require.main === module) {
-  // 테스트용 채널 데이터
-  const testChannels = [
-    {
-      channelId: 'UCTHCOPwqNfZ0uiKOvFyhGwg',
-      channelTitle: '연합뉴스TV'
+  for (const term of searchTerms) {
+    console.log(`Searching: ${term}`);
+    const searchVideos = await searchRecentShorts(term, 20);
+    
+    for (const video of searchVideos) {
+      if (isShorts(video)) {
+        const videoData = {
+          id: video.id,
+          channelId: video.snippet.channelId,
+          channelTitle: video.snippet.channelTitle,
+          title: video.snippet.title,
+          description: video.snippet.description?.substring(0, 200),
+          publishedAt: video.snippet.publishedAt,
+          duration: video.contentDetails.duration,
+          durationSeconds: parseDuration(video.contentDetails.duration),
+          viewCount: parseInt(video.statistics.viewCount || 0),
+          likeCount: parseInt(video.statistics.likeCount || 0),
+          commentCount: parseInt(video.statistics.commentCount || 0),
+          thumbnails: video.snippet.thumbnails,
+          tags: video.snippet.tags || [],
+          isShorts: true,
+          fromSearch: true
+        };
+        
+        // 중복 체크
+        if (!allShorts.find(s => s.id === videoData.id)) {
+          allShorts.push(videoData);
+          allVideos.push(videoData);
+        }
+      }
     }
-  ];
+    
+    await new Promise(resolve => setTimeout(resolve, 1000));
+  }
   
-  analyzeVideos(testChannels)
-    .then(results => {
-      console.log('\n✅ 분석 완료');
-      console.log('📊 요약:', results.summary);
-      
-      // 결과 저장
-      const outputPath = path.join(__dirname, '../data/video-analysis.json');
-      fs.writeFileSync(outputPath, JSON.stringify(results, null, 2));
-      console.log(`💾 결과 저장: ${outputPath}`);
-    })
-    .catch(console.error);
+  // 4. 통계 생성
+  const stats = {
+    lastUpdated: new Date().toISOString(),
+    totalChannelsAnalyzed: processedChannels.length,
+    totalVideos: allVideos.length,
+    totalShorts: allShorts.length,
+    totalRegularVideos: allVideos.length - allShorts.length,
+    totalViewCount: allVideos.reduce((sum, v) => sum + v.viewCount, 0),
+    totalLikeCount: allVideos.reduce((sum, v) => sum + v.likeCount, 0),
+    averageViewsPerShort: Math.round(allShorts.reduce((sum, v) => sum + v.viewCount, 0) / (allShorts.length || 1)),
+    topChannelsByShorts: processedChannels
+      .filter(c => c.shortsCount > 0)
+      .sort((a, b) => b.shortsCount - a.shortsCount)
+      .slice(0, 10)
+      .map(c => ({
+        title: c.title,
+        shortsCount: c.shortsCount,
+        subscriberCount: c.subscriberCount
+      })),
+    topShortsByViews: allShorts
+      .sort((a, b) => b.viewCount - a.viewCount)
+      .slice(0, 10)
+      .map(s => ({
+        title: s.title,
+        channelTitle: s.channelTitle,
+        viewCount: s.viewCount,
+        publishedAt: s.publishedAt
+      }))
+  };
+  
+  // 5. 데이터 저장
+  const dataDir = path.join(process.cwd(), 'data');
+  await fs.mkdir(dataDir, { recursive: true });
+  
+  // 전체 비디오 데이터
+  await fs.writeFile(
+    path.join(dataDir, 'videos.json'),
+    JSON.stringify({
+      lastUpdated: new Date().toISOString(),
+      videos: allVideos
+    }, null, 2)
+  );
+  
+  // 숏츠만 따로
+  await fs.writeFile(
+    path.join(dataDir, 'shorts.json'),
+    JSON.stringify({
+      lastUpdated: new Date().toISOString(),
+      totalShorts: allShorts.length,
+      shorts: allShorts
+    }, null, 2)
+  );
+  
+  // 통계 요약
+  await fs.writeFile(
+    path.join(dataDir, 'summary.json'),
+    JSON.stringify(stats, null, 2)
+  );
+  
+  // 최신 데이터 (대시보드용)
+  await fs.writeFile(
+    path.join(dataDir, 'latest.json'),
+    JSON.stringify({
+      ...stats,
+      recentShorts: allShorts
+        .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt))
+        .slice(0, 50),
+      channelStats: processedChannels.slice(0, 20)
+    }, null, 2)
+  );
+  
+  // 6. 결과 출력
+  console.log('\n=== Analysis Complete ===');
+  console.log(`Total channels analyzed: ${processedChannels.length}`);
+  console.log(`Total videos analyzed: ${allVideos.length}`);
+  console.log(`Total shorts found: ${allShorts.length}`);
+  console.log(`Total regular videos: ${allVideos.length - allShorts.length}`);
+  console.log(`Total views: ${stats.totalViewCount.toLocaleString()}`);
+  console.log(`Average views per short: ${stats.averageViewsPerShort.toLocaleString()}`);
+  console.log('\nTop 5 channels by shorts count:');
+  stats.topChannelsByShorts.slice(0, 5).forEach((ch, i) => {
+    console.log(`${i+1}. ${ch.title}: ${ch.shortsCount} shorts`);
+  });
+  console.log('\nTop 5 shorts by views:');
+  stats.topShortsByViews.slice(0, 5).forEach((s, i) => {
+    console.log(`${i+1}. ${s.title} (${s.channelTitle}): ${s.viewCount.toLocaleString()} views`);
+  });
 }
+
+// 실행
+if (require.main === module) {
+  main().catch(console.error);
+}
+
+module.exports = { isShorts, parseDuration, getChannelVideos };
