@@ -2,32 +2,19 @@ name: Dynamic YouTube Channel Discovery & Analysis
 
 on:
   schedule:
-    - cron: '0 15,21,3,9 * * *'  # 6시간마다
+    - cron: '0 15,21,3,9 * * *'
   workflow_dispatch:
-    inputs:
-      debug_mode:
-        description: 'Enable debug mode'
-        required: false
-        default: 'false'
-      channel_limit:
-        description: 'Maximum channels to analyze'
-        required: false
-        default: '50'
 
 permissions:
   contents: write
-  actions: read
 
 jobs:
   collect:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
     
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
       
       - name: Setup Node.js
         uses: actions/setup-node@v3
@@ -38,195 +25,68 @@ jobs:
         run: |
           npm init -y
           npm install googleapis@105.0.0
-          npm install dotenv
-          echo "Dependencies installed"
       
       - name: Create directories
         run: |
           mkdir -p data
-          mkdir -p data/daily
           mkdir -p data/backup
-          echo "Directories created"
+          mkdir -p data/daily
       
       - name: Run collection
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-          DEBUG_MODE: ${{ github.event.inputs.debug_mode || 'false' }}
-          CHANNEL_LIMIT: ${{ github.event.inputs.channel_limit || '50' }}
         run: |
-          echo "Starting collection..."
-          echo "Time: $(date '+%Y-%m-%d %H:%M:%S')"
-          echo "Channel Limit: $CHANNEL_LIMIT"
-          
+          echo "Starting collection at $(date)"
           node scripts/collect-dynamic.js
           
           if [ -f "data/latest.json" ]; then
             echo "Collection successful"
-            echo "File size: $(du -h data/latest.json | cut -f1)"
-          fi
-      
-      - name: Generate statistics
-        if: success()
-        run: |
-          if [ -f "data/latest.json" ]; then
-            echo "=== Collection Statistics ==="
-            node -e "
-              const fs = require('fs');
-              const data = JSON.parse(fs.readFileSync('data/latest.json', 'utf8'));
-              console.log('Channels:', data.channels?.length || 0);
-              console.log('Videos:', data.videos?.length || 0);
-              console.log('Shorts:', data.statistics?.totalShorts || 0);
-              console.log('Spikes:', data.spikes?.length || 0);
-              
-              // Save summary
-              const summary = {
-                timestamp: new Date().toISOString(),
-                channels: data.channels?.length || 0,
-                videos: data.videos?.length || 0,
-                shorts: data.statistics?.totalShorts || 0,
-                spikes: data.spikes?.length || 0
-              };
-              fs.writeFileSync('data/summary.json', JSON.stringify(summary, null, 2));
-              console.log('Summary saved');
-            "
+            ls -lh data/latest.json
           fi
       
       - name: Backup data
         if: success()
         run: |
           if [ -f "data/latest.json" ]; then
-            # Daily backup
-            DAILY_BACKUP="data/daily/$(date +%Y-%m-%d).json"
-            cp data/latest.json "$DAILY_BACKUP"
-            echo "Daily backup: $DAILY_BACKUP"
+            cp data/latest.json "data/backup/$(date +%Y%m%d_%H%M%S).json"
+            cp data/latest.json "data/daily/$(date +%Y-%m-%d).json"
+            echo "Backup created"
             
-            # Timestamped backup
-            BACKUP_FILE="data/backup/backup_$(date +%Y%m%d_%H%M%S).json"
-            cp data/latest.json "$BACKUP_FILE"
-            echo "Backup created: $BACKUP_FILE"
-            
-            # Clean old backups (keep 7 days)
-            find data/backup -name "backup_*.json" -mtime +7 -delete
-            find data/daily -name "*.json" -mtime +30 -delete
-            echo "Old backups cleaned"
+            # 오래된 백업 정리
+            find data/backup -name "*.json" -mtime +7 -delete 2>/dev/null || true
+            find data/daily -name "*.json" -mtime +30 -delete 2>/dev/null || true
+          fi
+      
+      - name: Generate summary
+        if: success()
+        run: |
+          if [ -f "data/latest.json" ]; then
+            node -e "
+              const fs = require('fs');
+              const data = JSON.parse(fs.readFileSync('data/latest.json'));
+              const summary = {
+                timestamp: new Date().toISOString(),
+                channels: data.channels?.length || 0,
+                videos: data.videos?.length || 0,
+                shorts: data.statistics?.totalShorts || 0
+              };
+              fs.writeFileSync('data/summary.json', JSON.stringify(summary, null, 2));
+              console.log('Summary created:', summary);
+            "
           fi
       
       - name: Commit data
         run: |
-          git config --global user.name 'GitHub Actions Bot'
+          git config --global user.name 'GitHub Actions'
           git config --global user.email 'actions@github.com'
-          
           git add data/
           
           if git diff --staged --quiet; then
-            echo "No changes to commit"
+            echo "No changes"
           else
-            # Get statistics for commit message
-            if [ -f "data/latest.json" ]; then
-              CHANNELS=$(node -e "const d=require('./data/latest.json'); console.log(d.channels?.length || 0)")
-              VIDEOS=$(node -e "const d=require('./data/latest.json'); console.log(d.videos?.length || 0)")
-              SHORTS=$(node -e "const d=require('./data/latest.json'); console.log(d.statistics?.totalShorts || 0)")
-            else
-              CHANNELS=0
-              VIDEOS=0
-              SHORTS=0
-            fi
+            CHANNELS=$(node -e "const d=require('./data/latest.json'); console.log(d.channels?.length || 0)" 2>/dev/null || echo "0")
+            VIDEOS=$(node -e "const d=require('./data/latest.json'); console.log(d.videos?.length || 0)" 2>/dev/null || echo "0")
             
-            git commit -m "📊 Update: $CHANNELS channels, $VIDEOS videos, $SHORTS shorts
-            
-Time: $(date '+%Y-%m-%d %H:%M:%S KST')
-Channels: $CHANNELS
-Videos: $VIDEOS  
-Shorts: $SHORTS
-Run: #${{ github.run_number }}"
-            
-            git push origin main
-            echo "Changes pushed successfully"
-          fi
-      
-      - name: Create weekly release
-        if: github.event.schedule == '0 15 * * 0' || github.event_name == 'workflow_dispatch'
-        env:
-          GH_TOKEN: ${{ github.token }}
-        run: |
-          # Check if it's Sunday or manual run
-          if [ "$(date +%u)" = "7" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            if [ -f "data/latest.json" ] && [ -f "data/summary.json" ]; then
-              TAG="v$(date +%Y.%W)"
-              TITLE="Weekly Report - Week $(date +%W)"
-              
-              # Create release notes
-              node -e "
-                const fs = require('fs');
-                const data = JSON.parse(fs.readFileSync('data/latest.json', 'utf8'));
-                const summary = JSON.parse(fs.readFileSync('data/summary.json', 'utf8'));
-                
-                const notes = \`## 📊 Weekly Statistics
-- Channels Monitored: \${summary.channels}
-- Total Videos: \${summary.videos}
-- Total Shorts: \${summary.shorts}
-- Trending Spikes: \${summary.spikes}
-
-### Top 5 Channels (by shorts growth)
-\${data.channels?.slice(0, 5).map((ch, i) => 
-  \`\${i+1}. \${ch.title || 'Unknown'} - \${ch.subscriberCount?.toLocaleString() || 0} subscribers\`
-).join('\\n') || 'No data'}
-
-Generated: \${new Date().toISOString()}\`;
-                
-                fs.writeFileSync('release_notes.md', notes);
-              "
-              
-              # Create GitHub release
-              gh release create "$TAG" \
-                --title "$TITLE" \
-                --notes-file release_notes.md \
-                data/latest.json \
-                data/summary.json \
-                || echo "Release already exists or error"
-              
-              echo "Weekly release created: $TAG"
-            fi
-          fi
-      
-      - name: Error notification
-        if: failure()
-        run: |
-          echo "==== WORKFLOW FAILED ===="
-          echo "Time: $(date)"
-          echo "Job: ${{ github.job }}"
-          echo "Run: ${{ github.run_number }}"
-          
-          # Create error log
-          echo "{
-            \"error\": true,
-            \"timestamp\": \"$(date -Iseconds)\",
-            \"job\": \"${{ github.job }}\",
-            \"run\": ${{ github.run_number }}
-          }" > data/error.json
-          
-          git add data/error.json || true
-          git commit -m "Error logged at $(date)" || true
-          git push || true
-
-  cleanup:
-    runs-on: ubuntu-latest
-    needs: collect
-    if: always()
-    
-    steps:
-      - name: Clean old runs
-        uses: Mattraks/delete-workflow-runs@v2
-        with:
-          token: ${{ github.token }}
-          repository: ${{ github.repository }}
-          retain_days: 7
-          keep_minimum_runs: 10
-      
-      - name: Report status
-        run: |
-          if [ "${{ needs.collect.result }}" == "success" ]; then
-            echo "✅ Collection completed successfully"
-          else
-            echo "❌ Collection failed"
+            git commit -m "Update: $CHANNELS channels, $VIDEOS videos - $(date)"
+            git push
           fi
