@@ -155,8 +155,10 @@ async function main() {
   const allShorts = [];
   const processedChannels = [];
   
-  // 채널별 비디오 수집
-  for (let i = 0; i < Math.min(channels.length, 50); i++) { // 처음 50개 채널만
+// 채널별 비디오 수집 - 환경변수로 제한 조절
+const channelLimit = parseInt(process.env.CHANNEL_LIMIT || '100');
+console.log(`Analyzing up to ${channelLimit} channels...`);
+for (let i = 0; i < Math.min(channels.length, channelLimit); i++) {
     const channel = channels[i];
     console.log(`\n[${i+1}/50] Analyzing channel: ${channel.title}`);
     
