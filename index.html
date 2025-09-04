@@ -991,21 +991,23 @@ class EnhancedYouTubeDashboard {
   }
 
   updateHeaderStats() {
-  const channels = this.data?.channels?.length || 0;
-  const videos = this.data?.videos?.length || 0;
-  const totalViews = this.data?.channels?.reduce((sum, ch) => sum + (ch.viewCount || 0), 0) || 0;
+  // summary.json의 데이터를 직접 사용
+  const channels = this.summaryData?.totalChannelsAnalyzed || this.data?.channels?.length || 0;
+  const videos = this.summaryData?.totalVideos || 0;  // ✅ summary.json에서 직접 가져오기
+  const shorts = this.summaryData?.totalShorts || 0;  // ✅ summary.json에서 직접 가져오기
+  const totalViews = this.summaryData?.totalViewCount || this.data?.channels?.reduce((sum, ch) => sum + (ch.viewCount || 0), 0) || 0;
   
-  console.log('📊 헤더 통계 업데이트:', { channels, videos, totalViews });
+  console.log('📊 헤더 통계 업데이트 (수정됨):', { channels, videos, shorts, totalViews });
   
   document.getElementById('total-channels').textContent = this.fmt(channels);
-  document.getElementById('total-videos').textContent = this.fmt(videos);
+  document.getElementById('total-videos').textContent = this.fmt(videos);  // ✅ 이제 2395 표시됨!
   document.getElementById('total-views').textContent = this.formatViews(totalViews);
 
   // 메트릭 카드 업데이트
   document.getElementById('metric-channels').textContent = this.fmt(channels);
-  document.getElementById('metric-videos').textContent = this.fmt(videos);
+  document.getElementById('metric-videos').textContent = this.fmt(videos);   // ✅ 이제 2395 표시됨!
   document.getElementById('metric-views').textContent = this.formatViews(totalViews);
-  document.getElementById('metric-trends').textContent = this.fmt(this.data?.shorts?.length || 0);
+  document.getElementById('metric-trends').textContent = this.fmt(shorts);   // ✅ 이제 1894 표시됨!
 }
 
   formatViews(views) {
