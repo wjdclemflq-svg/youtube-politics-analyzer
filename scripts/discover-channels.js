@@ -233,4 +233,9 @@ if (require.main === module) {
   main().catch(console.error);
 }
 
-module.exports = { getChannelInfo, discoverNewChannels, HARDCODED_CHANNELS };
+module.exports = { 
+  getChannelInfo, 
+  discoverNewChannels, 
+  discoverTrendingChannels: discoverNewChannels,  // 별칭 추가
+  HARDCODED_CHANNELS 
+};

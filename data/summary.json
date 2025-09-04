@@ -1,55 +1,124 @@
 {
-  "lastUpdated": "2025-09-03T21:05:37.451Z",
-  "totalChannels": 5,
-  "totalVideos": 0,
-  "totalShorts": 0,
-  "totalViews": 49813296494,
-  "totalSubscribers": 16468000,
-  "channelStats": [
+  "lastUpdated": "2025-09-04T11:49:30.604Z",
+  "totalChannelsAnalyzed": 86,
+  "totalVideos": 2567,
+  "totalShorts": 2020,
+  "totalRegularVideos": 547,
+  "totalViewCount": 581496400,
+  "totalLikeCount": 19190905,
+  "averageViewsPerShort": 249722,
+  "topChannelsByShorts": [
     {
-      "id": "UCF4Wxdo3inmxP-Y59wXDsFw",
-      "title": "MBCNEWS",
-      "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nKpBrT7zzqTfdlfUHzw60wMU5KqV-kBmiFjU9dvMI8ePo=s800-c-k-c0x00ffffff-no-rj",
-      "subscriberCount": 5940000,
-      "viewCount": 24369935014,
-      "viewCountChange": 0,
-      "changePercent": 0
+      "title": "세상만사",
+      "shortsCount": 30,
+      "subscriberCount": 595000
     },
     {
-      "id": "UChlgI3UHCOnwUGzWzbJ3H5w",
-      "title": " YTN",
-      "thumbnail": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s800-c-k-c0x00ffffff-no-rj",
-      "subscriberCount": 5150000,
-      "viewCount": 17696384115,
-      "viewCountChange": 0,
-      "changePercent": 0
+      "title": "잼통",
+      "shortsCount": 30,
+      "subscriberCount": 469000
     },
     {
-      "id": "UCWlV3Lz_55UaX4JsMj-z__Q",
-      "title": "뉴스TVCHOSUN",
-      "thumbnail": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
-      "subscriberCount": 2920000,
-      "viewCount": 4388564298,
-      "viewCountChange": 0,
-      "changePercent": 0
+      "title": "정치공감",
+      "shortsCount": 30,
+      "subscriberCount": 373000
     },
     {
-      "id": "UCgeOlLcX6PReHdWImEnUVTg",
-      "title": "스픽스",
-      "thumbnail": "https://yt3.ggpht.com/S3rLqAB2YDYQDzLNBiFveCxuoTifWkLQtQP-V416WUiciWNz1umav1O51CwrxVy8zKrTMSKg=s800-c-k-c0x00ffffff-no-rj",
-      "subscriberCount": 1530000,
-      "viewCount": 1601585490,
-      "viewCountChange": 0,
-      "changePercent": 0
+      "title": "나의조국",
+      "shortsCount": 30,
+      "subscriberCount": 271000
     },
     {
-      "id": "UCGbkN-3JpOct4KuEv59NF0Q",
-      "title": "엠키타카 MKTK",
-      "thumbnail": "https://yt3.ggpht.com/5HS1lKLWrlfyoflas7qJHolnSjJ_5hLDgK2WFNas2vMQAU_3fPyMXVqXM0UtDXOs3r2UV5CAjQ=s800-c-k-c0x00ffffff-no-rj",
-      "subscriberCount": 928000,
-      "viewCount": 1756827577,
-      "viewCountChange": 0,
-      "changePercent": 0
+      "title": "민주픽",
+      "shortsCount": 30,
+      "subscriberCount": 269000
+    },
+    {
+      "title": "민주숏폼 어설텍",
+      "shortsCount": 30,
+      "subscriberCount": 247000
+    },
+    {
+      "title": "골프콜라",
+      "shortsCount": 30,
+      "subscriberCount": 229000
+    },
+    {
+      "title": "정치일주",
+      "shortsCount": 30,
+      "subscriberCount": 229000
+    },
+    {
+      "title": "다알려줌TV",
+      "shortsCount": 30,
+      "subscriberCount": 229000
+    },
+    {
+      "title": "정치보스",
+      "shortsCount": 30,
+      "subscriberCount": 204000
+    }
+  ],
+  "topShortsByViews": [
+    {
+      "title": "김건희 며느리 구속되자 윤석열 모친 최성자의 충격발언",
+      "channelTitle": "정보특공대TV",
+      "viewCount": 6306605,
+      "publishedAt": "2025-08-21T21:30:08Z"
+    },
+    {
+      "title": "이걸 보고도 뽑은 전무후무한 대통령",
+      "channelTitle": "정치일주",
+      "viewCount": 6207393,
+      "publishedAt": "2025-08-27T07:55:00Z"
+    },
+    {
+      "title": "이재명 당황케한 미국의 오찬 대접?",
+      "channelTitle": "오늘의이슈는",
+      "viewCount": 5156634,
+      "publishedAt": "2025-08-28T09:40:00Z"
+    },
+    {
+      "title": "막말하는 권성동을 박살내는 조승래",
+      "channelTitle": "정치일주",
+      "viewCount": 4569979,
+      "publishedAt": "2025-08-29T07:40:00Z"
+    },
+    {
+      "title": "나경원 혼꾸녕 내는 핵사이다 박은정!",
+      "channelTitle": "민주픽",
+      "viewCount": 3951099,
+      "publishedAt": "2025-09-02T06:44:12Z"
+    },
+    {
+      "title": "윤석열 무너뜨린 이재명의 팩트폭격!",
+      "channelTitle": "정치일주",
+      "viewCount": 3947630,
+      "publishedAt": "2025-08-27T00:57:00Z"
+    },
+    {
+      "title": "이재명 민심 보러 갔다가 시장상인이 소리친 충격적인 발언",
+      "channelTitle": "정보특공대TV",
+      "viewCount": 3724922,
+      "publishedAt": "2025-08-19T12:14:17Z"
+    },
+    {
+      "title": "김혜경 입국하자마자 미국서 논란된 이유?",
+      "channelTitle": "오늘의이슈는",
+      "viewCount": 3535566,
+      "publishedAt": "2025-08-25T02:20:01Z"
+    },
+    {
+      "title": "이회창이 윤석열에게 건넨 한마디",
+      "channelTitle": "정치보스",
+      "viewCount": 3523417,
+      "publishedAt": "2025-08-25T09:00:20Z"
+    },
+    {
+      "title": "주머니 손 악수 논란 빌게이츠! 윤석열과 이재명 대통령은 어떻게?",
+      "channelTitle": "대한시민김상식",
+      "viewCount": 3437478,
+      "publishedAt": "2025-08-21T04:17:06Z"
     }
   ]
 }
