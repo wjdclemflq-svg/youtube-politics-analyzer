@@ -984,20 +984,22 @@ class EnhancedYouTubeDashboard {
   }
 
   updateHeaderStats() {
-    const channels = this.data?.channels?.length || 0;
-    const videos = this.data?.videos?.length || 0;
-    const totalViews = this.data?.channels?.reduce((sum, ch) => sum + (ch.viewCount || 0), 0) || 0;
+  const channels = this.data?.channels?.length || 0;
+  const videos = this.data?.videos?.length || 0;
+  const totalViews = this.data?.channels?.reduce((sum, ch) => sum + (ch.viewCount || 0), 0) || 0;
+  
+  console.log('📊 헤더 통계 업데이트:', { channels, videos, totalViews });
+  
+  document.getElementById('total-channels').textContent = this.fmt(channels);
+  document.getElementById('total-videos').textContent = this.fmt(videos);
+  document.getElementById('total-views').textContent = this.formatViews(totalViews);
 
-    document.getElementById('total-channels').textContent = this.fmt(channels);
-    document.getElementById('total-videos').textContent = this.fmt(videos);
-    document.getElementById('total-views').textContent = this.formatViews(totalViews);
-
-    // 메트릭 카드 업데이트
-    document.getElementById('metric-channels').textContent = this.fmt(channels);
-    document.getElementById('metric-videos').textContent = this.fmt(videos);
-    document.getElementById('metric-views').textContent = this.formatViews(totalViews);
-    document.getElementById('metric-trends').textContent = this.fmt(this.data?.trends?.length || 0);
-  }
+  // 메트릭 카드 업데이트
+  document.getElementById('metric-channels').textContent = this.fmt(channels);
+  document.getElementById('metric-videos').textContent = this.fmt(videos);
+  document.getElementById('metric-views').textContent = this.formatViews(totalViews);
+  document.getElementById('metric-trends').textContent = this.fmt(this.data?.shorts?.length || 0);
+}
 
   formatViews(views) {
     if (views >= 1000000000) return (views / 1000000000).toFixed(1) + 'B';
