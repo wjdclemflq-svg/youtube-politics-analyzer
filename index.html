@@ -582,6 +582,7 @@
                 <th style="min-width: 120px">총 조회수</th>
                 <th style="min-width: 100px">조회수 증가</th>
                 <th style="min-width: 100px">증가율</th>
+                <th style="min-width: 100px">전일 조회수</th>
                 <th style="min-width: 80px">데이터 소스</th>
               </tr>
             </thead>
@@ -1094,6 +1095,34 @@ class EnhancedYouTubeDashboard {
       tbody.appendChild(tr);
     });
     
+// 모달 함수 추가
+function openChannelModal(channel) {
+    const modal = document.getElementById("modal");
+    const modalContent = modal.querySelector(".modal-content");
+    if(modal && modalContent) {
+        modalContent.innerHTML = `
+            <h2>${channel.title || 'Unknown'}</h2>
+            <p>구독자: ${(channel.subscriberCount||0).toLocaleString()}</p>
+            <p>조회수: ${(channel.viewCount||0).toLocaleString()}</p>
+        `;
+        modal.style.display = "block";
+    }
+}
+
+function showVideoModal(video) {
+    const modal = document.getElementById("modal");
+    const modalContent = modal.querySelector(".modal-content");
+    if(modal && modalContent) {
+        modalContent.innerHTML = `
+            <h2>${video.title || 'Unknown Video'}</h2>
+            <p>조회수: ${(video.views||0).toLocaleString()}</p>
+            <p>좋아요: ${(video.statistics?.likeCount||0).toLocaleString()}</p>
+        `;
+        modal.style.display = "block";
+    }
+}
+
+
     // 이벤트 위임으로 클릭 이벤트 처리
     tbody.addEventListener('click', (e) => {
       if (e.target.classList.contains('channel-btn')) {
