@@ -896,33 +896,63 @@ class EnhancedYouTubeDashboard {
     console.log('✅ 대시보드 초기화 완료');
   }
 
-  async loadAllData() {
-    try {
-      // GitHub Pages 또는 로컬에서 데이터 로드
-      const baseUrl = window.location.hostname === 'localhost' 
-        ? '.' 
-        : window.location.hostname.includes('github.io')
-        ? '.'  // GitHub Pages에서는 상대 경로 사용
-        : `https://raw.githubusercontent.com/${this.getRepoPath()}/main`;
-      
-      console.log('📁 데이터 로드 시작, baseUrl:', baseUrl);
-      
-      // 수정 (channels.json을 읽도록)
-    const [mainData, summaryData] = await Promise.all([
-    this.loadDataFile(`${baseUrl}/data/channels.json`).catch(() => null),  // 변경!
-    this.loadDataFile(`${baseUrl}/data/summary.json`).catch(() => null)
-     ]);
+async loadAllData() {
+  try {
+    // GitHub Pages 또는 로컬에서 데이터 로드
+    const baseUrl = window.location.hostname === 'localhost' 
+      ? '.' 
+      : window.location.hostname.includes('github.io')
+      ? '.'  // GitHub Pages에서는 상대 경로 사용
+      : `https://raw.githubusercontent.com/${this.getRepoPath()}/main`;
+    
+    console.log('📁 데이터 로드 시작, baseUrl:', baseUrl);
+    
+    // 수정: 3개 파일을 모두 로드
+    const [channelsData, videosData, shortsData, summaryData] = await Promise.all([
+      this.loadDataFile(`${baseUrl}/data/channels.json`).catch(() => null),
+      this.loadDataFile(`${baseUrl}/data/videos.json`).catch(() => null),    // ✅ 추가
+      this.loadDataFile(`${baseUrl}/data/shorts.json`).catch(() => null),    // ✅ 추가
+      this.loadDataFile(`${baseUrl}/data/summary.json`).catch(() => null)
+    ]);
 
-    if (mainData) {
-  this.data = {
-    channels: mainData.channels || [],
-    videos: mainData.videos || [],
-    shorts: mainData.shorts || [],
-    statistics: mainData.statistics || {},
-    timestamp: mainData.timestamp
-  };
-  this.updateStatus('success', '실시간 데이터 연결됨');
-  console.log('✅ 실제 데이터 로드 성공:', this.data.channels?.length, '개 채널,', this.data.videos?.length, '개 동영상,', this.data.shorts?.length, '개 숏츠');
+    if (channelsData) {
+      this.data = {
+        channels: channelsData.channels || channelsData || [],  // channelsData가 배열일 수도 있음
+        videos: videosData || [],      // ✅ videos.json에서 로드
+        shorts: shortsData || [],      // ✅ shorts.json에서 로드
+        statistics: summaryData || {},
+        timestamp: channelsData.timestamp || new Date().toISOString()
+      };
+      this.updateStatus('success', '실시간 데이터 연결됨');
+      console.log('✅ 실제 데이터 로드 성공:', this.data.channels?.length, '개 채널,', this.data.videos?.length, '개 동영상,', this.data.shorts?.length, '개 숏츠');
+    } else {
+      // 대체 데이터 소스 시도
+      const fallbackData = await this.loadDataFile(`${baseUrl}/data/latest.json`).catch(() => null);
+      if (fallbackData) {
+        this.data = {
+          channels: fallbackData.channels || [],
+          videos: videosData || fallbackData.videos || [],
+          shorts: shortsData || fallbackData.shorts || [],
+          statistics: fallbackData.statistics || {},
+          timestamp: fallbackData.timestamp
+        };
+        this.updateStatus('success', '통합 데이터 연결됨');
+      } else {
+        // 샘플 데이터 사용
+        console.log('⚠️ 실제 데이터 없음, 샘플 데이터 사용');
+        this.data = this.getSampleData();
+        this.updateStatus('warning', '샘플 데이터 모드');
+      }
+    }
+
+    this.summaryData = summaryData || this.getSampleStats();
+    this.updateLastUpdated();
+
+  } catch (error) {
+    console.error('❌ 데이터 로드 실패:', error);
+    this.data = this.getSampleData();
+    this.updateStatus('error', '오프라인 모드 (샘플 데이터)');
+  }
 }
         else {
         // 대체 데이터 소스 시도
