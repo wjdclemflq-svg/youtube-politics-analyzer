@@ -905,6 +905,46 @@ async function loadAllData() {
     }
 }
 
+function openChannelModal(channel) {
+    try {
+        const modal = document.getElementById("modal");
+        if(modal && modal.querySelector(".modal-content")) {
+            const modalContent = modal.querySelector(".modal-content");
+            modalContent.innerHTML = `
+                <span class="close" onclick="document.getElementById('modal').style.display='none'">&times;</span>
+                <h2>${channel.title || channel.name || 'Unknown Channel'}</h2>
+                <img src="${channel.thumbnail || ''}" style="width:200px" onerror="this.style.display='none'">
+                <p>구독자: ${(channel.subscriberCount||0).toLocaleString()}</p>
+                <p>총 조회수: ${(channel.viewCount||0).toLocaleString()}</p>
+                <p>동영상: ${channel.videoCount || 0}개</p>
+            `;
+            modal.style.display = "block";
+        }
+    } catch(e) {
+        console.error('Modal error:', e);
+    }
+}
+
+function showVideoModal(video) {
+    try {
+        const modal = document.getElementById("modal");
+        if(modal && modal.querySelector(".modal-content")) {
+            const modalContent = modal.querySelector(".modal-content");
+            modalContent.innerHTML = `
+                <span class="close" onclick="document.getElementById('modal').style.display='none'">&times;</span>
+                <h2>${video.title || 'Unknown Video'}</h2>
+                <p>채널: ${video.channelTitle || 'Unknown'}</p>
+                <p>조회수: ${(video.views||video.viewCount||0).toLocaleString()}</p>
+                <p>좋아요: ${(video.statistics?.likeCount||Math.floor((video.views||0)*0.04)||0).toLocaleString()}</p>
+                <p>댓글: ${(video.statistics?.commentCount||Math.floor((video.views||0)*0.002)||0).toLocaleString()}</p>
+            `;
+            modal.style.display = "block";
+        }
+    } catch(e) {
+        console.error('Modal error:', e);
+    }
+}
+
 // 대시보드 업데이트 함수
 function updateDashboard() {
     // 헤더 통계
@@ -915,40 +955,45 @@ function updateDashboard() {
         document.getElementById('total-videos').textContent = videos.length;
     }
     
-    // 채널 테이블 - 조회수 기준 정렬
+    // 채널 테이블
     const channelsBody = document.getElementById('channels-body');
     if(channelsBody && channels.length > 0) {
-        // 조회수 기준으로 정렬
         const sortedChannels = [...channels].sort((a,b) => (b.viewCount||0) - (a.viewCount||0));
         
-        channelsBody.innerHTML = sortedChannels.slice(0,50).map((ch, i) => `
+        channelsBody.innerHTML = sortedChannels.slice(0,50).map((ch, i) => {
+            const thumbnail = ch.thumbnail || 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iNDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGNpcmNsZSBjeD0iMjAiIGN5PSIyMCIgcj0iMjAiIGZpbGw9IiNkZGQiLz48L3N2Zz4=';
+            const channelData = JSON.stringify(ch).replace(/"/g, '&quot;');
+            
+            return `
             <tr style="cursor:pointer">
                 <td>${i+1}</td>
-                <td><img src="${ch.thumbnail || ch.thumbnails?.default?.url || 'https://via.placeholder.com/40'}" width="40" style="border-radius:50%" onerror="this.src='https://via.placeholder.com/40'"></td>
-                <td onclick="openChannelModal(${JSON.stringify(ch).replace(/"/g, '&quot;')})">${ch.title || ch.name || 'Channel ' + (i+1)}</td>
+                <td><img src="${thumbnail}" width="40" style="border-radius:50%"></td>
+                <td onclick='openChannelModal(${channelData})'>${ch.title || ch.name || 'Channel ' + (i+1)}</td>
                 <td>${(ch.subscriberCount||0).toLocaleString()}</td>
                 <td>${(ch.viewCount||0).toLocaleString()}</td>
                 <td>${(ch.previousViewCount||0).toLocaleString()}</td>
                 <td>${(ch.viewCountChange||0).toLocaleString()}</td>
                 <td>${ch.viewCountChangePercent||0}%</td>
-            </tr>
-        `).join('');
+            </tr>`;
+        }).join('');
     }
     
-    // 동영상 테이블 - 통계 데이터 포함
+    // 동영상 테이블
     const trendingBody = document.querySelector('#trending-videos tbody');
     if(trendingBody && videos.length > 0) {
-        trendingBody.innerHTML = videos.slice(0,10).map((v, i) => `
+        trendingBody.innerHTML = videos.slice(0,10).map((v, i) => {
+            const videoData = JSON.stringify(v).replace(/"/g, '&quot;');
+            return `
             <tr style="cursor:pointer">
                 <td>${i+1}</td>
                 <td><img src="${v.thumbnail}" width="120"></td>
-                <td onclick="showVideoModal(${JSON.stringify(v).replace(/"/g, '&quot;')})">${v.title}</td>
+                <td onclick='showVideoModal(${videoData})'>${v.title}</td>
                 <td>${v.channelTitle}</td>
                 <td>${(v.views||0).toLocaleString()}</td>
-                <td>${(v.statistics?.likeCount||Math.floor(v.views*0.04)||0).toLocaleString()}</td>
-                <td>${(v.statistics?.commentCount||Math.floor(v.views*0.002)||0).toLocaleString()}</td>
-            </tr>
-        `).join('');
+                <td>${(v.statistics?.likeCount||Math.floor((v.views||0)*0.04)||0).toLocaleString()}</td>
+                <td>${(v.statistics?.commentCount||Math.floor((v.views||0)*0.002)||0).toLocaleString()}</td>
+            </tr>`;
+        }).join('');
     }
 }
 
