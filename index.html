@@ -908,12 +908,46 @@ async function loadAllData() {
 // 대시보드 업데이트 함수
 function updateDashboard() {
     // 헤더 통계 업데이트
-    document.getElementById('total-channels').textContent = channels.length;
-    document.getElementById('total-videos').textContent = videos.length;
+    if(document.getElementById('total-channels')) {
+        document.getElementById('total-channels').textContent = channels.length;
+    }
+    if(document.getElementById('total-videos')) {
+        document.getElementById('total-videos').textContent = videos.length;
+    }
     
-    // 테이블 업데이트 등...
+    // 채널 테이블 업데이트
+    const channelsBody = document.getElementById('channels-body');
+    if(channelsBody && channels.length > 0) {
+        channelsBody.innerHTML = channels.slice(0,50).map((ch, i) => `
+            <tr>
+                <td>${i+1}</td>
+                <td><img src="${ch.thumbnail || 'https://via.placeholder.com/40'}" width="40" style="border-radius:50%"></td>
+                <td>${ch.title || 'Unknown'}</td>
+                <td>${(ch.subscriberCount||0).toLocaleString()}</td>
+                <td>${(ch.viewCount||0).toLocaleString()}</td>
+                <td>${(ch.previousViewCount||0).toLocaleString()}</td>
+                <td>${(ch.viewCountChange||0).toLocaleString()}</td>
+                <td>${ch.viewCountChangePercent||0}%</td>
+            </tr>
+        `).join('');
+    }
+    
+    // 동영상 테이블 업데이트
+    const trendingBody = document.querySelector('#trending-videos tbody');
+    if(trendingBody && videos.length > 0) {
+        trendingBody.innerHTML = videos.slice(0,10).map((v, i) => `
+            <tr onclick="showVideoModal(this)" data-video='${JSON.stringify(v)}'>
+                <td>${i+1}</td>
+                <td><img src="${v.thumbnail}" width="120"></td>
+                <td>${v.title}</td>
+                <td>${v.channelTitle}</td>
+                <td>${(v.views||0).toLocaleString()}</td>
+                <td>${(v.statistics?.likeCount||0).toLocaleString()}</td>
+                <td>${(v.statistics?.commentCount||0).toLocaleString()}</td>
+            </tr>
+        `).join('');
+    }
 }
-
 // 페이지 로드 시 데이터 불러오기
 window.addEventListener('DOMContentLoaded', loadAllData);
 class EnhancedYouTubeDashboard {
