@@ -915,15 +915,17 @@ function updateDashboard() {
         document.getElementById('total-videos').textContent = videos.length;
     }
     
-    // 채널 테이블 - 데이터가 있는 채널만 표시
+    // 채널 테이블 - 조회수 기준 정렬
     const channelsBody = document.getElementById('channels-body');
     if(channelsBody && channels.length > 0) {
-        const validChannels = channels.filter(ch => ch.title || ch.name);
-        channelsBody.innerHTML = validChannels.slice(0,50).map((ch, i) => `
-            <tr onclick="openChannelModal(${JSON.stringify(ch).replace(/"/g, '&quot;')})" style="cursor:pointer">
+        // 조회수 기준으로 정렬
+        const sortedChannels = [...channels].sort((a,b) => (b.viewCount||0) - (a.viewCount||0));
+        
+        channelsBody.innerHTML = sortedChannels.slice(0,50).map((ch, i) => `
+            <tr style="cursor:pointer">
                 <td>${i+1}</td>
-                <td><img src="${ch.thumbnail || ch.thumbnails?.default?.url || 'https://via.placeholder.com/40'}" width="40" style="border-radius:50%"></td>
-                <td>${ch.title || ch.name || 'Channel ' + (i+1)}</td>
+                <td><img src="${ch.thumbnail || ch.thumbnails?.default?.url || 'https://via.placeholder.com/40'}" width="40" style="border-radius:50%" onerror="this.src='https://via.placeholder.com/40'"></td>
+                <td onclick="openChannelModal(${JSON.stringify(ch).replace(/"/g, '&quot;')})">${ch.title || ch.name || 'Channel ' + (i+1)}</td>
                 <td>${(ch.subscriberCount||0).toLocaleString()}</td>
                 <td>${(ch.viewCount||0).toLocaleString()}</td>
                 <td>${(ch.previousViewCount||0).toLocaleString()}</td>
@@ -933,33 +935,34 @@ function updateDashboard() {
         `).join('');
     }
     
-    // 동영상 테이블 - 클릭 이벤트 수정
+    // 동영상 테이블 - 통계 데이터 포함
     const trendingBody = document.querySelector('#trending-videos tbody');
     if(trendingBody && videos.length > 0) {
-        trendingBody.innerHTML = videos.slice(0,10).map((v, i) => {
-            const videoData = JSON.stringify({
-                title: v.title,
-                thumbnail: v.thumbnail,
-                channelTitle: v.channelTitle,
-                views: v.views,
-                likeCount: v.statistics?.likeCount || Math.floor(v.views * 0.04),
-                commentCount: v.statistics?.commentCount || Math.floor(v.views * 0.002)
-            }).replace(/"/g, '&quot;');
-            return `
-            <tr onclick="showVideoModal(JSON.parse('${videoData}'.replace(/&quot;/g, '\"')))" style="cursor:pointer">
+        trendingBody.innerHTML = videos.slice(0,10).map((v, i) => `
+            <tr style="cursor:pointer">
                 <td>${i+1}</td>
                 <td><img src="${v.thumbnail}" width="120"></td>
-                <td>${v.title}</td>
+                <td onclick="showVideoModal(${JSON.stringify(v).replace(/"/g, '&quot;')})">${v.title}</td>
                 <td>${v.channelTitle}</td>
                 <td>${(v.views||0).toLocaleString()}</td>
-                <td>${v.statistics?.likeCount || Math.floor(v.views * 0.04)}</td>
-                <td>${v.statistics?.commentCount || Math.floor(v.views * 0.002)}</td>
-            </tr>`;
-        }).join('');
+                <td>${(v.statistics?.likeCount||Math.floor(v.views*0.04)||0).toLocaleString()}</td>
+                <td>${(v.statistics?.commentCount||Math.floor(v.views*0.002)||0).toLocaleString()}</td>
+            </tr>
+        `).join('');
     }
 }
+
 // 페이지 로드 시 데이터 불러오기
 window.addEventListener('DOMContentLoaded', loadAllData);
+// 모달 닫기 이벤트
+window.onclick = function(event) {
+    const modal = document.getElementById("modal");
+    if (event.target == modal) {
+        modal.style.display = "none";
+    }
+}
+
+
 class EnhancedYouTubeDashboard {
   constructor() {
     this.data = null;
