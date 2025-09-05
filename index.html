@@ -875,6 +875,47 @@
   </div>
 
 <script>
+// 전역 변수 선언
+let channels = [];
+let videos = [];
+let shorts = [];
+let summary = {};
+
+// 데이터 로드 함수
+async function loadAllData() {
+    try {
+        const [channelsRes, videosRes, shortsRes, summaryRes] = await Promise.all([
+            fetch('data/channels.json'),
+            fetch('data/videos.json'),
+            fetch('data/shorts.json'),
+            fetch('data/summary.json')
+        ]);
+        
+        channels = await channelsRes.json();
+        videos = await videosRes.json();
+        shorts = await shortsRes.json();
+        summary = await summaryRes.json();
+        
+        console.log('Data loaded:', channels.length, 'channels');
+        
+        // 데이터 로드 후 화면 업데이트
+        updateDashboard();
+    } catch (error) {
+        console.error('Error loading data:', error);
+    }
+}
+
+// 대시보드 업데이트 함수
+function updateDashboard() {
+    // 헤더 통계 업데이트
+    document.getElementById('total-channels').textContent = channels.length;
+    document.getElementById('total-videos').textContent = videos.length;
+    
+    // 테이블 업데이트 등...
+}
+
+// 페이지 로드 시 데이터 불러오기
+window.addEventListener('DOMContentLoaded', loadAllData);
 class EnhancedYouTubeDashboard {
   constructor() {
     this.data = null;
