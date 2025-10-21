@@ -1,15 +1,610 @@
 {
-  "lastUpdated": "2025-10-21T12:24:10.355Z",
+  "lastUpdated": "2025-10-21T18:16:39.464Z",
   "totalChannelsAnalyzed": 84,
-  "totalVideos": 0,
-  "totalShorts": 0,
-  "totalRegularVideos": 0,
-  "totalViewCount": 0,
-  "totalLikeCount": 0,
-  "averageViewsPerShort": 0,
-  "topChannelsByShorts": [],
-  "topShortsByViews": [],
-  "recentShorts": [],
+  "totalVideos": 30,
+  "totalShorts": 11,
+  "totalRegularVideos": 19,
+  "totalViewCount": 227775,
+  "totalLikeCount": 1711,
+  "averageViewsPerShort": 229,
+  "topChannelsByShorts": [
+    {
+      "title": " YTN",
+      "shortsCount": 11,
+      "subscriberCount": 5200000
+    }
+  ],
+  "topShortsByViews": [
+    {
+      "title": "다카이치 \"한국은 중요한 이웃...이 대통령과 회담 희망\" / YTN",
+      "channelTitle": " YTN",
+      "viewCount": 559,
+      "publishedAt": "2025-10-21T15:21:36Z"
+    },
+    {
+      "title": "시속 453㎞...중국 세계 최고속 열차 시험 운행 성공 / YTN",
+      "channelTitle": " YTN",
+      "viewCount": 408,
+      "publishedAt": "2025-10-21T17:26:42Z"
+    },
+    {
+      "title": "'10대 딸 살해 혐의' 40대 구속...\"도주 우려\" / YTN",
+      "channelTitle": " YTN",
+      "viewCount": 381,
+      "publishedAt": "2025-10-21T15:08:07Z"
+    },
+    {
+      "title": "SUV가 사고 수습하려 출동한 소방차 들이받아...운전자 중상 / YTN",
+      "channelTitle": " YTN",
+      "viewCount": 285,
+      "publishedAt": "2025-10-21T17:28:49Z"
+    },
+    {
+      "title": "'SM 주가 조작' 혐의 카카오 김범수 1심 무죄 선고 / YTN",
+      "channelTitle": " YTN",
+      "viewCount": 238,
+      "publishedAt": "2025-10-21T15:09:17Z"
+    },
+    {
+      "title": "김영섭 KT 대표 \"해킹 피해자 위약금 면제\" / YTN",
+      "channelTitle": " YTN",
+      "viewCount": 224,
+      "publishedAt": "2025-10-21T15:26:42Z"
+    },
+    {
+      "title": "다카이치 \"한국은 중요한 이웃...이 대통령과 회담 희망\" / YTN",
+      "channelTitle": " YTN",
+      "viewCount": 131,
+      "publishedAt": "2025-10-21T17:23:46Z"
+    },
+    {
+      "title": "조희대, 민주당 사법개혁안에 \"국감 끝나고 논의해 말할 것\" / YTN",
+      "channelTitle": " YTN",
+      "viewCount": 121,
+      "publishedAt": "2025-10-21T17:12:40Z"
+    },
+    {
+      "title": "국민체육진흥공단, 스마트시티&스포츠 서밋 개최 / YTN",
+      "channelTitle": " YTN",
+      "viewCount": 120,
+      "publishedAt": "2025-10-21T15:15:32Z"
+    },
+    {
+      "title": "국민의힘, 부동산정상화 특위 발족...위원장에 장동혁 / YTN",
+      "channelTitle": " YTN",
+      "viewCount": 28,
+      "publishedAt": "2025-10-21T17:21:40Z"
+    }
+  ],
+  "recentShorts": [
+    {
+      "id": "5LCd-Akd-Q8",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelTitle": " YTN",
+      "title": "SUV가 사고 수습하려 출동한 소방차 들이받아...운전자 중상 / YTN",
+      "description": "어제(21일) 저녁 7시쯤 강원 인제군 서울양양고속도로 양양 방향 상남7터널을 지나던 SUV 차량이 사고 수습을 위해 출동해 있던 소방 지휘차를 들이받았습니다.\n\n이 사고로 SUV 차량 운전자가 크게 다쳤고, 앞선 사고로 다친 부상자 2명과 함께 근처 병원으로 옮겨졌습니다.\n\n경찰은 목격자 등을 상대로 정확한 사고 경위를 조사하고 있습니다.\n\n\n\n\n\nYTN",
+      "publishedAt": "2025-10-21T17:28:49Z",
+      "duration": "PT26S",
+      "durationSeconds": 26,
+      "viewCount": 285,
+      "likeCount": 3,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5LCd-Akd-Q8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5LCd-Akd-Q8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5LCd-Akd-Q8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/5LCd-Akd-Q8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/5LCd-Akd-Q8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "source:영상",
+        "type:방송",
+        "genre:전국",
+        "format:단신",
+        "person:신귀혜"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "biQkDnEZPjU",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelTitle": " YTN",
+      "title": "시속 453㎞...중국 세계 최고속 열차 시험 운행 성공 / YTN",
+      "description": "중국에서 세계에서 가장 빠른 시속 453㎞의 고속 열차가 시험 운행에 성공했습니다.\n\n중국 CCTV는 현지 시간 20일, 상하이와 청두를 잇는 고속철도 노선에서 푸싱 CR450이 시속 453㎞의 속도로 시험 운행을 마쳤다고 보도했습니다.\n\n이는 기존 CR400이 기록한 시속 350km보다 103㎞ 더 빨라진 속도입니다.\n\n현재 다른 나라들의 경우, 인도네시",
+      "publishedAt": "2025-10-21T17:26:42Z",
+      "duration": "PT38S",
+      "durationSeconds": 38,
+      "viewCount": 408,
+      "likeCount": 8,
+      "commentCount": 4,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/biQkDnEZPjU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/biQkDnEZPjU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/biQkDnEZPjU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/biQkDnEZPjU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/biQkDnEZPjU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "source:영상",
+        "type:방송",
+        "genre:국제",
+        "format:단신",
+        "person:유투권"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "1HJCmh3Jxcc",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelTitle": " YTN",
+      "title": "다카이치 \"한국은 중요한 이웃...이 대통령과 회담 희망\" / YTN",
+      "description": "다카이치 사나에 신임 일본 총리가 한국은 중요한 이웃 국가라며 한일 관계 중요성이 더욱 커지고 있고, 이재명 대통령과 회담도 희망한다고 밝혔습니다.\n\n다카이치 총리는 어젯밤(21일) 총리 관저에서 열린 취임 후 첫 기자회견에서 한일 관계에 대한 질문에 이같이 답했습니다.\n\n다카이치 총리는 \"지금까지 한일 관계의 기반에 기초해 미래 지향적이고 안정적으로 발전",
+      "publishedAt": "2025-10-21T17:23:46Z",
+      "duration": "PT30S",
+      "durationSeconds": 30,
+      "viewCount": 131,
+      "likeCount": 2,
+      "commentCount": 1,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1HJCmh3Jxcc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1HJCmh3Jxcc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1HJCmh3Jxcc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/1HJCmh3Jxcc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/1HJCmh3Jxcc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "source:영상",
+        "type:방송",
+        "genre:국제",
+        "format:단신",
+        "person:정유신"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "63Z7vG0ra9Y",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelTitle": " YTN",
+      "title": "민주, 주택시장안정화TF 구성...\"12월까지 공급 세부계획 마련\" / YTN",
+      "description": "더불어민주당이 10.15 부동산 대책 관련 후속 조치를 위한 주택시장 안정화 TF를 구성하고 올해 안에 주택 공급 세부 계획을 마련하기로 했습니다.\n\n한정애 정책위의장은 오늘(21일) 국회에서 브리핑을 열고, 민주당은 정부 정책을 전폭 지원한다며 12월까지 시군구별 공급대책 세부 계획을 마련하겠다고 강조했습니다.\n\n그러면서 공공이 주도해 주택 공급에 속도를",
+      "publishedAt": "2025-10-21T17:22:44Z",
+      "duration": "PT34S",
+      "durationSeconds": 34,
+      "viewCount": 27,
+      "likeCount": 1,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/63Z7vG0ra9Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/63Z7vG0ra9Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/63Z7vG0ra9Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/63Z7vG0ra9Y/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/63Z7vG0ra9Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "source:영상",
+        "type:방송",
+        "genre:정치",
+        "format:단신",
+        "person:윤웅성"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "8V_dpPY220g",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelTitle": " YTN",
+      "title": "국민의힘, 부동산정상화 특위 발족...위원장에 장동혁 / YTN",
+      "description": "국민의힘이 정부 10·15 대책에 대응하기 위해 장동혁 대표를 위원장으로 한 부동산정책 정상화 특별위원회를 발족했습니다.\n\n최보윤 수석대변인은 오늘(21일) 기자들과 만나, 10·15 대책은 수도권 집 구매를 어렵게 만든 초강력 수요 억제책이자, 서민·청년의 주거 사다리를 무너뜨리는 최악의 정책이라며 특위 구성 이유를 설명했습니다.\n\n이어 장 대표가 위원장",
+      "publishedAt": "2025-10-21T17:21:40Z",
+      "duration": "PT32S",
+      "durationSeconds": 32,
+      "viewCount": 28,
+      "likeCount": 2,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8V_dpPY220g/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8V_dpPY220g/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8V_dpPY220g/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/8V_dpPY220g/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/8V_dpPY220g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "source:영상",
+        "type:방송",
+        "genre:정치",
+        "format:단신",
+        "person:박희재"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "Rrac6YQTHWY",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelTitle": " YTN",
+      "title": "조희대, 민주당 사법개혁안에 \"국감 끝나고 논의해 말할 것\" / YTN",
+      "description": "[앵커]\n조희대 대법원장이 민주당이 발표한 사법 개혁안에 대해 국정감사가 끝나는 대로 내부적으로 논의해보겠다고 밝혔습니다.\n\n퇴근길 발언 직접 들어보시겠습니다.\n\n[조희대 / 대법원장 : (민주당이 제한적인 재판소원 도입한다고 하는데 입장 있으실까요?) 우리 국정감사 관계로 아직 우리 내부적인 이야기를 못 나눴습니다. 나중에 다 이야기해서 논의되는 대로 알",
+      "publishedAt": "2025-10-21T17:12:40Z",
+      "duration": "PT51S",
+      "durationSeconds": 51,
+      "viewCount": 121,
+      "likeCount": 3,
+      "commentCount": 3,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Rrac6YQTHWY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Rrac6YQTHWY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Rrac6YQTHWY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Rrac6YQTHWY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Rrac6YQTHWY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "source:영상",
+        "type:방송",
+        "genre:사회",
+        "format:기타"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "O-UXc1XtNao",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelTitle": " YTN",
+      "title": "김영섭 KT 대표 \"해킹 피해자 위약금 면제\" / YTN",
+      "description": "KT가 해킹 피해를 본 이용자들에 대한 위약금을 면제하겠다고 밝혔습니다.\n\n김영섭 KT 대표는 국회 국정감사에서 무단 소액결제와 해킹으로 인한 개인정보 유출 피해자에 대해 위약금 면제 고지 등 관련 절차를 진행하겠다고 말했습니다.\n\n위약금 면제 대상은 소액결제나 불법 기지국 접속 피해자들로 전체 이용자에 대한 위약금 면제는 조사 결과 이후 결정한다는 입장입",
+      "publishedAt": "2025-10-21T15:26:42Z",
+      "duration": "PT30S",
+      "durationSeconds": 30,
+      "viewCount": 224,
+      "likeCount": 2,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/O-UXc1XtNao/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/O-UXc1XtNao/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/O-UXc1XtNao/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/O-UXc1XtNao/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/O-UXc1XtNao/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "source:영상",
+        "type:방송",
+        "genre:경제",
+        "format:단신",
+        "person:최아영"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "DRN80GRdPVY",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelTitle": " YTN",
+      "title": "다카이치 \"한국은 중요한 이웃...이 대통령과 회담 희망\" / YTN",
+      "description": "다카이치 사나에 신임 일본 총리가 한국은 중요한 이웃 국가라며 APEC 정상회의에서 이재명 대통령과 만날 것이라고 밝혔습니다.\n\n다카이치 총리는 오늘(21일) 밤 총리 관저에서 열린 취임 후 첫 기자회견에서 \"한일 관계의 중요성은 더욱 커지고 있어 이재명 대통령과 회담을 희망하고 제대로 의사소통해 가겠다\"고 언급했습니다.\n\n다카이치 총리는 한국에서 열리는 ",
+      "publishedAt": "2025-10-21T15:21:36Z",
+      "duration": "PT25S",
+      "durationSeconds": 25,
+      "viewCount": 559,
+      "likeCount": 4,
+      "commentCount": 8,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DRN80GRdPVY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DRN80GRdPVY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DRN80GRdPVY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/DRN80GRdPVY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/DRN80GRdPVY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "source:영상",
+        "type:방송",
+        "genre:국제",
+        "format:단신",
+        "person:정유신"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "bPlLYYprmb0",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelTitle": " YTN",
+      "title": "국민체육진흥공단, 스마트시티&스포츠 서밋 개최 / YTN",
+      "description": "국민체육진흥공단이 '스마트시티 & 스포츠 서밋' 개막식을 열고 이틀 동안의 국제 포럼 행사를 시작했습니다.\n\n세계올림픽도시연합 주도로 2014년 스위스 로잔에서 시작한 이번 포럼은 올해 11회째로, 스포츠를 통해 도시 발전 전략을 공유하고 올림픽 개최 도시와 국제 스포츠 기구들의 협력을 증진하기 위한 행사입니다.\n\n25개 나라 50개 도시 관계자 350여 ",
+      "publishedAt": "2025-10-21T15:15:32Z",
+      "duration": "PT24S",
+      "durationSeconds": 24,
+      "viewCount": 120,
+      "likeCount": 0,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bPlLYYprmb0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bPlLYYprmb0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bPlLYYprmb0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/bPlLYYprmb0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/bPlLYYprmb0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "source:영상",
+        "type:방송",
+        "genre:스포츠",
+        "format:기타",
+        "person:이경재"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "JCHiAWXLu3A",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelTitle": " YTN",
+      "title": "'SM 주가 조작' 혐의 카카오 김범수 1심 무죄 선고 / YTN",
+      "description": "SM엔터테인먼트 주가 조작 혐의로 재판을 받아온 김범수 카카오 창업자가 1심에서 무죄를 선고받았습니다.\n\n서울남부지방법원은 오늘(21일) 오전 열린 선고 공판에서 시세조종 혐의가 인정되지 않는다며 김 창업자에게 무죄를 선고했습니다.\n\n재판부는 카카오 측이 시세조종 의도로 주식을 매수했다기보다는 주가 상승에 대비해 물량 확보 차원에서 매수했다고 보는 것이 합",
+      "publishedAt": "2025-10-21T15:09:17Z",
+      "duration": "PT30S",
+      "durationSeconds": 30,
+      "viewCount": 238,
+      "likeCount": 0,
+      "commentCount": 1,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JCHiAWXLu3A/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JCHiAWXLu3A/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JCHiAWXLu3A/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/JCHiAWXLu3A/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/JCHiAWXLu3A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "source:영상",
+        "type:방송",
+        "genre:사회",
+        "format:기타",
+        "person:양동훈"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "SOsJBlrbaDA",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelTitle": " YTN",
+      "title": "'10대 딸 살해 혐의' 40대 구속...\"도주 우려\" / YTN",
+      "description": "수원지방법원 안산지원은 오늘(21일) 학업 등 행동 문제로 갈등하다 자신의 딸을 살해한 혐의를 받는 40대 남성 A 씨에 대해 도주할 우려가 있다고 보고 구속 영장을 발부했습니다.\n\n출석에 앞서 A 씨는 범행을 후회하는지 등을 묻는 취재진의 질문에 아무런 대답 없이 법정으로 향했습니다.\n\nA 씨는 그제 저녁 7시쯤 경기 안산시 단원구에 있는 자택에서 10대",
+      "publishedAt": "2025-10-21T15:08:07Z",
+      "duration": "PT29S",
+      "durationSeconds": 29,
+      "viewCount": 381,
+      "likeCount": 8,
+      "commentCount": 3,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SOsJBlrbaDA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SOsJBlrbaDA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SOsJBlrbaDA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/SOsJBlrbaDA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/SOsJBlrbaDA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "source:영상",
+        "type:방송",
+        "genre:사회",
+        "format:기타",
+        "person:유서현"
+      ],
+      "isShorts": true
+    }
+  ],
   "channelStats": [
     {
       "id": "UChlgI3UHCOnwUGzWzbJ3H5w",
@@ -18,8 +613,8 @@
       "customUrl": "@ytnnews24",
       "publishedAt": "2013-05-23T07:07:42Z",
       "subscriberCount": 5200000,
-      "videoCount": 905020,
-      "viewCount": 18139063496,
+      "videoCount": 905075,
+      "viewCount": 18142680631,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s88-c-k-c0x00ffffff-no-rj",
@@ -39,9 +634,9 @@
       },
       "uploads": "UUhlgI3UHCOnwUGzWzbJ3H5w",
       "country": "KR",
-      "videosAnalyzed": 0,
-      "shortsCount": 0,
-      "regularVideosCount": 0
+      "videosAnalyzed": 30,
+      "shortsCount": 11,
+      "regularVideosCount": 19
     },
     {
       "id": "UCWlV3Lz_55UaX4JsMj-z__Q",
@@ -50,8 +645,8 @@
       "customUrl": "@tvchosunnews",
       "publishedAt": "2012-08-23T12:33:18Z",
       "subscriberCount": 2970000,
-      "videoCount": 158704,
-      "viewCount": 4619741989,
+      "videoCount": 158732,
+      "viewCount": 4622522944,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
@@ -82,8 +677,8 @@
       "customUrl": "@speaks_tv",
       "publishedAt": "2022-05-24T02:02:45.424058Z",
       "subscriberCount": 1540000,
-      "videoCount": 26472,
-      "viewCount": 1721229369,
+      "videoCount": 26485,
+      "viewCount": 1721424809,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/S3rLqAB2YDYQDzLNBiFveCxuoTifWkLQtQP-V416WUiciWNz1umav1O51CwrxVy8zKrTMSKg=s88-c-k-c0x00ffffff-no-rj",
@@ -113,9 +708,9 @@
       "description": "국회 티키타카! 콘텐츠왕국! 어른김장하! 지역소생연구소!\n\n홈페이지 : http://www.mbcgn.kr\n페이스북 : http://www.facebook.com/withmbcgn\n인스타그램  : https://www.instagram.com/mbcgn/",
       "customUrl": "@mbcgn_tv",
       "publishedAt": "2017-08-08T04:13:21Z",
-      "subscriberCount": 985000,
-      "videoCount": 19573,
-      "viewCount": 2031332903,
+      "subscriberCount": 986000,
+      "videoCount": 19580,
+      "viewCount": 2032796204,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/5HS1lKLWrlfyoflas7qJHolnSjJ_5hLDgK2WFNas2vMQAU_3fPyMXVqXM0UtDXOs3r2UV5CAjQ=s88-c-k-c0x00ffffff-no-rj",
@@ -147,7 +742,7 @@
       "publishedAt": "2024-02-14T06:48:46.622989Z",
       "subscriberCount": 620000,
       "videoCount": 2673,
-      "viewCount": 1389519545,
+      "viewCount": 1390379006,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/tgqlfQiRq_Zny5G7E9VWdhFv7AORkvo26IKEnvHirKGPoxbwFaZG02qQsa5NUMM03AURCDC_=s88-c-k-c0x00ffffff-no-rj",
@@ -177,9 +772,9 @@
       "description": "빠르고 쉽게 올바른 생각을 전합니다\n제보 및 협업 문의\n✉️ connect.voiceofkorea@gmail.com\n",
       "customUrl": "@한국의목소리",
       "publishedAt": "2025-01-31T07:55:07.066491Z",
-      "subscriberCount": 510000,
+      "subscriberCount": 511000,
       "videoCount": 1137,
-      "viewCount": 777624121,
+      "viewCount": 779986022,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/4iOFLb4gPIReye1CRxGOIYK6oe3-i65mtzpT851pm5sFWY46hVgPMVo7loKQVWy-ZJSxYv_K=s88-c-k-c0x00ffffff-no-rj",
@@ -209,9 +804,9 @@
       "description": "세상을 보여주는 창!",
       "customUrl": "@jknews97",
       "publishedAt": "2024-03-24T10:26:55.652981Z",
-      "subscriberCount": 494000,
-      "videoCount": 1684,
-      "viewCount": 862206393,
+      "subscriberCount": 495000,
+      "videoCount": 1685,
+      "viewCount": 863336716,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/K4zWkeJjnkekAxKX8t6KdvNSVpCGo_UUYNGY67R7Qkt0DKWbsfg84eY_O1l6pyC5YtPZgC9O8es=s88-c-k-c0x00ffffff-no-rj",
@@ -243,7 +838,7 @@
       "publishedAt": "2024-03-17T11:15:44.181866Z",
       "subscriberCount": 472000,
       "videoCount": 274,
-      "viewCount": 149421006,
+      "viewCount": 149421130,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/haTQr8ZLyCIIL48yyYimlvHCx0bHV8v5-qJ49u62tOMhPgnOLloFb6RJaSBbSJSOQyBd52Uhcw=s88-c-k-c0x00ffffff-no-rj",
@@ -274,8 +869,8 @@
       "customUrl": "@이슈카톡",
       "publishedAt": "2022-05-30T11:34:11.689006Z",
       "subscriberCount": 462000,
-      "videoCount": 3422,
-      "viewCount": 1695257203,
+      "videoCount": 3425,
+      "viewCount": 1696063257,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/GXD6CIjLk1Dnt5VC7nl-M72a7ueVq8b6oA4yjURVnF1ZYbgqtwf5ZPNg72VafPOIw02ANvMh2A=s88-c-k-c0x00ffffff-no-rj",
@@ -307,7 +902,7 @@
       "publishedAt": "2009-03-21T08:15:07Z",
       "subscriberCount": 451000,
       "videoCount": 2876,
-      "viewCount": 499406175,
+      "viewCount": 499462798,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/fVn9FhfxwrVUvNj_Vii0l6vcyUNNQFQImVhwPhUSHguibKKkR1_8iIyHeaMGxFrjJ6GYGqlymw=s88-c-k-c0x00ffffff-no-rj",
@@ -338,8 +933,8 @@
       "customUrl": "@옳소tv",
       "publishedAt": "2012-08-14T03:09:18Z",
       "subscriberCount": 408000,
-      "videoCount": 7912,
-      "viewCount": 1165760720,
+      "videoCount": 7913,
+      "viewCount": 1165855102,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/yPAj61qh8lJWmJLRsk5X6CN3y3jEuW8voB6fxLr1BujKlHTcXA_x_4nC09y-cC1rKWu55GoS-A=s88-c-k-c0x00ffffff-no-rj",
@@ -370,8 +965,8 @@
       "customUrl": "@mbcnews7670",
       "publishedAt": "2017-08-07T06:21:04Z",
       "subscriberCount": 405000,
-      "videoCount": 41823,
-      "viewCount": 457205294,
+      "videoCount": 41839,
+      "viewCount": 457632601,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/v__eiQEgXgwAynGyNr0_Nmcs3pBhXI-ZGhkiNwgxvQnlCaDH-m1DKnnC7044d95G3qW_8V3iZQ=s88-c-k-c0x00ffffff-no-rj",
@@ -403,7 +998,7 @@
       "publishedAt": "2018-02-07T05:25:49Z",
       "subscriberCount": 387000,
       "videoCount": 2622,
-      "viewCount": 489147205,
+      "viewCount": 489275888,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/CfeyGSvQwDc7p7TSueVaFvcuwKlwu999XXxNCdBVKb0YyYhth-H-321wlxcbaSOHMYjODKnK5_M=s88-c-k-c0x00ffffff-no-rj",
@@ -435,7 +1030,7 @@
       "publishedAt": "2020-05-28T12:15:50.768611Z",
       "subscriberCount": 379000,
       "videoCount": 582,
-      "viewCount": 111731864,
+      "viewCount": 111748450,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/R6ynfgFkV7pKnrgUIp52TOpg2AQ2qD0Geo57N9uoFitMuC1nvsL7LmBRqgnZqqwGCj1RNL0Yvg=s88-c-k-c0x00ffffff-no-rj",
@@ -467,7 +1062,7 @@
       "publishedAt": "2021-06-14T07:24:32.052051Z",
       "subscriberCount": 369000,
       "videoCount": 4987,
-      "viewCount": 126242586,
+      "viewCount": 126257417,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/Mj82ZoQWoRNyoeQR78oc81WRLH4qzwo9novgnAViu9LzXp-OqwI-oWCSqY_g6kNX8kedCP03=s88-c-k-c0x00ffffff-no-rj",
@@ -498,8 +1093,8 @@
       "customUrl": "@이마까tv",
       "publishedAt": "2018-11-09T08:01:53Z",
       "subscriberCount": 328000,
-      "videoCount": 795,
-      "viewCount": 728655275,
+      "videoCount": 796,
+      "viewCount": 729028863,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/RstzVEx_9sC_aaMuFohYXwUyclAN97UMi8jX4N8me9lyj7vIOlmHLoOdV1_GfPwJcOGBC_zf=s88-c-k-c0x00ffffff-no-rj",
@@ -530,8 +1125,8 @@
       "customUrl": "@이마까tv",
       "publishedAt": "2018-11-09T08:01:53Z",
       "subscriberCount": 328000,
-      "videoCount": 795,
-      "viewCount": 728655275,
+      "videoCount": 796,
+      "viewCount": 729028863,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/RstzVEx_9sC_aaMuFohYXwUyclAN97UMi8jX4N8me9lyj7vIOlmHLoOdV1_GfPwJcOGBC_zf=s88-c-k-c0x00ffffff-no-rj",
@@ -563,7 +1158,7 @@
       "publishedAt": "2023-05-08T14:08:28.931191Z",
       "subscriberCount": 293000,
       "videoCount": 11256,
-      "viewCount": 810316981,
+      "viewCount": 810367505,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/7rlTtFMzGKfuE8T2Z0_QcJZwgCKdxu2uURra0Z3lxVAqmTs82W1WgrFC_GvxuBghXKaMpZVWmOM=s88-c-k-c0x00ffffff-no-rj",
@@ -594,8 +1189,8 @@
       "customUrl": "@minjupick",
       "publishedAt": "2013-04-08T07:04:38Z",
       "subscriberCount": 292000,
-      "videoCount": 1823,
-      "viewCount": 1464384621,
+      "videoCount": 1825,
+      "viewCount": 1465221799,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/9cfPcDDSln3sHmfzt4F-nYQU9rnYhfew9LoTnLeKqkCNbyp_FtOzXqnFM_z6Fl7kvLmi7JAE=s88-c-k-c0x00ffffff-no-rj",
@@ -626,8 +1221,8 @@
       "customUrl": "@mychokuk",
       "publishedAt": "2021-08-05T10:53:39.000195Z",
       "subscriberCount": 283000,
-      "videoCount": 2873,
-      "viewCount": 682288686,
+      "videoCount": 2875,
+      "viewCount": 683006485,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/tZbcl-KHk4OL2vHneZCZS3Dya5Op54TNjjWwBX-QV2rU8mJG_Y27LGFIoerxGT8Sd08yHibziA=s88-c-k-c0x00ffffff-no-rj",
