@@ -1,89 +1,124 @@
 {
-  "lastUpdated": "2025-11-07T12:23:29.931Z",
+  "lastUpdated": "2025-11-07T18:18:01.242Z",
   "totalChannelsAnalyzed": 83,
-  "totalVideos": 90,
-  "totalShorts": 67,
-  "totalRegularVideos": 23,
-  "totalViewCount": 11983811,
-  "totalLikeCount": 195634,
-  "averageViewsPerShort": 142541,
+  "totalVideos": 600,
+  "totalShorts": 391,
+  "totalRegularVideos": 209,
+  "totalViewCount": 124952283,
+  "totalLikeCount": 5173955,
+  "averageViewsPerShort": 231608,
   "topChannelsByShorts": [
     {
-      "title": "진짜대한민국",
+      "title": "세상만사",
       "shortsCount": 30,
-      "subscriberCount": 71300
+      "subscriberCount": 629000
     },
     {
-      "title": "지구뉴스(Jigu News)",
+      "title": "잼통",
+      "shortsCount": 30,
+      "subscriberCount": 471000
+    },
+    {
+      "title": "미디어몽구",
+      "shortsCount": 30,
+      "subscriberCount": 453000
+    },
+    {
+      "title": "나의조국",
+      "shortsCount": 30,
+      "subscriberCount": 285000
+    },
+    {
+      "title": "골프콜라",
+      "shortsCount": 30,
+      "subscriberCount": 245000
+    },
+    {
+      "title": "명명백백",
+      "shortsCount": 30,
+      "subscriberCount": 213000
+    },
+    {
+      "title": "옳소TV",
       "shortsCount": 29,
-      "subscriberCount": 122000
+      "subscriberCount": 410000
     },
     {
-      "title": "BBC News",
-      "shortsCount": 8,
-      "subscriberCount": 18900000
+      "title": "정치일주",
+      "shortsCount": 29,
+      "subscriberCount": 263000
+    },
+    {
+      "title": "한국의목소리",
+      "shortsCount": 28,
+      "subscriberCount": 530000
+    },
+    {
+      "title": "이슈카톡",
+      "shortsCount": 28,
+      "subscriberCount": 468000
     }
   ],
   "topShortsByViews": [
     {
-      "title": "고학력자 김제동",
-      "channelTitle": "진짜대한민국",
-      "viewCount": 1675636,
-      "publishedAt": "2025-10-24T13:01:20Z"
+      "title": "윤 폭탄주 20잔? 조갑제 헛웃음, 미사일 한방에 군사령관 다죽어 미쳤다~!!",
+      "channelTitle": "이슈카톡",
+      "viewCount": 2485566,
+      "publishedAt": "2025-11-05T00:28:00Z"
     },
     {
-      "title": "핵잠수함 승인에도 중국이 별 말 없는 이유",
-      "channelTitle": "지구뉴스(Jigu News)",
-      "viewCount": 774169,
-      "publishedAt": "2025-10-31T05:33:38Z"
+      "title": "한동운 발언 왜나왔나보니 윤석열 '이말에 터졌다'' #곽종근",
+      "channelTitle": "세상만사",
+      "viewCount": 2382753,
+      "publishedAt": "2025-11-03T23:38:58Z"
     },
     {
-      "title": "김건희와 그 남자 관계 제보 받은 헬마우스",
-      "channelTitle": "지구뉴스(Jigu News)",
-      "viewCount": 561773,
-      "publishedAt": "2025-11-06T01:52:49Z"
+      "title": "캄보디아 사태를 전하는 태국언론 근황",
+      "channelTitle": "이마까TV",
+      "viewCount": 1546242,
+      "publishedAt": "2025-10-19T18:28:38Z"
     },
     {
-      "title": "알아서 할게요 스님",
-      "channelTitle": "진짜대한민국",
-      "viewCount": 554491,
-      "publishedAt": "2025-10-27T08:58:46Z"
+      "title": "캄보디아 사태를 전하는 태국언론 근황",
+      "channelTitle": "이마까TV",
+      "viewCount": 1546242,
+      "publishedAt": "2025-10-19T18:28:38Z"
     },
     {
-      "title": "전라도친구한테 혼쭐난 김제동",
-      "channelTitle": "진짜대한민국",
-      "viewCount": 469653,
-      "publishedAt": "2025-11-02T07:30:17Z"
+      "title": "조희대 관용차량 쉴드치는 국힘 그러나...",
+      "channelTitle": "이마까TV",
+      "viewCount": 1528020,
+      "publishedAt": "2025-10-05T23:27:24Z"
     },
     {
-      "title": "이재명 대통령에게 트럼프가 주고 간 선물",
-      "channelTitle": "지구뉴스(Jigu News)",
-      "viewCount": 451606,
-      "publishedAt": "2025-10-30T01:05:35Z"
+      "title": "조희대 관용차량 쉴드치는 국힘 그러나...",
+      "channelTitle": "이마까TV",
+      "viewCount": 1528020,
+      "publishedAt": "2025-10-05T23:27:24Z"
     },
     {
-      "title": "한미 관세협상에서 승리할 수 있었던 이유",
-      "channelTitle": "지구뉴스(Jigu News)",
-      "viewCount": 417885,
-      "publishedAt": "2025-10-29T23:09:26Z"
+      "title": "\"김건희에겐 사과\"하고 \"이재명엔 침묵\"한 언론사",
+      "channelTitle": "정치일주",
+      "viewCount": 1248349,
+      "publishedAt": "2025-10-28T08:17:00Z"
     },
     {
-      "title": "트럼프의 마음을 정확히 저격한 왕관 선물",
-      "channelTitle": "지구뉴스(Jigu News)",
-      "viewCount": 404393,
-      "publishedAt": "2025-10-29T14:55:18Z"
+      "title": "살기 내뿜는 김병기",
+      "channelTitle": "엠키타카 MKTK",
+      "viewCount": 1132111,
+      "publishedAt": "2025-11-06T08:20:49Z"
     },
     {
-      "title": "유재석이 싫어요",
-      "channelTitle": "진짜대한민국",
-      "viewCount": 350710,
-      "publishedAt": "2025-10-28T10:50:23Z"
+      "title": "한덕수 증거인멸, 정재욱 판사는 영장 기각~!!",
+      "channelTitle": "이슈카톡",
+      "viewCount": 1131177,
+      "publishedAt": "2025-11-03T13:34:22Z"
     },
     {
-      "title": "의사한테 열받은 김제동?",
-      "channelTitle": "진짜대한민국",
-      "viewCount": 299786,
-      "publishedAt": "2025-10-25T08:01:17Z"
+      "title": "마이크 세우던 검사 본인 자료화면 나오자 비웃는 모습 포착.",
+      "channelTitle": "잘들어뉴스",
+      "viewCount": 1119605,
+      "publishedAt": "2025-10-27T09:03:04Z"
     }
   ]
 }
