@@ -1,14 +1,2873 @@
 {
-  "lastUpdated": "2025-11-10T06:19:16.190Z",
-  "totalChannelsAnalyzed": 0,
-  "totalVideos": 0,
-  "totalShorts": 0,
-  "totalRegularVideos": 0,
-  "totalViewCount": 0,
-  "totalLikeCount": 0,
-  "averageViewsPerShort": 0,
-  "topChannelsByShorts": [],
-  "topShortsByViews": [],
-  "recentShorts": [],
-  "channelStats": []
+  "lastUpdated": "2025-11-10T12:24:27.477Z",
+  "totalChannelsAnalyzed": 83,
+  "totalVideos": 90,
+  "totalShorts": 56,
+  "totalRegularVideos": 34,
+  "totalViewCount": 1970763,
+  "totalLikeCount": 48430,
+  "averageViewsPerShort": 28542,
+  "topChannelsByShorts": [
+    {
+      "title": "정치핫이슈",
+      "shortsCount": 30,
+      "subscriberCount": 4200
+    },
+    {
+      "title": "정치팩트",
+      "shortsCount": 16,
+      "subscriberCount": 101000
+    },
+    {
+      "title": " YTN",
+      "shortsCount": 10,
+      "subscriberCount": 5220000
+    }
+  ],
+  "topShortsByViews": [
+    {
+      "title": "이재용, 미국에서도 이재명 기다린 충격적인 이유",
+      "channelTitle": "정치핫이슈",
+      "viewCount": 259279,
+      "publishedAt": "2025-08-28T15:35:40Z"
+    },
+    {
+      "title": "명태균, 오세훈 면전서 일침… 회의장이 얼어붙었다",
+      "channelTitle": "정치팩트",
+      "viewCount": 142423,
+      "publishedAt": "2025-10-26T10:00:41Z"
+    },
+    {
+      "title": "이재명이 답했다. 아니 대한민국이 답했다.",
+      "channelTitle": "정치핫이슈",
+      "viewCount": 113041,
+      "publishedAt": "2025-10-31T14:52:37Z"
+    },
+    {
+      "title": "김건희 구속? 트럼프가 물어보자 이재명 충격 답변",
+      "channelTitle": "정치핫이슈",
+      "viewCount": 88881,
+      "publishedAt": "2025-08-28T13:42:01Z"
+    },
+    {
+      "title": "[충격]이재용이 존경했던 대통령. 이재명? 이명박? 노무현? 김대중? 박정희?",
+      "channelTitle": "정치핫이슈",
+      "viewCount": 56165,
+      "publishedAt": "2025-08-31T17:10:26Z"
+    },
+    {
+      "title": "이재명 미국 방문, 푸대접? 논란 종결",
+      "channelTitle": "정치핫이슈",
+      "viewCount": 53316,
+      "publishedAt": "2025-08-25T14:42:23Z"
+    },
+    {
+      "title": "장동혁 당선! 어떤 핵심 인물들과 어떤 행보를?",
+      "channelTitle": "정치핫이슈",
+      "viewCount": 44937,
+      "publishedAt": "2025-08-26T16:08:30Z"
+    },
+    {
+      "title": "역대 대통령은 영빈관, 이재명만 왜 여기에서? #이재명 #김혜경",
+      "channelTitle": "정치핫이슈",
+      "viewCount": 44699,
+      "publishedAt": "2025-08-25T16:32:59Z"
+    },
+    {
+      "title": "정청래 금관 쓰고 왕놀이, 급하게 사진 삭제할수 밖에 없었던 이유는?",
+      "channelTitle": "정치핫이슈",
+      "viewCount": 38774,
+      "publishedAt": "2025-08-24T14:25:24Z"
+    },
+    {
+      "title": "장동혁, 이재명 정권 끌어내린다!",
+      "channelTitle": "정치핫이슈",
+      "viewCount": 38507,
+      "publishedAt": "2025-08-26T01:54:06Z"
+    }
+  ],
+  "recentShorts": [
+    {
+      "id": "6j1tXxtv47U",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelTitle": " YTN",
+      "title": "[서울] 서울시민 75% 아리수 마신다...신뢰도·만족도↑ / YTN",
+      "description": "수돗물을 '먹는 물'로 이용하는 서울 시민이 10명 가운데 7명이 넘는 것으로 나타났습니다.\n\n서울시는 이 같은 내용의 '2025년 서울시민 먹는 물 소비패턴 조사' 결과를 발표했습니다.\n\n지난 8월 13일부터 19일까지 만 18세 이상 시민 천 명을 대상으로 진행한 온라인 설문 조사에서 응답자의 75%가 수돗물을 먹는다고 응답했습니다.\n\n지난해 69.6%",
+      "publishedAt": "2025-11-10T12:22:34Z",
+      "duration": "PT26S",
+      "durationSeconds": 26,
+      "viewCount": 0,
+      "likeCount": 0,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6j1tXxtv47U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6j1tXxtv47U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6j1tXxtv47U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/6j1tXxtv47U/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/6j1tXxtv47U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "source:영상",
+        "type:방송",
+        "genre:전국",
+        "format:단신",
+        "person:이형원"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "97_Y3IyNGCc",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelTitle": " YTN",
+      "title": "2026 제주 전국체전 마스코트는 남방큰돌고래 '끼요' / YTN",
+      "description": "제주도는 전국체전 조직위 회의를 열고 내년 제주에서 열리는 전국체전의 공식 마스코트를 공개했습니다.\n\n제주 남방큰돌고래를 형상화한 마스코트 '끼요'는 끼 넘치고 야무진 제주인의 강인한 정신과 서로 돕는 수눌음 문화 등을 담았습니다.\n\n제주도는 '디지털 체전'을 추진하고, 대체불가토큰 기반 입장권 발행, 로봇 성화 봉송 등 미래형 체전으로 전국의 이목을 집중",
+      "publishedAt": "2025-11-10T12:14:40Z",
+      "duration": "PT19S",
+      "durationSeconds": 19,
+      "viewCount": 8,
+      "likeCount": 0,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/97_Y3IyNGCc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/97_Y3IyNGCc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/97_Y3IyNGCc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/97_Y3IyNGCc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/97_Y3IyNGCc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "source:영상",
+        "type:방송",
+        "genre:전국",
+        "format:단신",
+        "person:고재형"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "W0sF5ouh6s8",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelTitle": " YTN",
+      "title": "[인천] '인천 소상공인 천원택배' 60개 지하철역으로 확대 / YTN",
+      "description": "인천시가 지역 소상공인을 대상으로 하는 '천원택배' 서비스 집화센터를 인천지하철 1·2호선 60개 역사로 확대 운영에 들어갔습니다.\n\n인천시는 지난해 10월 전국 최초로 '소상공인 반값 택배'를 도입하고 시내 30개 지하철역에 집화센터를 운영했습니다.\n\n이 사업은 인천 시내 지하철역 집화센터에 직접 물품을 입고하면 최저 천 원부터 배송할 수 있고 사업장에서",
+      "publishedAt": "2025-11-10T12:08:55Z",
+      "duration": "PT21S",
+      "durationSeconds": 21,
+      "viewCount": 49,
+      "likeCount": 0,
+      "commentCount": 1,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/W0sF5ouh6s8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/W0sF5ouh6s8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/W0sF5ouh6s8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/W0sF5ouh6s8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/W0sF5ouh6s8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "source:영상",
+        "type:방송",
+        "genre:전국",
+        "format:단신",
+        "person:강태욱"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "s9fWZW477ic",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelTitle": " YTN",
+      "title": "[경기] 평택시, 경부고속도 안성휴게소에 '동평택IC' 개설 추진 / YTN",
+      "description": "평택시는 국도 38호선과 경부고속도로 안성IC의 교통량을 분산하기 위해 경부고속도로 안성휴게소에 하이패스 전용 가칭 '동평택IC' 신설을 추진 중이라고 밝혔습니다.\n\n시는 이를 위해 다음 달 중 '동평택IC신설 타당성 평가 및 기본계획 수립 용역'을 발주할 계획입니다.\n\n시는 연구용역에서 고속도로 진출입이 모두 가능한 동평택IC 신설이 타당성 있게 나올 경",
+      "publishedAt": "2025-11-10T12:06:46Z",
+      "duration": "PT21S",
+      "durationSeconds": 21,
+      "viewCount": 53,
+      "likeCount": 0,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/s9fWZW477ic/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/s9fWZW477ic/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/s9fWZW477ic/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/s9fWZW477ic/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/s9fWZW477ic/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "source:영상",
+        "type:방송",
+        "genre:전국",
+        "format:단신",
+        "person:최명신"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "EK7a4b5NlJg",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelTitle": " YTN",
+      "title": "[단독] \"부평 무인점포 턴 중학생 2인조, 전날에도 절도 범행\" / YTN",
+      "description": "지난달 인천 부평 일대 무인점포를 돌며 현금을 훔친 중학생 2인조가 범행 하루 전에도 비슷한 범행을 저지른 것으로 확인됐습니다.\n\n인천 부평경찰서는 특수 절도 등의 혐의로 입건된 중학생 2명의 추가 범죄 혐의를 확인해 조사하고 있다고 밝혔습니다.\n\n지난달 27일 무인점포 3곳에서 현금 140여만 원을 훔친 혐의로 이들을 붙잡아 조사하는 경찰은 두 사람이 전",
+      "publishedAt": "2025-11-10T11:57:46Z",
+      "duration": "PT33S",
+      "durationSeconds": 33,
+      "viewCount": 56,
+      "likeCount": 0,
+      "commentCount": 1,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/EK7a4b5NlJg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/EK7a4b5NlJg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/EK7a4b5NlJg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/EK7a4b5NlJg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/EK7a4b5NlJg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "source:영상",
+        "type:방송",
+        "genre:사회",
+        "format:심층취재",
+        "person:조경원"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "IDy1BvGl0tg",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelTitle": " YTN",
+      "title": "[단독] 인천 부평 무인점포 3곳 또 털려...중학생 3인조 검거 / YTN",
+      "description": "최근 부평지역에서 잇따라 무인점포를 턴 혐의로 중학생 2명이 검거된 가운데, 같은 지역의 무인점포를 돌며 현금 수백만 원을 훔친 혐의로 또 다른 중학생 3명이 경찰에 붙잡혔습니다.\n\n인천 부평경찰서는 특수 절도 등의 혐의로 중학생 3명을 입건해 조사하고 있습니다.\n\n이들은 지난 7일 새벽 3시부터 5시 사이 인천시 부평구에 있는 무인점포 3곳을 돌며 현금 ",
+      "publishedAt": "2025-11-10T11:56:40Z",
+      "duration": "PT25S",
+      "durationSeconds": 25,
+      "viewCount": 95,
+      "likeCount": 0,
+      "commentCount": 1,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/IDy1BvGl0tg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/IDy1BvGl0tg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/IDy1BvGl0tg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/IDy1BvGl0tg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/IDy1BvGl0tg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "source:영상",
+        "type:방송",
+        "genre:사회",
+        "format:심층취재",
+        "person:조경원"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "13_50nXNB9M",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelTitle": " YTN",
+      "title": "캄보디아 '코리아 전담반' 출범...경찰 최대 7명 파견 / YTN",
+      "description": "캄보디아 내 한국인 대상 스캠과 감금, 인신매매 범죄 등을 전담하는 이른바 '코리아 전담반'이 공식 출범했습니다.\n\n우리나라와 캄보디아 경찰청은 오늘(10일) 캄보디아 프놈펜에서 코리아 전담반 설치를 위한 협약식을 열었습니다.\n\n지난달 27일 양국 정상 합의에 따른 후속 조처로, 필리핀에 설치된 코리안 데스크처럼 우리 경찰이 현지에 파견돼 사건 접수부터 수",
+      "publishedAt": "2025-11-10T11:31:25Z",
+      "duration": "PT32S",
+      "durationSeconds": 32,
+      "viewCount": 314,
+      "likeCount": 12,
+      "commentCount": 6,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/13_50nXNB9M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/13_50nXNB9M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/13_50nXNB9M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/13_50nXNB9M/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/13_50nXNB9M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "source:영상",
+        "type:방송",
+        "genre:사회",
+        "format:단신",
+        "person:부장원"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "4prPo8wGwWE",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelTitle": " YTN",
+      "title": "민주 \"검찰, 쿠데타적 항명...철저히 분쇄할 것\" / YTN",
+      "description": "더불어민주당은 대장동 사건 항소 포기에 검찰 내 반발이 이어지는 걸 두고, '친윤' 검사들의 쿠데타적 항명이 참 가관이라며 마치 뭐라도 된 듯 나대는 게 정치 검찰이란 방증이라고 비판했습니다.\n\n김병기 원내대표는 오늘(10일) 최고위원회의에서, 정치검찰의 저항을 이번에는 철저히 분쇄할 거라며 이같이 밝혔습니다.\n\n이어 내부 의사결정 과정을 시간대별로 공개하",
+      "publishedAt": "2025-11-10T11:22:20Z",
+      "duration": "PT38S",
+      "durationSeconds": 38,
+      "viewCount": 75,
+      "likeCount": 0,
+      "commentCount": 3,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4prPo8wGwWE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4prPo8wGwWE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4prPo8wGwWE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/4prPo8wGwWE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/4prPo8wGwWE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "source:영상",
+        "type:방송",
+        "genre:정치",
+        "format:단신",
+        "person:임성재"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "Pmccr01usL0",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelTitle": " YTN",
+      "title": "경남 고성 육상양식장서 작업자 3명 숨진 채 발견 / YTN",
+      "description": "경남 고성 한 육상양식장에서 작업자 3명이 숨진 채 발견돼 경찰이 수사에 나섰습니다.\n\n어젯밤(9일) 8시 8분쯤 경남 고성군의 양식장의 대형 저수조에서 50대 남성 등 작업자 3명이 숨진 채 발견되었습니다.\n\n경찰은 저수조에 물이 가득 찬 상태에서 3명을 건졌고 사망 원인을 밝히기 위해 부검 등을 실시할 예정입니다.\n\n또 업체 대표 등을 상대로 과실 여부",
+      "publishedAt": "2025-11-10T11:21:21Z",
+      "duration": "PT26S",
+      "durationSeconds": 26,
+      "viewCount": 245,
+      "likeCount": 0,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Pmccr01usL0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Pmccr01usL0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Pmccr01usL0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Pmccr01usL0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Pmccr01usL0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "source:영상",
+        "type:방송",
+        "genre:전국",
+        "format:단신",
+        "person:박종혁"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "0PQJmgOoNS4",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelTitle": " YTN",
+      "title": "\"숨 쉬는 게 그립다\"...'대기오염 최악' 인도 뉴델리서 시위 / YTN",
+      "description": "세계에서 대기오염이 가장 심각한 도시로 꼽히는 인도 뉴델리에서 정부 대책을 촉구하는 시위가 벌어졌습니다.\n\n현지시간 10일 AFP 통신에 따르면 전날 인도 수도 뉴델리에서 시위대 수십 명이 대기오염 관련 대책을 마련하라며 시위했습니다.\n\n마스크를 착용한 일부 시위자는 어린 자녀들을 데리고 나왔고, \"숨 쉬는 게 그립다\"고 쓴 손팻말을 들기도 했습니다.\n\n전",
+      "publishedAt": "2025-11-10T10:36:59Z",
+      "duration": "PT26S",
+      "durationSeconds": 26,
+      "viewCount": 309,
+      "likeCount": 6,
+      "commentCount": 4,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0PQJmgOoNS4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0PQJmgOoNS4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0PQJmgOoNS4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/0PQJmgOoNS4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/0PQJmgOoNS4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "source:영상",
+        "type:방송",
+        "genre:국제",
+        "format:단신",
+        "person:권영희"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "Nw01U0zDH-8",
+      "channelId": "UChySEF2PrE14p4t4HJW9rag",
+      "channelTitle": "정치팩트",
+      "title": "김건희 휴대폰 전화속 그 남자 문자 최욱",
+      "description": "",
+      "publishedAt": "2025-11-09T10:00:38Z",
+      "duration": "PT57S",
+      "durationSeconds": 57,
+      "viewCount": 4557,
+      "likeCount": 98,
+      "commentCount": 2,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Nw01U0zDH-8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Nw01U0zDH-8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Nw01U0zDH-8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Nw01U0zDH-8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Nw01U0zDH-8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "9522-dAHiAw",
+      "channelId": "UCU8hC66NC3bmtpm-ZWvzHGw",
+      "channelTitle": "정치핫이슈",
+      "title": "삼성 이재용 비장의 기술 공개!  트럼프 반도체 꿈 박살난 이유",
+      "description": "영상 일부에는 AI 이미지 및 TTS 기술이 활용되었으며, 이는 이해를 돕기 위한 연출로 실제와 차이가 있을 수 있습니다.\n\n본 영상은 공개된 사실과 발언을 바탕으로 다양한 관점을 전달합니다.\n건강한 댓글 문화와 서로 다른 의견에 대한 존중을 부탁드립니다.\n\n\n#50대 #60대 #70대 #정치이슈 #정치유머 #정치 #이재용 #이재용회장 #트럼프",
+      "publishedAt": "2025-11-07T16:20:45Z",
+      "duration": "PT34S",
+      "durationSeconds": 34,
+      "viewCount": 4273,
+      "likeCount": 65,
+      "commentCount": 1,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9522-dAHiAw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9522-dAHiAw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9522-dAHiAw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/9522-dAHiAw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/9522-dAHiAw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "snNAhDCVDB4",
+      "channelId": "UChySEF2PrE14p4t4HJW9rag",
+      "channelTitle": "정치팩트",
+      "title": "징역 8년 나와 멘붕나간 유동규 봉지욱 최욱",
+      "description": "",
+      "publishedAt": "2025-11-07T12:01:59Z",
+      "duration": "PT43S",
+      "durationSeconds": 43,
+      "viewCount": 27058,
+      "likeCount": 926,
+      "commentCount": 19,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/snNAhDCVDB4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/snNAhDCVDB4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/snNAhDCVDB4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/snNAhDCVDB4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/snNAhDCVDB4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "Ke_F0Xjqv5E",
+      "channelId": "UChySEF2PrE14p4t4HJW9rag",
+      "channelTitle": "정치팩트",
+      "title": "국무위원도 피해자? 개념없는 박상우 최욱",
+      "description": "",
+      "publishedAt": "2025-11-07T00:30:23Z",
+      "duration": "PT52S",
+      "durationSeconds": 52,
+      "viewCount": 4892,
+      "likeCount": 52,
+      "commentCount": 3,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Ke_F0Xjqv5E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Ke_F0Xjqv5E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Ke_F0Xjqv5E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Ke_F0Xjqv5E/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Ke_F0Xjqv5E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "FR9ksTBWzok",
+      "channelId": "UCU8hC66NC3bmtpm-ZWvzHGw",
+      "channelTitle": "정치핫이슈",
+      "title": "수백억 프로젝트 손해 낸 직원에게 이재용의 충격적인 조치 방법",
+      "description": "영상 일부에는 AI 이미지 및 TTS 기술이 활용되었으며, 이는 이해를 돕기 위한 연출로 실제와 차이가 있을 수 있습니다.\n\n본 영상은 공개된 사실과 발언을 바탕으로 다양한 관점을 전달합니다.\n건강한 댓글 문화와 서로 다른 의견에 대한 존중을 부탁드립니다.\n\n\n#50대 #60대 #70대 #정치이슈 #정치유머 #정치 #이재용 #이재용회장",
+      "publishedAt": "2025-11-06T14:47:01Z",
+      "duration": "PT42S",
+      "durationSeconds": 42,
+      "viewCount": 16737,
+      "likeCount": 501,
+      "commentCount": 4,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/FR9ksTBWzok/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/FR9ksTBWzok/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/FR9ksTBWzok/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/FR9ksTBWzok/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/FR9ksTBWzok/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "aBFlXXPhp9o",
+      "channelId": "UChySEF2PrE14p4t4HJW9rag",
+      "channelTitle": "정치팩트",
+      "title": "국유재산 3만 9천개 팔아치운 윤석열정부 최욱",
+      "description": "",
+      "publishedAt": "2025-11-05T22:00:00Z",
+      "duration": "PT46S",
+      "durationSeconds": 46,
+      "viewCount": 31615,
+      "likeCount": 1234,
+      "commentCount": 27,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/aBFlXXPhp9o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/aBFlXXPhp9o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/aBFlXXPhp9o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/aBFlXXPhp9o/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/aBFlXXPhp9o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "Vf4xn4vS-8Q",
+      "channelId": "UCU8hC66NC3bmtpm-ZWvzHGw",
+      "channelTitle": "정치핫이슈",
+      "title": "25년 전 이건희의 편지가 AI황제 젠슨 황을 바꾸다",
+      "description": "영상 일부에는 AI 이미지 및 TTS 기술이 활용되었으며, 이는 이해를 돕기 위한 연출로 실제와 차이가 있을 수 있습니다.\n\n본 영상은 공개된 사실과 발언을 바탕으로 다양한 관점을 전달합니다.\n건강한 댓글 문화와 서로 다른 의견에 대한 존중을 부탁드립니다.\n\n\n#50대 #60대 #70대 #정치이슈 #정치유머 #정치 #이건희 #이재용 #젠슨황",
+      "publishedAt": "2025-11-04T14:40:16Z",
+      "duration": "PT40S",
+      "durationSeconds": 40,
+      "viewCount": 5660,
+      "likeCount": 49,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Vf4xn4vS-8Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Vf4xn4vS-8Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Vf4xn4vS-8Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Vf4xn4vS-8Q/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "Fmnhrk9KC7I",
+      "channelId": "UChySEF2PrE14p4t4HJW9rag",
+      "channelTitle": "정치팩트",
+      "title": "대통령한테 큰 빚을 졌다는 현대차 회장 최욱",
+      "description": "",
+      "publishedAt": "2025-11-04T00:45:03Z",
+      "duration": "PT56S",
+      "durationSeconds": 56,
+      "viewCount": 27015,
+      "likeCount": 224,
+      "commentCount": 6,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Fmnhrk9KC7I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Fmnhrk9KC7I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Fmnhrk9KC7I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Fmnhrk9KC7I/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Fmnhrk9KC7I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "3NStNInJMrg",
+      "channelId": "UCU8hC66NC3bmtpm-ZWvzHGw",
+      "channelTitle": "정치핫이슈",
+      "title": "이재용 치맥 도중 한마디, 치킨집 사장님 분노한 이유",
+      "description": "영상 일부에는 AI 이미지 및 TTS 기술이 활용되었으며, 이는 이해를 돕기 위한 연출로 실제와 차이가 있을 수 있습니다.\n\n본 영상은 공개된 사실과 발언을 바탕으로 다양한 관점을 전달합니다.\n건강한 댓글 문화와 서로 다른 의견에 대한 존중을 부탁드립니다.\n\n\n#50대 #60대 #70대 #정치이슈 #정치유머 #정치 #이재명 #이재용 #젠슨황 #정의선",
+      "publishedAt": "2025-11-02T14:00:08Z",
+      "duration": "PT28S",
+      "durationSeconds": 28,
+      "viewCount": 8128,
+      "likeCount": 125,
+      "commentCount": 2,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3NStNInJMrg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3NStNInJMrg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3NStNInJMrg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/3NStNInJMrg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/3NStNInJMrg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "9rwfZ7wlBIA",
+      "channelId": "UChySEF2PrE14p4t4HJW9rag",
+      "channelTitle": "정치팩트",
+      "title": "장사의 신 은현장 국감장에 나간 이유",
+      "description": "",
+      "publishedAt": "2025-11-02T10:00:29Z",
+      "duration": "PT50S",
+      "durationSeconds": 50,
+      "viewCount": 27853,
+      "likeCount": 536,
+      "commentCount": 3,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9rwfZ7wlBIA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9rwfZ7wlBIA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9rwfZ7wlBIA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/9rwfZ7wlBIA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/9rwfZ7wlBIA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "xt4RC1-qQ7c",
+      "channelId": "UCU8hC66NC3bmtpm-ZWvzHGw",
+      "channelTitle": "정치핫이슈",
+      "title": "이재명이 답했다. 아니 대한민국이 답했다.",
+      "description": "영상 일부에는 AI 이미지 및 TTS 기술이 활용되었으며, 이는 이해를 돕기 위한 연출로 실제와 차이가 있을 수 있습니다.\n\n본 영상은 공개된 사실과 발언을 바탕으로 다양한 관점을 전달합니다.\n건강한 댓글 문화와 서로 다른 의견에 대한 존중을 부탁드립니다.\n\n#50대 #60대 #70대 #정치이슈 #정치유머 #정치",
+      "publishedAt": "2025-10-31T14:52:37Z",
+      "duration": "PT34S",
+      "durationSeconds": 34,
+      "viewCount": 113041,
+      "likeCount": 3730,
+      "commentCount": 9,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xt4RC1-qQ7c/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xt4RC1-qQ7c/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xt4RC1-qQ7c/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/xt4RC1-qQ7c/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/xt4RC1-qQ7c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "BC95W2rRcyE",
+      "channelId": "UChySEF2PrE14p4t4HJW9rag",
+      "channelTitle": "정치팩트",
+      "title": "트럼프 황금 왕관에 주목한 외신 반응",
+      "description": "",
+      "publishedAt": "2025-10-31T00:00:13Z",
+      "duration": "PT56S",
+      "durationSeconds": 56,
+      "viewCount": 33371,
+      "likeCount": 771,
+      "commentCount": 16,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BC95W2rRcyE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BC95W2rRcyE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BC95W2rRcyE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/BC95W2rRcyE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/BC95W2rRcyE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "myZWTGEtWiY",
+      "channelId": "UChySEF2PrE14p4t4HJW9rag",
+      "channelTitle": "정치팩트",
+      "title": "일본과 비교되는 트럼프 한국 국기목례 김어준",
+      "description": "",
+      "publishedAt": "2025-10-30T01:30:43Z",
+      "duration": "PT52S",
+      "durationSeconds": 52,
+      "viewCount": 19087,
+      "likeCount": 328,
+      "commentCount": 6,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/myZWTGEtWiY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/myZWTGEtWiY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/myZWTGEtWiY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/myZWTGEtWiY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/myZWTGEtWiY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "OFB66_VKq9o",
+      "channelId": "UChySEF2PrE14p4t4HJW9rag",
+      "channelTitle": "정치팩트",
+      "title": "미국 항공모함이 왜 왔겠어요?트럼프 김정은  박선원",
+      "description": "",
+      "publishedAt": "2025-10-29T12:30:41Z",
+      "duration": "PT59S",
+      "durationSeconds": 59,
+      "viewCount": 19853,
+      "likeCount": 244,
+      "commentCount": 4,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OFB66_VKq9o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OFB66_VKq9o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OFB66_VKq9o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/OFB66_VKq9o/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/OFB66_VKq9o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "UzyJyZ-53YE",
+      "channelId": "UChySEF2PrE14p4t4HJW9rag",
+      "channelTitle": "정치팩트",
+      "title": "꿀잠자다 추미애에 딱걸린 엄희준 검사",
+      "description": "",
+      "publishedAt": "2025-10-28T00:30:34Z",
+      "duration": "PT41S",
+      "durationSeconds": 41,
+      "viewCount": 27276,
+      "likeCount": 592,
+      "commentCount": 16,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UzyJyZ-53YE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UzyJyZ-53YE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UzyJyZ-53YE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/UzyJyZ-53YE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/UzyJyZ-53YE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "-sXlIiVcYo8",
+      "channelId": "UChySEF2PrE14p4t4HJW9rag",
+      "channelTitle": "정치팩트",
+      "title": "3대1로 몰아붙인 국민의힘 박살내는 서영교",
+      "description": "",
+      "publishedAt": "2025-10-27T08:15:00Z",
+      "duration": "PT54S",
+      "durationSeconds": 54,
+      "viewCount": 3925,
+      "likeCount": 72,
+      "commentCount": 5,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-sXlIiVcYo8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-sXlIiVcYo8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-sXlIiVcYo8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/-sXlIiVcYo8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/-sXlIiVcYo8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "zyAq21PBQMg",
+      "channelId": "UChySEF2PrE14p4t4HJW9rag",
+      "channelTitle": "정치팩트",
+      "title": "송석준 “비상계엄 해제 우리가 했다” 김용민 일침 “거짓말하지 마세요”",
+      "description": "",
+      "publishedAt": "2025-10-27T01:01:05Z",
+      "duration": "PT50S",
+      "durationSeconds": 50,
+      "viewCount": 5065,
+      "likeCount": 144,
+      "commentCount": 6,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zyAq21PBQMg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zyAq21PBQMg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zyAq21PBQMg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/zyAq21PBQMg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/zyAq21PBQMg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "PGQwcYRCMyY",
+      "channelId": "UChySEF2PrE14p4t4HJW9rag",
+      "channelTitle": "정치팩트",
+      "title": "명태균, 오세훈 면전서 일침… 회의장이 얼어붙었다",
+      "description": "",
+      "publishedAt": "2025-10-26T10:00:41Z",
+      "duration": "PT59S",
+      "durationSeconds": 59,
+      "viewCount": 142423,
+      "likeCount": 4013,
+      "commentCount": 121,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PGQwcYRCMyY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PGQwcYRCMyY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PGQwcYRCMyY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/PGQwcYRCMyY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/PGQwcYRCMyY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "OxURNXmySzU",
+      "channelId": "UChySEF2PrE14p4t4HJW9rag",
+      "channelTitle": "정치팩트",
+      "title": "오세훈 질문에 넋 나간 김영선!  명태균이 분노한 이유",
+      "description": "",
+      "publishedAt": "2025-10-26T06:00:18Z",
+      "duration": "PT53S",
+      "durationSeconds": 53,
+      "viewCount": 31323,
+      "likeCount": 648,
+      "commentCount": 43,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OxURNXmySzU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OxURNXmySzU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OxURNXmySzU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/OxURNXmySzU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/OxURNXmySzU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "i3ojxHLA_h8",
+      "channelId": "UChySEF2PrE14p4t4HJW9rag",
+      "channelTitle": "정치팩트",
+      "title": "명태균이 오세훈과 막장 드라마 찍는 이유",
+      "description": "",
+      "publishedAt": "2025-10-25T13:30:47Z",
+      "duration": "PT48S",
+      "durationSeconds": 48,
+      "viewCount": 30711,
+      "likeCount": 854,
+      "commentCount": 14,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/i3ojxHLA_h8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/i3ojxHLA_h8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/i3ojxHLA_h8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/i3ojxHLA_h8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/i3ojxHLA_h8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "MXvHRRGX92Q",
+      "channelId": "UChySEF2PrE14p4t4HJW9rag",
+      "channelTitle": "정치팩트",
+      "title": "박지원 지적에 제대로 긁힌 나경원",
+      "description": "",
+      "publishedAt": "2025-10-23T04:00:34Z",
+      "duration": "PT51S",
+      "durationSeconds": 51,
+      "viewCount": 28810,
+      "likeCount": 984,
+      "commentCount": 17,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/MXvHRRGX92Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/MXvHRRGX92Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/MXvHRRGX92Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/MXvHRRGX92Q/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/MXvHRRGX92Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "kwLeUGAO6ow",
+      "channelId": "UCU8hC66NC3bmtpm-ZWvzHGw",
+      "channelTitle": "정치핫이슈",
+      "title": "대통령실로 찾아온 아이들에게 이런 선물을?",
+      "description": "영상 일부에는 AI 이미지 및 TTS 기술이 활용되었으며, 이는 이해를 돕기 위한 연출로 실제와 차이가 있을 수 있습니다.\n\n본 영상은 공개된 사실과 발언을 바탕으로 다양한 관점을 전달합니다.\n건강한 댓글 문화와 서로 다른 의견에 대한 존중을 부탁드립니다.\n\n\n#50대 #60대 #70대 #정치이슈 #정치유머 #정치 #이재명 #김혜경",
+      "publishedAt": "2025-09-05T02:45:34Z",
+      "duration": "PT13S",
+      "durationSeconds": 13,
+      "viewCount": 6076,
+      "likeCount": 30,
+      "commentCount": 3,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kwLeUGAO6ow/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kwLeUGAO6ow/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kwLeUGAO6ow/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/kwLeUGAO6ow/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "yPPOc8WghJk",
+      "channelId": "UCU8hC66NC3bmtpm-ZWvzHGw",
+      "channelTitle": "정치핫이슈",
+      "title": "김혜경 여사도 깜짝! 미술관에서 벌어진 해프닝",
+      "description": "영상 일부에는 AI 이미지 및 TTS 기술이 활용되었으며, 이는 이해를 돕기 위한 연출로 실제와 차이가 있을 수 있습니다.\n\n본 영상은 공개된 사실과 발언을 바탕으로 다양한 관점을 전달합니다.\n건강한 댓글 문화와 서로 다른 의견에 대한 존중을 부탁드립니다.\n\n\n#50대 #60대 #70대 #정치이슈 #정치유머 #정치 #이재명 #김혜경",
+      "publishedAt": "2025-09-05T01:23:31Z",
+      "duration": "PT6S",
+      "durationSeconds": 6,
+      "viewCount": 37155,
+      "likeCount": 148,
+      "commentCount": 1,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/yPPOc8WghJk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/yPPOc8WghJk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/yPPOc8WghJk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/yPPOc8WghJk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/yPPOc8WghJk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "LPWX-h4GwYE",
+      "channelId": "UCU8hC66NC3bmtpm-ZWvzHGw",
+      "channelTitle": "정치핫이슈",
+      "title": "이재명과 노무현, 겉과 속이 달라보이는 충격적인 이유",
+      "description": "영상 일부에는 AI 이미지 및 TTS 기술이 활용되었으며, 이는 이해를 돕기 위한 연출로 실제와 차이가 있을 수 있습니다.\n\n본 영상은 공개된 사실과 발언을 바탕으로 다양한 관점을 전달합니다.\n건강한 댓글 문화와 서로 다른 의견에 대한 존중을 부탁드립니다.\n\n\n#50대 #60대 #70대 #정치이슈 #정치유머 #정치 #이재명 #노무현",
+      "publishedAt": "2025-09-04T17:05:38Z",
+      "duration": "PT39S",
+      "durationSeconds": 39,
+      "viewCount": 3213,
+      "likeCount": 28,
+      "commentCount": 1,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LPWX-h4GwYE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LPWX-h4GwYE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LPWX-h4GwYE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/LPWX-h4GwYE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/LPWX-h4GwYE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "uQRM9_Bgdeg",
+      "channelId": "UCU8hC66NC3bmtpm-ZWvzHGw",
+      "channelTitle": "정치핫이슈",
+      "title": "이재명에게서 노무현을 보았다",
+      "description": "영상 일부에는 AI 이미지 및 TTS 기술이 활용되었으며, 이는 이해를 돕기 위한 연출로 실제와 차이가 있을 수 있습니다.\n\n본 영상은 공개된 사실과 발언을 바탕으로 다양한 관점을 전달합니다.\n건강한 댓글 문화와 서로 다른 의견에 대한 존중을 부탁드립니다.\n\n\n#50대 #60대 #70대 #정치이슈 #정치유머 #정치 #이재명 #노무현",
+      "publishedAt": "2025-09-04T16:38:45Z",
+      "duration": "PT9S",
+      "durationSeconds": 9,
+      "viewCount": 14783,
+      "likeCount": 92,
+      "commentCount": 7,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/uQRM9_Bgdeg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/uQRM9_Bgdeg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/uQRM9_Bgdeg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/uQRM9_Bgdeg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/uQRM9_Bgdeg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "vrg1dnBGnGI",
+      "channelId": "UCU8hC66NC3bmtpm-ZWvzHGw",
+      "channelTitle": "정치핫이슈",
+      "title": "노무현과 이재명의 충격적인 공통점",
+      "description": "영상 일부에는 AI 이미지 및 TTS 기술이 활용되었으며, 이는 이해를 돕기 위한 연출로 실제와 차이가 있을 수 있습니다.\n\n본 영상은 공개된 사실과 발언을 바탕으로 다양한 관점을 전달합니다.\n건강한 댓글 문화와 서로 다른 의견에 대한 존중을 부탁드립니다.\n\n\n#50대 #60대 #70대 #정치이슈 #정치유머 #정치 #이재명 #노무현",
+      "publishedAt": "2025-09-04T15:20:37Z",
+      "duration": "PT18S",
+      "durationSeconds": 18,
+      "viewCount": 13207,
+      "likeCount": 53,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vrg1dnBGnGI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vrg1dnBGnGI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vrg1dnBGnGI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/vrg1dnBGnGI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/vrg1dnBGnGI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "wMf3mWxHGAg",
+      "channelId": "UCU8hC66NC3bmtpm-ZWvzHGw",
+      "channelTitle": "정치핫이슈",
+      "title": "이재용을 움직이게 만든 이재명의 충격적인 한마디",
+      "description": "영상 일부에는 AI 이미지 및 TTS 기술이 활용되었으며, 이는 이해를 돕기 위한 연출로 실제와 차이가 있을 수 있습니다.\n\n본 영상은 공개된 사실과 발언을 바탕으로 다양한 관점을 전달합니다.\n건강한 댓글 문화와 서로 다른 의견에 대한 존중을 부탁드립니다.\n\n\n#50대 #60대 #70대 #정치이슈 #정치유머 #정치 #이재명 #이재용",
+      "publishedAt": "2025-09-03T16:48:50Z",
+      "duration": "PT26S",
+      "durationSeconds": 26,
+      "viewCount": 14444,
+      "likeCount": 313,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wMf3mWxHGAg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wMf3mWxHGAg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wMf3mWxHGAg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/wMf3mWxHGAg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "fKhReTLx8_k",
+      "channelId": "UCU8hC66NC3bmtpm-ZWvzHGw",
+      "channelTitle": "정치핫이슈",
+      "title": "이재용=이재명, 이제서야 밝혀지는 충격적인 연결 고리",
+      "description": "영상 일부에는 AI 이미지 및 TTS 기술이 활용되었으며, 이는 이해를 돕기 위한 연출로 실제와 차이가 있을 수 있습니다.\n\n본 영상은 공개된 사실과 발언을 바탕으로 다양한 관점을 전달합니다.\n건강한 댓글 문화와 서로 다른 의견에 대한 존중을 부탁드립니다.\n\n\n#50대 #60대 #70대 #정치이슈 #정치유머 #정치 #이재명 #윤석열 #이재용",
+      "publishedAt": "2025-09-03T15:22:50Z",
+      "duration": "PT13S",
+      "durationSeconds": 13,
+      "viewCount": 26935,
+      "likeCount": 399,
+      "commentCount": 6,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fKhReTLx8_k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fKhReTLx8_k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fKhReTLx8_k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/fKhReTLx8_k/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/fKhReTLx8_k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "InuZsyM6qUI",
+      "channelId": "UCU8hC66NC3bmtpm-ZWvzHGw",
+      "channelTitle": "정치핫이슈",
+      "title": "[충격]이재용이 존경했던 대통령. 이재명? 이명박? 노무현? 김대중? 박정희?",
+      "description": "영상 일부에는 AI 이미지 및 TTS 기술이 활용되었으며, 이는 이해를 돕기 위한 연출로 실제와 차이가 있을 수 있습니다.\n\n본 영상은 공개된 사실과 발언을 바탕으로 다양한 관점을 전달합니다.\n건강한 댓글 문화와 서로 다른 의견에 대한 존중을 부탁드립니다.\n\n\n#50대 #60대 #70대 #정치이슈 #정치유머 #정치 #이재명 #윤석열 #박정희 #박근혜 #김대",
+      "publishedAt": "2025-08-31T17:10:26Z",
+      "duration": "PT20S",
+      "durationSeconds": 20,
+      "viewCount": 56165,
+      "likeCount": 1869,
+      "commentCount": 8,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/InuZsyM6qUI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/InuZsyM6qUI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/InuZsyM6qUI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/InuZsyM6qUI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/InuZsyM6qUI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "i0oLgX95JuM",
+      "channelId": "UCU8hC66NC3bmtpm-ZWvzHGw",
+      "channelTitle": "정치핫이슈",
+      "title": "[충격] 이재명 포함 50대가 뽑은 대통령 1위",
+      "description": "영상 일부에는 AI 이미지 및 TTS 기술이 활용되었으며, 이는 이해를 돕기 위한 연출로 실제와 차이가 있을 수 있습니다.\n\n본 영상은 공개된 사실과 발언을 바탕으로 다양한 관점을 전달합니다.\n건강한 댓글 문화와 서로 다른 의견에 대한 존중을 부탁드립니다.\n\n\n#50대 #60대 #70대 #정치이슈 #정치유머 #정치 #이재명 #윤석열 #박정희 #박근혜 #김대",
+      "publishedAt": "2025-08-31T15:56:36Z",
+      "duration": "PT15S",
+      "durationSeconds": 15,
+      "viewCount": 35416,
+      "likeCount": 623,
+      "commentCount": 4,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/i0oLgX95JuM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/i0oLgX95JuM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/i0oLgX95JuM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/i0oLgX95JuM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/i0oLgX95JuM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "1ePFkDuY28Y",
+      "channelId": "UCU8hC66NC3bmtpm-ZWvzHGw",
+      "channelTitle": "정치핫이슈",
+      "title": "이재명, 귀국하자마자 빵터진 충격적인 이유",
+      "description": "영상 일부에는 AI 이미지 및 TTS 기술이 활용되었으며, 이는 이해를 돕기 위한 연출로 실제와 차이가 있을 수 있습니다.\n\n본 영상은 공개된 사실과 발언을 바탕으로 다양한 관점을 전달합니다.\n건강한 댓글 문화와 서로 다른 의견에 대한 존중을 부탁드립니다.\n\n\n#50대 #60대 #70대 #정치이슈 #정치유머 #정치 #이재명 #윤석열 #김민석 #정청래",
+      "publishedAt": "2025-08-28T17:05:45Z",
+      "duration": "PT17S",
+      "durationSeconds": 17,
+      "viewCount": 37868,
+      "likeCount": 1317,
+      "commentCount": 3,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1ePFkDuY28Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1ePFkDuY28Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1ePFkDuY28Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/1ePFkDuY28Y/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/1ePFkDuY28Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "eI45hNhgrDg",
+      "channelId": "UCU8hC66NC3bmtpm-ZWvzHGw",
+      "channelTitle": "정치핫이슈",
+      "title": "이재용, 미국에서도 이재명 기다린 충격적인 이유",
+      "description": "영상 일부에는 AI 이미지 및 TTS 기술이 활용되었으며, 이는 이해를 돕기 위한 연출로 실제와 차이가 있을 수 있습니다.\n\n본 영상은 공개된 사실과 발언을 바탕으로 다양한 관점을 전달합니다.\n건강한 댓글 문화와 서로 다른 의견에 대한 존중을 부탁드립니다.\n\n\n#50대 #60대 #70대 #정치이슈 #정치유머 #정치 #이재명 #윤석열 #이재용",
+      "publishedAt": "2025-08-28T15:35:40Z",
+      "duration": "PT11S",
+      "durationSeconds": 11,
+      "viewCount": 259279,
+      "likeCount": 5975,
+      "commentCount": 10,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/eI45hNhgrDg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/eI45hNhgrDg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/eI45hNhgrDg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/eI45hNhgrDg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/eI45hNhgrDg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "Yt6zL0EINfQ",
+      "channelId": "UCU8hC66NC3bmtpm-ZWvzHGw",
+      "channelTitle": "정치핫이슈",
+      "title": "김건희 구속? 트럼프가 물어보자 이재명 충격 답변",
+      "description": "영상 일부에는 AI 이미지 및 TTS 기술이 활용되었으며, 이는 이해를 돕기 위한 연출로 실제와 차이가 있을 수 있습니다.\n\n본 영상은 공개된 사실과 발언을 바탕으로 다양한 관점을 전달합니다.\n건강한 댓글 문화와 서로 다른 의견에 대한 존중을 부탁드립니다.\n\n\n#50대 #60대 #70대 #정치이슈 #정치유머 #정치 #이재명 #트럼프 #김건희",
+      "publishedAt": "2025-08-28T13:42:01Z",
+      "duration": "PT20S",
+      "durationSeconds": 20,
+      "viewCount": 88881,
+      "likeCount": 3171,
+      "commentCount": 9,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Yt6zL0EINfQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Yt6zL0EINfQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Yt6zL0EINfQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Yt6zL0EINfQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Yt6zL0EINfQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "o8woVUixxHc",
+      "channelId": "UCU8hC66NC3bmtpm-ZWvzHGw",
+      "channelTitle": "정치핫이슈",
+      "title": "한미정당회담, 이 선물 하나로 판이 바뀌었다!",
+      "description": "영상 일부에는 AI 이미지 및 TTS 기술이 활용되었으며, 이는 이해를 돕기 위한 연출로 실제와 차이가 있을 수 있습니다.\n\n본 영상은 공개된 사실과 발언을 바탕으로 다양한 관점을 전달합니다.\n건강한 댓글 문화와 서로 다른 의견에 대한 존중을 부탁드립니다.\n\n\n#50대 #60대 #70대 #정치이슈 #정치유머 #정치 #이재명 #트럼프",
+      "publishedAt": "2025-08-27T16:26:20Z",
+      "duration": "PT25S",
+      "durationSeconds": 25,
+      "viewCount": 19919,
+      "likeCount": 427,
+      "commentCount": 3,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/o8woVUixxHc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/o8woVUixxHc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/o8woVUixxHc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/o8woVUixxHc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/o8woVUixxHc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "3vOSJhaLiZw",
+      "channelId": "UCU8hC66NC3bmtpm-ZWvzHGw",
+      "channelTitle": "정치핫이슈",
+      "title": "이재용 한마디에.. 이재명 대통령 멘붕",
+      "description": "영상 일부에는 AI 이미지 및 TTS 기술이 활용되었으며, 이는 이해를 돕기 위한 연출로 실제와 차이가 있을 수 있습니다.\n\n본 영상은 공개된 사실과 발언을 바탕으로 다양한 관점을 전달합니다.\n건강한 댓글 문화와 서로 다른 의견에 대한 존중을 부탁드립니다.\n\n\n#50대 #60대 #70대 #정치이슈 #정치유머 #정치 #이재명 #이재용",
+      "publishedAt": "2025-08-27T15:20:41Z",
+      "duration": "PT20S",
+      "durationSeconds": 20,
+      "viewCount": 35420,
+      "likeCount": 710,
+      "commentCount": 3,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3vOSJhaLiZw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3vOSJhaLiZw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3vOSJhaLiZw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/3vOSJhaLiZw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "Re2R2x1arXQ",
+      "channelId": "UCU8hC66NC3bmtpm-ZWvzHGw",
+      "channelTitle": "정치핫이슈",
+      "title": "이재명은 악수만, 이재용은 뜨거운 포옹?",
+      "description": "영상 일부에는 AI 이미지 및 TTS 기술이 활용되었으며, 이는 이해를 돕기 위한 연출로 실제와 차이가 있을 수 있습니다.\n\n본 영상은 공개된 사실과 발언을 바탕으로 다양한 관점을 전달합니다.\n건강한 댓글 문화와 서로 다른 의견에 대한 존중을 부탁드립니다.\n\n\n#50대 #60대 #70대 #정치이슈 #정치유머 #정치 #이재명 #이재용",
+      "publishedAt": "2025-08-27T14:01:30Z",
+      "duration": "PT24S",
+      "durationSeconds": 24,
+      "viewCount": 33307,
+      "likeCount": 418,
+      "commentCount": 2,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Re2R2x1arXQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Re2R2x1arXQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Re2R2x1arXQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Re2R2x1arXQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Re2R2x1arXQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "zz66qGP5I3s",
+      "channelId": "UCU8hC66NC3bmtpm-ZWvzHGw",
+      "channelTitle": "정치핫이슈",
+      "title": "장동혁 당선! 어떤 핵심 인물들과 어떤 행보를?",
+      "description": "영상 일부에는 AI 이미지 및 TTS 기술이 활용되었으며, 이는 이해를 돕기 위한 연출로 실제와 차이가 있을 수 있습니다.\n\n본 영상은 공개된 사실과 발언을 바탕으로 다양한 관점을 전달합니다.\n건강한 댓글 문화와 서로 다른 의견에 대한 존중을 부탁드립니다.\n\n\n#50대 #60대 #70대 #정치이슈 #정치유머 #정치 #이재명 #윤석열 #장동혁",
+      "publishedAt": "2025-08-26T16:08:30Z",
+      "duration": "PT15S",
+      "durationSeconds": 15,
+      "viewCount": 44937,
+      "likeCount": 938,
+      "commentCount": 15,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zz66qGP5I3s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zz66qGP5I3s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zz66qGP5I3s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/zz66qGP5I3s/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/zz66qGP5I3s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "5ORrEdZ9R4Y",
+      "channelId": "UCU8hC66NC3bmtpm-ZWvzHGw",
+      "channelTitle": "정치핫이슈",
+      "title": "이재명, 트럼프에 황당충격 제안. 북한에 이것좀 지어달라 #이재명",
+      "description": "영상 일부에는 AI 이미지 및 TTS 기술이 활용되었으며, 이는 이해를 돕기 위한 연출로 실제와 차이가 있을 수 있습니다.\n\n본 영상은 공개된 사실과 발언을 바탕으로 다양한 관점을 전달합니다.\n건강한 댓글 문화와 서로 다른 의견에 대한 존중을 부탁드립니다.\n\n #50대 #60대 #70대 #이재명 #윤석열 #정치이슈 #정치유머 #정치 #트럼프",
+      "publishedAt": "2025-08-26T12:46:59Z",
+      "duration": "PT16S",
+      "durationSeconds": 16,
+      "viewCount": 25588,
+      "likeCount": 694,
+      "commentCount": 2,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5ORrEdZ9R4Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5ORrEdZ9R4Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5ORrEdZ9R4Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/5ORrEdZ9R4Y/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/5ORrEdZ9R4Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "93u32vhTa7o",
+      "channelId": "UCU8hC66NC3bmtpm-ZWvzHGw",
+      "channelTitle": "정치핫이슈",
+      "title": "장동혁, 이재명 정권 끌어내린다!",
+      "description": "영상 일부에는 AI 이미지 및 TTS 기술이 활용되었으며, 이는 이해를 돕기 위한 연출로 실제와 차이가 있을 수 있습니다.\n\n본 영상은 공개된 사실과 발언을 바탕으로 다양한 관점을 전달합니다.\n건강한 댓글 문화와 서로 다른 의견에 대한 존중을 부탁드립니다.\n\n\n#50대 #60대 #70대 #이재명 #윤석열 #정치이슈 #정치유머 #정치 #장동혁",
+      "publishedAt": "2025-08-26T01:54:06Z",
+      "duration": "PT10S",
+      "durationSeconds": 10,
+      "viewCount": 38507,
+      "likeCount": 672,
+      "commentCount": 4,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/93u32vhTa7o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/93u32vhTa7o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/93u32vhTa7o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/93u32vhTa7o/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/93u32vhTa7o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "aWjjrC8sw4k",
+      "channelId": "UCU8hC66NC3bmtpm-ZWvzHGw",
+      "channelTitle": "정치핫이슈",
+      "title": "역대 대통령은 영빈관, 이재명만 왜 여기에서? #이재명 #김혜경",
+      "description": "영상 일부에는 AI 이미지 및 TTS 기술이 활용되었으며, 이는 이해를 돕기 위한 연출로 실제와 차이가 있을 수 있습니다.\n\n본 영상은 공개된 사실과 발언을 바탕으로 다양한 관점을 전달합니다.\n건강한 댓글 문화와 서로 다른 의견에 대한 존중을 부탁드립니다.\n\n\n#50대 #60대 #70대 #이재명 #윤석열 #정치이슈 #정치유머 #정치 #김혜경",
+      "publishedAt": "2025-08-25T16:32:59Z",
+      "duration": "PT22S",
+      "durationSeconds": 22,
+      "viewCount": 44699,
+      "likeCount": 921,
+      "commentCount": 2,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/aWjjrC8sw4k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/aWjjrC8sw4k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/aWjjrC8sw4k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/aWjjrC8sw4k/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/aWjjrC8sw4k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    }
+  ],
+  "channelStats": [
+    {
+      "id": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "title": " YTN",
+      "description": "24시간 생중계되는 대한민국 대표 뉴스\nYTN 공식채널을 지금 바로 구독하세요\n\n▶ 구독하기 : http://goo.gl/Ytb5SZ\n\n▶ YTN 기사제보 안내\n- 홈페이지: https://mj.ytn.co.kr/mj/mj_write.php?sort=0\n- 모바일: YTN 앱의 제보하기\n- 이메일: social@ytn.co.kr\n- 전화: 02-398-8282 또는 8585 \n\n▶ 라이브 스트리밍 대체광고 및 콘텐츠 협업 문의\n - 이메일 : ljk@ytn.co.kr\n\n▶ 영상 사용 및 구매 문의\n - https://www.ytn.co.kr/business/sell_program.php\n",
+      "customUrl": "@ytnnews24",
+      "publishedAt": "2013-05-23T07:07:42Z",
+      "subscriberCount": 5220000,
+      "videoCount": 910572,
+      "viewCount": 18300864863,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUhlgI3UHCOnwUGzWzbJ3H5w",
+      "country": "KR",
+      "videosAnalyzed": 30,
+      "shortsCount": 10,
+      "regularVideosCount": 20
+    },
+    {
+      "id": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "title": "뉴스TVCHOSUN",
+      "description": "TV조선 뉴스 공식 YouTube 입니다.",
+      "customUrl": "@tvchosunnews",
+      "publishedAt": "2012-08-23T12:33:18Z",
+      "subscriberCount": 2990000,
+      "videoCount": 161651,
+      "viewCount": 4718566788,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUWlV3Lz_55UaX4JsMj-z__Q",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCgeOlLcX6PReHdWImEnUVTg",
+      "title": "스픽스",
+      "description": "국민과 함께 더 나은 세상을 만들어가는 스픽스\n혁신-균형-정의를 지향하는 뉴미디어, 저널리즘의 표준\n\n#최고의 전략가 정치와 정치인을 논하다 '정치본색' 생방송 (월~금 13시) \n#예능급 고수들의 정치수다 '역전의용사들' 생방송 (월~금 20시)\n\n#실시간 속보 가장 빠른 분석 '긴급편성' \n#탁월한 관점의 정치, 경제 현안분석 '고수의전략'  \n#차원이 다른 토크  '마키아벨리'\n\n협업 및 공동기획 문의 010-8596-0073\n광고문의 010-4615-9996\nspeaksad@speaks.kr\n",
+      "customUrl": "@speaks_tv",
+      "publishedAt": "2022-05-24T02:02:45.424058Z",
+      "subscriberCount": 1550000,
+      "videoCount": 27363,
+      "viewCount": 1764400974,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/S3rLqAB2YDYQDzLNBiFveCxuoTifWkLQtQP-V416WUiciWNz1umav1O51CwrxVy8zKrTMSKg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/S3rLqAB2YDYQDzLNBiFveCxuoTifWkLQtQP-V416WUiciWNz1umav1O51CwrxVy8zKrTMSKg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/S3rLqAB2YDYQDzLNBiFveCxuoTifWkLQtQP-V416WUiciWNz1umav1O51CwrxVy8zKrTMSKg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUgeOlLcX6PReHdWImEnUVTg",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCGbkN-3JpOct4KuEv59NF0Q",
+      "title": "엠키타카 MKTK",
+      "description": "국회 티키타카! 콘텐츠왕국! 어른김장하! 지역소생연구소!\n\n홈페이지 : http://www.mbcgn.kr\n페이스북 : http://www.facebook.com/withmbcgn\n인스타그램  : https://www.instagram.com/mbcgn/",
+      "customUrl": "@mbcgn_tv",
+      "publishedAt": "2017-08-08T04:13:21Z",
+      "subscriberCount": 1000000,
+      "videoCount": 20207,
+      "viewCount": 2106742849,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/11stY0thN15PzSDZukZ7RV36432jR_ZttczuLTqjuzJOlQtyykc3vnn7GivhWTmiRk8eYKoNwA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/11stY0thN15PzSDZukZ7RV36432jR_ZttczuLTqjuzJOlQtyykc3vnn7GivhWTmiRk8eYKoNwA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/11stY0thN15PzSDZukZ7RV36432jR_ZttczuLTqjuzJOlQtyykc3vnn7GivhWTmiRk8eYKoNwA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUGbkN-3JpOct4KuEv59NF0Q",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCQud5SMqH8VBJM7l-T1mQsw",
+      "title": "Big Boss ",
+      "description": "Bigboss ကနေ ဗဟုသုတ၊ Tutorial videos နဲ့ Reaction video တွေကို နေ့စဉ်တင်ပေးသွားမှာဖြစ်လို့ အားလုံးပဲ အိမ်မှာအနားယူကြည့်ရှုပီး ဘ၀အမောပြေ ကြည့်ရှုနိုင်ပါပြီ။",
+      "customUrl": "@bigbossreactions",
+      "publishedAt": "2010-04-24T11:51:26Z",
+      "subscriberCount": 705000,
+      "videoCount": 1826,
+      "viewCount": 238648483,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/OlM3-uhwr3xwsqeOUnn91saIy1K30DasuEdNhJyuKbHbbZmVpREMkiTm7sYG3wXgKiXcZQ-Jag=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/OlM3-uhwr3xwsqeOUnn91saIy1K30DasuEdNhJyuKbHbbZmVpREMkiTm7sYG3wXgKiXcZQ-Jag=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/OlM3-uhwr3xwsqeOUnn91saIy1K30DasuEdNhJyuKbHbbZmVpREMkiTm7sYG3wXgKiXcZQ-Jag=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUQud5SMqH8VBJM7l-T1mQsw",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCu0b6ODtYia0snp9JE4UUDw",
+      "title": "세상만사",
+      "description": "세상만사 모든 이야기를 들려드립니다!\n문의: dorifamily1234@gmail.com\n\n",
+      "customUrl": "@세상만사-n6h",
+      "publishedAt": "2024-02-14T06:48:46.622989Z",
+      "subscriberCount": 630000,
+      "videoCount": 2786,
+      "viewCount": 1453080898,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/tgqlfQiRq_Zny5G7E9VWdhFv7AORkvo26IKEnvHirKGPoxbwFaZG02qQsa5NUMM03AURCDC_=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/tgqlfQiRq_Zny5G7E9VWdhFv7AORkvo26IKEnvHirKGPoxbwFaZG02qQsa5NUMM03AURCDC_=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/tgqlfQiRq_Zny5G7E9VWdhFv7AORkvo26IKEnvHirKGPoxbwFaZG02qQsa5NUMM03AURCDC_=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUu0b6ODtYia0snp9JE4UUDw",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UC8tH3EF_zmxnKwmpuy9LbYw",
+      "title": "한국의목소리",
+      "description": "빠르고 쉽게 올바른 생각을 전합니다\n제보 및 협업 문의\n✉️ connect.voiceofkorea@gmail.com\n",
+      "customUrl": "@한국의목소리",
+      "publishedAt": "2025-01-31T07:55:07.066491Z",
+      "subscriberCount": 533000,
+      "videoCount": 1237,
+      "viewCount": 848215646,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/4iOFLb4gPIReye1CRxGOIYK6oe3-i65mtzpT851pm5sFWY46hVgPMVo7loKQVWy-ZJSxYv_K=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/4iOFLb4gPIReye1CRxGOIYK6oe3-i65mtzpT851pm5sFWY46hVgPMVo7loKQVWy-ZJSxYv_K=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/4iOFLb4gPIReye1CRxGOIYK6oe3-i65mtzpT851pm5sFWY46hVgPMVo7loKQVWy-ZJSxYv_K=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UU8tH3EF_zmxnKwmpuy9LbYw",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCHDYKIRxMEItLVoqtmGq3aA",
+      "title": "정치창",
+      "description": "세상을 보여주는 창!",
+      "customUrl": "@jknews97",
+      "publishedAt": "2024-03-24T10:26:55.652981Z",
+      "subscriberCount": 498000,
+      "videoCount": 1841,
+      "viewCount": 915984586,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/K4zWkeJjnkekAxKX8t6KdvNSVpCGo_UUYNGY67R7Qkt0DKWbsfg84eY_O1l6pyC5YtPZgC9O8es=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/K4zWkeJjnkekAxKX8t6KdvNSVpCGo_UUYNGY67R7Qkt0DKWbsfg84eY_O1l6pyC5YtPZgC9O8es=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/K4zWkeJjnkekAxKX8t6KdvNSVpCGo_UUYNGY67R7Qkt0DKWbsfg84eY_O1l6pyC5YtPZgC9O8es=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUHDYKIRxMEItLVoqtmGq3aA",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCipltOI85rqpxH4iFt_x0Cg",
+      "title": "잼통",
+      "description": "재밌는 것들만 모은 잼통!",
+      "customUrl": "@jamjam9787",
+      "publishedAt": "2024-03-17T11:15:44.181866Z",
+      "subscriberCount": 471000,
+      "videoCount": 274,
+      "viewCount": 149443291,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/haTQr8ZLyCIIL48yyYimlvHCx0bHV8v5-qJ49u62tOMhPgnOLloFb6RJaSBbSJSOQyBd52Uhcw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/haTQr8ZLyCIIL48yyYimlvHCx0bHV8v5-qJ49u62tOMhPgnOLloFb6RJaSBbSJSOQyBd52Uhcw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/haTQr8ZLyCIIL48yyYimlvHCx0bHV8v5-qJ49u62tOMhPgnOLloFb6RJaSBbSJSOQyBd52Uhcw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUipltOI85rqpxH4iFt_x0Cg",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCrxe-Msh2j6ICbfUaDJj81g",
+      "title": "이슈카톡",
+      "description": "민주주의와 이재명 국민주권 정부의 성공, 사법정의 등을 위한 민주시민 채널 입니다\n\n“진실을 밝히는 민주 정치 채널”\n이곳은 대한민국 민주주의를 지키고, 사법 개혁, 검찰 개혁을 위한 쇼츠 깨어 있는 시민들의 채널입니다\n우리는 국민들의 목소리를 정치권과 민주당 등에 전하며, 정치 이슈를 빠르게 전달합니다\n\n이재명 대표의 행보부터 국회 정치 분석, 윤석열 정부의 문제점, 국민의힘 비판까지 —\n가짜뉴스에 맞서 진실을 전하고, 시민의 눈으로 정치 현실을 바라봅니다.\n\n정의로운 사회, 공정한 나라, 그리고 개혁 완수를 위해 함께합니다.\n응원봉의 힘으로 정치 변화를 만들어가는 바른 채널이 되겠습니다\n\n\n📌 주요 키워드\n민주당, 이재명, 윤석열 계엄 응징, 검찰개혁, 언론개혁, 법원 사법개혁, 민주주의 수호, 진보 정치, 개혁정치, 정치 해설, 정치 시사, 정치 유튜브, 대한민국 민주주의, 공정한 사회, 검찰독재, 국민의힘 비리 비판, 국회 정치 분석, 정치이슈, 정의로운 사회, 경제민주화, 재벌혁신, 검언유착, 정치토론, 뉴스해석, 시사분석, 대선전망, 총선승리, 민주진영 단결, 개혁 완수, 정치유머, 시민정치, 정치참여, 국회 방송, 대통령실 방송. 이재명 TV방송, \n\n",
+      "customUrl": "@이슈카톡",
+      "publishedAt": "2022-05-30T11:34:11.689006Z",
+      "subscriberCount": 469000,
+      "videoCount": 3568,
+      "viewCount": 1763070874,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GXD6CIjLk1Dnt5VC7nl-M72a7ueVq8b6oA4yjURVnF1ZYbgqtwf5ZPNg72VafPOIw02ANvMh2A=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GXD6CIjLk1Dnt5VC7nl-M72a7ueVq8b6oA4yjURVnF1ZYbgqtwf5ZPNg72VafPOIw02ANvMh2A=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GXD6CIjLk1Dnt5VC7nl-M72a7ueVq8b6oA4yjURVnF1ZYbgqtwf5ZPNg72VafPOIw02ANvMh2A=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUrxe-Msh2j6ICbfUaDJj81g",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UC8brKujsZC20lURDZcuRSlQ",
+      "title": "미디어몽구",
+      "description": "1. 소개\n안녕하세요. 저는 영상취재를 전문으로 하는 1인 미디어로서, 2005년부터 활동을 해오고 있으며, 제 주변에 일어나는 일을 시작으로 사회적 이슈 현장까지, 분야를 가리지 않고 생생한 현장 소식을 전하고 있습니다. \n\n언론에서 비중은 있는데 단신보도 됐거나, 보도 되지 않았던 내용, 사회적으로 소외 받고 있는 이들의 목소리 등을 전하기 위해, 오늘도 발로 뛰며 현장을 기록하고 있습니다.\n\n2. 수상 및 선정\n2005 대한민국 블로그어워드 올해의 시사블로거 선정\n2006 Daum 블로거뉴스 대상 수상\n2007 Daum 블로거뉴스 우수상 수상\n2008 월간 말 선정, 파워블로거 50인에 1위 선정\n2009 온라인 저널리스트 시사부문상 수상\n2010 올해의 온라인 저널리스트 대상 수상\n2012 서울시 공익제보상 수상\n2012 안종필 자유언론상 수상\n2012 송건호 언론상 수상\n2012 김학순상 수상\n2012 노근리 평화상 방송부문상 수상\n2013 세상을 따뜻하게 만든 사람들 선정\n2014 투명사회상 수상\n2015 성유보 특별상 수상\n2015 한국 온라인 저널리즘 어워드 공로상 수상\n2023 한국인터넷기자협회 1인미디어상 수상\n\n3. 경력\n- 하트하트재단 온세상 서포터즈 위촉\n- Daum 블로거뉴스 검색 메인 모델\n- 언론연대 정책위원\n- 민언련 미디어위원회 위원\n- 김복동의 희망 운영위원\n- 한겨레 오피니언 hook 필진\n- CBS 라디오 김미화의 여러분 - '몽구야 어딨니' 코너 담당\n- 한국탐사저널리즘센터 - 뉴스타파 기자\n- 김어준의 파파이스 - '몽구타임' 코너 담당\n- MBC 손바닥TV 현장리포터\n\n4. 후원하기\n19년째 현장을 누비고 있는 미디어몽구가 후원을 기다립니다. 언제나처럼 생생한 현장의 진실을 전하겠으니 제가 카메라를 놓지 않도록 든든한 버팀목이 되어 주십시오. 고마움 잊지 않고 한결 같은 마음으로 시대를 기록하겠습니다. 후원계좌는 (농협 / 317-0006-4512-51) / 페이팔 mediamongu@gmail.com 입니다.\n",
+      "customUrl": "@mediamongu",
+      "publishedAt": "2009-03-21T08:15:07Z",
+      "subscriberCount": 453000,
+      "videoCount": 2998,
+      "viewCount": 513102105,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/fVn9FhfxwrVUvNj_Vii0l6vcyUNNQFQImVhwPhUSHguibKKkR1_8iIyHeaMGxFrjJ6GYGqlymw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/fVn9FhfxwrVUvNj_Vii0l6vcyUNNQFQImVhwPhUSHguibKKkR1_8iIyHeaMGxFrjJ6GYGqlymw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/fVn9FhfxwrVUvNj_Vii0l6vcyUNNQFQImVhwPhUSHguibKKkR1_8iIyHeaMGxFrjJ6GYGqlymw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UU8brKujsZC20lURDZcuRSlQ",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCEsWtfVdAK8soPcDuVqu58g",
+      "title": "엠뉴 | MBC경남 NEWS",
+      "description": "MBC경남 뉴스 공식 계정입니다.\n지역 핫이슈부터 전국적 관심 사안까지 두루 살핍니다.\n방위산업의 중심지에서 K-방산 콘텐츠도 집중적으로 다룹니다.\n많은 관심 부탁드립니다. (구독, 좋아요는 필수!)\n\n홈페이지 : http://www.mbcgn.kr\nX : @mbcgn_news\n페이스북 : http://www.facebook.com/withmbcgn\n인스타그램  : https://www.instagram.com/mbcgn_news/",
+      "customUrl": "@mbcnews7670",
+      "publishedAt": "2017-08-07T06:21:04Z",
+      "subscriberCount": 418000,
+      "videoCount": 43015,
+      "viewCount": 487276673,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/v__eiQEgXgwAynGyNr0_Nmcs3pBhXI-ZGhkiNwgxvQnlCaDH-m1DKnnC7044d95G3qW_8V3iZQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/v__eiQEgXgwAynGyNr0_Nmcs3pBhXI-ZGhkiNwgxvQnlCaDH-m1DKnnC7044d95G3qW_8V3iZQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/v__eiQEgXgwAynGyNr0_Nmcs3pBhXI-ZGhkiNwgxvQnlCaDH-m1DKnnC7044d95G3qW_8V3iZQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUEsWtfVdAK8soPcDuVqu58g",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCvK7qaD2xgV7-egDdtKBbbQ",
+      "title": "옳소TV",
+      "description": "정치, 짧지만 강하게! 옳소TV\n\n☆옳소TV☆는 정치의 맥을 짚는 진보·민주 진영 쇼츠 채널입니다!\n\n짧고 강렬한 쇼츠로 정치의 진짜 이야기를 전합니다.\n\n지금 바로 구독하고 함께 나아가요! 🚀\n",
+      "customUrl": "@옳소tv",
+      "publishedAt": "2012-08-14T03:09:18Z",
+      "subscriberCount": 410000,
+      "videoCount": 8164,
+      "viewCount": 1191519244,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/yPAj61qh8lJWmJLRsk5X6CN3y3jEuW8voB6fxLr1BujKlHTcXA_x_4nC09y-cC1rKWu55GoS-A=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/yPAj61qh8lJWmJLRsk5X6CN3y3jEuW8voB6fxLr1BujKlHTcXA_x_4nC09y-cC1rKWu55GoS-A=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/yPAj61qh8lJWmJLRsk5X6CN3y3jEuW8voB6fxLr1BujKlHTcXA_x_4nC09y-cC1rKWu55GoS-A=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUvK7qaD2xgV7-egDdtKBbbQ",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCPnsRM1XL2NM3xq8N7XGaQg",
+      "title": "링킹",
+      "description": "구독과 방문 감사합니다.\n문의 mrgray275@gmail.com\n",
+      "customUrl": "@linkingranking",
+      "publishedAt": "2018-02-07T05:25:49Z",
+      "subscriberCount": 397000,
+      "videoCount": 2722,
+      "viewCount": 513110865,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/CfeyGSvQwDc7p7TSueVaFvcuwKlwu999XXxNCdBVKb0YyYhth-H-321wlxcbaSOHMYjODKnK5_M=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/CfeyGSvQwDc7p7TSueVaFvcuwKlwu999XXxNCdBVKb0YyYhth-H-321wlxcbaSOHMYjODKnK5_M=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/CfeyGSvQwDc7p7TSueVaFvcuwKlwu999XXxNCdBVKb0YyYhth-H-321wlxcbaSOHMYjODKnK5_M=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUPnsRM1XL2NM3xq8N7XGaQg",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCgHG6kRpULWaJ1AGUr2pOXQ",
+      "title": "정치공감",
+      "description": "이재명 대통령님은 정치는 국민이 하는 것이라 했습니다. 늘 민주 시민 여러분과 같은 곳을 바라보고 같이 걷겠습니다\n\n\n",
+      "customUrl": "@정치공감tv",
+      "publishedAt": "2020-05-28T12:15:50.768611Z",
+      "subscriberCount": 379000,
+      "videoCount": 635,
+      "viewCount": 114835583,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/R6ynfgFkV7pKnrgUIp52TOpg2AQ2qD0Geo57N9uoFitMuC1nvsL7LmBRqgnZqqwGCj1RNL0Yvg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/R6ynfgFkV7pKnrgUIp52TOpg2AQ2qD0Geo57N9uoFitMuC1nvsL7LmBRqgnZqqwGCj1RNL0Yvg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/R6ynfgFkV7pKnrgUIp52TOpg2AQ2qD0Geo57N9uoFitMuC1nvsL7LmBRqgnZqqwGCj1RNL0Yvg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUgHG6kRpULWaJ1AGUr2pOXQ",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCd6tMX5cbTf6HNf1iug0HrQ",
+      "title": "이마까TV",
+      "description": "정치 풍자, 패러디를 통해  / 진보 진영에는 힘을 드리고 / 중도층에는 공감을 이끌어 내는 영상 제작을 목표로 합니다.",
+      "customUrl": "@이마까tv",
+      "publishedAt": "2018-11-09T08:01:53Z",
+      "subscriberCount": 331000,
+      "videoCount": 814,
+      "viewCount": 745295473,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/RstzVEx_9sC_aaMuFohYXwUyclAN97UMi8jX4N8me9lyj7vIOlmHLoOdV1_GfPwJcOGBC_zf=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/RstzVEx_9sC_aaMuFohYXwUyclAN97UMi8jX4N8me9lyj7vIOlmHLoOdV1_GfPwJcOGBC_zf=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/RstzVEx_9sC_aaMuFohYXwUyclAN97UMi8jX4N8me9lyj7vIOlmHLoOdV1_GfPwJcOGBC_zf=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUd6tMX5cbTf6HNf1iug0HrQ",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCd6tMX5cbTf6HNf1iug0HrQ",
+      "title": "이마까TV",
+      "description": "정치 풍자, 패러디를 통해  / 진보 진영에는 힘을 드리고 / 중도층에는 공감을 이끌어 내는 영상 제작을 목표로 합니다.",
+      "customUrl": "@이마까tv",
+      "publishedAt": "2018-11-09T08:01:53Z",
+      "subscriberCount": 331000,
+      "videoCount": 814,
+      "viewCount": 745295473,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/RstzVEx_9sC_aaMuFohYXwUyclAN97UMi8jX4N8me9lyj7vIOlmHLoOdV1_GfPwJcOGBC_zf=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/RstzVEx_9sC_aaMuFohYXwUyclAN97UMi8jX4N8me9lyj7vIOlmHLoOdV1_GfPwJcOGBC_zf=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/RstzVEx_9sC_aaMuFohYXwUyclAN97UMi8jX4N8me9lyj7vIOlmHLoOdV1_GfPwJcOGBC_zf=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUd6tMX5cbTf6HNf1iug0HrQ",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCc6sEta0lPmVJ3TFIw8s-wA",
+      "title": "민주픽",
+      "description": "다시 시작하는 민주주의를 위해\n \n민주시민을 위한 민주 뉴스 숏츠 채널입니다\n\n0H9LA0@AICOMPANY",
+      "customUrl": "@minjupick",
+      "publishedAt": "2013-04-08T07:04:38Z",
+      "subscriberCount": 299000,
+      "videoCount": 1967,
+      "viewCount": 1536928651,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/9cfPcDDSln3sHmfzt4F-nYQU9rnYhfew9LoTnLeKqkCNbyp_FtOzXqnFM_z6Fl7kvLmi7JAE=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/9cfPcDDSln3sHmfzt4F-nYQU9rnYhfew9LoTnLeKqkCNbyp_FtOzXqnFM_z6Fl7kvLmi7JAE=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/9cfPcDDSln3sHmfzt4F-nYQU9rnYhfew9LoTnLeKqkCNbyp_FtOzXqnFM_z6Fl7kvLmi7JAE=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUc6sEta0lPmVJ3TFIw8s-wA",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCJm_AJKFjq89w5brQ3yTa8g",
+      "title": "미디어쇼츠 ",
+      "description": "미디어쇼츠 김감독입니다.\n이재명 정부의 성공을 기원합니다!\n",
+      "customUrl": "@tv17314",
+      "publishedAt": "2023-05-08T14:08:28.931191Z",
+      "subscriberCount": 293000,
+      "videoCount": 11328,
+      "viewCount": 812987875,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/7rlTtFMzGKfuE8T2Z0_QcJZwgCKdxu2uURra0Z3lxVAqmTs82W1WgrFC_GvxuBghXKaMpZVWmOM=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/7rlTtFMzGKfuE8T2Z0_QcJZwgCKdxu2uURra0Z3lxVAqmTs82W1WgrFC_GvxuBghXKaMpZVWmOM=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/7rlTtFMzGKfuE8T2Z0_QcJZwgCKdxu2uURra0Z3lxVAqmTs82W1WgrFC_GvxuBghXKaMpZVWmOM=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUJm_AJKFjq89w5brQ3yTa8g",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCZYaBjwqn9XiWUWbw8jjFnw",
+      "title": "나의조국",
+      "description": "민주주의 최후의 보루는 깨어있는 시민의 조직된 힘입니다\n\n",
+      "customUrl": "@mychokuk",
+      "publishedAt": "2021-08-05T10:53:39.000195Z",
+      "subscriberCount": 286000,
+      "videoCount": 2608,
+      "viewCount": 698962492,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/tZbcl-KHk4OL2vHneZCZS3Dya5Op54TNjjWwBX-QV2rU8mJG_Y27LGFIoerxGT8Sd08yHibziA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/tZbcl-KHk4OL2vHneZCZS3Dya5Op54TNjjWwBX-QV2rU8mJG_Y27LGFIoerxGT8Sd08yHibziA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/tZbcl-KHk4OL2vHneZCZS3Dya5Op54TNjjWwBX-QV2rU8mJG_Y27LGFIoerxGT8Sd08yHibziA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUZYaBjwqn9XiWUWbw8jjFnw",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    }
+  ]
 }
