@@ -1,15 +1,2166 @@
 {
-  "lastUpdated": "2025-11-16T12:21:23.419Z",
+  "lastUpdated": "2025-11-16T18:16:13.855Z",
   "totalChannelsAnalyzed": 82,
-  "totalVideos": 0,
-  "totalShorts": 0,
-  "totalRegularVideos": 0,
-  "totalViewCount": 0,
-  "totalLikeCount": 0,
-  "averageViewsPerShort": 0,
-  "topChannelsByShorts": [],
-  "topShortsByViews": [],
-  "recentShorts": [],
+  "totalVideos": 90,
+  "totalShorts": 48,
+  "totalRegularVideos": 42,
+  "totalViewCount": 991563,
+  "totalLikeCount": 41881,
+  "averageViewsPerShort": 15780,
+  "topChannelsByShorts": [
+    {
+      "title": "민주톡톡",
+      "shortsCount": 26,
+      "subscriberCount": 49000
+    },
+    {
+      "title": " YTN",
+      "shortsCount": 12,
+      "subscriberCount": 5220000
+    },
+    {
+      "title": " LEE teacher",
+      "shortsCount": 10,
+      "subscriberCount": 45
+    }
+  ],
+  "topShortsByViews": [
+    {
+      "title": "#백운기 지귀연은 식품 전문 판사 지귀연 일갈",
+      "channelTitle": "민주톡톡",
+      "viewCount": 174012,
+      "publishedAt": "2025-11-13T08:19:46Z"
+    },
+    {
+      "title": "잼프를 기분 좋게 하는 남양주 최민희 김병주 김용민",
+      "channelTitle": "민주톡톡",
+      "viewCount": 71627,
+      "publishedAt": "2025-11-14T05:42:30Z"
+    },
+    {
+      "title": "이재명 대통령의 넉살 #이재명",
+      "channelTitle": "민주톡톡",
+      "viewCount": 50408,
+      "publishedAt": "2025-11-16T10:10:52Z"
+    },
+    {
+      "title": "건진법사가 김건희에게 던진 한마디 #오대영",
+      "channelTitle": "민주톡톡",
+      "viewCount": 47230,
+      "publishedAt": "2025-11-12T10:56:48Z"
+    },
+    {
+      "title": "여인형 수첩 명단이 이상하다?",
+      "channelTitle": "민주톡톡",
+      "viewCount": 38282,
+      "publishedAt": "2025-11-15T02:06:20Z"
+    },
+    {
+      "title": "오늘은 분노의 날입니다. \"박성재 황교안 구속 기각\" #백운기",
+      "channelTitle": "민주톡톡",
+      "viewCount": 37742,
+      "publishedAt": "2025-11-14T02:27:53Z"
+    },
+    {
+      "title": "분노한 정청래 정치검찰 엄벌에 처하겠다",
+      "channelTitle": "민주톡톡",
+      "viewCount": 27675,
+      "publishedAt": "2025-11-12T06:38:25Z"
+    },
+    {
+      "title": "오대영 돌직구 \"검사들은 왜 분노하나?\"",
+      "channelTitle": "민주톡톡",
+      "viewCount": 26250,
+      "publishedAt": "2025-11-13T11:11:32Z"
+    },
+    {
+      "title": "불법 현수막 강하게 비판하는 잼프",
+      "channelTitle": "민주톡톡",
+      "viewCount": 24934,
+      "publishedAt": "2025-11-11T05:00:08Z"
+    },
+    {
+      "title": "내란재판 그들은 웃고 있었다 #오대영",
+      "channelTitle": "민주톡톡",
+      "viewCount": 24196,
+      "publishedAt": "2025-11-14T11:33:48Z"
+    }
+  ],
+  "recentShorts": [
+    {
+      "id": "ISmJ0UVYJ_Y",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelTitle": " YTN",
+      "title": "강훈식, UAE에 대통령 친서 전달...\"국빈방문 성과 준비\" / YTN",
+      "description": "대통령 전략경제협력 특사 자격으로 중동을 방문 중인 강훈식 대통령 비서실장이 아랍에미리트 UAE 대통령에게 이재명 대통령의 친서를 전달했습니다.\n\n강 실장은 어제(16일) SNS에, 무함마드 빈 자예드 알 나흐얀 UAE 대통령을 예방하고 양국 간 협력관계를 한 단계 높이고자 하는 뜻이 담긴 대통령 친서를 직접 전달했다고 적었습니다.\n\n이어 오늘 대통령의 첫",
+      "publishedAt": "2025-11-16T17:02:38Z",
+      "duration": "PT43S",
+      "durationSeconds": 43,
+      "viewCount": 148,
+      "likeCount": 3,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ISmJ0UVYJ_Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ISmJ0UVYJ_Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ISmJ0UVYJ_Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ISmJ0UVYJ_Y/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ISmJ0UVYJ_Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "source:영상",
+        "type:방송",
+        "genre:정치",
+        "format:기타",
+        "person:정인용"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "0EYOAOHVrrw",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelTitle": " YTN",
+      "title": "이 대통령 \"협상, 방어 잘 해냈다...기업활동 장애 최소화 총력\" / YTN",
+      "description": "이재명 대통령은 한미 관세·안보 분야 합의에 대해 남들이 예상하지 못한 성과라며 아주 방어를 잘해냈다고 평가했습니다.\n\n이 대통령은 어제(16일) 용산 대통령실에서 이재용 삼성전자 회장 등 그룹 총수들과 한미 합의 후속 회의를 열어, 수동적으로 응할 수밖에 없는 협상이었기에 매우 어려웠다며 이같이 말했습니다.\n\n이어 관세가 올라갔다지만 전 세계가 똑같이 당",
+      "publishedAt": "2025-11-16T17:01:42Z",
+      "duration": "PT31S",
+      "durationSeconds": 31,
+      "viewCount": 321,
+      "likeCount": 22,
+      "commentCount": 7,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0EYOAOHVrrw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0EYOAOHVrrw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0EYOAOHVrrw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/0EYOAOHVrrw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/0EYOAOHVrrw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "source:영상",
+        "type:방송",
+        "genre:정치",
+        "format:기타",
+        "person:정인용"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "1uokLOAguo0",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelTitle": " YTN",
+      "title": "전주 도로에서 차량 3대 충돌...1명 사망·4명 부상 / YTN",
+      "description": "어제(16일) 오후 6시 20분쯤, 전북 전주시 팔복동에 있는 왕복 4차로 도로에서 달리던 차량 3대가 부딪쳤습니다.\n\n이 사고로 그랜저 운전자인 60대 남성이 심정지 상태로 병원에 이송됐지만 끝내 숨졌습니다.\n\n또 카니발 조수석에 타고 있던 임산부 등 모두 합해 4명이 부상을 입고 병원에서 치료를 받았습니다.\n\n경찰은 차량 블랙박스 등을 토대로 중앙선 침",
+      "publishedAt": "2025-11-16T16:22:26Z",
+      "duration": "PT25S",
+      "durationSeconds": 25,
+      "viewCount": 526,
+      "likeCount": 6,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1uokLOAguo0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1uokLOAguo0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1uokLOAguo0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/1uokLOAguo0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/1uokLOAguo0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "source:영상",
+        "type:방송",
+        "genre:전국",
+        "format:기타",
+        "person:홍민기"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "aKKfxK8_7kU",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelTitle": " YTN",
+      "title": "9회말 투아웃 김주원 극적 동점 솔로포...대표팀, 일본과 평가전 7：7 무승부 / YTN",
+      "description": "우리 야구대표팀이 9회말 투아웃에 터진 김주원의 극적인 동점 솔로홈런을 앞세워 일본과의 평가전 7 대 7 무승부로 마쳤습니다.\n\n우리 대표팀은 7 대 5로 끌려가던 8회말, 안현민의 솔로홈런으로 1점 차로 추격한 뒤,\n\n패색이 짙던 9회 투아웃, 김주원이 오른쪽 담장을 넘어가는 대형 솔로홈런을 터뜨려 7 대 7로 균형을 이뤘습니다.\n\n이로써 우리 대표팀은 ",
+      "publishedAt": "2025-11-16T16:21:25Z",
+      "duration": "PT39S",
+      "durationSeconds": 39,
+      "viewCount": 602,
+      "likeCount": 12,
+      "commentCount": 11,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/aKKfxK8_7kU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/aKKfxK8_7kU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/aKKfxK8_7kU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/aKKfxK8_7kU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/aKKfxK8_7kU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "source:영상",
+        "type:방송",
+        "genre:스포츠",
+        "format:단신",
+        "person:허재원"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "Y6_cXrwYX1w",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelTitle": " YTN",
+      "title": "현대차, 5년간 국내 125조 투자...\"AI·로봇산업 육성\" / YTN",
+      "description": "현대자동차그룹이 오는 2030년까지 국내에 125조 2천억 원을 투자합니다.\n\n이는 직전 5년 현대차의 국내 투자금액 89조 원보다 40%가량 늘어난 것으로 사상 최대 규모입니다.\n\n이번 투자는 국내 인공지능·로봇 산업과 그린 에너지 생태계 육성에 초점이 맞춰졌습니다.\n\n인공지능과 로보틱스 등 미래 신사업 분야에 50조 5천억 원, 기존 모빌리티 경쟁력 강",
+      "publishedAt": "2025-11-16T14:34:37Z",
+      "duration": "PT30S",
+      "durationSeconds": 30,
+      "viewCount": 1041,
+      "likeCount": 7,
+      "commentCount": 2,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Y6_cXrwYX1w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Y6_cXrwYX1w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Y6_cXrwYX1w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Y6_cXrwYX1w/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Y6_cXrwYX1w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "source:영상",
+        "type:방송",
+        "genre:경제",
+        "format:기타",
+        "person:손효정"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "j-yPgibS324",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelTitle": " YTN",
+      "title": "삼성, 국내에 5년간 450조 원 투자...평택 5공장 건설 개시 / YTN",
+      "description": "삼성그룹이 앞으로 5년간 국내 연구개발을 포함해 450조 원을 투자합니다.\n\n세계 최대 반도체 생산 거점인 삼성전자 평택캠퍼스의 5공장 공사를 개시하고 전남에 AI 데이터센터 건설에 나서는 등 전방위적 지역 투자에 나섭니다.\n\n아울러 앞으로 5년간 6만 명을 신규 채용하고 사회공헌사업을 통해 청년 일자리 창출에 기여한다는 방침입니다.\n\n삼성전자는 최근 임시",
+      "publishedAt": "2025-11-16T14:34:12Z",
+      "duration": "PT28S",
+      "durationSeconds": 28,
+      "viewCount": 1299,
+      "likeCount": 4,
+      "commentCount": 4,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/j-yPgibS324/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/j-yPgibS324/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/j-yPgibS324/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/j-yPgibS324/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/j-yPgibS324/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "source:영상",
+        "type:방송",
+        "genre:경제",
+        "format:기타",
+        "person:최두희"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "kfhlCRMBaM0",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelTitle": " YTN",
+      "title": "미 해군참모총장, HD현대중공업 함정 건조현장 찾아...마스가 논의 / YTN",
+      "description": "미국 해군 참모총장이 HD현대중공업을 방문해 우리나라의 함정 건조 역량을 확인하고 한미 조선 협력 프로젝트인 '마스가' 협력 방안을 논의했습니다.\n\nHD현대중공업은 어제(15일) 대릴 커들 미국 해군참모총장, 케빈 킴 주한미국대사대리 등 일행이 울산 본사를 방문했다고 밝혔습니다.\n\nHD현대중공업 모그룹인 HD현대는 정기선 회장이 직접 커들 총장을 만나 조선",
+      "publishedAt": "2025-11-16T14:32:28Z",
+      "duration": "PT36S",
+      "durationSeconds": 36,
+      "viewCount": 1695,
+      "likeCount": 20,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kfhlCRMBaM0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kfhlCRMBaM0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kfhlCRMBaM0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/kfhlCRMBaM0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/kfhlCRMBaM0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "source:영상",
+        "type:방송",
+        "genre:경제",
+        "format:기타",
+        "person:최두희"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "yZH7QeN82M8",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelTitle": " YTN",
+      "title": "대한항공, 지난 시즌 챔프전 패배 설욕하고 5연승 질주 / YTN",
+      "description": "지난 시즌 챔피언결정전에서 현대캐피탈에 아쉽게 진 대한항공이 올 시즌 첫 맞대결에서 풀세트 접전 끝에 승리를 거두고 챔프전 패배를 설욕했습니다.\n\n올 시즌 가장 강력한 우승후보로 꼽히는 두 팀답게 매 세트 접전이 펼쳐진 가운데, 에이스 정지석이 27점을 올린 대한항공이 3 대 2로 짜릿한 승리를 거뒀습니다.\n\n5연승을 이어간 대한항공은 6승 1패, 승점 1",
+      "publishedAt": "2025-11-16T14:27:28Z",
+      "duration": "PT38S",
+      "durationSeconds": 38,
+      "viewCount": 188,
+      "likeCount": 1,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/yZH7QeN82M8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/yZH7QeN82M8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/yZH7QeN82M8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/yZH7QeN82M8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/yZH7QeN82M8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "source:영상",
+        "type:방송",
+        "genre:스포츠",
+        "format:단신",
+        "person:허재원"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "nyT_kZtCNKA",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelTitle": " YTN",
+      "title": "리비아 인근 해상 난민선 2척 전복...\"최소 4명 사망\" / YTN",
+      "description": "북아프리카 리비아 해안에서 유럽행 이주민 선박 두 척이 뒤집혀 적어도 4명이 숨졌다고 알자지라 방송 등이 현지 시간 16일 보도했습니다.\n\n리비아 적신월사는 성명에서, 지난 14일 수도 트리폴리에서 동쪽으로 약 118㎞ 떨어진 해안 도시 훔스 인근 해상에 이주민 선박 두 척이 전복됐다고 밝혔습니다.\n\n적신월사는 방글라데시 출신 이주민 26명을 태운 첫 번째",
+      "publishedAt": "2025-11-16T14:22:45Z",
+      "duration": "PT40S",
+      "durationSeconds": 40,
+      "viewCount": 424,
+      "likeCount": 3,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/nyT_kZtCNKA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/nyT_kZtCNKA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/nyT_kZtCNKA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/nyT_kZtCNKA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/nyT_kZtCNKA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "source:영상",
+        "type:방송",
+        "genre:국제",
+        "format:기타",
+        "person:김종욱"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "HYonjHZ9ywo",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelTitle": " YTN",
+      "title": "멕시코도 'Z세대' 주도 반정부 시위...복면·최루탄 충돌 / YTN",
+      "description": "최근 세계 곳곳에서 들불처럼 번지는 Z세대 시위가 멕시코에서도 벌어졌습니다.\n\n현지 시간 15일 수도 멕시코시티를 비롯해 멕시코 전역에서 청년들 주도로 수천 명이 참가한 대규모 반정부 시위는 야당 성향의 중장년층도 가세해 규모가 커졌습니다.\n\n시위대는 마약 밀매 카르텔의 폭력 기승, 정부의 미흡한 대응, 정치권 부정부패 등을 규탄했습니다.\n\n특히 지난 1일",
+      "publishedAt": "2025-11-16T14:21:49Z",
+      "duration": "PT29S",
+      "durationSeconds": 29,
+      "viewCount": 628,
+      "likeCount": 4,
+      "commentCount": 2,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/HYonjHZ9ywo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/HYonjHZ9ywo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/HYonjHZ9ywo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/HYonjHZ9ywo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/HYonjHZ9ywo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "source:영상",
+        "type:방송",
+        "genre:국제",
+        "format:기타",
+        "person:김종욱"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "YxUdQcweqF0",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelTitle": " YTN",
+      "title": "우 의장 \"다카이치 독도 영유권 주장, 강한 유감...과거사 반성 없어\" / YTN",
+      "description": "우원식 국회의장이 '독도는 일본 땅'이라고 주장한 다카이치 사나에 일본 총리 발언에 대해 강한 유감을 표한다고 밝혔습니다.\n\n우 의장은 오늘(16일) 국회 한·일 의원연맹 합동총회 참석 뒤 자신의 SNS에, 다카이치 총리 발언은 미래세대인 학생들에게 잘못된 인식을 심기 위한 시도로 보인다며 이같이 적었습니다.\n\n이어 일본 정부가 독도 영유권을 주장하기 위해",
+      "publishedAt": "2025-11-16T14:20:22Z",
+      "duration": "PT34S",
+      "durationSeconds": 34,
+      "viewCount": 398,
+      "likeCount": 2,
+      "commentCount": 7,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/YxUdQcweqF0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/YxUdQcweqF0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/YxUdQcweqF0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/YxUdQcweqF0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/YxUdQcweqF0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "source:영상",
+        "type:방송",
+        "genre:정치",
+        "format:기타",
+        "person:황보혜경"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "LBRBFWo17rg",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelTitle": " YTN",
+      "title": "담배 냄새에 승강기 살인 예고글 게시 50대 붙잡혀 / YTN",
+      "description": "충북 청주 상당경찰서는 아파트 승강기에서 살인을 예고하는 듯한 내용물을 게시한 혐의로 50대 A 씨를 붙잡아 조사하고 있습니다.\n\nA 씨는 지난달 아파트 승강기에 입주민 간 담배 연기 시비로 발생한 살인사건을 다룬 기사와 함께 살인을 예고하는 내용을 게시한 혐의를 받습니다.\n\n경찰 조사에서 A 씨는 실내 흡연 자제 게시물을 붙여보고 관리사무소에 수차례 민원",
+      "publishedAt": "2025-11-16T14:17:11Z",
+      "duration": "PT30S",
+      "durationSeconds": 30,
+      "viewCount": 726,
+      "likeCount": 11,
+      "commentCount": 5,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LBRBFWo17rg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LBRBFWo17rg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LBRBFWo17rg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/LBRBFWo17rg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/LBRBFWo17rg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "source:영상",
+        "type:방송",
+        "genre:전국",
+        "format:기타",
+        "person:김기수"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "9zopmsbcT_E",
+      "channelId": "UC9i_AUbH89T4yy1csAEXltA",
+      "channelTitle": "민주톡톡",
+      "title": "이재명 칭찬 릴레이 최고봉은? #이재명 #이재용",
+      "description": "",
+      "publishedAt": "2025-11-16T13:03:43Z",
+      "duration": "PT45S",
+      "durationSeconds": 45,
+      "viewCount": 3194,
+      "likeCount": 140,
+      "commentCount": 2,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9zopmsbcT_E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9zopmsbcT_E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9zopmsbcT_E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/9zopmsbcT_E/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/9zopmsbcT_E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "Ss2dZam-Vhk",
+      "channelId": "UC9i_AUbH89T4yy1csAEXltA",
+      "channelTitle": "민주톡톡",
+      "title": "이재명 대통령의 넉살 #이재명",
+      "description": "",
+      "publishedAt": "2025-11-16T10:10:52Z",
+      "duration": "PT32S",
+      "durationSeconds": 32,
+      "viewCount": 50408,
+      "likeCount": 1357,
+      "commentCount": 4,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Ss2dZam-Vhk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Ss2dZam-Vhk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Ss2dZam-Vhk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Ss2dZam-Vhk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Ss2dZam-Vhk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "u8OIA_OOz2U",
+      "channelId": "UC9i_AUbH89T4yy1csAEXltA",
+      "channelTitle": "민주톡톡",
+      "title": "지귀연 판사 행태에 분노하는 노영희",
+      "description": "",
+      "publishedAt": "2025-11-16T07:01:33Z",
+      "duration": "PT24S",
+      "durationSeconds": 24,
+      "viewCount": 10276,
+      "likeCount": 477,
+      "commentCount": 11,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/u8OIA_OOz2U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/u8OIA_OOz2U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/u8OIA_OOz2U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/u8OIA_OOz2U/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/u8OIA_OOz2U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "QdeI4zQ1Cxk",
+      "channelId": "UC9i_AUbH89T4yy1csAEXltA",
+      "channelTitle": "민주톡톡",
+      "title": "김용현 변호사때문에 빡친 노영희 변호사",
+      "description": "",
+      "publishedAt": "2025-11-16T04:05:14Z",
+      "duration": "PT39S",
+      "durationSeconds": 39,
+      "viewCount": 16011,
+      "likeCount": 974,
+      "commentCount": 16,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QdeI4zQ1Cxk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QdeI4zQ1Cxk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QdeI4zQ1Cxk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/QdeI4zQ1Cxk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/QdeI4zQ1Cxk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "C8Ho4mRW21U",
+      "channelId": "UC9i_AUbH89T4yy1csAEXltA",
+      "channelTitle": "민주톡톡",
+      "title": "분량에 사기 당한 천재명 대통령의 박장대소 #이재명",
+      "description": "",
+      "publishedAt": "2025-11-15T11:08:22Z",
+      "duration": "PT32S",
+      "durationSeconds": 32,
+      "viewCount": 20623,
+      "likeCount": 757,
+      "commentCount": 1,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/C8Ho4mRW21U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/C8Ho4mRW21U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/C8Ho4mRW21U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/C8Ho4mRW21U/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/C8Ho4mRW21U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "Ao6WuikeJ-0",
+      "channelId": "UC9i_AUbH89T4yy1csAEXltA",
+      "channelTitle": "민주톡톡",
+      "title": "김기현 배우자 명품백 옹호한 성일종의 망발 #최욱",
+      "description": "",
+      "publishedAt": "2025-11-15T08:28:05Z",
+      "duration": "PT51S",
+      "durationSeconds": 51,
+      "viewCount": 11215,
+      "likeCount": 770,
+      "commentCount": 13,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Ao6WuikeJ-0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Ao6WuikeJ-0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Ao6WuikeJ-0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Ao6WuikeJ-0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Ao6WuikeJ-0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "0m3KA3zygRo",
+      "channelId": "UC9i_AUbH89T4yy1csAEXltA",
+      "channelTitle": "민주톡톡",
+      "title": "계엄버스 탑승자 진급 심사에서 우수수",
+      "description": "",
+      "publishedAt": "2025-11-15T05:49:17Z",
+      "duration": "PT39S",
+      "durationSeconds": 39,
+      "viewCount": 10456,
+      "likeCount": 799,
+      "commentCount": 7,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0m3KA3zygRo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0m3KA3zygRo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0m3KA3zygRo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/0m3KA3zygRo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/0m3KA3zygRo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "TcHtMyB21cs",
+      "channelId": "UC9i_AUbH89T4yy1csAEXltA",
+      "channelTitle": "민주톡톡",
+      "title": "박성재 구속영장 기각 AI한테 물어봤다!",
+      "description": "",
+      "publishedAt": "2025-11-15T03:04:27Z",
+      "duration": "PT51S",
+      "durationSeconds": 51,
+      "viewCount": 10994,
+      "likeCount": 1072,
+      "commentCount": 12,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TcHtMyB21cs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TcHtMyB21cs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TcHtMyB21cs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/TcHtMyB21cs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/TcHtMyB21cs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "x1L1lZ6IgAk",
+      "channelId": "UC9i_AUbH89T4yy1csAEXltA",
+      "channelTitle": "민주톡톡",
+      "title": "여인형 수첩 명단이 이상하다?",
+      "description": "",
+      "publishedAt": "2025-11-15T02:06:20Z",
+      "duration": "PT42S",
+      "durationSeconds": 42,
+      "viewCount": 38282,
+      "likeCount": 1247,
+      "commentCount": 2,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/x1L1lZ6IgAk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/x1L1lZ6IgAk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/x1L1lZ6IgAk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/x1L1lZ6IgAk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/x1L1lZ6IgAk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "inaUmhe50HU",
+      "channelId": "UC9i_AUbH89T4yy1csAEXltA",
+      "channelTitle": "민주톡톡",
+      "title": "내란재판 그들은 웃고 있었다 #오대영",
+      "description": "",
+      "publishedAt": "2025-11-14T11:33:48Z",
+      "duration": "PT1M",
+      "durationSeconds": 60,
+      "viewCount": 24196,
+      "likeCount": 1471,
+      "commentCount": 20,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/inaUmhe50HU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/inaUmhe50HU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/inaUmhe50HU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/inaUmhe50HU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/inaUmhe50HU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "fGVb8T-KRXI",
+      "channelId": "UC9i_AUbH89T4yy1csAEXltA",
+      "channelTitle": "민주톡톡",
+      "title": "국력을 키웁시다 #이재명 #백운기",
+      "description": "",
+      "publishedAt": "2025-11-14T06:42:35Z",
+      "duration": "PT47S",
+      "durationSeconds": 47,
+      "viewCount": 13732,
+      "likeCount": 1198,
+      "commentCount": 21,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fGVb8T-KRXI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fGVb8T-KRXI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fGVb8T-KRXI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/fGVb8T-KRXI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/fGVb8T-KRXI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "xVS_cLAin2o",
+      "channelId": "UC9i_AUbH89T4yy1csAEXltA",
+      "channelTitle": "민주톡톡",
+      "title": "잼프를 기분 좋게 하는 남양주 최민희 김병주 김용민",
+      "description": "",
+      "publishedAt": "2025-11-14T05:42:30Z",
+      "duration": "PT16S",
+      "durationSeconds": 16,
+      "viewCount": 71627,
+      "likeCount": 1248,
+      "commentCount": 23,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xVS_cLAin2o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xVS_cLAin2o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xVS_cLAin2o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/xVS_cLAin2o/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/xVS_cLAin2o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "OwMahYdiNuo",
+      "channelId": "UC9i_AUbH89T4yy1csAEXltA",
+      "channelTitle": "민주톡톡",
+      "title": "이재명 대통령 우리의 유일한 힘은 버티는 힘이었다 #백운기",
+      "description": "",
+      "publishedAt": "2025-11-14T03:23:54Z",
+      "duration": "PT51S",
+      "durationSeconds": 51,
+      "viewCount": 19301,
+      "likeCount": 1392,
+      "commentCount": 16,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OwMahYdiNuo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OwMahYdiNuo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OwMahYdiNuo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/OwMahYdiNuo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/OwMahYdiNuo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "eS_bfDhCmHA",
+      "channelId": "UC9i_AUbH89T4yy1csAEXltA",
+      "channelTitle": "민주톡톡",
+      "title": "오늘은 분노의 날입니다. \"박성재 황교안 구속 기각\" #백운기",
+      "description": "",
+      "publishedAt": "2025-11-14T02:27:53Z",
+      "duration": "PT58S",
+      "durationSeconds": 58,
+      "viewCount": 37742,
+      "likeCount": 2242,
+      "commentCount": 60,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/eS_bfDhCmHA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/eS_bfDhCmHA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/eS_bfDhCmHA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/eS_bfDhCmHA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/eS_bfDhCmHA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "OxIErXB41yA",
+      "channelId": "UC9i_AUbH89T4yy1csAEXltA",
+      "channelTitle": "민주톡톡",
+      "title": "오대영 돌직구 \"검사들은 왜 분노하나?\"",
+      "description": "",
+      "publishedAt": "2025-11-13T11:11:32Z",
+      "duration": "PT59S",
+      "durationSeconds": 59,
+      "viewCount": 26250,
+      "likeCount": 1443,
+      "commentCount": 14,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OxIErXB41yA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OxIErXB41yA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OxIErXB41yA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/OxIErXB41yA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/OxIErXB41yA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "czzhfvqWFMM",
+      "channelId": "UC9i_AUbH89T4yy1csAEXltA",
+      "channelTitle": "민주톡톡",
+      "title": "#백운기 지귀연은 식품 전문 판사 지귀연 일갈",
+      "description": "",
+      "publishedAt": "2025-11-13T08:19:46Z",
+      "duration": "PT14S",
+      "durationSeconds": 14,
+      "viewCount": 174012,
+      "likeCount": 5942,
+      "commentCount": 40,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/czzhfvqWFMM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/czzhfvqWFMM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/czzhfvqWFMM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/czzhfvqWFMM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/czzhfvqWFMM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "QvRryhANoss",
+      "channelId": "UC9i_AUbH89T4yy1csAEXltA",
+      "channelTitle": "민주톡톡",
+      "title": "한덕수 국민 혈세 3차례 만찬 먹는데만 1557만원 #오윤혜",
+      "description": "",
+      "publishedAt": "2025-11-13T00:42:23Z",
+      "duration": "PT45S",
+      "durationSeconds": 45,
+      "viewCount": 19986,
+      "likeCount": 869,
+      "commentCount": 13,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QvRryhANoss/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QvRryhANoss/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QvRryhANoss/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/QvRryhANoss/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/QvRryhANoss/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "mzD88r9C2ro",
+      "channelId": "UC9i_AUbH89T4yy1csAEXltA",
+      "channelTitle": "민주톡톡",
+      "title": "광장시장 1800만 조회수 \"이대로 괜찮은가?\"",
+      "description": "",
+      "publishedAt": "2025-11-12T12:55:37Z",
+      "duration": "PT43S",
+      "durationSeconds": 43,
+      "viewCount": 24083,
+      "likeCount": 673,
+      "commentCount": 76,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mzD88r9C2ro/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mzD88r9C2ro/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mzD88r9C2ro/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/mzD88r9C2ro/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/mzD88r9C2ro/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "vt7J-Abwlfk",
+      "channelId": "UC9i_AUbH89T4yy1csAEXltA",
+      "channelTitle": "민주톡톡",
+      "title": "건진법사가 김건희에게 던진 한마디 #오대영",
+      "description": "",
+      "publishedAt": "2025-11-12T10:56:48Z",
+      "duration": "PT52S",
+      "durationSeconds": 52,
+      "viewCount": 47230,
+      "likeCount": 2624,
+      "commentCount": 41,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vt7J-Abwlfk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vt7J-Abwlfk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vt7J-Abwlfk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/vt7J-Abwlfk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/vt7J-Abwlfk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "RMgnSKUmTmA",
+      "channelId": "UC9i_AUbH89T4yy1csAEXltA",
+      "channelTitle": "민주톡톡",
+      "title": "공직사회 혁신의 바람 #강훈식",
+      "description": "",
+      "publishedAt": "2025-11-12T09:21:40Z",
+      "duration": "PT43S",
+      "durationSeconds": 43,
+      "viewCount": 16467,
+      "likeCount": 2574,
+      "commentCount": 16,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/RMgnSKUmTmA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/RMgnSKUmTmA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/RMgnSKUmTmA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/RMgnSKUmTmA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/RMgnSKUmTmA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "ftycd5nIsms",
+      "channelId": "UC9i_AUbH89T4yy1csAEXltA",
+      "channelTitle": "민주톡톡",
+      "title": "최종병기 김병기 반란 검사들 즉각 보직 해임",
+      "description": "",
+      "publishedAt": "2025-11-12T08:04:46Z",
+      "duration": "PT57S",
+      "durationSeconds": 57,
+      "viewCount": 14585,
+      "likeCount": 1391,
+      "commentCount": 24,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ftycd5nIsms/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ftycd5nIsms/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ftycd5nIsms/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ftycd5nIsms/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ftycd5nIsms/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "R8hqArNwgPU",
+      "channelId": "UC9i_AUbH89T4yy1csAEXltA",
+      "channelTitle": "민주톡톡",
+      "title": "분노한 정청래 정치검찰 엄벌에 처하겠다",
+      "description": "",
+      "publishedAt": "2025-11-12T06:38:25Z",
+      "duration": "PT22S",
+      "durationSeconds": 22,
+      "viewCount": 27675,
+      "likeCount": 1587,
+      "commentCount": 34,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/R8hqArNwgPU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/R8hqArNwgPU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/R8hqArNwgPU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/R8hqArNwgPU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/R8hqArNwgPU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "OzV9opLu1Ts",
+      "channelId": "UC9i_AUbH89T4yy1csAEXltA",
+      "channelTitle": "민주톡톡",
+      "title": "수험생 여러분을 응원합니다 #정청래",
+      "description": "",
+      "publishedAt": "2025-11-12T05:36:55Z",
+      "duration": "PT31S",
+      "durationSeconds": 31,
+      "viewCount": 5671,
+      "likeCount": 364,
+      "commentCount": 2,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OzV9opLu1Ts/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OzV9opLu1Ts/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OzV9opLu1Ts/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/OzV9opLu1Ts/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/OzV9opLu1Ts/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "iDmSJIEF-pE",
+      "channelId": "UC9i_AUbH89T4yy1csAEXltA",
+      "channelTitle": "민주톡톡",
+      "title": "김민석 총리 내란 척결 칼 빼들었다",
+      "description": "",
+      "publishedAt": "2025-11-11T06:17:21Z",
+      "duration": "PT49S",
+      "durationSeconds": 49,
+      "viewCount": 6722,
+      "likeCount": 543,
+      "commentCount": 2,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/iDmSJIEF-pE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/iDmSJIEF-pE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/iDmSJIEF-pE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/iDmSJIEF-pE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/iDmSJIEF-pE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "I0844hGyFU0",
+      "channelId": "UC9i_AUbH89T4yy1csAEXltA",
+      "channelTitle": "민주톡톡",
+      "title": "불법 현수막 강하게 비판하는 잼프",
+      "description": "",
+      "publishedAt": "2025-11-11T05:00:08Z",
+      "duration": "PT35S",
+      "durationSeconds": 35,
+      "viewCount": 24934,
+      "likeCount": 1254,
+      "commentCount": 22,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/I0844hGyFU0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/I0844hGyFU0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/I0844hGyFU0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/I0844hGyFU0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/I0844hGyFU0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "RrT7FRJS-hI",
+      "channelId": "UC9i_AUbH89T4yy1csAEXltA",
+      "channelTitle": "민주톡톡",
+      "title": "장사의 신 은현장 100억 날렸다",
+      "description": "",
+      "publishedAt": "2025-11-11T04:14:54Z",
+      "duration": "PT36S",
+      "durationSeconds": 36,
+      "viewCount": 23625,
+      "likeCount": 168,
+      "commentCount": 1,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/RrT7FRJS-hI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/RrT7FRJS-hI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/RrT7FRJS-hI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/RrT7FRJS-hI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/RrT7FRJS-hI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "xHV6jJPmq9o",
+      "channelId": "UCg4f4w3iy_TX5HXSTlIYNdw",
+      "channelTitle": " LEE teacher",
+      "title": "어느새 또 한 학기를 마감합니다.",
+      "description": "",
+      "publishedAt": "2022-06-14T04:34:17Z",
+      "duration": "PT15S",
+      "durationSeconds": 15,
+      "viewCount": 37,
+      "likeCount": 4,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xHV6jJPmq9o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xHV6jJPmq9o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xHV6jJPmq9o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/xHV6jJPmq9o/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/xHV6jJPmq9o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "g-s2v3RtxpI",
+      "channelId": "UCg4f4w3iy_TX5HXSTlIYNdw",
+      "channelTitle": " LEE teacher",
+      "title": "여름에 겨울 바다의 파도를 즐겨 보세요~^^.",
+      "description": "",
+      "publishedAt": "2022-06-07T08:35:34Z",
+      "duration": "PT42S",
+      "durationSeconds": 42,
+      "viewCount": 10,
+      "likeCount": 2,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/g-s2v3RtxpI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/g-s2v3RtxpI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/g-s2v3RtxpI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/g-s2v3RtxpI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "4N1VTAoCnn4",
+      "channelId": "UCg4f4w3iy_TX5HXSTlIYNdw",
+      "channelTitle": " LEE teacher",
+      "title": "매번 준비란 가슴 설레임이다~^^.",
+      "description": "",
+      "publishedAt": "2022-05-03T04:25:01Z",
+      "duration": "PT11S",
+      "durationSeconds": 11,
+      "viewCount": 19,
+      "likeCount": 3,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4N1VTAoCnn4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4N1VTAoCnn4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4N1VTAoCnn4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "0VOanuiqiW0",
+      "channelId": "UCg4f4w3iy_TX5HXSTlIYNdw",
+      "channelTitle": " LEE teacher",
+      "title": "벽을 넘나드는...?",
+      "description": "",
+      "publishedAt": "2022-04-19T04:28:24Z",
+      "duration": "PT38S",
+      "durationSeconds": 38,
+      "viewCount": 3,
+      "likeCount": 1,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0VOanuiqiW0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0VOanuiqiW0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0VOanuiqiW0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/0VOanuiqiW0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/0VOanuiqiW0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "bnNoKUZpNeo",
+      "channelId": "UCg4f4w3iy_TX5HXSTlIYNdw",
+      "channelTitle": " LEE teacher",
+      "title": "학생보다 선생 역할을 할 때가 더 행복한 거 맞나요?",
+      "description": "",
+      "publishedAt": "2022-04-04T08:55:46Z",
+      "duration": "PT47S",
+      "durationSeconds": 47,
+      "viewCount": 10,
+      "likeCount": 2,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bnNoKUZpNeo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bnNoKUZpNeo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bnNoKUZpNeo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/bnNoKUZpNeo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/bnNoKUZpNeo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "epcKdU6fuVk",
+      "channelId": "UCg4f4w3iy_TX5HXSTlIYNdw",
+      "channelTitle": " LEE teacher",
+      "title": "방학 잘 보내고 첫 수업 시작준비",
+      "description": "",
+      "publishedAt": "2022-03-12T09:56:58Z",
+      "duration": "PT38S",
+      "durationSeconds": 38,
+      "viewCount": 14,
+      "likeCount": 3,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/epcKdU6fuVk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/epcKdU6fuVk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/epcKdU6fuVk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/epcKdU6fuVk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/epcKdU6fuVk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "UdvGDkD2IBU",
+      "channelId": "UCg4f4w3iy_TX5HXSTlIYNdw",
+      "channelTitle": " LEE teacher",
+      "title": "아이구, 벌써 서운 서운해서 표정이 굳어지네요....",
+      "description": "",
+      "publishedAt": "2021-12-08T10:13:29Z",
+      "duration": "PT45S",
+      "durationSeconds": 45,
+      "viewCount": 13,
+      "likeCount": 2,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UdvGDkD2IBU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UdvGDkD2IBU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UdvGDkD2IBU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/UdvGDkD2IBU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/UdvGDkD2IBU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "Y4AiThuTtS8",
+      "channelId": "UCg4f4w3iy_TX5HXSTlIYNdw",
+      "channelTitle": " LEE teacher",
+      "title": "요이~땅~!!",
+      "description": "늘 투철한 서비스 정신으로 옷 매무새를 다듬고 시험 가동을 해 봅니다.\n저~, 잘하는 거지요?",
+      "publishedAt": "2021-10-30T05:01:15Z",
+      "duration": "PT32S",
+      "durationSeconds": 32,
+      "viewCount": 31,
+      "likeCount": 4,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Y4AiThuTtS8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Y4AiThuTtS8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Y4AiThuTtS8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Y4AiThuTtS8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Y4AiThuTtS8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "JP-yqaX17UU",
+      "channelId": "UCg4f4w3iy_TX5HXSTlIYNdw",
+      "channelTitle": " LEE teacher",
+      "title": "지금 여기서 내 존재에 대한 의문?",
+      "description": "자연스레 벽을 넘나드는 귀신 인가요?",
+      "publishedAt": "2021-10-30T04:47:34Z",
+      "duration": "PT57S",
+      "durationSeconds": 57,
+      "viewCount": 16,
+      "likeCount": 2,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JP-yqaX17UU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JP-yqaX17UU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JP-yqaX17UU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/JP-yqaX17UU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/JP-yqaX17UU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "g3sHteSwbtQ",
+      "channelId": "UCg4f4w3iy_TX5HXSTlIYNdw",
+      "channelTitle": " LEE teacher",
+      "title": "이게 뭐야?",
+      "description": "7초 만에 준비 완료입니다~!! \n와 따~!! 빠르다아~^^.",
+      "publishedAt": "2021-10-30T04:47:28Z",
+      "duration": "PT7S",
+      "durationSeconds": 7,
+      "viewCount": 10,
+      "likeCount": 3,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/g3sHteSwbtQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/g3sHteSwbtQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/g3sHteSwbtQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/g3sHteSwbtQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/g3sHteSwbtQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    }
+  ],
   "channelStats": [
     {
       "id": "UChlgI3UHCOnwUGzWzbJ3H5w",
@@ -18,8 +2169,8 @@
       "customUrl": "@ytnnews24",
       "publishedAt": "2013-05-23T07:07:42Z",
       "subscriberCount": 5220000,
-      "videoCount": 912296,
-      "viewCount": 18346979704,
+      "videoCount": 912348,
+      "viewCount": 18350810262,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s88-c-k-c0x00ffffff-no-rj",
@@ -39,9 +2190,9 @@
       },
       "uploads": "UUhlgI3UHCOnwUGzWzbJ3H5w",
       "country": "KR",
-      "videosAnalyzed": 0,
-      "shortsCount": 0,
-      "regularVideosCount": 0
+      "videosAnalyzed": 30,
+      "shortsCount": 12,
+      "regularVideosCount": 18
     },
     {
       "id": "UCWlV3Lz_55UaX4JsMj-z__Q",
@@ -50,7 +2201,7 @@
       "customUrl": "@tvchosunnews",
       "publishedAt": "2012-08-23T12:33:18Z",
       "subscriberCount": 3000000,
-      "videoCount": 162505,
+      "videoCount": 162506,
       "viewCount": 4739411447,
       "thumbnails": {
         "default": {
@@ -82,8 +2233,8 @@
       "customUrl": "@speaks_tv",
       "publishedAt": "2022-05-24T02:02:45.424058Z",
       "subscriberCount": 1550000,
-      "videoCount": 27575,
-      "viewCount": 1777745340,
+      "videoCount": 27576,
+      "viewCount": 1778575857,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/S3rLqAB2YDYQDzLNBiFveCxuoTifWkLQtQP-V416WUiciWNz1umav1O51CwrxVy8zKrTMSKg=s88-c-k-c0x00ffffff-no-rj",
@@ -146,7 +2297,7 @@
       "customUrl": "@세상만사-n6h",
       "publishedAt": "2024-02-14T06:48:46.622989Z",
       "subscriberCount": 631000,
-      "videoCount": 2822,
+      "videoCount": 2824,
       "viewCount": 1464410298,
       "thumbnails": {
         "default": {
@@ -179,7 +2330,7 @@
       "publishedAt": "2025-01-31T07:55:07.066491Z",
       "subscriberCount": 544000,
       "videoCount": 1269,
-      "viewCount": 874701821,
+      "viewCount": 876036572,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/4iOFLb4gPIReye1CRxGOIYK6oe3-i65mtzpT851pm5sFWY46hVgPMVo7loKQVWy-ZJSxYv_K=s88-c-k-c0x00ffffff-no-rj",
@@ -242,7 +2393,7 @@
       "customUrl": "@이슈카톡",
       "publishedAt": "2022-05-30T11:34:11.689006Z",
       "subscriberCount": 472000,
-      "videoCount": 3611,
+      "videoCount": 3613,
       "viewCount": 1791858277,
       "thumbnails": {
         "default": {
@@ -306,7 +2457,7 @@
       "customUrl": "@mediamongu",
       "publishedAt": "2009-03-21T08:15:07Z",
       "subscriberCount": 453000,
-      "videoCount": 3041,
+      "videoCount": 3044,
       "viewCount": 516877267,
       "thumbnails": {
         "default": {
@@ -337,8 +2488,8 @@
       "description": "MBC경남 뉴스 공식 계정입니다.\n지역 핫이슈부터 전국적 관심 사안까지 두루 살핍니다.\n방위산업의 중심지에서 K-방산 콘텐츠도 집중적으로 다룹니다.\n많은 관심 부탁드립니다. (구독, 좋아요는 필수!)\n\n홈페이지 : http://www.mbcgn.kr\nX : @mbcgn_news\n페이스북 : http://www.facebook.com/withmbcgn\n인스타그램  : https://www.instagram.com/mbcgn_news/",
       "customUrl": "@mbcnews7670",
       "publishedAt": "2017-08-07T06:21:04Z",
-      "subscriberCount": 419000,
-      "videoCount": 43365,
+      "subscriberCount": 420000,
+      "videoCount": 43367,
       "viewCount": 492506322,
       "thumbnails": {
         "default": {
@@ -371,7 +2522,7 @@
       "publishedAt": "2018-02-07T05:25:49Z",
       "subscriberCount": 401000,
       "videoCount": 2749,
-      "viewCount": 523569877,
+      "viewCount": 524368723,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/CfeyGSvQwDc7p7TSueVaFvcuwKlwu999XXxNCdBVKb0YyYhth-H-321wlxcbaSOHMYjODKnK5_M=s88-c-k-c0x00ffffff-no-rj",
@@ -403,7 +2554,7 @@
       "publishedAt": "2020-05-28T12:15:50.768611Z",
       "subscriberCount": 380000,
       "videoCount": 641,
-      "viewCount": 115209268,
+      "viewCount": 115228270,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/R6ynfgFkV7pKnrgUIp52TOpg2AQ2qD0Geo57N9uoFitMuC1nvsL7LmBRqgnZqqwGCj1RNL0Yvg=s88-c-k-c0x00ffffff-no-rj",
@@ -497,8 +2648,8 @@
       "description": "다시 시작하는 민주주의를 위해\n \n민주시민을 위한 민주 뉴스 숏츠 채널입니다\n\n0H9LA0@AICOMPANY",
       "customUrl": "@minjupick",
       "publishedAt": "2013-04-08T07:04:38Z",
-      "subscriberCount": 300000,
-      "videoCount": 2010,
+      "subscriberCount": 301000,
+      "videoCount": 2011,
       "viewCount": 1557332164,
       "thumbnails": {
         "default": {
@@ -530,7 +2681,7 @@
       "customUrl": "@tv17314",
       "publishedAt": "2023-05-08T14:08:28.931191Z",
       "subscriberCount": 293000,
-      "videoCount": 11401,
+      "videoCount": 11403,
       "viewCount": 813755103,
       "thumbnails": {
         "default": {
@@ -562,7 +2713,7 @@
       "customUrl": "@mychokuk",
       "publishedAt": "2021-08-05T10:53:39.000195Z",
       "subscriberCount": 286000,
-      "videoCount": 2588,
+      "videoCount": 2590,
       "viewCount": 681934717,
       "thumbnails": {
         "default": {
@@ -627,7 +2778,7 @@
       "publishedAt": "2022-01-20T05:20:14.466877Z",
       "subscriberCount": 250000,
       "videoCount": 2480,
-      "viewCount": 59955794,
+      "viewCount": 60053939,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/AcHJRPOd86WJogFMwZ0Mj72-x88FKAWCQUZCocftVfmNyDOPc9WIqzifnM8nkfPs-wsrK9Mhcw=s88-c-k-c0x00ffffff-no-rj",
