@@ -1,14 +1,2957 @@
 {
-  "lastUpdated": "2025-11-25T06:18:59.204Z",
-  "totalChannelsAnalyzed": 0,
-  "totalVideos": 0,
-  "totalShorts": 0,
-  "totalRegularVideos": 0,
-  "totalViewCount": 0,
-  "totalLikeCount": 0,
-  "averageViewsPerShort": 0,
-  "topChannelsByShorts": [],
-  "topShortsByViews": [],
-  "recentShorts": [],
-  "channelStats": []
+  "lastUpdated": "2025-11-25T12:25:58.976Z",
+  "totalChannelsAnalyzed": 82,
+  "totalVideos": 94,
+  "totalShorts": 61,
+  "totalRegularVideos": 33,
+  "totalViewCount": 58196289,
+  "totalLikeCount": 1261687,
+  "averageViewsPerShort": 250752,
+  "topChannelsByShorts": [
+    {
+      "title": "골프콜라",
+      "shortsCount": 30,
+      "subscriberCount": 247000
+    },
+    {
+      "title": "주관적정치",
+      "shortsCount": 28,
+      "subscriberCount": 41900
+    },
+    {
+      "title": "AS Tecc",
+      "shortsCount": 3,
+      "subscriberCount": 7
+    }
+  ],
+  "topShortsByViews": [
+    {
+      "title": "대통령내외분 보자 눈물이 왈칵 난 조수미 소프라노 #대통령부부",
+      "channelTitle": "주관적정치",
+      "viewCount": 3552694,
+      "publishedAt": "2025-11-18T15:04:53Z"
+    },
+    {
+      "title": "그럼 누굴 잡으라고?#홍장원",
+      "channelTitle": "골프콜라",
+      "viewCount": 1787157,
+      "publishedAt": "2025-11-21T09:27:14Z"
+    },
+    {
+      "title": "윤, 정말 나쁜 놈인게 #매불쇼 #홍장원",
+      "channelTitle": "골프콜라",
+      "viewCount": 985435,
+      "publishedAt": "2025-11-21T11:01:59Z"
+    },
+    {
+      "title": "한복은 못지나치는 김혜경여사님, 감동의 인사 #김혜경여사",
+      "channelTitle": "주관적정치",
+      "viewCount": 917431,
+      "publishedAt": "2025-11-19T09:50:15Z"
+    },
+    {
+      "title": "자투리 시간 활용도 만렙 대통령, 그냥 허투루 낭비하는 법이 없다 #이재명 #이재명대통령",
+      "channelTitle": "주관적정치",
+      "viewCount": 863961,
+      "publishedAt": "2025-11-20T02:27:00Z"
+    },
+    {
+      "title": "대통령님은 두눈 꼬옥, 여사님은 오열. 조수미소프라노의 그리운 금강산 #대통령부부",
+      "channelTitle": "주관적정치",
+      "viewCount": 831629,
+      "publishedAt": "2025-11-18T15:06:11Z"
+    },
+    {
+      "title": "어림없는 수괴 변호인#홍장원",
+      "channelTitle": "골프콜라",
+      "viewCount": 830062,
+      "publishedAt": "2025-11-22T22:06:07Z"
+    },
+    {
+      "title": "어떻게 메로나를 알지? k-푸드의 위용에 놀란 김혜경여사님 #김혜경여사",
+      "channelTitle": "주관적정치",
+      "viewCount": 437769,
+      "publishedAt": "2025-11-19T12:33:48Z"
+    },
+    {
+      "title": "그래, 겸공출연 했다 #홍장원",
+      "channelTitle": "골프콜라",
+      "viewCount": 429291,
+      "publishedAt": "2025-11-22T12:29:04Z"
+    },
+    {
+      "title": "김계리 팔지 마세요?#홍장원",
+      "channelTitle": "골프콜라",
+      "viewCount": 357487,
+      "publishedAt": "2025-11-22T22:59:11Z"
+    }
+  ],
+  "recentShorts": [
+    {
+      "id": "4Ryk2aX7w_c",
+      "channelId": "UC8ceET6A2UJ1j8Cuob-dstg",
+      "channelTitle": "골프콜라",
+      "title": "부당하면 지시를 말아야지",
+      "description": "",
+      "publishedAt": "2025-11-25T11:53:51Z",
+      "duration": "PT55S",
+      "durationSeconds": 55,
+      "viewCount": 629,
+      "likeCount": 17,
+      "commentCount": 3,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4Ryk2aX7w_c/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4Ryk2aX7w_c/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4Ryk2aX7w_c/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/4Ryk2aX7w_c/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/4Ryk2aX7w_c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "fwb8DmItGnE",
+      "channelId": "UC8ceET6A2UJ1j8Cuob-dstg",
+      "channelTitle": "골프콜라",
+      "title": "윤석열과 여인형의 각자도생",
+      "description": "",
+      "publishedAt": "2025-11-25T10:54:05Z",
+      "duration": "PT31S",
+      "durationSeconds": 31,
+      "viewCount": 1792,
+      "likeCount": 83,
+      "commentCount": 2,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fwb8DmItGnE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fwb8DmItGnE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fwb8DmItGnE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/fwb8DmItGnE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/fwb8DmItGnE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "BIeTJwNoAU0",
+      "channelId": "UC8ceET6A2UJ1j8Cuob-dstg",
+      "channelTitle": "골프콜라",
+      "title": "법원행정처, 이하상 고발",
+      "description": "",
+      "publishedAt": "2025-11-25T10:18:22Z",
+      "duration": "PT59S",
+      "durationSeconds": 59,
+      "viewCount": 3924,
+      "likeCount": 654,
+      "commentCount": 41,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BIeTJwNoAU0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BIeTJwNoAU0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BIeTJwNoAU0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/BIeTJwNoAU0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/BIeTJwNoAU0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "PM4TordVPuc",
+      "channelId": "UC8ceET6A2UJ1j8Cuob-dstg",
+      "channelTitle": "골프콜라",
+      "title": "서로 떠넘기기 #한덕수 #최상목 #매불쇼",
+      "description": "",
+      "publishedAt": "2025-11-25T09:47:28Z",
+      "duration": "PT59S",
+      "durationSeconds": 59,
+      "viewCount": 1382,
+      "likeCount": 111,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PM4TordVPuc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PM4TordVPuc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PM4TordVPuc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/PM4TordVPuc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/PM4TordVPuc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "wKduNDMpjwk",
+      "channelId": "UC8ceET6A2UJ1j8Cuob-dstg",
+      "channelTitle": "골프콜라",
+      "title": "기억 안 난다는 한덕수",
+      "description": "",
+      "publishedAt": "2025-11-25T09:05:25Z",
+      "duration": "PT1M",
+      "durationSeconds": 60,
+      "viewCount": 691,
+      "likeCount": 57,
+      "commentCount": 6,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wKduNDMpjwk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wKduNDMpjwk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wKduNDMpjwk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/wKduNDMpjwk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/wKduNDMpjwk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "ovRYkMqpMoc",
+      "channelId": "UC8ceET6A2UJ1j8Cuob-dstg",
+      "channelTitle": "골프콜라",
+      "title": "비루한 한덕수를 #매불쇼",
+      "description": "",
+      "publishedAt": "2025-11-25T08:01:40Z",
+      "duration": "PT1M",
+      "durationSeconds": 60,
+      "viewCount": 14060,
+      "likeCount": 1121,
+      "commentCount": 31,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ovRYkMqpMoc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ovRYkMqpMoc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ovRYkMqpMoc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ovRYkMqpMoc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ovRYkMqpMoc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "aa_yZY9nAm8",
+      "channelId": "UC8ceET6A2UJ1j8Cuob-dstg",
+      "channelTitle": "골프콜라",
+      "title": "숙자이모와 1박2일#이명수",
+      "description": "",
+      "publishedAt": "2025-11-24T21:42:46Z",
+      "duration": "PT1M",
+      "durationSeconds": 60,
+      "viewCount": 40073,
+      "likeCount": 1467,
+      "commentCount": 21,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/aa_yZY9nAm8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/aa_yZY9nAm8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/aa_yZY9nAm8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/aa_yZY9nAm8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/aa_yZY9nAm8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "yfVgLe_nk2I",
+      "channelId": "UC8ceET6A2UJ1j8Cuob-dstg",
+      "channelTitle": "골프콜라",
+      "title": "화해하자? 조건은#이하상",
+      "description": "",
+      "publishedAt": "2025-11-24T12:11:05Z",
+      "duration": "PT59S",
+      "durationSeconds": 59,
+      "viewCount": 83089,
+      "likeCount": 4320,
+      "commentCount": 329,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/yfVgLe_nk2I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/yfVgLe_nk2I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/yfVgLe_nk2I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/yfVgLe_nk2I/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/yfVgLe_nk2I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "424QuMQN3mM",
+      "channelId": "UCK6IkFBFPRo0QOUgUJ9VETA",
+      "channelTitle": "주관적정치",
+      "title": "대통령이 죽을 지경이었다는 이번 순방, 빡센 일정에 범인찾기ㅋㅋㅋ #이재명",
+      "description": "대통령이 죽을 지경이었다는 이번 순방, 빡센 일정에 범인찾기ㅋㅋㅋ #이재명",
+      "publishedAt": "2025-11-24T11:09:07Z",
+      "duration": "PT40S",
+      "durationSeconds": 40,
+      "viewCount": 13864,
+      "likeCount": 747,
+      "commentCount": 18,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/424QuMQN3mM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/424QuMQN3mM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/424QuMQN3mM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/424QuMQN3mM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/424QuMQN3mM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "이재명",
+        "이재명대통령",
+        "이재명정부",
+        "기내간담회",
+        "순방",
+        "해외순방"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "ZFLP0mdKdJw",
+      "channelId": "UC8ceET6A2UJ1j8Cuob-dstg",
+      "channelTitle": "골프콜라",
+      "title": "끝까지 잡는다#이진관판사",
+      "description": "",
+      "publishedAt": "2025-11-24T10:51:27Z",
+      "duration": "PT1M",
+      "durationSeconds": 60,
+      "viewCount": 20234,
+      "likeCount": 2234,
+      "commentCount": 63,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZFLP0mdKdJw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZFLP0mdKdJw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZFLP0mdKdJw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ZFLP0mdKdJw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ZFLP0mdKdJw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "fqKOeynYSvQ",
+      "channelId": "UCK6IkFBFPRo0QOUgUJ9VETA",
+      "channelTitle": "주관적정치",
+      "title": "대통령이 다카이치 총리에게 건넨 조언, 과연 어떻게 받아들일지... #이재명",
+      "description": "대통령이 다카이치 총리에게 건넨 조언, 과연 어떻게 받아들일지... #이재명",
+      "publishedAt": "2025-11-24T10:19:10Z",
+      "duration": "PT29S",
+      "durationSeconds": 29,
+      "viewCount": 20736,
+      "likeCount": 600,
+      "commentCount": 8,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fqKOeynYSvQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fqKOeynYSvQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fqKOeynYSvQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/fqKOeynYSvQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/fqKOeynYSvQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "이재명",
+        "이재명대통령",
+        "기내간담회",
+        "순방",
+        "다카이치총리",
+        "중일갈등"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "g4XTvQqRQ90",
+      "channelId": "UC8ceET6A2UJ1j8Cuob-dstg",
+      "channelTitle": "골프콜라",
+      "title": "무릎까지 꿇었다#여인형",
+      "description": "",
+      "publishedAt": "2025-11-24T09:41:54Z",
+      "duration": "PT59S",
+      "durationSeconds": 59,
+      "viewCount": 36158,
+      "likeCount": 1505,
+      "commentCount": 182,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/g4XTvQqRQ90/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/g4XTvQqRQ90/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/g4XTvQqRQ90/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/g4XTvQqRQ90/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/g4XTvQqRQ90/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "Y0GNFs8YH8I",
+      "channelId": "UCK6IkFBFPRo0QOUgUJ9VETA",
+      "channelTitle": "주관적정치",
+      "title": "지친 기자단에게 건넨 대통령의 살벌한 농담ㅋㅋㅋ #이재명",
+      "description": "지친 기자단에게 건넨 대통령의 살벌한 농담ㅋㅋㅋ #이재명",
+      "publishedAt": "2025-11-24T09:37:48Z",
+      "duration": "PT58S",
+      "durationSeconds": 58,
+      "viewCount": 26223,
+      "likeCount": 915,
+      "commentCount": 7,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Y0GNFs8YH8I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Y0GNFs8YH8I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Y0GNFs8YH8I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Y0GNFs8YH8I/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Y0GNFs8YH8I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "이재명",
+        "순방",
+        "이재명대통령",
+        "기내간담회"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "fmBqeYb31h0",
+      "channelId": "UC8ceET6A2UJ1j8Cuob-dstg",
+      "channelTitle": "골프콜라",
+      "title": "니네는 절대 용서못해#이진관판사 #이하상#권우현",
+      "description": "",
+      "publishedAt": "2025-11-24T07:38:39Z",
+      "duration": "PT59S",
+      "durationSeconds": 59,
+      "viewCount": 211372,
+      "likeCount": 14739,
+      "commentCount": 564,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fmBqeYb31h0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fmBqeYb31h0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fmBqeYb31h0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/fmBqeYb31h0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/fmBqeYb31h0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "14AO8D7C424",
+      "channelId": "UCK6IkFBFPRo0QOUgUJ9VETA",
+      "channelTitle": "주관적정치",
+      "title": "맘처럼 풀리지 않는 외교에도 긍정적인 대통령의 마인드 #이재명",
+      "description": "맘처럼 풀리지 않는 외교에도 긍정적인 대통령의 마인드 #이재명",
+      "publishedAt": "2025-11-24T04:39:49Z",
+      "duration": "PT37S",
+      "durationSeconds": 37,
+      "viewCount": 197332,
+      "likeCount": 4466,
+      "commentCount": 81,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/14AO8D7C424/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/14AO8D7C424/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/14AO8D7C424/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/14AO8D7C424/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/14AO8D7C424/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "이재명",
+        "이재명대통령",
+        "이재명정부",
+        "한프정상회담"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "LtTjHO2z4uI",
+      "channelId": "UC8ceET6A2UJ1j8Cuob-dstg",
+      "channelTitle": "골프콜라",
+      "title": "업무보고 가서 업혀 나온 윤",
+      "description": "",
+      "publishedAt": "2025-11-24T03:56:08Z",
+      "duration": "PT39S",
+      "durationSeconds": 39,
+      "viewCount": 21328,
+      "likeCount": 1640,
+      "commentCount": 45,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LtTjHO2z4uI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LtTjHO2z4uI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LtTjHO2z4uI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/LtTjHO2z4uI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/LtTjHO2z4uI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "kVmNXNwRysI",
+      "channelId": "UC8ceET6A2UJ1j8Cuob-dstg",
+      "channelTitle": "골프콜라",
+      "title": "특별한 관계란#홍장원",
+      "description": "",
+      "publishedAt": "2025-11-23T23:15:03Z",
+      "duration": "PT58S",
+      "durationSeconds": 58,
+      "viewCount": 351239,
+      "likeCount": 7746,
+      "commentCount": 293,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kVmNXNwRysI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kVmNXNwRysI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kVmNXNwRysI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/kVmNXNwRysI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/kVmNXNwRysI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "ZX_qup3TV2w",
+      "channelId": "UC8ceET6A2UJ1j8Cuob-dstg",
+      "channelTitle": "골프콜라",
+      "title": "애쓰는 수개 변호인들#홍장원 #홍장원차장",
+      "description": "",
+      "publishedAt": "2025-11-23T22:02:37Z",
+      "duration": "PT1M",
+      "durationSeconds": 60,
+      "viewCount": 345578,
+      "likeCount": 10234,
+      "commentCount": 511,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZX_qup3TV2w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZX_qup3TV2w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZX_qup3TV2w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ZX_qup3TV2w/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ZX_qup3TV2w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "lVb3Ewk4EaU",
+      "channelId": "UC8ceET6A2UJ1j8Cuob-dstg",
+      "channelTitle": "골프콜라",
+      "title": "그게 왜 지렁이야?#홍장원",
+      "description": "",
+      "publishedAt": "2025-11-23T13:03:20Z",
+      "duration": "PT1M",
+      "durationSeconds": 60,
+      "viewCount": 99324,
+      "likeCount": 4036,
+      "commentCount": 188,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lVb3Ewk4EaU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lVb3Ewk4EaU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lVb3Ewk4EaU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/lVb3Ewk4EaU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/lVb3Ewk4EaU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "23A5ibPpXks",
+      "channelId": "UC8ceET6A2UJ1j8Cuob-dstg",
+      "channelTitle": "골프콜라",
+      "title": "김계리 팔지 마세요?#홍장원",
+      "description": "",
+      "publishedAt": "2025-11-22T22:59:11Z",
+      "duration": "PT59S",
+      "durationSeconds": 59,
+      "viewCount": 357487,
+      "likeCount": 8597,
+      "commentCount": 352,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/23A5ibPpXks/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/23A5ibPpXks/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/23A5ibPpXks/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/23A5ibPpXks/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/23A5ibPpXks/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "3LGBOjTOTlk",
+      "channelId": "UC8ceET6A2UJ1j8Cuob-dstg",
+      "channelTitle": "골프콜라",
+      "title": "어림없는 수괴 변호인#홍장원",
+      "description": "",
+      "publishedAt": "2025-11-22T22:06:07Z",
+      "duration": "PT39S",
+      "durationSeconds": 39,
+      "viewCount": 830062,
+      "likeCount": 19161,
+      "commentCount": 755,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3LGBOjTOTlk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3LGBOjTOTlk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3LGBOjTOTlk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/3LGBOjTOTlk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/3LGBOjTOTlk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "0-Bdd83v6zM",
+      "channelId": "UCK6IkFBFPRo0QOUgUJ9VETA",
+      "channelTitle": "주관적정치",
+      "title": "여사님의 김치홍보에 어느새 입으로 향하는 김치 #김혜경여사",
+      "description": "여사님의 김치홍보에 어느새 입으로 향하는 김치 #김혜경여사",
+      "publishedAt": "2025-11-22T16:18:46Z",
+      "duration": "PT31S",
+      "durationSeconds": 31,
+      "viewCount": 42358,
+      "likeCount": 1131,
+      "commentCount": 25,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0-Bdd83v6zM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0-Bdd83v6zM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0-Bdd83v6zM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/0-Bdd83v6zM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/0-Bdd83v6zM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "남아공",
+        "김치",
+        "g20",
+        "g20정상회의",
+        "김혜경여사"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "2HF82uutvKg",
+      "channelId": "UCK6IkFBFPRo0QOUgUJ9VETA",
+      "channelTitle": "주관적정치",
+      "title": "이재명대통령 발견한 다이키치 총리, 대뜸 감사인사를? #이재명",
+      "description": "이재명대통령 발견한 다이키치 총리, 대뜸 감사인사를? #이재명",
+      "publishedAt": "2025-11-22T14:13:59Z",
+      "duration": "PT18S",
+      "durationSeconds": 18,
+      "viewCount": 246885,
+      "likeCount": 5476,
+      "commentCount": 89,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2HF82uutvKg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2HF82uutvKg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2HF82uutvKg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/2HF82uutvKg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/2HF82uutvKg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "이재명",
+        "이재명대통령",
+        "g20",
+        "다이키치총리",
+        "다이키치",
+        "일본총리",
+        "g20정상회의"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "0YVki73QOcQ",
+      "channelId": "UCK6IkFBFPRo0QOUgUJ9VETA",
+      "channelTitle": "주관적정치",
+      "title": "일할 때는 철두철미한 대통령, 남는 시간 확인 또 확인 #이재명",
+      "description": "일할 때는 철두철미한 대통령, 남는 시간 확인 또 확인 #이재명",
+      "publishedAt": "2025-11-22T13:41:32Z",
+      "duration": "PT37S",
+      "durationSeconds": 37,
+      "viewCount": 28808,
+      "likeCount": 625,
+      "commentCount": 11,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0YVki73QOcQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0YVki73QOcQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0YVki73QOcQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/0YVki73QOcQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/0YVki73QOcQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "이재명",
+        "이재명대통령",
+        "g20",
+        "g20정상회의"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "E74BupAHzJU",
+      "channelId": "UCK6IkFBFPRo0QOUgUJ9VETA",
+      "channelTitle": "주관적정치",
+      "title": "인싸 대통령 각국 정상들과 대화를 주도, 유쾌함 가득 #이재명 #ktv #g20",
+      "description": "인싸 대통령 각국 정상들과 대화를 주도, 유쾌함 가득 #이재명",
+      "publishedAt": "2025-11-22T12:43:14Z",
+      "duration": "PT46S",
+      "durationSeconds": 46,
+      "viewCount": 107587,
+      "likeCount": 2230,
+      "commentCount": 37,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/E74BupAHzJU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/E74BupAHzJU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/E74BupAHzJU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/E74BupAHzJU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/E74BupAHzJU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "이재명",
+        "이재명대통령",
+        "g20",
+        "g20정상회의",
+        "남아공",
+        "인도총리",
+        "남아공대통령"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "AucoPUjkRFw",
+      "channelId": "UC8ceET6A2UJ1j8Cuob-dstg",
+      "channelTitle": "골프콜라",
+      "title": "그래, 겸공출연 했다 #홍장원",
+      "description": "",
+      "publishedAt": "2025-11-22T12:29:04Z",
+      "duration": "PT54S",
+      "durationSeconds": 54,
+      "viewCount": 429291,
+      "likeCount": 15227,
+      "commentCount": 646,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/AucoPUjkRFw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/AucoPUjkRFw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/AucoPUjkRFw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/AucoPUjkRFw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/AucoPUjkRFw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "1NVqwSRpn1E",
+      "channelId": "UC8ceET6A2UJ1j8Cuob-dstg",
+      "channelTitle": "골프콜라",
+      "title": "한겨레 경향 왜 보도안해?#최경영",
+      "description": "",
+      "publishedAt": "2025-11-22T11:05:04Z",
+      "duration": "PT57S",
+      "durationSeconds": 57,
+      "viewCount": 33966,
+      "likeCount": 2939,
+      "commentCount": 79,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1NVqwSRpn1E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1NVqwSRpn1E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1NVqwSRpn1E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/1NVqwSRpn1E/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/1NVqwSRpn1E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "Q2lhYRlvJIY",
+      "channelId": "UC8ceET6A2UJ1j8Cuob-dstg",
+      "channelTitle": "골프콜라",
+      "title": "홍장원 대 윤석열 마지막 작품#매불쇼",
+      "description": "",
+      "publishedAt": "2025-11-22T09:27:40Z",
+      "duration": "PT59S",
+      "durationSeconds": 59,
+      "viewCount": 223789,
+      "likeCount": 4988,
+      "commentCount": 84,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Q2lhYRlvJIY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Q2lhYRlvJIY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Q2lhYRlvJIY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Q2lhYRlvJIY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Q2lhYRlvJIY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "csKiVNMciWg",
+      "channelId": "UCK6IkFBFPRo0QOUgUJ9VETA",
+      "channelTitle": "주관적정치",
+      "title": "통역이 없어도 여유로운 대통령, 간단한 영어정도야 #이재명 #ktv",
+      "description": "통역이 없어도 여유로운 대통령, 간단한 영어정도야 #이재명 #ktv",
+      "publishedAt": "2025-11-22T08:35:19Z",
+      "duration": "PT31S",
+      "durationSeconds": 31,
+      "viewCount": 65296,
+      "likeCount": 959,
+      "commentCount": 8,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/csKiVNMciWg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/csKiVNMciWg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/csKiVNMciWg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/csKiVNMciWg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/csKiVNMciWg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "이재명",
+        "이재명대통령",
+        "남아공",
+        "g20정상회의",
+        "이재명tv",
+        "ktv"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "GS5vybIxre0",
+      "channelId": "UC8ceET6A2UJ1j8Cuob-dstg",
+      "channelTitle": "골프콜라",
+      "title": "숙자 이모 돈갚어#이명수",
+      "description": "",
+      "publishedAt": "2025-11-22T08:21:04Z",
+      "duration": "PT58S",
+      "durationSeconds": 58,
+      "viewCount": 287255,
+      "likeCount": 5694,
+      "commentCount": 124,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GS5vybIxre0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GS5vybIxre0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GS5vybIxre0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/GS5vybIxre0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/GS5vybIxre0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "6wD3ZBHP9uU",
+      "channelId": "UC8ceET6A2UJ1j8Cuob-dstg",
+      "channelTitle": "골프콜라",
+      "title": "얼떨결에 인정! #매불쇼 #홍장원",
+      "description": "",
+      "publishedAt": "2025-11-22T01:58:43Z",
+      "duration": "PT59S",
+      "durationSeconds": 59,
+      "viewCount": 118867,
+      "likeCount": 4797,
+      "commentCount": 106,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6wD3ZBHP9uU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6wD3ZBHP9uU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6wD3ZBHP9uU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/6wD3ZBHP9uU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/6wD3ZBHP9uU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "LKlSZA3ZfTQ",
+      "channelId": "UCK6IkFBFPRo0QOUgUJ9VETA",
+      "channelTitle": "주관적정치",
+      "title": "격정적인 남아공 환영인사에 놀란 대통령내외 #이재명",
+      "description": "격정적인 남아공 환영인사에 놀란 대통령내외 #이재명",
+      "publishedAt": "2025-11-21T23:57:47Z",
+      "duration": "PT40S",
+      "durationSeconds": 40,
+      "viewCount": 24393,
+      "likeCount": 509,
+      "commentCount": 3,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LKlSZA3ZfTQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LKlSZA3ZfTQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LKlSZA3ZfTQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/LKlSZA3ZfTQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/LKlSZA3ZfTQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "이재명",
+        "남아공",
+        "이재명대통령",
+        "김혜경여사",
+        "g20정상회의"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "Dlqpm8bYzZI",
+      "channelId": "UC8ceET6A2UJ1j8Cuob-dstg",
+      "channelTitle": "골프콜라",
+      "title": "여인형이 다 했어요(ft.윤석열)",
+      "description": "",
+      "publishedAt": "2025-11-21T22:32:25Z",
+      "duration": "PT59S",
+      "durationSeconds": 59,
+      "viewCount": 145549,
+      "likeCount": 6869,
+      "commentCount": 180,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Dlqpm8bYzZI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Dlqpm8bYzZI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Dlqpm8bYzZI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Dlqpm8bYzZI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Dlqpm8bYzZI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "YXLsKlpMZbc",
+      "channelId": "UC8ceET6A2UJ1j8Cuob-dstg",
+      "channelTitle": "골프콜라",
+      "title": "정치하고픈 김계리#홍장원",
+      "description": "",
+      "publishedAt": "2025-11-21T13:37:23Z",
+      "duration": "PT1M",
+      "durationSeconds": 60,
+      "viewCount": 26651,
+      "likeCount": 1140,
+      "commentCount": 36,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/YXLsKlpMZbc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/YXLsKlpMZbc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/YXLsKlpMZbc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/YXLsKlpMZbc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/YXLsKlpMZbc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "i5sH53EqJZE",
+      "channelId": "UC8ceET6A2UJ1j8Cuob-dstg",
+      "channelTitle": "골프콜라",
+      "title": "빠져드는 김계리#홍장원",
+      "description": "",
+      "publishedAt": "2025-11-21T12:31:34Z",
+      "duration": "PT1M",
+      "durationSeconds": 60,
+      "viewCount": 176707,
+      "likeCount": 8740,
+      "commentCount": 376,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/i5sH53EqJZE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/i5sH53EqJZE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/i5sH53EqJZE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/i5sH53EqJZE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/i5sH53EqJZE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "8IXHKHhgFj4",
+      "channelId": "UC8ceET6A2UJ1j8Cuob-dstg",
+      "channelTitle": "골프콜라",
+      "title": "윤, 정말 나쁜 놈인게 #매불쇼 #홍장원",
+      "description": "",
+      "publishedAt": "2025-11-21T11:01:59Z",
+      "duration": "PT1M",
+      "durationSeconds": 60,
+      "viewCount": 985435,
+      "likeCount": 20147,
+      "commentCount": 369,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8IXHKHhgFj4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8IXHKHhgFj4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8IXHKHhgFj4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/8IXHKHhgFj4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/8IXHKHhgFj4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "MaETK1Y6aew",
+      "channelId": "UC8ceET6A2UJ1j8Cuob-dstg",
+      "channelTitle": "골프콜라",
+      "title": "감치를 안했더니#이하상#권우현",
+      "description": "",
+      "publishedAt": "2025-11-21T10:02:41Z",
+      "duration": "PT58S",
+      "durationSeconds": 58,
+      "viewCount": 40767,
+      "likeCount": 2517,
+      "commentCount": 150,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/MaETK1Y6aew/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/MaETK1Y6aew/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/MaETK1Y6aew/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/MaETK1Y6aew/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/MaETK1Y6aew/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "mcIb0aOz2BU",
+      "channelId": "UC8ceET6A2UJ1j8Cuob-dstg",
+      "channelTitle": "골프콜라",
+      "title": "그럼 누굴 잡으라고?#홍장원",
+      "description": "",
+      "publishedAt": "2025-11-21T09:27:14Z",
+      "duration": "PT56S",
+      "durationSeconds": 56,
+      "viewCount": 1787157,
+      "likeCount": 38029,
+      "commentCount": 1174,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mcIb0aOz2BU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mcIb0aOz2BU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mcIb0aOz2BU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/mcIb0aOz2BU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/mcIb0aOz2BU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "CHxJt5JFrlQ",
+      "channelId": "UC8ceET6A2UJ1j8Cuob-dstg",
+      "channelTitle": "골프콜라",
+      "title": "뭐가 맞아요?#홍장원",
+      "description": "",
+      "publishedAt": "2025-11-21T03:38:48Z",
+      "duration": "PT58S",
+      "durationSeconds": 58,
+      "viewCount": 123694,
+      "likeCount": 5933,
+      "commentCount": 294,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/CHxJt5JFrlQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/CHxJt5JFrlQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/CHxJt5JFrlQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/CHxJt5JFrlQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/CHxJt5JFrlQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "r-IM_7Wh5Mc",
+      "channelId": "UC8ceET6A2UJ1j8Cuob-dstg",
+      "channelTitle": "골프콜라",
+      "title": "김계리 개발리는#홍장원",
+      "description": "",
+      "publishedAt": "2025-11-21T02:12:41Z",
+      "duration": "PT1M",
+      "durationSeconds": 60,
+      "viewCount": 81847,
+      "likeCount": 5322,
+      "commentCount": 393,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/r-IM_7Wh5Mc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/r-IM_7Wh5Mc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/r-IM_7Wh5Mc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/r-IM_7Wh5Mc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/r-IM_7Wh5Mc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "MsyIi7CzYzs",
+      "channelId": "UCK6IkFBFPRo0QOUgUJ9VETA",
+      "channelTitle": "주관적정치",
+      "title": "몸이 반응하는 대통령, 쏟아지는 환호에 상응하는 답을 #이재명",
+      "description": "몸이 반응하는 대통령, 쏟아지는 환호에 상응하는 답을 #이재명",
+      "publishedAt": "2025-11-20T23:12:23Z",
+      "duration": "PT34S",
+      "durationSeconds": 34,
+      "viewCount": 178733,
+      "likeCount": 3635,
+      "commentCount": 33,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/MsyIi7CzYzs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/MsyIi7CzYzs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/MsyIi7CzYzs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/MsyIi7CzYzs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/MsyIi7CzYzs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "이재명",
+        "이재명대통령",
+        "카이로대학연설",
+        "이집트순방"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "TwyGvKPNrjo",
+      "channelId": "UCK6IkFBFPRo0QOUgUJ9VETA",
+      "channelTitle": "주관적정치",
+      "title": "자투리 시간 활용도 만렙 대통령, 그냥 허투루 낭비하는 법이 없다 #이재명 #이재명대통령",
+      "description": "자투리 시간 활용도 만렙 대통령, 그냥 허투루 낭비하는 법이 없다 #이재명 #이재명대통령",
+      "publishedAt": "2025-11-20T02:27:00Z",
+      "duration": "PT30S",
+      "durationSeconds": 30,
+      "viewCount": 863961,
+      "likeCount": 14601,
+      "commentCount": 171,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TwyGvKPNrjo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TwyGvKPNrjo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TwyGvKPNrjo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/TwyGvKPNrjo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/TwyGvKPNrjo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "이재명",
+        "UAE비즈니스라운드테이블",
+        "이재명대통령",
+        "ktv"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "LMEVsKDsZxA",
+      "channelId": "UCK6IkFBFPRo0QOUgUJ9VETA",
+      "channelTitle": "주관적정치",
+      "title": "여사님 손길에 몸을 맡기는 대통령님, 저항은 없다ㅋㅋㅋ #이재명 #대통령내외",
+      "description": "여사님 손길에 몸을 맡기는 대통령님, 저항은 없다ㅋㅋㅋ #이재명 #대통령내외",
+      "publishedAt": "2025-11-19T14:02:06Z",
+      "duration": "PT20S",
+      "durationSeconds": 20,
+      "viewCount": 87245,
+      "likeCount": 968,
+      "commentCount": 13,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LMEVsKDsZxA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LMEVsKDsZxA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LMEVsKDsZxA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/LMEVsKDsZxA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/LMEVsKDsZxA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "이재명",
+        "이재명대통령",
+        "김혜경여사",
+        "대통령내외",
+        "아크부대",
+        "ktv"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "QXRiqKNzXjo",
+      "channelId": "UCK6IkFBFPRo0QOUgUJ9VETA",
+      "channelTitle": "주관적정치",
+      "title": "아크부대 방문 전, 섭섭했던 대통령?ㅋㅋ #이재명#이재명대통령",
+      "description": "아크부대 방문 전, 섭섭했던 대통령?ㅋㅋ #이재명",
+      "publishedAt": "2025-11-19T13:10:52Z",
+      "duration": "PT28S",
+      "durationSeconds": 28,
+      "viewCount": 35557,
+      "likeCount": 384,
+      "commentCount": 2,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QXRiqKNzXjo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QXRiqKNzXjo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QXRiqKNzXjo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/QXRiqKNzXjo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/QXRiqKNzXjo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "이재명",
+        "이재명대통령",
+        "대통령내외",
+        "ktv",
+        "아크부대"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "t3mvOK8ifRM",
+      "channelId": "UCK6IkFBFPRo0QOUgUJ9VETA",
+      "channelTitle": "주관적정치",
+      "title": "어떻게 메로나를 알지? k-푸드의 위용에 놀란 김혜경여사님 #김혜경여사",
+      "description": "어떻게 메로나를 알지? k-푸드의 위용에 놀란 김혜경여사님 #김혜경여사",
+      "publishedAt": "2025-11-19T12:33:48Z",
+      "duration": "PT32S",
+      "durationSeconds": 32,
+      "viewCount": 437769,
+      "likeCount": 7204,
+      "commentCount": 77,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/t3mvOK8ifRM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/t3mvOK8ifRM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/t3mvOK8ifRM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/t3mvOK8ifRM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/t3mvOK8ifRM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "김혜경여사",
+        "할랄푸드",
+        "UAE국빈방문",
+        "메로나",
+        "빙그레"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "WsQ68bcbj1w",
+      "channelId": "UCK6IkFBFPRo0QOUgUJ9VETA",
+      "channelTitle": "주관적정치",
+      "title": "다정한 김혜경여사님, 긴장한 직원에게 따뜻하게 건네는 말 #김혜경여사",
+      "description": "다정한 김혜경여사님, 긴장한 직원에게 따뜻하게 건네는 말 #김혜경여사",
+      "publishedAt": "2025-11-19T11:43:02Z",
+      "duration": "PT38S",
+      "durationSeconds": 38,
+      "viewCount": 145603,
+      "likeCount": 2291,
+      "commentCount": 29,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WsQ68bcbj1w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WsQ68bcbj1w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WsQ68bcbj1w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/WsQ68bcbj1w/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/WsQ68bcbj1w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "UAE국빈방문",
+        "할랄푸드",
+        "김혜경여사",
+        "영부인"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "gpi26Omu6yA",
+      "channelId": "UCK6IkFBFPRo0QOUgUJ9VETA",
+      "channelTitle": "주관적정치",
+      "title": "불닭볶음면의 중독성 확인한 김혜경여사님, 폭풍먹방 #김혜경여사",
+      "description": "불닭볶음면의 중독성 확인한 김혜경여사님, 폭풍먹방 #김혜경여사",
+      "publishedAt": "2025-11-19T10:30:14Z",
+      "duration": "PT40S",
+      "durationSeconds": 40,
+      "viewCount": 139951,
+      "likeCount": 2093,
+      "commentCount": 17,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gpi26Omu6yA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gpi26Omu6yA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gpi26Omu6yA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/gpi26Omu6yA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/gpi26Omu6yA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "김혜경여사",
+        "UAE국빈방문",
+        "할랄푸드",
+        "불닭볶음면",
+        "삼양",
+        "까르보불닭"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "SnbonvmHT-o",
+      "channelId": "UCK6IkFBFPRo0QOUgUJ9VETA",
+      "channelTitle": "주관적정치",
+      "title": "한복은 못지나치는 김혜경여사님, 감동의 인사 #김혜경여사",
+      "description": "한복은 못지나치는 김혜경여사님, 감동의 인사 #김혜경여사",
+      "publishedAt": "2025-11-19T09:50:15Z",
+      "duration": "PT34S",
+      "durationSeconds": 34,
+      "viewCount": 917431,
+      "likeCount": 20664,
+      "commentCount": 219,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SnbonvmHT-o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SnbonvmHT-o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SnbonvmHT-o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/SnbonvmHT-o/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/SnbonvmHT-o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "김혜경여사",
+        "한복",
+        "UAE국빈방문"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "Ph-lU8uAmXs",
+      "channelId": "UCK6IkFBFPRo0QOUgUJ9VETA",
+      "channelTitle": "주관적정치",
+      "title": "대통령님 옆 셀카찍는 이재용회장, 휴대폰 홍보에 열심 #이재명 #이재용회장",
+      "description": "대통령님 옆 셀카찍는 이재용회장, 휴대폰 홍보에 열심 #이재명 #이재용회장",
+      "publishedAt": "2025-11-19T09:11:02Z",
+      "duration": "PT26S",
+      "durationSeconds": 26,
+      "viewCount": 73119,
+      "likeCount": 1128,
+      "commentCount": 12,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Ph-lU8uAmXs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Ph-lU8uAmXs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Ph-lU8uAmXs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Ph-lU8uAmXs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Ph-lU8uAmXs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "이재명",
+        "이재명대통령",
+        "이재용회장",
+        "삼성",
+        "삼성휴대폰",
+        "비즈니스라운드테이블"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "gQIsKorBIyM",
+      "channelId": "UCK6IkFBFPRo0QOUgUJ9VETA",
+      "channelTitle": "주관적정치",
+      "title": "대통령님은 두눈 꼬옥, 여사님은 오열. 조수미소프라노의 그리운 금강산 #대통령부부",
+      "description": "대통령님은 두눈 꼬옥, 여사님은 오열. 조수미소프라노의 그리운 금강산",
+      "publishedAt": "2025-11-18T15:06:11Z",
+      "duration": "PT59S",
+      "durationSeconds": 59,
+      "viewCount": 831629,
+      "likeCount": 23982,
+      "commentCount": 385,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gQIsKorBIyM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gQIsKorBIyM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gQIsKorBIyM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/gQIsKorBIyM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/gQIsKorBIyM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "조수미",
+        "그리운금강산",
+        "대통령내외",
+        "조수미소프라노",
+        "이재명대통령",
+        "김혜경여사",
+        "UAE국빈민찬"
+      ],
+      "isShorts": true
+    }
+  ],
+  "channelStats": [
+    {
+      "id": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "title": " YTN",
+      "description": "24시간 생중계되는 대한민국 대표 뉴스\nYTN 공식채널을 지금 바로 구독하세요\n\n▶ 구독하기 : http://goo.gl/Ytb5SZ\n\n▶ YTN 기사제보 안내\n- 홈페이지: https://mj.ytn.co.kr/mj/mj_write.php?sort=0\n- 모바일: YTN 앱의 제보하기\n- 이메일: social@ytn.co.kr\n- 전화: 02-398-8282 또는 8585 \n\n▶ 라이브 스트리밍 대체광고 및 콘텐츠 협업 문의\n - 이메일 : ljk@ytn.co.kr\n\n▶ 영상 사용 및 구매 문의\n - https://www.ytn.co.kr/business/sell_program.php\n",
+      "customUrl": "@ytnnews24",
+      "publishedAt": "2013-05-23T07:07:42Z",
+      "subscriberCount": 5220000,
+      "videoCount": 915216,
+      "viewCount": 18426992728,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUhlgI3UHCOnwUGzWzbJ3H5w",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "title": "뉴스TVCHOSUN",
+      "description": "TV조선 뉴스 공식 YouTube 입니다.",
+      "customUrl": "@tvchosunnews",
+      "publishedAt": "2012-08-23T12:33:18Z",
+      "subscriberCount": 3000000,
+      "videoCount": 163932,
+      "viewCount": 4771746510,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUWlV3Lz_55UaX4JsMj-z__Q",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCgeOlLcX6PReHdWImEnUVTg",
+      "title": "스픽스",
+      "description": "국민과 함께 더 나은 세상을 만들어가는 스픽스\n혁신-균형-정의를 지향하는 뉴미디어, 저널리즘의 표준\n\n#최고의 전략가 정치와 정치인을 논하다 '정치본색' 생방송 (월~금 13시) \n#예능급 고수들의 정치수다 '역전의용사들' 생방송 (월~금 20시)\n\n#실시간 속보 가장 빠른 분석 '긴급편성' \n#탁월한 관점의 정치, 경제 현안분석 '고수의전략'  \n#차원이 다른 토크  '마키아벨리'\n\n협업 및 공동기획 문의 010-8596-0073\n광고문의 010-4615-9996\nspeaksad@speaks.kr\n",
+      "customUrl": "@speaks_tv",
+      "publishedAt": "2022-05-24T02:02:45.424058Z",
+      "subscriberCount": 1550000,
+      "videoCount": 27906,
+      "viewCount": 1790994927,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/S3rLqAB2YDYQDzLNBiFveCxuoTifWkLQtQP-V416WUiciWNz1umav1O51CwrxVy8zKrTMSKg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/S3rLqAB2YDYQDzLNBiFveCxuoTifWkLQtQP-V416WUiciWNz1umav1O51CwrxVy8zKrTMSKg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/S3rLqAB2YDYQDzLNBiFveCxuoTifWkLQtQP-V416WUiciWNz1umav1O51CwrxVy8zKrTMSKg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUgeOlLcX6PReHdWImEnUVTg",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCGbkN-3JpOct4KuEv59NF0Q",
+      "title": "엠키타카 MKTK",
+      "description": "국회 티키타카! 콘텐츠왕국! 어른김장하! 지역소생연구소!\n\n홈페이지 : http://www.mbcgn.kr\n페이스북 : http://www.facebook.com/withmbcgn\n인스타그램  : https://www.instagram.com/mbcgn/",
+      "customUrl": "@mbcgn_tv",
+      "publishedAt": "2017-08-08T04:13:21Z",
+      "subscriberCount": 1010000,
+      "videoCount": 20695,
+      "viewCount": 2174698528,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/hUPG97aBRPUUtqvU3nFszYHV-x3GYfoFNbwNJ1-NvsXBXelhnLpgjoDFP3D7svnaY5bLpli6pQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/hUPG97aBRPUUtqvU3nFszYHV-x3GYfoFNbwNJ1-NvsXBXelhnLpgjoDFP3D7svnaY5bLpli6pQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/hUPG97aBRPUUtqvU3nFszYHV-x3GYfoFNbwNJ1-NvsXBXelhnLpgjoDFP3D7svnaY5bLpli6pQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUGbkN-3JpOct4KuEv59NF0Q",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCu0b6ODtYia0snp9JE4UUDw",
+      "title": "세상만사",
+      "description": "세상만사 모든 이야기를 들려드립니다!\n문의: dorifamily1234@gmail.com\n\n",
+      "customUrl": "@세상만사-n6h",
+      "publishedAt": "2024-02-14T06:48:46.622989Z",
+      "subscriberCount": 634000,
+      "videoCount": 2877,
+      "viewCount": 1488618736,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/tgqlfQiRq_Zny5G7E9VWdhFv7AORkvo26IKEnvHirKGPoxbwFaZG02qQsa5NUMM03AURCDC_=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/tgqlfQiRq_Zny5G7E9VWdhFv7AORkvo26IKEnvHirKGPoxbwFaZG02qQsa5NUMM03AURCDC_=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/tgqlfQiRq_Zny5G7E9VWdhFv7AORkvo26IKEnvHirKGPoxbwFaZG02qQsa5NUMM03AURCDC_=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUu0b6ODtYia0snp9JE4UUDw",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UC8tH3EF_zmxnKwmpuy9LbYw",
+      "title": "한국의목소리",
+      "description": "빠르고 쉽게 올바른 생각을 전합니다\n제보 및 협업 문의\n✉️ connect.voiceofkorea@gmail.com\n",
+      "customUrl": "@한국의목소리",
+      "publishedAt": "2025-01-31T07:55:07.066491Z",
+      "subscriberCount": 553000,
+      "videoCount": 1325,
+      "viewCount": 902012087,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/4iOFLb4gPIReye1CRxGOIYK6oe3-i65mtzpT851pm5sFWY46hVgPMVo7loKQVWy-ZJSxYv_K=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/4iOFLb4gPIReye1CRxGOIYK6oe3-i65mtzpT851pm5sFWY46hVgPMVo7loKQVWy-ZJSxYv_K=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/4iOFLb4gPIReye1CRxGOIYK6oe3-i65mtzpT851pm5sFWY46hVgPMVo7loKQVWy-ZJSxYv_K=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UU8tH3EF_zmxnKwmpuy9LbYw",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCHDYKIRxMEItLVoqtmGq3aA",
+      "title": "정치창",
+      "description": "세상을 보여주는 창!",
+      "customUrl": "@jknews97",
+      "publishedAt": "2024-03-24T10:26:55.652981Z",
+      "subscriberCount": 499000,
+      "videoCount": 1935,
+      "viewCount": 940313877,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/K4zWkeJjnkekAxKX8t6KdvNSVpCGo_UUYNGY67R7Qkt0DKWbsfg84eY_O1l6pyC5YtPZgC9O8es=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/K4zWkeJjnkekAxKX8t6KdvNSVpCGo_UUYNGY67R7Qkt0DKWbsfg84eY_O1l6pyC5YtPZgC9O8es=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/K4zWkeJjnkekAxKX8t6KdvNSVpCGo_UUYNGY67R7Qkt0DKWbsfg84eY_O1l6pyC5YtPZgC9O8es=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUHDYKIRxMEItLVoqtmGq3aA",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCrxe-Msh2j6ICbfUaDJj81g",
+      "title": "이슈카톡",
+      "description": "민주주의와 이재명 국민주권 정부의 성공, 사법정의 등을 위한 민주시민 채널 입니다\n\n“진실을 밝히는 민주 정치 채널”\n이곳은 대한민국 민주주의를 지키고, 사법 개혁, 검찰 개혁을 위한 쇼츠 깨어 있는 시민들의 채널입니다\n우리는 국민들의 목소리를 정치권과 민주당 등에 전하며, 정치 이슈를 빠르게 전달합니다\n\n이재명 대표의 행보부터 국회 정치 분석, 윤석열 정부의 문제점, 국민의힘 비판까지 —\n가짜뉴스에 맞서 진실을 전하고, 시민의 눈으로 정치 현실을 바라봅니다.\n\n정의로운 사회, 공정한 나라, 그리고 개혁 완수를 위해 함께합니다.\n응원봉의 힘으로 정치 변화를 만들어가는 바른 채널이 되겠습니다\n\n\n📌 주요 키워드\n민주당, 이재명, 윤석열 계엄 응징, 검찰개혁, 언론개혁, 법원 사법개혁, 민주주의 수호, 진보 정치, 개혁정치, 정치 해설, 정치 시사, 정치 유튜브, 대한민국 민주주의, 공정한 사회, 검찰독재, 국민의힘 비리 비판, 국회 정치 분석, 정치이슈, 정의로운 사회, 경제민주화, 재벌혁신, 검언유착, 정치토론, 뉴스해석, 시사분석, 대선전망, 총선승리, 민주진영 단결, 개혁 완수, 정치유머, 시민정치, 정치참여, 국회 방송, 대통령실 방송. 이재명 TV방송, \n\n",
+      "customUrl": "@이슈카톡",
+      "publishedAt": "2022-05-30T11:34:11.689006Z",
+      "subscriberCount": 476000,
+      "videoCount": 3678,
+      "viewCount": 1830160622,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GXD6CIjLk1Dnt5VC7nl-M72a7ueVq8b6oA4yjURVnF1ZYbgqtwf5ZPNg72VafPOIw02ANvMh2A=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GXD6CIjLk1Dnt5VC7nl-M72a7ueVq8b6oA4yjURVnF1ZYbgqtwf5ZPNg72VafPOIw02ANvMh2A=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GXD6CIjLk1Dnt5VC7nl-M72a7ueVq8b6oA4yjURVnF1ZYbgqtwf5ZPNg72VafPOIw02ANvMh2A=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUrxe-Msh2j6ICbfUaDJj81g",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCipltOI85rqpxH4iFt_x0Cg",
+      "title": "잼통",
+      "description": "재밌는 것들만 모은 잼통!",
+      "customUrl": "@jamjam9787",
+      "publishedAt": "2024-03-17T11:15:44.181866Z",
+      "subscriberCount": 471000,
+      "videoCount": 275,
+      "viewCount": 149585254,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/haTQr8ZLyCIIL48yyYimlvHCx0bHV8v5-qJ49u62tOMhPgnOLloFb6RJaSBbSJSOQyBd52Uhcw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/haTQr8ZLyCIIL48yyYimlvHCx0bHV8v5-qJ49u62tOMhPgnOLloFb6RJaSBbSJSOQyBd52Uhcw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/haTQr8ZLyCIIL48yyYimlvHCx0bHV8v5-qJ49u62tOMhPgnOLloFb6RJaSBbSJSOQyBd52Uhcw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUipltOI85rqpxH4iFt_x0Cg",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UC8brKujsZC20lURDZcuRSlQ",
+      "title": "미디어몽구",
+      "description": "1. 소개\n안녕하세요. 저는 영상취재를 전문으로 하는 1인 미디어로서, 2005년부터 활동을 해오고 있으며, 제 주변에 일어나는 일을 시작으로 사회적 이슈 현장까지, 분야를 가리지 않고 생생한 현장 소식을 전하고 있습니다. \n\n언론에서 비중은 있는데 단신보도 됐거나, 보도 되지 않았던 내용, 사회적으로 소외 받고 있는 이들의 목소리 등을 전하기 위해, 오늘도 발로 뛰며 현장을 기록하고 있습니다.\n\n2. 수상 및 선정\n2005 대한민국 블로그어워드 올해의 시사블로거 선정\n2006 Daum 블로거뉴스 대상 수상\n2007 Daum 블로거뉴스 우수상 수상\n2008 월간 말 선정, 파워블로거 50인에 1위 선정\n2009 온라인 저널리스트 시사부문상 수상\n2010 올해의 온라인 저널리스트 대상 수상\n2012 서울시 공익제보상 수상\n2012 안종필 자유언론상 수상\n2012 송건호 언론상 수상\n2012 김학순상 수상\n2012 노근리 평화상 방송부문상 수상\n2013 세상을 따뜻하게 만든 사람들 선정\n2014 투명사회상 수상\n2015 성유보 특별상 수상\n2015 한국 온라인 저널리즘 어워드 공로상 수상\n2023 한국인터넷기자협회 1인미디어상 수상\n\n3. 경력\n- 하트하트재단 온세상 서포터즈 위촉\n- Daum 블로거뉴스 검색 메인 모델\n- 언론연대 정책위원\n- 민언련 미디어위원회 위원\n- 김복동의 희망 운영위원\n- 한겨레 오피니언 hook 필진\n- CBS 라디오 김미화의 여러분 - '몽구야 어딨니' 코너 담당\n- 한국탐사저널리즘센터 - 뉴스타파 기자\n- 김어준의 파파이스 - '몽구타임' 코너 담당\n- MBC 손바닥TV 현장리포터\n\n4. 후원하기\n19년째 현장을 누비고 있는 미디어몽구가 후원을 기다립니다. 언제나처럼 생생한 현장의 진실을 전하겠으니 제가 카메라를 놓지 않도록 든든한 버팀목이 되어 주십시오. 고마움 잊지 않고 한결 같은 마음으로 시대를 기록하겠습니다. 후원계좌는 (농협 / 317-0006-4512-51) / 페이팔 mediamongu@gmail.com 입니다.\n",
+      "customUrl": "@mediamongu",
+      "publishedAt": "2009-03-21T08:15:07Z",
+      "subscriberCount": 455000,
+      "videoCount": 3114,
+      "viewCount": 528585087,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/fVn9FhfxwrVUvNj_Vii0l6vcyUNNQFQImVhwPhUSHguibKKkR1_8iIyHeaMGxFrjJ6GYGqlymw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/fVn9FhfxwrVUvNj_Vii0l6vcyUNNQFQImVhwPhUSHguibKKkR1_8iIyHeaMGxFrjJ6GYGqlymw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/fVn9FhfxwrVUvNj_Vii0l6vcyUNNQFQImVhwPhUSHguibKKkR1_8iIyHeaMGxFrjJ6GYGqlymw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UU8brKujsZC20lURDZcuRSlQ",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCEsWtfVdAK8soPcDuVqu58g",
+      "title": "엠뉴 | MBC경남 NEWS",
+      "description": "MBC경남 뉴스 공식 계정입니다.\n지역 핫이슈부터 전국적 관심 사안까지 두루 살핍니다.\n방위산업의 중심지에서 K-방산 콘텐츠도 집중적으로 다룹니다.\n많은 관심 부탁드립니다. (구독, 좋아요, 댓글은 필수!)\n\n홈페이지 : http://www.mbcgn.kr\nX : @mbcgn_news\n페이스북 : http://www.facebook.com/withmbcgn\n인스타그램  : https://www.instagram.com/mbcgn_news/",
+      "customUrl": "@mbcnews7670",
+      "publishedAt": "2017-08-07T06:21:04Z",
+      "subscriberCount": 424000,
+      "videoCount": 43943,
+      "viewCount": 508894062,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/v__eiQEgXgwAynGyNr0_Nmcs3pBhXI-ZGhkiNwgxvQnlCaDH-m1DKnnC7044d95G3qW_8V3iZQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/v__eiQEgXgwAynGyNr0_Nmcs3pBhXI-ZGhkiNwgxvQnlCaDH-m1DKnnC7044d95G3qW_8V3iZQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/v__eiQEgXgwAynGyNr0_Nmcs3pBhXI-ZGhkiNwgxvQnlCaDH-m1DKnnC7044d95G3qW_8V3iZQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUEsWtfVdAK8soPcDuVqu58g",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCPnsRM1XL2NM3xq8N7XGaQg",
+      "title": "링킹",
+      "description": "구독과 방문 감사합니다.\n문의 mrgray275@gmail.com\n",
+      "customUrl": "@linkingranking",
+      "publishedAt": "2018-02-07T05:25:49Z",
+      "subscriberCount": 403000,
+      "videoCount": 2790,
+      "viewCount": 532076111,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/CfeyGSvQwDc7p7TSueVaFvcuwKlwu999XXxNCdBVKb0YyYhth-H-321wlxcbaSOHMYjODKnK5_M=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/CfeyGSvQwDc7p7TSueVaFvcuwKlwu999XXxNCdBVKb0YyYhth-H-321wlxcbaSOHMYjODKnK5_M=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/CfeyGSvQwDc7p7TSueVaFvcuwKlwu999XXxNCdBVKb0YyYhth-H-321wlxcbaSOHMYjODKnK5_M=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUPnsRM1XL2NM3xq8N7XGaQg",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCgHG6kRpULWaJ1AGUr2pOXQ",
+      "title": "정치공감",
+      "description": "이재명 대통령님은 정치는 국민이 하는 것이라 했습니다. 늘 민주 시민 여러분과 같은 곳을 바라보고 같이 걷겠습니다\n\n\n",
+      "customUrl": "@정치공감tv",
+      "publishedAt": "2020-05-28T12:15:50.768611Z",
+      "subscriberCount": 380000,
+      "videoCount": 651,
+      "viewCount": 115681154,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/R6ynfgFkV7pKnrgUIp52TOpg2AQ2qD0Geo57N9uoFitMuC1nvsL7LmBRqgnZqqwGCj1RNL0Yvg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/R6ynfgFkV7pKnrgUIp52TOpg2AQ2qD0Geo57N9uoFitMuC1nvsL7LmBRqgnZqqwGCj1RNL0Yvg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/R6ynfgFkV7pKnrgUIp52TOpg2AQ2qD0Geo57N9uoFitMuC1nvsL7LmBRqgnZqqwGCj1RNL0Yvg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUgHG6kRpULWaJ1AGUr2pOXQ",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCd6tMX5cbTf6HNf1iug0HrQ",
+      "title": "이마까TV",
+      "description": "정치 풍자, 패러디를 통해  / 진보 진영에는 힘을 드리고 / 중도층에는 공감을 이끌어 내는 영상 제작을 목표로 합니다.",
+      "customUrl": "@이마까tv",
+      "publishedAt": "2018-11-09T08:01:53Z",
+      "subscriberCount": 334000,
+      "videoCount": 833,
+      "viewCount": 766448204,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/RstzVEx_9sC_aaMuFohYXwUyclAN97UMi8jX4N8me9lyj7vIOlmHLoOdV1_GfPwJcOGBC_zf=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/RstzVEx_9sC_aaMuFohYXwUyclAN97UMi8jX4N8me9lyj7vIOlmHLoOdV1_GfPwJcOGBC_zf=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/RstzVEx_9sC_aaMuFohYXwUyclAN97UMi8jX4N8me9lyj7vIOlmHLoOdV1_GfPwJcOGBC_zf=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUd6tMX5cbTf6HNf1iug0HrQ",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCd6tMX5cbTf6HNf1iug0HrQ",
+      "title": "이마까TV",
+      "description": "정치 풍자, 패러디를 통해  / 진보 진영에는 힘을 드리고 / 중도층에는 공감을 이끌어 내는 영상 제작을 목표로 합니다.",
+      "customUrl": "@이마까tv",
+      "publishedAt": "2018-11-09T08:01:53Z",
+      "subscriberCount": 334000,
+      "videoCount": 833,
+      "viewCount": 766448204,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/RstzVEx_9sC_aaMuFohYXwUyclAN97UMi8jX4N8me9lyj7vIOlmHLoOdV1_GfPwJcOGBC_zf=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/RstzVEx_9sC_aaMuFohYXwUyclAN97UMi8jX4N8me9lyj7vIOlmHLoOdV1_GfPwJcOGBC_zf=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/RstzVEx_9sC_aaMuFohYXwUyclAN97UMi8jX4N8me9lyj7vIOlmHLoOdV1_GfPwJcOGBC_zf=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUd6tMX5cbTf6HNf1iug0HrQ",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCc6sEta0lPmVJ3TFIw8s-wA",
+      "title": "민주픽",
+      "description": "다시 시작하는 민주주의를 위해\n \n민주시민을 위한 민주 뉴스 숏츠 채널입니다\n\n0H9LA0@AICOMPANY",
+      "customUrl": "@minjupick",
+      "publishedAt": "2013-04-08T07:04:38Z",
+      "subscriberCount": 303000,
+      "videoCount": 2067,
+      "viewCount": 1582709551,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/9cfPcDDSln3sHmfzt4F-nYQU9rnYhfew9LoTnLeKqkCNbyp_FtOzXqnFM_z6Fl7kvLmi7JAE=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/9cfPcDDSln3sHmfzt4F-nYQU9rnYhfew9LoTnLeKqkCNbyp_FtOzXqnFM_z6Fl7kvLmi7JAE=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/9cfPcDDSln3sHmfzt4F-nYQU9rnYhfew9LoTnLeKqkCNbyp_FtOzXqnFM_z6Fl7kvLmi7JAE=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUc6sEta0lPmVJ3TFIw8s-wA",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCJm_AJKFjq89w5brQ3yTa8g",
+      "title": "미디어쇼츠 ",
+      "description": "발로 뛰는 미디어쇼츠 입니다.\n당원주권 더불어민주당 응원합니다!\n이재명 정부의 성공을 응원합니다!!! \n\n후원은 \n우리 1002 829 381823 김#배\n\n",
+      "customUrl": "@tv17314",
+      "publishedAt": "2023-05-08T14:08:28.931191Z",
+      "subscriberCount": 293000,
+      "videoCount": 11519,
+      "viewCount": 817431562,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/7rlTtFMzGKfuE8T2Z0_QcJZwgCKdxu2uURra0Z3lxVAqmTs82W1WgrFC_GvxuBghXKaMpZVWmOM=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/7rlTtFMzGKfuE8T2Z0_QcJZwgCKdxu2uURra0Z3lxVAqmTs82W1WgrFC_GvxuBghXKaMpZVWmOM=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/7rlTtFMzGKfuE8T2Z0_QcJZwgCKdxu2uURra0Z3lxVAqmTs82W1WgrFC_GvxuBghXKaMpZVWmOM=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUJm_AJKFjq89w5brQ3yTa8g",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCZYaBjwqn9XiWUWbw8jjFnw",
+      "title": "나의조국",
+      "description": "민주주의 최후의 보루는 깨어있는 시민의 조직된 힘입니다\n\n",
+      "customUrl": "@mychokuk",
+      "publishedAt": "2021-08-05T10:53:39.000195Z",
+      "subscriberCount": 287000,
+      "videoCount": 2672,
+      "viewCount": 695332914,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/tZbcl-KHk4OL2vHneZCZS3Dya5Op54TNjjWwBX-QV2rU8mJG_Y27LGFIoerxGT8Sd08yHibziA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/tZbcl-KHk4OL2vHneZCZS3Dya5Op54TNjjWwBX-QV2rU8mJG_Y27LGFIoerxGT8Sd08yHibziA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/tZbcl-KHk4OL2vHneZCZS3Dya5Op54TNjjWwBX-QV2rU8mJG_Y27LGFIoerxGT8Sd08yHibziA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUZYaBjwqn9XiWUWbw8jjFnw",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCzuBleEdJox6p_p5wexcp5A",
+      "title": "정치일주",
+      "description": "태어난김에 대한민국 정치일주\n\n",
+      "customUrl": "@정치일주",
+      "publishedAt": "2023-06-04T12:54:30.5777Z",
+      "subscriberCount": 266000,
+      "videoCount": 522,
+      "viewCount": 887787712,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/UGX3Xq_DgGKiHJEsMl6X-gZYvsVvzdhxK7aviC3A_WvoTPP3loXKLz-IlxqRCcOZcSKCLoWnqA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/UGX3Xq_DgGKiHJEsMl6X-gZYvsVvzdhxK7aviC3A_WvoTPP3loXKLz-IlxqRCcOZcSKCLoWnqA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/UGX3Xq_DgGKiHJEsMl6X-gZYvsVvzdhxK7aviC3A_WvoTPP3loXKLz-IlxqRCcOZcSKCLoWnqA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUzuBleEdJox6p_p5wexcp5A",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCyFQ_ltNR2STsc7YNNyzUjA",
+      "title": "유용화의 생활정치",
+      "description": "광고등 문의 baenghen@daum.net ",
+      "customUrl": "@yongwha-yu",
+      "publishedAt": "2022-01-20T05:20:14.466877Z",
+      "subscriberCount": 251000,
+      "videoCount": 2508,
+      "viewCount": 60787540,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AcHJRPOd86WJogFMwZ0Mj72-x88FKAWCQUZCocftVfmNyDOPc9WIqzifnM8nkfPs-wsrK9Mhcw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AcHJRPOd86WJogFMwZ0Mj72-x88FKAWCQUZCocftVfmNyDOPc9WIqzifnM8nkfPs-wsrK9Mhcw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AcHJRPOd86WJogFMwZ0Mj72-x88FKAWCQUZCocftVfmNyDOPc9WIqzifnM8nkfPs-wsrK9Mhcw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUyFQ_ltNR2STsc7YNNyzUjA",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    }
+  ]
 }
