@@ -1,97 +1,133 @@
 {
-  "lastUpdated": "2025-12-14T12:22:52.442Z",
+  "lastUpdated": "2025-12-14T18:17:50.351Z",
   "totalChannelsAnalyzed": 82,
-  "totalVideos": 120,
-  "totalShorts": 87,
-  "totalRegularVideos": 33,
-  "totalViewCount": 8778515,
-  "totalLikeCount": 214218,
-  "averageViewsPerShort": 64932,
+  "totalVideos": 60,
+  "totalShorts": 45,
+  "totalRegularVideos": 15,
+  "totalViewCount": 8565912,
+  "totalLikeCount": 174166,
+  "averageViewsPerShort": 118788,
   "topChannelsByShorts": [
-    {
-      "title": "민주데이",
-      "shortsCount": 30,
-      "subscriberCount": 29200
-    },
     {
       "title": "정치브리프",
       "shortsCount": 27,
-      "subscriberCount": 90900
+      "subscriberCount": 91100
     },
     {
       "title": "꼰대희",
       "shortsCount": 18,
       "subscriberCount": 1990000
-    },
-    {
-      "title": "인생조언 한줄",
-      "shortsCount": 12,
-      "subscriberCount": 3420
     }
   ],
   "topShortsByViews": [
     {
       "title": "다솜이가 준비해 온 아재개그",
       "channelTitle": "꼰대희",
-      "viewCount": 2376633,
+      "viewCount": 2376898,
       "publishedAt": "2025-11-30T09:00:42Z"
-    },
-    {
-      "title": "블랙아이스에서 차사고로 매년 사망자가 발생하는것은 이재명 대통령, 고의다!(간단한 방법이 있는데...)",
-      "channelTitle": "정치브리프",
-      "viewCount": 174284,
-      "publishedAt": "2025-12-13T13:46:51Z"
-    },
-    {
-      "title": "드럼통 저 밑바닥까지 잠겨 망가질대로 망가진 나빠루",
-      "channelTitle": "민주데이",
-      "viewCount": 159640,
-      "publishedAt": "2025-12-10T08:40:01Z"
-    },
-    {
-      "title": "이제는 그런 정치하는 때가 아니올시다!! 김병기 원내!",
-      "channelTitle": "민주데이",
-      "viewCount": 150471,
-      "publishedAt": "2025-12-11T05:11:55Z"
     },
     {
       "title": "李 대통령 사이다 발언, 공공임대주택 싸구려 취급? 제일 구석데기에? 역세권에 해라!",
       "channelTitle": "정치브리프",
-      "viewCount": 135981,
+      "viewCount": 260195,
       "publishedAt": "2025-12-14T05:06:58Z"
+    },
+    {
+      "title": "블랙아이스에서 차사고로 매년 사망자가 발생하는것은 이재명 대통령, 고의다!(간단한 방법이 있는데...)",
+      "channelTitle": "정치브리프",
+      "viewCount": 234056,
+      "publishedAt": "2025-12-13T13:46:51Z"
+    },
+    {
+      "title": "이재명 대통령, 공공임대주택도 중산층이 살게 넓게 지어라",
+      "channelTitle": "정치브리프",
+      "viewCount": 179543,
+      "publishedAt": "2025-12-14T07:22:52Z"
+    },
+    {
+      "title": "김용남 고백, 내가 민주당 입당 후 가장 적응이 안 된게 뭐냐면?!",
+      "channelTitle": "정치브리프",
+      "viewCount": 177967,
+      "publishedAt": "2025-12-14T02:50:19Z"
     },
     {
       "title": "통일교 의혹. 이준석, '전재수 특검하자!' 김용남, '본인 특검에나 출석해라!'",
       "channelTitle": "정치브리프",
-      "viewCount": 135399,
+      "viewCount": 136284,
       "publishedAt": "2025-12-12T02:11:06Z"
     },
     {
       "title": "김준형 폭로! '일본, 앞으로는 독도를 때리면서 좀 봐달라고 얘기한다. 국내용이야~'",
       "channelTitle": "정치브리프",
-      "viewCount": 133728,
+      "viewCount": 134120,
       "publishedAt": "2025-12-11T16:52:33Z"
-    },
-    {
-      "title": "최혁진 팩폭! 백해룡, 저 사람 도대체 왜 저러는 거지?",
-      "channelTitle": "정치브리프",
-      "viewCount": 127847,
-      "publishedAt": "2025-12-11T11:04:26Z"
     },
     {
       "title": "공채 시험보다가 멘탈 나간 이상준",
       "channelTitle": "꼰대희",
-      "viewCount": 115371,
+      "viewCount": 115402,
       "publishedAt": "2025-11-06T09:00:36Z"
     },
     {
       "title": "달맞이고개 출신 임수향, \"아부지 허허방 모릅니까?\"",
       "channelTitle": "꼰대희",
-      "viewCount": 112273,
+      "viewCount": 113237,
       "publishedAt": "2025-12-11T09:01:05Z"
+    },
+    {
+      "title": "李 대통령 비판! 두고 봅시다! LH 부사장 말이 도저히 이해가 안 된다! 상식적으로",
+      "channelTitle": "정치브리프",
+      "viewCount": 109770,
+      "publishedAt": "2025-12-14T08:15:04Z"
     }
   ],
   "recentShorts": [
+    {
+      "id": "RXPsm5RSiek",
+      "channelId": "UC07sfpMTLmMWBhbMglEv05w",
+      "channelTitle": "정치브리프",
+      "title": "일하는 사람 부들부들 떨게 한 李 대통령 VS 그 누구도 밑에서 힘들게 일한 적 없던 윤석열",
+      "description": "일하는 사람 부들부들 떨게 한 李 대통령 VS 그 누구도 밑에서 힘들게 일한 적 없던 윤석열\n\n#이재명 #이재명대통령 #윤석열",
+      "publishedAt": "2025-12-14T13:06:54Z",
+      "duration": "PT35S",
+      "durationSeconds": 35,
+      "viewCount": 67132,
+      "likeCount": 2843,
+      "commentCount": 29,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/RXPsm5RSiek/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/RXPsm5RSiek/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/RXPsm5RSiek/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/RXPsm5RSiek/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/RXPsm5RSiek/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "#이재명",
+        "#이재명대통령",
+        "#윤석열"
+      ],
+      "isShorts": true
+    },
     {
       "id": "hsmOpMIPcFA",
       "channelId": "UC07sfpMTLmMWBhbMglEv05w",
@@ -101,9 +137,9 @@
       "publishedAt": "2025-12-14T12:16:06Z",
       "duration": "PT1M",
       "durationSeconds": 60,
-      "viewCount": 130,
-      "likeCount": 7,
-      "commentCount": 0,
+      "viewCount": 76983,
+      "likeCount": 4087,
+      "commentCount": 62,
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/hsmOpMIPcFA/default.jpg",
@@ -156,9 +192,9 @@
       "publishedAt": "2025-12-14T11:40:25Z",
       "duration": "PT1M",
       "durationSeconds": 60,
-      "viewCount": 2774,
-      "likeCount": 224,
-      "commentCount": 2,
+      "viewCount": 69751,
+      "likeCount": 2636,
+      "commentCount": 41,
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/i9UwmDLxVo4/default.jpg",
@@ -215,9 +251,9 @@
       "publishedAt": "2025-12-14T09:21:46Z",
       "duration": "PT27S",
       "durationSeconds": 27,
-      "viewCount": 6380,
-      "likeCount": 274,
-      "commentCount": 1,
+      "viewCount": 20867,
+      "likeCount": 553,
+      "commentCount": 3,
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/PnQN1KrvlT4/default.jpg",
@@ -254,48 +290,6 @@
       "isShorts": true
     },
     {
-      "id": "2YLNKCgqgBM",
-      "channelId": "UCijojqRd_6p21wtI13fE68w",
-      "channelTitle": "민주데이",
-      "title": "휴먼에러 아닌 시스템에러다 유시민의 반박불가논리",
-      "description": "휴먼에러 아닌 시스템에러다 유시민의 반박불가논리\n\n#유시민 #문형배 #휴먼에러 #시스템에러 #반박불가논리",
-      "publishedAt": "2025-12-14T08:40:00Z",
-      "duration": "PT1M",
-      "durationSeconds": 60,
-      "viewCount": 1558,
-      "likeCount": 124,
-      "commentCount": 0,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/2YLNKCgqgBM/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/2YLNKCgqgBM/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/2YLNKCgqgBM/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/2YLNKCgqgBM/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/2YLNKCgqgBM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
       "id": "gt7HuhedAQA",
       "channelId": "UC07sfpMTLmMWBhbMglEv05w",
       "channelTitle": "정치브리프",
@@ -304,9 +298,9 @@
       "publishedAt": "2025-12-14T08:15:04Z",
       "duration": "PT1M",
       "durationSeconds": 60,
-      "viewCount": 20620,
-      "likeCount": 1538,
-      "commentCount": 34,
+      "viewCount": 109770,
+      "likeCount": 3463,
+      "commentCount": 90,
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/gt7HuhedAQA/default.jpg",
@@ -352,48 +346,6 @@
       "isShorts": true
     },
     {
-      "id": "q9t6oDVxLeo",
-      "channelId": "UCijojqRd_6p21wtI13fE68w",
-      "channelTitle": "민주데이",
-      "title": "너무많이 갈갈이 쪼개져있는 코레일카르텔 손보자는 잼프!",
-      "description": "너무많이 갈갈이 쪼개져있는 코레일카르텔 손보자는 잼프!\n\n#shorts #이재명대통령 #2025업무보고 #코레일 #카르텔",
-      "publishedAt": "2025-12-14T07:29:00Z",
-      "duration": "PT1M",
-      "durationSeconds": 60,
-      "viewCount": 19932,
-      "likeCount": 1360,
-      "commentCount": 32,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/q9t6oDVxLeo/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/q9t6oDVxLeo/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/q9t6oDVxLeo/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/q9t6oDVxLeo/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/q9t6oDVxLeo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
       "id": "6Da62dgGfys",
       "channelId": "UC07sfpMTLmMWBhbMglEv05w",
       "channelTitle": "정치브리프",
@@ -402,9 +354,9 @@
       "publishedAt": "2025-12-14T07:22:52Z",
       "duration": "PT38S",
       "durationSeconds": 38,
-      "viewCount": 39681,
-      "likeCount": 2517,
-      "commentCount": 67,
+      "viewCount": 179543,
+      "likeCount": 5058,
+      "commentCount": 171,
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/6Da62dgGfys/default.jpg",
@@ -452,8 +404,8 @@
       "publishedAt": "2025-12-14T06:38:41Z",
       "duration": "PT33S",
       "durationSeconds": 33,
-      "viewCount": 10169,
-      "likeCount": 479,
+      "viewCount": 12248,
+      "likeCount": 484,
       "commentCount": 1,
       "thumbnails": {
         "default": {
@@ -505,9 +457,9 @@
       "publishedAt": "2025-12-14T05:06:58Z",
       "duration": "PT40S",
       "durationSeconds": 40,
-      "viewCount": 135981,
-      "likeCount": 6414,
-      "commentCount": 180,
+      "viewCount": 260195,
+      "likeCount": 8573,
+      "commentCount": 246,
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/FB-pqNuoSOc/default.jpg",
@@ -553,9 +505,9 @@
       "publishedAt": "2025-12-14T02:50:19Z",
       "duration": "PT1M",
       "durationSeconds": 60,
-      "viewCount": 69186,
-      "likeCount": 3560,
-      "commentCount": 128,
+      "viewCount": 177967,
+      "likeCount": 5830,
+      "commentCount": 210,
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/yJLAN_tV81c/default.jpg",
@@ -606,9 +558,9 @@
       "publishedAt": "2025-12-14T02:11:21Z",
       "duration": "PT46S",
       "durationSeconds": 46,
-      "viewCount": 16850,
-      "likeCount": 675,
-      "commentCount": 25,
+      "viewCount": 20794,
+      "likeCount": 738,
+      "commentCount": 35,
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/7CL1kBJPjC8/default.jpg",
@@ -659,9 +611,9 @@
       "publishedAt": "2025-12-13T13:46:51Z",
       "duration": "PT47S",
       "durationSeconds": 47,
-      "viewCount": 174284,
-      "likeCount": 7262,
-      "commentCount": 193,
+      "viewCount": 234056,
+      "likeCount": 8122,
+      "commentCount": 216,
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/ePqZGmtAD5g/default.jpg",
@@ -711,9 +663,9 @@
       "publishedAt": "2025-12-13T11:29:14Z",
       "duration": "PT54S",
       "durationSeconds": 54,
-      "viewCount": 23396,
-      "likeCount": 196,
-      "commentCount": 7,
+      "viewCount": 23534,
+      "likeCount": 199,
+      "commentCount": 9,
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/4CeIxLMV7Vs/default.jpg",
@@ -763,8 +715,8 @@
       "publishedAt": "2025-12-13T08:35:39Z",
       "duration": "PT28S",
       "durationSeconds": 28,
-      "viewCount": 30511,
-      "likeCount": 771,
+      "viewCount": 30696,
+      "likeCount": 776,
       "commentCount": 4,
       "thumbnails": {
         "default": {
@@ -813,9 +765,9 @@
       "publishedAt": "2025-12-13T08:28:49Z",
       "duration": "PT58S",
       "durationSeconds": 58,
-      "viewCount": 9582,
-      "likeCount": 926,
-      "commentCount": 5,
+      "viewCount": 10473,
+      "likeCount": 1024,
+      "commentCount": 6,
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/u_y6KAezuh4/default.jpg",
@@ -866,9 +818,9 @@
       "publishedAt": "2025-12-13T05:25:08Z",
       "duration": "PT51S",
       "durationSeconds": 51,
-      "viewCount": 35057,
-      "likeCount": 826,
-      "commentCount": 31,
+      "viewCount": 35435,
+      "likeCount": 833,
+      "commentCount": 32,
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/qo6lt4B4pqY/default.jpg",
@@ -910,48 +862,6 @@
       "isShorts": true
     },
     {
-      "id": "YZNNwcUoCE0",
-      "channelId": "UCijojqRd_6p21wtI13fE68w",
-      "channelTitle": "민주데이",
-      "title": "윤영호물타기, 특검검사들의불만이 전재수장관 통일교로비 실체",
-      "description": "윤영호물타기, 특검검사들의불만이 전재수장관 통일교로비 실체\n\n#shorts #박진영 #전재수 #통일교윤영호 #특검",
-      "publishedAt": "2025-12-13T04:03:00Z",
-      "duration": "PT1M",
-      "durationSeconds": 60,
-      "viewCount": 51098,
-      "likeCount": 2017,
-      "commentCount": 20,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/YZNNwcUoCE0/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/YZNNwcUoCE0/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/YZNNwcUoCE0/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/YZNNwcUoCE0/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/YZNNwcUoCE0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
       "id": "I-08omRjbVg",
       "channelId": "UC07sfpMTLmMWBhbMglEv05w",
       "channelTitle": "정치브리프",
@@ -960,8 +870,8 @@
       "publishedAt": "2025-12-13T03:44:20Z",
       "duration": "PT55S",
       "durationSeconds": 55,
-      "viewCount": 77032,
-      "likeCount": 1238,
+      "viewCount": 78239,
+      "likeCount": 1246,
       "commentCount": 12,
       "thumbnails": {
         "default": {
@@ -1008,8 +918,8 @@
       "publishedAt": "2025-12-13T03:17:11Z",
       "duration": "PT1M",
       "durationSeconds": 60,
-      "viewCount": 74432,
-      "likeCount": 3318,
+      "viewCount": 75244,
+      "likeCount": 3331,
       "commentCount": 30,
       "thumbnails": {
         "default": {
@@ -1051,90 +961,6 @@
       "isShorts": true
     },
     {
-      "id": "ihLZTRtcFtg",
-      "channelId": "UCijojqRd_6p21wtI13fE68w",
-      "channelTitle": "민주데이",
-      "title": "한동훈 이 배은망덕한! 그날 서미화의 기억과 일침",
-      "description": "한동훈 이 배은망덕한! 그날 서미화의 기억과 일침\n\n#shorts #서미화 #이재명대통령 #123 #배은망덕한동훈",
-      "publishedAt": "2025-12-13T02:46:00Z",
-      "duration": "PT1M",
-      "durationSeconds": 60,
-      "viewCount": 59181,
-      "likeCount": 3438,
-      "commentCount": 29,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ihLZTRtcFtg/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ihLZTRtcFtg/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ihLZTRtcFtg/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/ihLZTRtcFtg/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/ihLZTRtcFtg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
-      "id": "Xzit-Z6ar_s",
-      "channelId": "UCijojqRd_6p21wtI13fE68w",
-      "channelTitle": "민주데이",
-      "title": "속도 안나고 지지부진한 건 안하는거랑 똑같다 이재명!",
-      "description": "속도 안나고 지지부진한 건 안하는거랑 똑같다 이재명!\n\n#shorts #이재명대통령 #2025업무보고 #국토부 #휴게소음식값",
-      "publishedAt": "2025-12-12T09:31:44Z",
-      "duration": "PT1M",
-      "durationSeconds": 60,
-      "viewCount": 36497,
-      "likeCount": 1464,
-      "commentCount": 4,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Xzit-Z6ar_s/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Xzit-Z6ar_s/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Xzit-Z6ar_s/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/Xzit-Z6ar_s/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/Xzit-Z6ar_s/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
       "id": "nXh_0n4cti0",
       "channelId": "UCSc2DcSzzjHgBn8Hg0KG7PA",
       "channelTitle": "꼰대희",
@@ -1143,9 +969,9 @@
       "publishedAt": "2025-12-12T09:01:23Z",
       "duration": "PT34S",
       "durationSeconds": 34,
-      "viewCount": 51150,
-      "likeCount": 1815,
-      "commentCount": 129,
+      "viewCount": 54153,
+      "likeCount": 1932,
+      "commentCount": 130,
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/nXh_0n4cti0/default.jpg",
@@ -1185,8 +1011,8 @@
       "publishedAt": "2025-12-12T06:12:37Z",
       "duration": "PT54S",
       "durationSeconds": 54,
-      "viewCount": 64369,
-      "likeCount": 1721,
+      "viewCount": 73299,
+      "likeCount": 1881,
       "commentCount": 14,
       "thumbnails": {
         "default": {
@@ -1229,132 +1055,6 @@
       "isShorts": true
     },
     {
-      "id": "ocJ7YEzbzdw",
-      "channelId": "UCijojqRd_6p21wtI13fE68w",
-      "channelTitle": "민주데이",
-      "title": "같은 13개월이지만 달라도 너무 다른 두 내란재판",
-      "description": "같은 13개월이지만 달라도 너무 다른 두 내란재판\n\n#shorts #백운기 #김용남 #전두환노태우 #내란재판",
-      "publishedAt": "2025-12-12T05:55:01Z",
-      "duration": "PT1M",
-      "durationSeconds": 60,
-      "viewCount": 16665,
-      "likeCount": 1210,
-      "commentCount": 4,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ocJ7YEzbzdw/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ocJ7YEzbzdw/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ocJ7YEzbzdw/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/ocJ7YEzbzdw/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/ocJ7YEzbzdw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
-      "id": "mYFzgaU8lgI",
-      "channelId": "UCijojqRd_6p21wtI13fE68w",
-      "channelTitle": "민주데이",
-      "title": "도대체 어쩌자는겁니까? 지귀연을 어떻게해야할까요??",
-      "description": "도대체 어쩌자는겁니까? 지귀연을 어떻게해야할까요??\n\n#shorts #백운기 #지귀연 #김용현변호인단 #도대체어쩌자는겁니까",
-      "publishedAt": "2025-12-12T04:27:13Z",
-      "duration": "PT1M",
-      "durationSeconds": 60,
-      "viewCount": 29229,
-      "likeCount": 2953,
-      "commentCount": 19,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/mYFzgaU8lgI/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/mYFzgaU8lgI/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/mYFzgaU8lgI/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/mYFzgaU8lgI/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/mYFzgaU8lgI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
-      "id": "yRtFynldQE8",
-      "channelId": "UCijojqRd_6p21wtI13fE68w",
-      "channelTitle": "민주데이",
-      "title": "JYP박진영이 말아주는 당&정 상생과 역학관계",
-      "description": "JYP박진영이 말아주는 당&정 상생과 역학관계\n\n#shorts #박진영 #이동형 #이재명대통령 #더불어민주당",
-      "publishedAt": "2025-12-12T03:32:00Z",
-      "duration": "PT49S",
-      "durationSeconds": 49,
-      "viewCount": 21966,
-      "likeCount": 593,
-      "commentCount": 0,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/yRtFynldQE8/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/yRtFynldQE8/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/yRtFynldQE8/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/yRtFynldQE8/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/yRtFynldQE8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
       "id": "IgxNRmTdmHo",
       "channelId": "UC07sfpMTLmMWBhbMglEv05w",
       "channelTitle": "정치브리프",
@@ -1363,9 +1063,9 @@
       "publishedAt": "2025-12-12T02:11:06Z",
       "duration": "PT32S",
       "durationSeconds": 32,
-      "viewCount": 135399,
-      "likeCount": 3525,
-      "commentCount": 49,
+      "viewCount": 136284,
+      "likeCount": 3593,
+      "commentCount": 50,
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/IgxNRmTdmHo/default.jpg",
@@ -1413,8 +1113,8 @@
       "publishedAt": "2025-12-12T01:27:58Z",
       "duration": "PT59S",
       "durationSeconds": 59,
-      "viewCount": 45628,
-      "likeCount": 720,
+      "viewCount": 45708,
+      "likeCount": 721,
       "commentCount": 6,
       "thumbnails": {
         "default": {
@@ -1469,8 +1169,8 @@
       "publishedAt": "2025-12-11T23:37:04Z",
       "duration": "PT59S",
       "durationSeconds": 59,
-      "viewCount": 6498,
-      "likeCount": 224,
+      "viewCount": 6549,
+      "likeCount": 225,
       "commentCount": 5,
       "thumbnails": {
         "default": {
@@ -1521,7 +1221,7 @@
       "publishedAt": "2025-12-11T23:08:02Z",
       "duration": "PT1M",
       "durationSeconds": 60,
-      "viewCount": 5296,
+      "viewCount": 5323,
       "likeCount": 173,
       "commentCount": 4,
       "thumbnails": {
@@ -1577,9 +1277,9 @@
       "publishedAt": "2025-12-11T19:18:49Z",
       "duration": "PT1M",
       "durationSeconds": 60,
-      "viewCount": 58066,
-      "likeCount": 778,
-      "commentCount": 2,
+      "viewCount": 58438,
+      "likeCount": 796,
+      "commentCount": 3,
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/Jc_I92tUT1g/default.jpg",
@@ -1634,8 +1334,8 @@
       "publishedAt": "2025-12-11T16:52:33Z",
       "duration": "PT55S",
       "durationSeconds": 55,
-      "viewCount": 133728,
-      "likeCount": 1535,
+      "viewCount": 134120,
+      "likeCount": 1560,
       "commentCount": 21,
       "thumbnails": {
         "default": {
@@ -1687,9 +1387,9 @@
       "publishedAt": "2025-12-11T16:03:43Z",
       "duration": "PT1M",
       "durationSeconds": 60,
-      "viewCount": 77739,
+      "viewCount": 77833,
       "likeCount": 1084,
-      "commentCount": 33,
+      "commentCount": 34,
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/mB9P06EJ0rI/default.jpg",
@@ -1740,8 +1440,8 @@
       "publishedAt": "2025-12-11T14:39:03Z",
       "duration": "PT55S",
       "durationSeconds": 55,
-      "viewCount": 8537,
-      "likeCount": 164,
+      "viewCount": 8567,
+      "likeCount": 165,
       "commentCount": 10,
       "thumbnails": {
         "default": {
@@ -1783,48 +1483,6 @@
       "isShorts": true
     },
     {
-      "id": "w6NQk2Z4cY4",
-      "channelId": "UCijojqRd_6p21wtI13fE68w",
-      "channelTitle": "민주데이",
-      "title": "무슨 팡인가? 거기!! 딱! 기다려! 금융치료해줄게!!",
-      "description": "무슨 팡인가? 거기!! 딱! 기다려! 금융치료해줄게!!\n\n#shorts #이재명대통령 #엄중경고 #금융치료 #겁대가리상실한쿠팡",
-      "publishedAt": "2025-12-11T13:48:00Z",
-      "duration": "PT1M",
-      "durationSeconds": 60,
-      "viewCount": 7880,
-      "likeCount": 351,
-      "commentCount": 0,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/w6NQk2Z4cY4/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/w6NQk2Z4cY4/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/w6NQk2Z4cY4/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/w6NQk2Z4cY4/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/w6NQk2Z4cY4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
       "id": "Pz7jNfGQ0DU",
       "channelId": "UC07sfpMTLmMWBhbMglEv05w",
       "channelTitle": "정치브리프",
@@ -1833,8 +1491,8 @@
       "publishedAt": "2025-12-11T11:59:24Z",
       "duration": "PT1M",
       "durationSeconds": 60,
-      "viewCount": 28870,
-      "likeCount": 1810,
+      "viewCount": 29447,
+      "likeCount": 1815,
       "commentCount": 34,
       "thumbnails": {
         "default": {
@@ -1875,102 +1533,6 @@
       "isShorts": true
     },
     {
-      "id": "ZjLZggBV_8E",
-      "channelId": "UC07sfpMTLmMWBhbMglEv05w",
-      "channelTitle": "정치브리프",
-      "title": "최혁진 팩폭! 백해룡, 저 사람 도대체 왜 저러는 거지?",
-      "description": "최혁진 팩폭! 백해룡, 저 사람 도대체 왜 저러는 거지?\n\n#최혁진 #백해룡 #검찰 #말레이시아 #조현병 #수사관 #범인 #정신병 #멘탈 #공보규칙 #임은정",
-      "publishedAt": "2025-12-11T11:04:26Z",
-      "duration": "PT1M",
-      "durationSeconds": 60,
-      "viewCount": 127847,
-      "likeCount": 6379,
-      "commentCount": 138,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ZjLZggBV_8E/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ZjLZggBV_8E/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ZjLZggBV_8E/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/ZjLZggBV_8E/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/ZjLZggBV_8E/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [
-        "#최혁진",
-        "#백해룡",
-        "#검찰",
-        "#말레이시아",
-        "#조현병",
-        "#수사관",
-        "#범인",
-        "#정신병",
-        "#멘탈",
-        "#공보규칙",
-        "#임은정"
-      ],
-      "isShorts": true
-    },
-    {
-      "id": "i0uW5MAFsBw",
-      "channelId": "UCijojqRd_6p21wtI13fE68w",
-      "channelTitle": "민주데이",
-      "title": "잼프가 가장 싫어하는 말 꺼내버린 어버버 관세청장",
-      "description": "잼프가 가장 싫어하는 말 꺼내버린 어버버 관세청장\n\n#shorts #일잘러 #이재명대통령 #어리버리 #관세청장",
-      "publishedAt": "2025-12-11T09:48:00Z",
-      "duration": "PT57S",
-      "durationSeconds": 57,
-      "viewCount": 29431,
-      "likeCount": 955,
-      "commentCount": 8,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/i0uW5MAFsBw/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/i0uW5MAFsBw/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/i0uW5MAFsBw/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/i0uW5MAFsBw/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/i0uW5MAFsBw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
       "id": "do3ibUyz3Pw",
       "channelId": "UCSc2DcSzzjHgBn8Hg0KG7PA",
       "channelTitle": "꼰대희",
@@ -1979,8 +1541,8 @@
       "publishedAt": "2025-12-11T09:01:05Z",
       "duration": "PT1M",
       "durationSeconds": 60,
-      "viewCount": 112273,
-      "likeCount": 592,
+      "viewCount": 113237,
+      "likeCount": 598,
       "commentCount": 15,
       "thumbnails": {
         "default": {
@@ -2021,7 +1583,7 @@
       "publishedAt": "2025-12-11T09:00:46Z",
       "duration": "PT53S",
       "durationSeconds": 53,
-      "viewCount": 33120,
+      "viewCount": 33764,
       "likeCount": 298,
       "commentCount": 7,
       "thumbnails": {
@@ -2055,88 +1617,82 @@
       "isShorts": true
     },
     {
-      "id": "Nh2LJ4uSDjQ",
-      "channelId": "UCijojqRd_6p21wtI13fE68w",
-      "channelTitle": "민주데이",
-      "title": "코너에몰린 백해룡을 향한 안진걸의 진심어린 당부",
-      "description": "코너에몰린 백해룡을 향한 안진걸의 진심어린 당부\n\n#shorts #안진걸 #백해룡 #진심어린당부 #백운기",
-      "publishedAt": "2025-12-11T07:30:25Z",
-      "duration": "PT1M",
-      "durationSeconds": 60,
-      "viewCount": 23230,
-      "likeCount": 1621,
+      "id": "7PQho7Q3TJY",
+      "channelId": "UCSc2DcSzzjHgBn8Hg0KG7PA",
+      "channelTitle": "꼰대희",
+      "title": "드디어 밝혀진 꼰대희의 정체",
+      "description": "* 타인을 비방하는 악의적, 모욕적인 댓글은 사전 고지없이 차단되거나 삭제될 수 있습니다.\n\n*비즈니스 문의\njdbent001@gmail.com\n\n*틱톡\nhttps://vt.tiktok.com/ZSJdgRuxJ/\n*인스타그램\nhttps://www.instagram.com/ggondaehee/\n\n#꼰대희 #밥묵자 #김원",
+      "publishedAt": "2025-12-09T09:00:19Z",
+      "duration": "PT57S",
+      "durationSeconds": 57,
+      "viewCount": 48179,
+      "likeCount": 369,
+      "commentCount": 12,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7PQho7Q3TJY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7PQho7Q3TJY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7PQho7Q3TJY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/7PQho7Q3TJY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/7PQho7Q3TJY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "o4-TIKTV-Es",
+      "channelId": "UCSc2DcSzzjHgBn8Hg0KG7PA",
+      "channelTitle": "꼰대희",
+      "title": "김원이 알려주는 미스터리한 구마의식 조건들",
+      "description": "* 타인을 비방하는 악의적, 모욕적인 댓글은 사전 고지없이 차단되거나 삭제될 수 있습니다.\n\n*비즈니스 문의\njdbent001@gmail.com\n\n*틱톡\nhttps://vt.tiktok.com/ZSJdgRuxJ/\n*인스타그램\nhttps://www.instagram.com/ggondaehee/\n\n#꼰대희 #밥묵자 #김원",
+      "publishedAt": "2025-12-07T09:01:19Z",
+      "duration": "PT58S",
+      "durationSeconds": 58,
+      "viewCount": 37528,
+      "likeCount": 259,
       "commentCount": 9,
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/Nh2LJ4uSDjQ/default.jpg",
+          "url": "https://i.ytimg.com/vi/o4-TIKTV-Es/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/Nh2LJ4uSDjQ/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/o4-TIKTV-Es/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/Nh2LJ4uSDjQ/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/o4-TIKTV-Es/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/Nh2LJ4uSDjQ/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/o4-TIKTV-Es/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/Nh2LJ4uSDjQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [
-        "민주",
-        "진보",
-        "정치",
-        "이재명",
-        "더불어민주당"
-      ],
-      "isShorts": true
-    },
-    {
-      "id": "ebni3Y2qUCE",
-      "channelId": "UCijojqRd_6p21wtI13fE68w",
-      "channelTitle": "민주데이",
-      "title": "지금 민주당 정말 위험한상황 먹구름이 막 몰려옵니다",
-      "description": "지금 민주당 정말 위험한상황 먹구름이 막 몰려옵니다\n\n#shorts #백운기 #더불어민주당 #문진석 #김남국",
-      "publishedAt": "2025-12-11T06:15:05Z",
-      "duration": "PT1M",
-      "durationSeconds": 60,
-      "viewCount": 11153,
-      "likeCount": 1222,
-      "commentCount": 15,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ebni3Y2qUCE/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ebni3Y2qUCE/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ebni3Y2qUCE/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/ebni3Y2qUCE/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/ebni3Y2qUCE/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/o4-TIKTV-Es/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -2145,40 +1701,40 @@
       "isShorts": true
     },
     {
-      "id": "VD-Hd2DvIBQ",
-      "channelId": "UCijojqRd_6p21wtI13fE68w",
-      "channelTitle": "민주데이",
-      "title": "이제는 그런 정치하는 때가 아니올시다!! 김병기 원내!",
-      "description": "이제는 그런 정치하는 때가 아니올시다!! 김병기 원내!\n\n#shorts #백운기 #김병기 #처신똑바로해 #쿠팡국감",
-      "publishedAt": "2025-12-11T05:11:55Z",
+      "id": "SglaNZ4hseA",
+      "channelId": "UCSc2DcSzzjHgBn8Hg0KG7PA",
+      "channelTitle": "꼰대희",
+      "title": "(선공개) 밥묵자 임수향",
+      "description": "* 타인을 비방하는 악의적, 모욕적인 댓글은 사전 고지없이 차단되거나 삭제될 수 있습니다.\n\n*비즈니스 문의\njdbent001@gmail.com\n\n*틱톡\nhttps://vt.tiktok.com/ZSJdgRuxJ/\n*인스타그램\nhttps://www.instagram.com/ggondaehee/\n\n#꼰대희 #밥묵자 #임수향",
+      "publishedAt": "2025-12-05T09:00:55Z",
       "duration": "PT56S",
       "durationSeconds": 56,
-      "viewCount": 150471,
-      "likeCount": 8130,
-      "commentCount": 147,
+      "viewCount": 43319,
+      "likeCount": 390,
+      "commentCount": 16,
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/VD-Hd2DvIBQ/default.jpg",
+          "url": "https://i.ytimg.com/vi/SglaNZ4hseA/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/VD-Hd2DvIBQ/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/SglaNZ4hseA/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/VD-Hd2DvIBQ/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/SglaNZ4hseA/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/VD-Hd2DvIBQ/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/SglaNZ4hseA/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/VD-Hd2DvIBQ/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/SglaNZ4hseA/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -2187,40 +1743,40 @@
       "isShorts": true
     },
     {
-      "id": "bLa3cF1gm7I",
-      "channelId": "UCijojqRd_6p21wtI13fE68w",
-      "channelTitle": "민주데이",
-      "title": "통일교 2인자의 폭로는 썩어문드러진 그들 최후의발악",
-      "description": "통일교 2인자의 폭로는 썩어문드러진 그들 최후의발악\n\n#shorts #백운기 #통일교윤영호 #사이비종교 #최후의발악",
-      "publishedAt": "2025-12-11T03:10:00Z",
-      "duration": "PT57S",
-      "durationSeconds": 57,
-      "viewCount": 11661,
-      "likeCount": 1427,
-      "commentCount": 3,
+      "id": "UhtFVmS9o7Y",
+      "channelId": "UCSc2DcSzzjHgBn8Hg0KG7PA",
+      "channelTitle": "꼰대희",
+      "title": "다솜이가 준비해 온 아재개그",
+      "description": "* 타인을 비방하는 악의적, 모욕적인 댓글은 사전 고지없이 차단되거나 삭제될 수 있습니다.\n\n*비즈니스 문의\njdbent001@gmail.com\n\n*틱톡\nhttps://vt.tiktok.com/ZSJdgRuxJ/\n*인스타그램\nhttps://www.instagram.com/ggondaehee/\n\n#꼰대희 #밥묵자 #김다솜 #장혜지",
+      "publishedAt": "2025-11-30T09:00:42Z",
+      "duration": "PT52S",
+      "durationSeconds": 52,
+      "viewCount": 2376898,
+      "likeCount": 29753,
+      "commentCount": 200,
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/bLa3cF1gm7I/default.jpg",
+          "url": "https://i.ytimg.com/vi/UhtFVmS9o7Y/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/bLa3cF1gm7I/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/UhtFVmS9o7Y/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/bLa3cF1gm7I/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/UhtFVmS9o7Y/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/bLa3cF1gm7I/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/UhtFVmS9o7Y/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/bLa3cF1gm7I/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/UhtFVmS9o7Y/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -2229,40 +1785,124 @@
       "isShorts": true
     },
     {
-      "id": "MpjACjceVgE",
-      "channelId": "UCijojqRd_6p21wtI13fE68w",
-      "channelTitle": "민주데이",
-      "title": "전담재판부 위헌성 논란 자체가 지연의 빌미가 된다?",
-      "description": "전담재판부 위헌성 논란 자체가 지연의 빌미가 된다?\n\n#shorts #뉴스다이브 #내란전담재판부 #위헌성논란 #지연의빌미",
-      "publishedAt": "2025-12-10T14:22:01Z",
+      "id": "9r_3FvYYLjQ",
+      "channelId": "UCSc2DcSzzjHgBn8Hg0KG7PA",
+      "channelTitle": "꼰대희",
+      "title": "이창호가 이상형이라는 혜지",
+      "description": "* 타인을 비방하는 악의적, 모욕적인 댓글은 사전 고지없이 차단되거나 삭제될 수 있습니다.\n\n*비즈니스 문의\njdbent001@gmail.com\n\n*틱톡\nhttps://vt.tiktok.com/ZSJdgRuxJ/\n*인스타그램\nhttps://www.instagram.com/ggondaehee/\n\n#꼰대희 #밥묵자 #김다솜 #장혜지",
+      "publishedAt": "2025-11-30T09:00:17Z",
+      "duration": "PT56S",
+      "durationSeconds": 56,
+      "viewCount": 55402,
+      "likeCount": 418,
+      "commentCount": 25,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9r_3FvYYLjQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9r_3FvYYLjQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9r_3FvYYLjQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/9r_3FvYYLjQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/9r_3FvYYLjQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "LrWOOYdnl_M",
+      "channelId": "UCSc2DcSzzjHgBn8Hg0KG7PA",
+      "channelTitle": "꼰대희",
+      "title": "(선공개) 밥묵자 김원",
+      "description": "* 타인을 비방하는 악의적, 모욕적인 댓글은 사전 고지없이 차단되거나 삭제될 수 있습니다.\n\n*비즈니스 문의\njdbent001@gmail.com\n\n*틱톡\nhttps://vt.tiktok.com/ZSJdgRuxJ/\n*인스타그램\nhttps://www.instagram.com/ggondaehee/\n\n#꼰대희 #밥묵자 #김원",
+      "publishedAt": "2025-11-28T09:00:40Z",
+      "duration": "PT39S",
+      "durationSeconds": 39,
+      "viewCount": 48145,
+      "likeCount": 293,
+      "commentCount": 16,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LrWOOYdnl_M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LrWOOYdnl_M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LrWOOYdnl_M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/LrWOOYdnl_M/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/LrWOOYdnl_M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "6hWTBGfJGyI",
+      "channelId": "UCSc2DcSzzjHgBn8Hg0KG7PA",
+      "channelTitle": "꼰대희",
+      "title": "(선공개) 다솜, 혜지",
+      "description": "* 타인을 비방하는 악의적, 모욕적인 댓글은 사전 고지없이 차단되거나 삭제될 수 있습니다.\n\n*비즈니스 문의\njdbent001@gmail.com\n\n*틱톡\nhttps://vt.tiktok.com/ZSJdgRuxJ/\n*인스타그램\nhttps://www.instagram.com/ggondaehee/\n\n#꼰대희 #밥묵자 #김다솜 #장혜지",
+      "publishedAt": "2025-11-21T09:00:07Z",
       "duration": "PT1M",
       "durationSeconds": 60,
-      "viewCount": 4074,
-      "likeCount": 213,
-      "commentCount": 0,
+      "viewCount": 61653,
+      "likeCount": 548,
+      "commentCount": 30,
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/MpjACjceVgE/default.jpg",
+          "url": "https://i.ytimg.com/vi/6hWTBGfJGyI/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/MpjACjceVgE/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/6hWTBGfJGyI/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/MpjACjceVgE/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/6hWTBGfJGyI/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/MpjACjceVgE/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/6hWTBGfJGyI/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/MpjACjceVgE/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/6hWTBGfJGyI/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -2271,40 +1911,40 @@
       "isShorts": true
     },
     {
-      "id": "R-33jKybHik",
-      "channelId": "UCijojqRd_6p21wtI13fE68w",
-      "channelTitle": "민주데이",
-      "title": "급사퇴한 망언제조기 인요한 갑자기 무슨 꿍꿍이??",
-      "description": "급사퇴한 망언제조기 인요한 갑자기 무슨 꿍꿍이??\n\n#shorts #의원직사퇴 #망언제조기 #인요한 #무슨꿍꿍이",
-      "publishedAt": "2025-12-10T09:46:00Z",
-      "duration": "PT58S",
-      "durationSeconds": 58,
-      "viewCount": 5344,
-      "likeCount": 79,
-      "commentCount": 10,
+      "id": "ekPYivmvpmk",
+      "channelId": "UCSc2DcSzzjHgBn8Hg0KG7PA",
+      "channelTitle": "꼰대희",
+      "title": "가수 태양한테 고소장 받을 예정인 양주시 공무원 유튜버",
+      "description": "* 타인을 비방하는 악의적, 모욕적인 댓글은 사전 고지없이 차단되거나 삭제될 수 있습니다.\n\n*비즈니스 문의\njdbent001@gmail.com\n\n*틱톡\nhttps://vt.tiktok.com/ZSJdgRuxJ/\n*인스타그램\nhttps://www.instagram.com/ggondaehee/\n\n#꼰대희 #밥묵자 #진주무관 #양주시",
+      "publishedAt": "2025-11-20T09:01:00Z",
+      "duration": "PT59S",
+      "durationSeconds": 59,
+      "viewCount": 27417,
+      "likeCount": 212,
+      "commentCount": 16,
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/R-33jKybHik/default.jpg",
+          "url": "https://i.ytimg.com/vi/ekPYivmvpmk/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/R-33jKybHik/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ekPYivmvpmk/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/R-33jKybHik/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ekPYivmvpmk/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/R-33jKybHik/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/ekPYivmvpmk/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/R-33jKybHik/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ekPYivmvpmk/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -2313,124 +1953,40 @@
       "isShorts": true
     },
     {
-      "id": "PBvC7XDzU0M",
-      "channelId": "UCijojqRd_6p21wtI13fE68w",
-      "channelTitle": "민주데이",
-      "title": "드럼통 저 밑바닥까지 잠겨 망가질대로 망가진 나빠루",
-      "description": "드럼통 저 밑바닥까지 잠겨 망가질대로 망가진 나빠루\n\n#shorts #백운기 #나빠루 #국힘당해체 #국짐당해산만이답",
-      "publishedAt": "2025-12-10T08:40:01Z",
-      "duration": "PT1M",
-      "durationSeconds": 60,
-      "viewCount": 159640,
-      "likeCount": 10900,
-      "commentCount": 159,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/PBvC7XDzU0M/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/PBvC7XDzU0M/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/PBvC7XDzU0M/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/PBvC7XDzU0M/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/PBvC7XDzU0M/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
-      "id": "-dseTK40UWM",
-      "channelId": "UCijojqRd_6p21wtI13fE68w",
-      "channelTitle": "민주데이",
-      "title": "은근슬쩍 묻어가려다 딱!걸린 기회주의자 박쥐ㅅㄲ 김재섭",
-      "description": "은근슬쩍 묻어가려다 딱!걸린 기회주의자 박쥐ㅅㄲ 김재섭\n\n#shorts #박은정 #국힘당해체 #박쥐김재섭 #기회주의자",
-      "publishedAt": "2025-12-10T07:56:00Z",
-      "duration": "PT1M1S",
-      "durationSeconds": 61,
-      "viewCount": 13145,
-      "likeCount": 561,
-      "commentCount": 0,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/-dseTK40UWM/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/-dseTK40UWM/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/-dseTK40UWM/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/-dseTK40UWM/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/-dseTK40UWM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
-      "id": "9wJIlqJKpJo",
-      "channelId": "UCijojqRd_6p21wtI13fE68w",
-      "channelTitle": "민주데이",
-      "title": "아무리 생각해도 저 당은 해산만이 답 입니다!",
-      "description": "아무리 생각해도 저 당은 해산만이 답 입니다!\n\n#shorts #백운기 #나빠루경원 #국힘당해체 #너희는해산만이답",
-      "publishedAt": "2025-12-10T03:06:00Z",
+      "id": "CWp9_XbMT80",
+      "channelId": "UCSc2DcSzzjHgBn8Hg0KG7PA",
+      "channelTitle": "꼰대희",
+      "title": "양주 시장님에게 할 말이 있다는 양주시 공무원 유튜버",
+      "description": "* 타인을 비방하는 악의적, 모욕적인 댓글은 사전 고지없이 차단되거나 삭제될 수 있습니다.\n\n*비즈니스 문의\njdbent001@gmail.com\n\n*틱톡\nhttps://vt.tiktok.com/ZSJdgRuxJ/\n*인스타그램\nhttps://www.instagram.com/ggondaehee/\n\n#꼰대희 #밥묵자 #진주무관 #양주시",
+      "publishedAt": "2025-11-20T09:00:21Z",
       "duration": "PT55S",
       "durationSeconds": 55,
-      "viewCount": 36430,
-      "likeCount": 3147,
-      "commentCount": 57,
+      "viewCount": 31334,
+      "likeCount": 235,
+      "commentCount": 9,
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/9wJIlqJKpJo/default.jpg",
+          "url": "https://i.ytimg.com/vi/CWp9_XbMT80/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/9wJIlqJKpJo/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/CWp9_XbMT80/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/9wJIlqJKpJo/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/CWp9_XbMT80/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/9wJIlqJKpJo/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/CWp9_XbMT80/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/9wJIlqJKpJo/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/CWp9_XbMT80/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -2439,40 +1995,250 @@
       "isShorts": true
     },
     {
-      "id": "VynPf88yB-M",
-      "channelId": "UCijojqRd_6p21wtI13fE68w",
-      "channelTitle": "민주데이",
-      "title": "떡잎부터 남달랐던 새강자 이준수의 쓰레기 도서출판",
-      "description": "떡잎부터 남달랐던 새강자 이준수의 쓰레기 도서출판\n\n#shorts #이정주 #경향티비 #새강자이준수 #쓰레기도서",
-      "publishedAt": "2025-12-10T02:22:00Z",
-      "duration": "PT58S",
-      "durationSeconds": 58,
-      "viewCount": 9923,
-      "likeCount": 151,
-      "commentCount": 0,
+      "id": "u9hi_XTocAQ",
+      "channelId": "UCSc2DcSzzjHgBn8Hg0KG7PA",
+      "channelTitle": "꼰대희",
+      "title": "(선공개) 밥묵자 양주시 진주무관",
+      "description": "* 타인을 비방하는 악의적, 모욕적인 댓글은 사전 고지없이 차단되거나 삭제될 수 있습니다.\n\n*비즈니스 문의\njdbent001@gmail.com\n\n*틱톡\nhttps://vt.tiktok.com/ZSJdgRuxJ/\n*인스타그램\nhttps://www.instagram.com/ggondaehee/\n\n#꼰대희 #밥묵자 #진주무관 #양주시",
+      "publishedAt": "2025-11-14T09:01:42Z",
+      "duration": "PT57S",
+      "durationSeconds": 57,
+      "viewCount": 33124,
+      "likeCount": 277,
+      "commentCount": 25,
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/VynPf88yB-M/default.jpg",
+          "url": "https://i.ytimg.com/vi/u9hi_XTocAQ/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/VynPf88yB-M/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/u9hi_XTocAQ/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/VynPf88yB-M/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/u9hi_XTocAQ/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/VynPf88yB-M/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/u9hi_XTocAQ/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/VynPf88yB-M/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/u9hi_XTocAQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "geS872l6D2o",
+      "channelId": "UCSc2DcSzzjHgBn8Hg0KG7PA",
+      "channelTitle": "꼰대희",
+      "title": "황혜선의 태국 광고모델 개인기",
+      "description": "* 타인을 비방하는 악의적, 모욕적인 댓글은 사전 고지없이 차단되거나 삭제될 수 있습니다.\n\n*비즈니스 문의\njdbent001@gmail.com\n\n*틱톡\nhttps://vt.tiktok.com/ZSJdgRuxJ/\n*인스타그램\nhttps://www.instagram.com/ggondaehee/\n\n#꼰대희 #밥묵자 #황혜선 #서성경",
+      "publishedAt": "2025-11-13T09:01:12Z",
+      "duration": "PT46S",
+      "durationSeconds": 46,
+      "viewCount": 46125,
+      "likeCount": 447,
+      "commentCount": 11,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/geS872l6D2o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/geS872l6D2o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/geS872l6D2o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/geS872l6D2o/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/geS872l6D2o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "AJSdUbaeIuI",
+      "channelId": "UCSc2DcSzzjHgBn8Hg0KG7PA",
+      "channelTitle": "꼰대희",
+      "title": "서성경의 북한 사람 성대모사",
+      "description": "* 타인을 비방하는 악의적, 모욕적인 댓글은 사전 고지없이 차단되거나 삭제될 수 있습니다.\n\n*비즈니스 문의\njdbent001@gmail.com\n\n*틱톡\nhttps://vt.tiktok.com/ZSJdgRuxJ/\n*인스타그램\nhttps://www.instagram.com/ggondaehee/\n\n#꼰대희 #밥묵자 #황혜선 #서성경",
+      "publishedAt": "2025-11-13T09:00:14Z",
+      "duration": "PT59S",
+      "durationSeconds": 59,
+      "viewCount": 47045,
+      "likeCount": 404,
+      "commentCount": 8,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/AJSdUbaeIuI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/AJSdUbaeIuI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/AJSdUbaeIuI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/AJSdUbaeIuI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/AJSdUbaeIuI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "rqAixeoCnIY",
+      "channelId": "UCSc2DcSzzjHgBn8Hg0KG7PA",
+      "channelTitle": "꼰대희",
+      "title": "밥묵자 선공개 서성경, 황혜선",
+      "description": "* 타인을 비방하는 악의적, 모욕적인 댓글은 사전 고지없이 차단되거나 삭제될 수 있습니다.\n\n*비즈니스 문의\njdbent001@gmail.com\n\n*틱톡\nhttps://vt.tiktok.com/ZSJdgRuxJ/\n*인스타그램\nhttps://www.instagram.com/ggondaehee/\n\n#꼰대희 #밥묵자 #황혜선 #서성경",
+      "publishedAt": "2025-11-07T09:01:32Z",
+      "duration": "PT13S",
+      "durationSeconds": 13,
+      "viewCount": 34608,
+      "likeCount": 426,
+      "commentCount": 23,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rqAixeoCnIY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rqAixeoCnIY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rqAixeoCnIY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/rqAixeoCnIY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/rqAixeoCnIY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "ylPch3j4RXo",
+      "channelId": "UCSc2DcSzzjHgBn8Hg0KG7PA",
+      "channelTitle": "꼰대희",
+      "title": "이상준이 조인성에게 감사하는 마음을 가지는 이유",
+      "description": "꼰대희가 먹었던 국밥이 궁금하시다면....\n↓↓↓↓↓온라인 최저가 판매중↓↓↓↓↓\nhttps://jdbent.co.kr/category/shop/28/\n\n* 타인을 비방하는 악의적, 모욕적인 댓글은 사전 고지없이 차단되거나 삭제될 수 있습니다.\n\n*비즈니스 문의\njdbent001@gmail.com\n\n*틱톡\nhttps://vt.tiktok.com/ZSJdgR",
+      "publishedAt": "2025-11-06T09:01:27Z",
+      "duration": "PT58S",
+      "durationSeconds": 58,
+      "viewCount": 79617,
+      "likeCount": 376,
+      "commentCount": 11,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ylPch3j4RXo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ylPch3j4RXo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ylPch3j4RXo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ylPch3j4RXo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ylPch3j4RXo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "LxHgvc_CEII",
+      "channelId": "UCSc2DcSzzjHgBn8Hg0KG7PA",
+      "channelTitle": "꼰대희",
+      "title": "공채 시험보다가 멘탈 나간 이상준",
+      "description": "꼰대희가 먹었던 국밥이 궁금하시다면....\n↓↓↓↓↓온라인 최저가 판매중↓↓↓↓↓\nhttps://jdbent.co.kr/category/shop/28/\n\n* 타인을 비방하는 악의적, 모욕적인 댓글은 사전 고지없이 차단되거나 삭제될 수 있습니다.\n\n*비즈니스 문의\njdbent001@gmail.com\n\n*틱톡\nhttps://vt.tiktok.com/ZSJdgR",
+      "publishedAt": "2025-11-06T09:00:36Z",
+      "duration": "PT59S",
+      "durationSeconds": 59,
+      "viewCount": 115402,
+      "likeCount": 419,
+      "commentCount": 13,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LxHgvc_CEII/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LxHgvc_CEII/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LxHgvc_CEII/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/LxHgvc_CEII/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/LxHgvc_CEII/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -2489,8 +2255,8 @@
       "customUrl": "@ytnnews24",
       "publishedAt": "2013-05-23T07:07:42Z",
       "subscriberCount": 5240000,
-      "videoCount": 920864,
-      "viewCount": 18692817417,
+      "videoCount": 920910,
+      "viewCount": 18696377070,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s88-c-k-c0x00ffffff-no-rj",
@@ -2521,8 +2287,8 @@
       "customUrl": "@tvchosunnews",
       "publishedAt": "2012-08-23T12:33:18Z",
       "subscriberCount": 3020000,
-      "videoCount": 166624,
-      "viewCount": 4874221305,
+      "videoCount": 166627,
+      "viewCount": 4876043436,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
@@ -2547,6 +2313,38 @@
       "regularVideosCount": 0
     },
     {
+      "id": "UCbJfg1BrJ5hJPlVqDUUv8lg",
+      "title": "sondhitalk",
+      "description": "\n\n• สนับสนุนความจริงมีหนึ่งเดียว ด้วยการสมัครเป็น Membership : https://www.youtube.com/@sondhitalk/join \n• ติดต่อสอบถามได้ที่ Line : @sondhitalk\n\n",
+      "customUrl": "@sondhitalk",
+      "publishedAt": "2013-01-11T08:32:41Z",
+      "subscriberCount": 2400000,
+      "videoCount": 5775,
+      "viewCount": 584605939,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GlRwJz9olSd_9v-L4fjru7ErFTZ4YKnek4FsZMfGXzFl_Ln7sAp3r_lXEcEkNHiIfgq4Sl2A=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GlRwJz9olSd_9v-L4fjru7ErFTZ4YKnek4FsZMfGXzFl_Ln7sAp3r_lXEcEkNHiIfgq4Sl2A=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GlRwJz9olSd_9v-L4fjru7ErFTZ4YKnek4FsZMfGXzFl_Ln7sAp3r_lXEcEkNHiIfgq4Sl2A=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUbJfg1BrJ5hJPlVqDUUv8lg",
+      "country": "TH",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
       "id": "UCSc2DcSzzjHgBn8Hg0KG7PA",
       "title": "꼰대희",
       "description": "젊은이들의 문화를 체험하는 꼰대희 채널입니다\n\n비즈니스 문의 : jdbent001@gmail.com\n",
@@ -2554,7 +2352,7 @@
       "publishedAt": "2020-08-19T05:23:43.602005Z",
       "subscriberCount": 1990000,
       "videoCount": 1016,
-      "viewCount": 893529120,
+      "viewCount": 893815406,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/ytc/AIdro_kvXF8ikeDs5sSIjyl4JuSceqwpAJlslX8ieu5rYmjypA=s88-c-k-c0x00ffffff-no-rj",
@@ -2579,46 +2377,14 @@
       "regularVideosCount": 12
     },
     {
-      "id": "UCgeOlLcX6PReHdWImEnUVTg",
-      "title": "스픽스",
-      "description": "국민과 함께 더 나은 세상을 만들어가는 스픽스\n혁신-균형-정의를 지향하는 뉴미디어, 저널리즘의 표준\n\n#최고의 전략가 정치와 정치인을 논하다 '정치본색' 생방송 (월~금 13시) \n#예능급 고수들의 정치수다 '역전의용사들' 생방송 (월~금 20시)\n\n#실시간 속보 가장 빠른 분석 '긴급편성' \n#탁월한 관점의 정치, 경제 현안분석 '고수의전략'  \n#차원이 다른 토크  '마키아벨리'\n\n협업 및 공동기획 문의 010-8596-0073\n광고문의 010-4615-9996\nspeaksad@speaks.kr\n",
-      "customUrl": "@speaks_tv",
-      "publishedAt": "2022-05-24T02:02:45.424058Z",
-      "subscriberCount": 1560000,
-      "videoCount": 28659,
-      "viewCount": 1826145686,
-      "thumbnails": {
-        "default": {
-          "url": "https://yt3.ggpht.com/S3rLqAB2YDYQDzLNBiFveCxuoTifWkLQtQP-V416WUiciWNz1umav1O51CwrxVy8zKrTMSKg=s88-c-k-c0x00ffffff-no-rj",
-          "width": 88,
-          "height": 88
-        },
-        "medium": {
-          "url": "https://yt3.ggpht.com/S3rLqAB2YDYQDzLNBiFveCxuoTifWkLQtQP-V416WUiciWNz1umav1O51CwrxVy8zKrTMSKg=s240-c-k-c0x00ffffff-no-rj",
-          "width": 240,
-          "height": 240
-        },
-        "high": {
-          "url": "https://yt3.ggpht.com/S3rLqAB2YDYQDzLNBiFveCxuoTifWkLQtQP-V416WUiciWNz1umav1O51CwrxVy8zKrTMSKg=s800-c-k-c0x00ffffff-no-rj",
-          "width": 800,
-          "height": 800
-        }
-      },
-      "uploads": "UUgeOlLcX6PReHdWImEnUVTg",
-      "country": "KR",
-      "videosAnalyzed": 0,
-      "shortsCount": 0,
-      "regularVideosCount": 0
-    },
-    {
       "id": "UCGbkN-3JpOct4KuEv59NF0Q",
       "title": "엠키타카 MKTK",
       "description": "국회 티키타카! 콘텐츠왕국! 어른김장하! 지역소생연구소!\n\n홈페이지 : http://www.mbcgn.kr\n페이스북 : http://www.facebook.com/withmbcgn\n인스타그램  : https://www.instagram.com/mbcgn/",
       "customUrl": "@mbcgn_tv",
       "publishedAt": "2017-08-08T04:13:21Z",
       "subscriberCount": 1020000,
-      "videoCount": 21289,
-      "viewCount": 2251569134,
+      "videoCount": 21290,
+      "viewCount": 2254130153,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/hUPG97aBRPUUtqvU3nFszYHV-x3GYfoFNbwNJ1-NvsXBXelhnLpgjoDFP3D7svnaY5bLpli6pQ=s88-c-k-c0x00ffffff-no-rj",
@@ -2649,8 +2415,8 @@
       "customUrl": "@세상만사-n6h",
       "publishedAt": "2024-02-14T06:48:46.622989Z",
       "subscriberCount": 638000,
-      "videoCount": 2997,
-      "viewCount": 1516633856,
+      "videoCount": 2998,
+      "viewCount": 1518220102,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/tgqlfQiRq_Zny5G7E9VWdhFv7AORkvo26IKEnvHirKGPoxbwFaZG02qQsa5NUMM03AURCDC_=s88-c-k-c0x00ffffff-no-rj",
@@ -2680,9 +2446,9 @@
       "description": "빠르고 쉽게 올바른 생각을 전합니다\n제보 및 협업 문의\n✉️ connect.voiceofkorea@gmail.com\n",
       "customUrl": "@한국의목소리",
       "publishedAt": "2025-01-31T07:55:07.066491Z",
-      "subscriberCount": 577000,
+      "subscriberCount": 578000,
       "videoCount": 1421,
-      "viewCount": 972718894,
+      "viewCount": 974135791,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/4iOFLb4gPIReye1CRxGOIYK6oe3-i65mtzpT851pm5sFWY46hVgPMVo7loKQVWy-ZJSxYv_K=s88-c-k-c0x00ffffff-no-rj",
@@ -2714,7 +2480,7 @@
       "publishedAt": "2024-03-24T10:26:55.652981Z",
       "subscriberCount": 503000,
       "videoCount": 2030,
-      "viewCount": 969141330,
+      "viewCount": 973507424,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/K4zWkeJjnkekAxKX8t6KdvNSVpCGo_UUYNGY67R7Qkt0DKWbsfg84eY_O1l6pyC5YtPZgC9O8es=s88-c-k-c0x00ffffff-no-rj",
@@ -2746,7 +2512,7 @@
       "publishedAt": "2022-05-30T11:34:11.689006Z",
       "subscriberCount": 483000,
       "videoCount": 3797,
-      "viewCount": 1902105987,
+      "viewCount": 1902926118,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/GXD6CIjLk1Dnt5VC7nl-M72a7ueVq8b6oA4yjURVnF1ZYbgqtwf5ZPNg72VafPOIw02ANvMh2A=s88-c-k-c0x00ffffff-no-rj",
@@ -2778,7 +2544,7 @@
       "publishedAt": "2009-03-21T08:15:07Z",
       "subscriberCount": 481000,
       "videoCount": 3214,
-      "viewCount": 648866586,
+      "viewCount": 648943234,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/fVn9FhfxwrVUvNj_Vii0l6vcyUNNQFQImVhwPhUSHguibKKkR1_8iIyHeaMGxFrjJ6GYGqlymw=s88-c-k-c0x00ffffff-no-rj",
@@ -2808,9 +2574,9 @@
       "description": "재밌는 것들만 모은 잼통!",
       "customUrl": "@jamjam9787",
       "publishedAt": "2024-03-17T11:15:44.181866Z",
-      "subscriberCount": 471000,
+      "subscriberCount": 470000,
       "videoCount": 275,
-      "viewCount": 149596054,
+      "viewCount": 149596168,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/haTQr8ZLyCIIL48yyYimlvHCx0bHV8v5-qJ49u62tOMhPgnOLloFb6RJaSBbSJSOQyBd52Uhcw=s88-c-k-c0x00ffffff-no-rj",
@@ -2842,7 +2608,7 @@
       "publishedAt": "2017-08-07T06:21:04Z",
       "subscriberCount": 436000,
       "videoCount": 44998,
-      "viewCount": 534450214,
+      "viewCount": 534935819,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/v__eiQEgXgwAynGyNr0_Nmcs3pBhXI-ZGhkiNwgxvQnlCaDH-m1DKnnC7044d95G3qW_8V3iZQ=s88-c-k-c0x00ffffff-no-rj",
@@ -2874,7 +2640,7 @@
       "publishedAt": "2018-02-07T05:25:49Z",
       "subscriberCount": 406000,
       "videoCount": 2878,
-      "viewCount": 543173594,
+      "viewCount": 543286886,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/CfeyGSvQwDc7p7TSueVaFvcuwKlwu999XXxNCdBVKb0YyYhth-H-321wlxcbaSOHMYjODKnK5_M=s88-c-k-c0x00ffffff-no-rj",
@@ -2906,7 +2672,7 @@
       "publishedAt": "2020-05-28T12:15:50.768611Z",
       "subscriberCount": 385000,
       "videoCount": 667,
-      "viewCount": 116892897,
+      "viewCount": 116936843,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/R6ynfgFkV7pKnrgUIp52TOpg2AQ2qD0Geo57N9uoFitMuC1nvsL7LmBRqgnZqqwGCj1RNL0Yvg=s88-c-k-c0x00ffffff-no-rj",
@@ -2938,7 +2704,7 @@
       "publishedAt": "2018-11-09T08:01:53Z",
       "subscriberCount": 336000,
       "videoCount": 853,
-      "viewCount": 776787246,
+      "viewCount": 776969185,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/RstzVEx_9sC_aaMuFohYXwUyclAN97UMi8jX4N8me9lyj7vIOlmHLoOdV1_GfPwJcOGBC_zf=s88-c-k-c0x00ffffff-no-rj",
@@ -2970,7 +2736,7 @@
       "publishedAt": "2018-11-09T08:01:53Z",
       "subscriberCount": 336000,
       "videoCount": 853,
-      "viewCount": 776787246,
+      "viewCount": 776969185,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/RstzVEx_9sC_aaMuFohYXwUyclAN97UMi8jX4N8me9lyj7vIOlmHLoOdV1_GfPwJcOGBC_zf=s88-c-k-c0x00ffffff-no-rj",
@@ -3002,7 +2768,7 @@
       "publishedAt": "2013-04-08T07:04:38Z",
       "subscriberCount": 310000,
       "videoCount": 2154,
-      "viewCount": 1641639992,
+      "viewCount": 1643177384,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/9cfPcDDSln3sHmfzt4F-nYQU9rnYhfew9LoTnLeKqkCNbyp_FtOzXqnFM_z6Fl7kvLmi7JAE=s88-c-k-c0x00ffffff-no-rj",
@@ -3033,8 +2799,8 @@
       "customUrl": "@tv17314",
       "publishedAt": "2023-05-08T14:08:28.931191Z",
       "subscriberCount": 300000,
-      "videoCount": 11705,
-      "viewCount": 852446774,
+      "videoCount": 11707,
+      "viewCount": 852483271,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/7rlTtFMzGKfuE8T2Z0_QcJZwgCKdxu2uURra0Z3lxVAqmTs82W1WgrFC_GvxuBghXKaMpZVWmOM=s88-c-k-c0x00ffffff-no-rj",
@@ -3066,7 +2832,7 @@
       "publishedAt": "2021-08-05T10:53:39.000195Z",
       "subscriberCount": 289000,
       "videoCount": 2796,
-      "viewCount": 708807895,
+      "viewCount": 708917275,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/tZbcl-KHk4OL2vHneZCZS3Dya5Op54TNjjWwBX-QV2rU8mJG_Y27LGFIoerxGT8Sd08yHibziA=s88-c-k-c0x00ffffff-no-rj",
@@ -3098,7 +2864,7 @@
       "publishedAt": "2023-06-04T12:54:30.5777Z",
       "subscriberCount": 273000,
       "videoCount": 543,
-      "viewCount": 913925425,
+      "viewCount": 914592638,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/UGX3Xq_DgGKiHJEsMl6X-gZYvsVvzdhxK7aviC3A_WvoTPP3loXKLz-IlxqRCcOZcSKCLoWnqA=s88-c-k-c0x00ffffff-no-rj",
