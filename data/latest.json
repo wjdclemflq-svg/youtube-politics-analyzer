@@ -1,14 +1,3725 @@
 {
-  "lastUpdated": "2026-01-05T06:25:49.062Z",
-  "totalChannelsAnalyzed": 0,
-  "totalVideos": 0,
-  "totalShorts": 0,
-  "totalRegularVideos": 0,
-  "totalViewCount": 0,
-  "totalLikeCount": 0,
-  "averageViewsPerShort": 0,
-  "topChannelsByShorts": [],
-  "topShortsByViews": [],
-  "recentShorts": [],
-  "channelStats": []
+  "lastUpdated": "2026-01-05T12:27:51.443Z",
+  "totalChannelsAnalyzed": 82,
+  "totalVideos": 195,
+  "totalShorts": 66,
+  "totalRegularVideos": 129,
+  "totalViewCount": 7213110,
+  "totalLikeCount": 215616,
+  "averageViewsPerShort": 5868,
+  "topChannelsByShorts": [
+    {
+      "title": "정치도시",
+      "shortsCount": 30,
+      "subscriberCount": 5030
+    },
+    {
+      "title": "인생조언 한줄",
+      "shortsCount": 12,
+      "subscriberCount": 3420
+    },
+    {
+      "title": "뉴스TVCHOSUN",
+      "shortsCount": 5,
+      "subscriberCount": 3030000
+    },
+    {
+      "title": " YTN",
+      "shortsCount": 3,
+      "subscriberCount": 5250000
+    }
+  ],
+  "topShortsByViews": [
+    {
+      "title": "아프리카 출장 갔던 양지열, 차베스 대통령이 이해가 가는 이유",
+      "channelTitle": "짤짤정치",
+      "viewCount": 69421,
+      "publishedAt": "2026-01-05T09:13:38Z"
+    },
+    {
+      "title": "청문회 에피소드 김규현 변호사",
+      "channelTitle": "정치도시",
+      "viewCount": 33132,
+      "publishedAt": "2024-06-24T09:31:34Z"
+    },
+    {
+      "title": "류희림 개인취향.",
+      "channelTitle": "정치도시",
+      "viewCount": 22060,
+      "publishedAt": "2024-07-03T09:39:13Z"
+    },
+    {
+      "title": "배우 유오성 친형 VS 정청래 말싸움",
+      "channelTitle": "정치도시",
+      "viewCount": 20791,
+      "publishedAt": "2024-06-25T10:03:18Z"
+    },
+    {
+      "title": "전 국힘의원 4년전 분석. 임성근 사단장과 싱크로율100%",
+      "channelTitle": "정치도시",
+      "viewCount": 17245,
+      "publishedAt": "2024-06-30T10:05:05Z"
+    },
+    {
+      "title": "법사위 초선 정청래",
+      "channelTitle": "정치도시",
+      "viewCount": 16511,
+      "publishedAt": "2024-06-30T05:14:25Z"
+    },
+    {
+      "title": "검사출신 “김규현”변호사에 대해 알아보자",
+      "channelTitle": "정치도시",
+      "viewCount": 13203,
+      "publishedAt": "2024-06-28T12:37:23Z"
+    },
+    {
+      "title": "국가 기밀 안보, Ai에게 뚫렸다. 찍소리 못하는 정진석 #강유정",
+      "channelTitle": "정치도시",
+      "viewCount": 12946,
+      "publishedAt": "2024-07-01T10:29:47Z"
+    },
+    {
+      "title": "정부 여당의 18번",
+      "channelTitle": "정치도시",
+      "viewCount": 12211,
+      "publishedAt": "2024-06-29T10:41:38Z"
+    },
+    {
+      "title": "놀러온 대한 의사 협회장 #소시오패스",
+      "channelTitle": "정치도시",
+      "viewCount": 12209,
+      "publishedAt": "2024-06-26T13:56:35Z"
+    }
+  ],
+  "recentShorts": [
+    {
+      "id": "_HORjUmMHVE",
+      "channelId": "UCF9PD_Ogzz8U9LEOqPwZ0-A",
+      "channelTitle": "GyaanEdge",
+      "title": "🤯“USA Sanctions ne kaise tabaah kiya Venezuela?”#facts#staticgk#shorts #viralvideo#viral#shortvideo",
+      "description": "Venezuela ke paas duniya ka sabse zyada oil hone ke bawajood economy collapse ho gayi.\nUSA sanctions, inflation, currency crisis aur Russia-China politics ne kaise ek desh ki kismat badal di – poori k",
+      "publishedAt": "2026-01-05T11:58:55Z",
+      "duration": "PT26S",
+      "durationSeconds": 26,
+      "viewCount": 209,
+      "likeCount": 1,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_HORjUmMHVE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_HORjUmMHVE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_HORjUmMHVE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/_HORjUmMHVE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/_HORjUmMHVE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "Venezuela",
+        "facts",
+        "shorts video",
+        "video viral",
+        "viral shorts",
+        "USA",
+        "donal Trump",
+        "inflation",
+        "oil reserves"
+      ],
+      "isShorts": true,
+      "fromSearch": true
+    },
+    {
+      "id": "vadsPX7rGAs",
+      "channelId": "UCV2dLLNVT-JJBtMGDvkuu9w",
+      "channelTitle": "Asli Ghotala",
+      "title": "Trump’s “Real Life GTA 6” Move in Venezuela! 😱 #shorts",
+      "description": "In this video, we dive into the real story behind Donald Trump’s actions regarding Venezuela and its president, Nicolás Maduro. While the media reports one story, the underlying reality revolves aroun",
+      "publishedAt": "2026-01-05T11:38:35Z",
+      "duration": "PT47S",
+      "durationSeconds": 47,
+      "viewCount": 201,
+      "likeCount": 5,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vadsPX7rGAs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vadsPX7rGAs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vadsPX7rGAs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/vadsPX7rGAs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/vadsPX7rGAs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true,
+      "fromSearch": true
+    },
+    {
+      "id": "XzAe0ONeidQ",
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelTitle": "뉴스TVCHOSUN",
+      "title": "[뉴스트라다무스] 커지는 의혹에도 '탈당 안 한다' 버티는 김병기에 민주당 커뮤니티 반응은?! #shorts",
+      "description": "#뉴스트라다무스 #김병기 #더불어민주당\n\n영상이 마음에 드셨다면?\n뉴스트라다무스 채널로 이동하기 →www.youtube.com/@Newstradamus\n\n구독과 좋아요는 사랑입니다♥️\n\n매주 월~금 오후4시 LIVE🔴\n\"세상에서 가장 재미있는 정치쇼\n장원준·김미선의 뉴스트라다무스\"",
+      "publishedAt": "2026-01-05T11:30:52Z",
+      "duration": "PT1M8S",
+      "durationSeconds": 68,
+      "viewCount": 1437,
+      "likeCount": 59,
+      "commentCount": 1,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XzAe0ONeidQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XzAe0ONeidQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XzAe0ONeidQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/XzAe0ONeidQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/XzAe0ONeidQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램",
+        "NEWS",
+        "채널19",
+        "CH19",
+        "뉴스9",
+        "뉴스7",
+        "윤정호",
+        "포커스",
+        "윤우리",
+        "강펀치",
+        "TVCHOSUN",
+        "LIVE",
+        "티비조선라이브",
+        "TV조선라이브"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "Hqb97gt96TY",
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelTitle": "뉴스TVCHOSUN",
+      "title": "[뉴스트라다무스] '김병기 공천헌금 의혹' 폭로한 이수진에게 '김현지 녹취록' 직접 물어봤습니다!! #shorts",
+      "description": "#뉴스트라다무스 #김병기 #김현지\n\n영상이 마음에 드셨다면?\n뉴스트라다무스 채널로 이동하기 →www.youtube.com/@Newstradamus\n\n구독과 좋아요는 사랑입니다♥️\n\n매주 월~금 오후4시 LIVE🔴\n\"세상에서 가장 재미있는 정치쇼\n장원준·김미선의 뉴스트라다무스\"",
+      "publishedAt": "2026-01-05T11:28:54Z",
+      "duration": "PT1M10S",
+      "durationSeconds": 70,
+      "viewCount": 2124,
+      "likeCount": 59,
+      "commentCount": 1,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Hqb97gt96TY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Hqb97gt96TY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Hqb97gt96TY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Hqb97gt96TY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Hqb97gt96TY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램",
+        "NEWS",
+        "채널19",
+        "CH19",
+        "뉴스9",
+        "뉴스7",
+        "윤정호",
+        "포커스",
+        "윤우리",
+        "강펀치",
+        "TVCHOSUN",
+        "LIVE",
+        "티비조선라이브",
+        "TV조선라이브"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "38MVEkAgtA4",
+      "channelId": "UCNo8wNN9pf08WduXFSI_a8w",
+      "channelTitle": "InfoGraph World",
+      "title": "তারেক রহমানের নেতৃত্বে বিএনপি হাইজ্যাক হচ্ছে? : হাসনাত আব্দুল্লাহ | #tariquerahman  #shorts",
+      "description": "বিএনপির বর্তমান রাজনৈতিক পরিস্থিতি নিয়ে গুরুতর মন্তব্য করেছেন হাসনাত আব্দুল্লাহ। তার দাবি, তারেক রহমানের নেতৃত্বে দলটি ক্রমশ হাইজ্যাক হয়ে যাচ্ছে। এই বক্তব্যকে ঘিরে রাজনৈতিক অঙ্গনে ব্যাপক আলোচনা ও প্রত",
+      "publishedAt": "2026-01-05T11:20:36Z",
+      "duration": "PT31S",
+      "durationSeconds": 31,
+      "viewCount": 454,
+      "likeCount": 15,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/38MVEkAgtA4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/38MVEkAgtA4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/38MVEkAgtA4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/38MVEkAgtA4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/38MVEkAgtA4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "HasnatAbdullah",
+        "TariqueRahman",
+        "BNP",
+        "BangladeshPolitics",
+        "PoliticalStatement",
+        "BanglaPolitics",
+        "PoliticalDebate",
+        "BangladeshNews",
+        "Shorts",
+        "ViralShorts"
+      ],
+      "isShorts": true,
+      "fromSearch": true
+    },
+    {
+      "id": "tzXhs2pT5hc",
+      "channelId": "UCMpIfKC3fBDbvSZ9hQe4VWw",
+      "channelTitle": "Amod official the 2.2",
+      "title": "PUTIN VS TRUMP 🫡🔥 #viral #army #military #putin #trump #shorts",
+      "description": "PUTIN VS TRUMP 🫡🔥 #viral #army #military #putin #trump #shorts",
+      "publishedAt": "2026-01-05T11:01:36Z",
+      "duration": "PT17S",
+      "durationSeconds": 17,
+      "viewCount": 709,
+      "likeCount": 0,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/tzXhs2pT5hc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/tzXhs2pT5hc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/tzXhs2pT5hc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/tzXhs2pT5hc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/tzXhs2pT5hc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "PUTIN VS TRUMP 🫡🔥 #viral #army #military #putin #trump #shorts",
+        "army",
+        "army training",
+        "black commando",
+        "bike wala video",
+        "bike rider",
+        "rider",
+        "cid",
+        "Putin",
+        "Trump",
+        "video",
+        "movie",
+        "pm Modi",
+        "wwe",
+        "xxx",
+        "sourabh joshi vlogs",
+        "song",
+        "dj",
+        "tractor",
+        "short video",
+        "shorts",
+        "commando training",
+        "commando",
+        "comedy video",
+        "bts",
+        "krish ka gana",
+        "doom",
+        "kabbadi",
+        "techno gamerz",
+        "youtube",
+        "ssc",
+        "Pakistan"
+      ],
+      "isShorts": true,
+      "fromSearch": true
+    },
+    {
+      "id": "NP0260TOVyA",
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelTitle": "뉴스TVCHOSUN",
+      "title": "[뉴스트라다무스] 2023년 12월에 작성된 김병기 공천헌금 탄원서, 당시에 민주당이 초동진압 못 했었던 이유?! #shorts",
+      "description": "#뉴스트라다무스 #김병기 #김병기탄원서",
+      "publishedAt": "2026-01-05T11:00:22Z",
+      "duration": "PT1M29S",
+      "durationSeconds": 89,
+      "viewCount": 2024,
+      "likeCount": 65,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NP0260TOVyA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NP0260TOVyA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NP0260TOVyA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/NP0260TOVyA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/NP0260TOVyA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램",
+        "NEWS",
+        "채널19",
+        "CH19",
+        "뉴스9",
+        "뉴스7",
+        "윤정호",
+        "포커스",
+        "윤우리",
+        "강펀치",
+        "TVCHOSUN",
+        "LIVE",
+        "티비조선라이브",
+        "TV조선라이브"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "1Sxcdjdh0hY",
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelTitle": "뉴스TVCHOSUN",
+      "title": "[뉴스트라다무스] 이수진, 김병기 '공천 헌금 의혹' 관련해 \"김현지와 통화한 녹취가 있다\"?! 정말일까?! #shorts",
+      "description": "#뉴스트라다무스 #김현지 #김현지녹취",
+      "publishedAt": "2026-01-05T11:00:05Z",
+      "duration": "PT1M20S",
+      "durationSeconds": 80,
+      "viewCount": 7707,
+      "likeCount": 381,
+      "commentCount": 3,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1Sxcdjdh0hY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1Sxcdjdh0hY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1Sxcdjdh0hY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/1Sxcdjdh0hY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/1Sxcdjdh0hY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램",
+        "NEWS",
+        "채널19",
+        "CH19",
+        "뉴스9",
+        "뉴스7",
+        "윤정호",
+        "포커스",
+        "윤우리",
+        "강펀치",
+        "TVCHOSUN",
+        "LIVE",
+        "티비조선라이브",
+        "TV조선라이브"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "ZUR6q4RdgbA",
+      "channelId": "UCsg7Y7dYS1_bABoFheMyHSA",
+      "channelTitle": "My name SM net",
+      "title": "#shorts",
+      "description": "",
+      "publishedAt": "2026-01-05T10:45:26Z",
+      "duration": "PT20S",
+      "durationSeconds": 20,
+      "viewCount": 12,
+      "likeCount": 0,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZUR6q4RdgbA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZUR6q4RdgbA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZUR6q4RdgbA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ZUR6q4RdgbA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ZUR6q4RdgbA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true,
+      "fromSearch": true
+    },
+    {
+      "id": "ivmqHt54xSA",
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelTitle": "뉴스TVCHOSUN",
+      "title": "'이혜훈 카드' 왜 고집?…윤희석 \"이 정도면 괜찮다 생각하는 것 같아요\" [🥊류병수의 강펀치] #shorts",
+      "description": "#이혜훈 #갑질 #이재명 \n\n[TV조선 뉴스·시사 프로그램｜유튜브 라이브 방송시간]\n\n📡 월~금 07:00 강상구 부장의 투시경 (유튜브)\n📡 월~금 07:30 뉴스퍼레이드\n📡 월        08:40 네트워크 매거진\n📡 월~금 09:00 신통방통 \n📡 월~금 10:20 류병수의 강펀치 (유튜브)\n📡 월~금 13:00 보도본부 핫라인\n📡 월~",
+      "publishedAt": "2026-01-05T10:30:11Z",
+      "duration": "PT45S",
+      "durationSeconds": 45,
+      "viewCount": 2359,
+      "likeCount": 129,
+      "commentCount": 4,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ivmqHt54xSA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ivmqHt54xSA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ivmqHt54xSA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ivmqHt54xSA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ivmqHt54xSA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "이혜훈",
+        "한동훈",
+        "이혜훈 폭언 녹취",
+        "이혜훈 녹취",
+        "이혜훈 의원",
+        "이혜훈 녹음파일",
+        "이혜훈 장관 지명",
+        "이재명",
+        "이재명 경주 이씨",
+        "한중 정상회담",
+        "더불어민주당",
+        "강훈식",
+        "이재명 지지율",
+        "이재명 탄핵",
+        "이재명 이혜훈",
+        "이재명 중국",
+        "김현지",
+        "김현지 녹취록",
+        "이기인",
+        "김현지 정체",
+        "김현지 이재명",
+        "김현지 비서관",
+        "김현지 아들",
+        "김현지 이재명 결혼사진",
+        "이기인 김현지",
+        "이기인 유튜브",
+        "이기인 영상",
+        "이기인 사무총장",
+        "강선우",
+        "김병기 강선우",
+        "강선우 녹취",
+        "강선우 녹취록",
+        "강선우 의원",
+        "김병기 강선우 녹취록",
+        "김병기 아들",
+        "김병기 의원",
+        "김병기 녹취",
+        "김병기 사퇴",
+        "정동영",
+        "정청래",
+        "이준석",
+        "트럼프",
+        "마두로",
+        "미국",
+        "베네수엘라",
+        "강펀치",
+        "류병수의강펀치",
+        "류병수",
+        "윤희석",
+        "구자룡",
+        "TVCHOSUN",
+        "LIVE",
+        "티비조선라이브",
+        "TV조선라이브",
+        "실시간",
+        "tv조선"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "kX7CsZPMDSE",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelTitle": " YTN",
+      "title": "김용현, 또 ’호소용 계엄’ 주장...\"군 최소 투입 지시\" / YTN",
+      "description": "김용현 전 국방부 장관이 윤석열 전 대통령 내란 혐의 재판에서 12.3 비상계엄이 대국민 호소용 계엄이었단 주장을 되풀이했습니다.\n\n김 전 장관은 오늘(5일) 서울중앙지방법원에서 열린 내란 혐의 사건 공판 증인 신문 과정에서 윤 전 대통령이 어떤 사심 없이 국가만 생각했다며 이렇게 말했습니다.\n\n이어 국민 안전을 최우선으로 하라는 윤 전 대통령 지침에 따라",
+      "publishedAt": "2026-01-05T10:13:01Z",
+      "duration": "PT28S",
+      "durationSeconds": 28,
+      "viewCount": 361,
+      "likeCount": 4,
+      "commentCount": 4,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kX7CsZPMDSE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kX7CsZPMDSE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kX7CsZPMDSE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/kX7CsZPMDSE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/kX7CsZPMDSE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "source:영상",
+        "type:방송",
+        "genre:사회",
+        "format:단신",
+        "person:이경국"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "iONoMnct0S8",
+      "channelId": "UCuf4oeP0rpgsCgqbfAjGh9A",
+      "channelTitle": "Sengon idd",
+      "title": "Mengapa Korea Utara TIDAK TAKUT dengan Amerika? 🇰🇵🇺🇸 #shorts",
+      "description": "Alasan mengapa Korea Utara berani menantang Amerika Serikat! Dari ideologi Juche hingga program nuklir, apa yang membuat mereka tidak takut? \n\n#KoreaUtara #AmerikaSerikat #beritaterkini #shorts #fakta",
+      "publishedAt": "2026-01-05T10:11:08Z",
+      "duration": "PT45S",
+      "durationSeconds": 45,
+      "viewCount": 809,
+      "likeCount": 12,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/iONoMnct0S8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/iONoMnct0S8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/iONoMnct0S8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/iONoMnct0S8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "tags": [
+        "Korea Utara",
+        "Amerika",
+        "berita terkini",
+        "shorts",
+        "fyp",
+        "viral",
+        "sengon idd"
+      ],
+      "isShorts": true,
+      "fromSearch": true
+    },
+    {
+      "id": "uzeP2_Dy4p8",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelTitle": " YTN",
+      "title": "TV 두께가 '9mm' #shorts / YTN",
+      "description": "이번 신제품은 9mm 두께에 패널과 메인보드, 스피커가 모두 내장되어 있습니다.\n\n제작 : 송은혜\n\n#LG전자 #CES\n\n\n▶ 기사 원문 : https://www.ytn.co.kr/_ln/0519_202601051747094846\n▶ 제보 하기 : https://mj.ytn.co.kr/mj/mj_write.php\n\n▣ YTN 유튜브 채널 구독 : http:",
+      "publishedAt": "2026-01-05T10:03:18Z",
+      "duration": "PT36S",
+      "durationSeconds": 36,
+      "viewCount": 3042,
+      "likeCount": 23,
+      "commentCount": 1,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/uzeP2_Dy4p8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/uzeP2_Dy4p8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/uzeP2_Dy4p8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/uzeP2_Dy4p8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/uzeP2_Dy4p8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "source:영상",
+        "type:방송",
+        "genre:기타",
+        "format:기타",
+        "LG전자",
+        "CES",
+        "OLED",
+        "LG신제품",
+        "LG티비",
+        "엘지",
+        "엘지전자"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "UsGDSBPfSUk",
+      "channelId": "UCq1LIwCjqzSmV_klDN_JtDg",
+      "channelTitle": "MISTI KOTHA",
+      "title": "ভেনেজুয়েলার প্রেসিডেন্টকে অপহরণ 😲| #mistikotha #shorts #venezuela",
+      "description": "ভেনেজুয়েলার প্রেসিডেন্টকে অপহরণ 😲| #mistikotha #shorts #venezuela\n\nThe global controversy surrounding the alleged abduction of Venezuelan President Nicolás Maduro by the United States has created sh",
+      "publishedAt": "2026-01-05T10:00:11Z",
+      "duration": "PT48S",
+      "durationSeconds": 48,
+      "viewCount": 334,
+      "likeCount": 4,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UsGDSBPfSUk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UsGDSBPfSUk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UsGDSBPfSUk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/UsGDSBPfSUk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/UsGDSBPfSUk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "Venezuela President abduction",
+        "Nicolas Maduro",
+        "USA Venezuela conflict",
+        "US covert operation Venezuela",
+        "Venezuela vs USA",
+        "America vs venejuela",
+        "Maduro latest update",
+        "International relations",
+        "Venezuela breaking news",
+        "Donald Trump",
+        "mistikotha",
+        "ytshorts"
+      ],
+      "isShorts": true,
+      "fromSearch": true
+    },
+    {
+      "id": "uEmh57Ac_qY",
+      "channelId": "UCNo8wNN9pf08WduXFSI_a8w",
+      "channelTitle": "InfoGraph World",
+      "title": "ওসমান হাদীকে ‘আজাদী’ বলার কারণেই হত্যা করা হয়েছে: নাসিরুদ্দীন পাটোয়ারী | #osmanhadi #shorts",
+      "description": "‘আজাদী’ শব্দ উচ্চারণের কারণেই ওসমান হাদীকে হত্যা করা হয়েছে—এমন বিস্ফোরক অভিযোগ করেছেন নাসিরুদ্দীন পাটোয়ারী। তার বক্তব্য ঘিরে রাজনৈতিক অঙ্গনে তীব্র প্রতিক্রিয়া তৈরি হয়েছে এবং সামাজিক যোগাযোগমাধ্যমে বি",
+      "publishedAt": "2026-01-05T09:37:51Z",
+      "duration": "PT41S",
+      "durationSeconds": 41,
+      "viewCount": 726,
+      "likeCount": 17,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/uEmh57Ac_qY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/uEmh57Ac_qY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/uEmh57Ac_qY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/uEmh57Ac_qY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/uEmh57Ac_qY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "OsmanHadi",
+        "Azadi",
+        "NasiruddinPatwary",
+        "InqilabManch",
+        "BangladeshPolitics",
+        "PoliticalKilling",
+        "JusticeForOsmanHadi",
+        "BanglaNews",
+        "Shorts",
+        "ViralShorts",
+        "HasnatAbdullah",
+        "NCP"
+      ],
+      "isShorts": true,
+      "fromSearch": true
+    },
+    {
+      "id": "jU-MZBnOHxU",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelTitle": " YTN",
+      "title": "'가해자 안 받아요' #shorts / YTN",
+      "description": "경상국립대학교가 2026학년도 신입생 수시모집 전형에서 학교폭력 가해 이력이 확인된 지원자들을 대거 불합격 처리했습니다.\n\n제작 : 송은혜\n\n#학교폭력 #대학입시\n\n▶ 기사 원문 : https://www.ytn.co.kr/_ln/0519_202601051348544534\n▶ 제보 하기 : https://mj.ytn.co.kr/mj/mj_write.php\n\n",
+      "publishedAt": "2026-01-05T09:32:14Z",
+      "duration": "PT34S",
+      "durationSeconds": 34,
+      "viewCount": 7384,
+      "likeCount": 101,
+      "commentCount": 11,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jU-MZBnOHxU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jU-MZBnOHxU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jU-MZBnOHxU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/jU-MZBnOHxU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/jU-MZBnOHxU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "source:영상",
+        "type:방송",
+        "genre:기타",
+        "format:기타",
+        "대입",
+        "대학입시",
+        "학교폭력",
+        "학폭",
+        "학폭이력",
+        "경상국립대",
+        "경상대",
+        "수시",
+        "수시탈락"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "qXSPkxy7-Co",
+      "channelId": "UCdzfqyyormrFiOT4He_jSmw",
+      "channelTitle": "Decoding Solo",
+      "title": "Why Usa Wants Greenland? 🤷|#shorts #greenland #geopolitics",
+      "description": "Why Usa Wants Greenland? 🤷|#shorts #greenland #geopolitics #venezuela #india #mapanimation #denmark #educational #informative #mha \n\n\n\n\n                      Like Comment Subscribe",
+      "publishedAt": "2026-01-05T09:30:40Z",
+      "duration": "PT34S",
+      "durationSeconds": 34,
+      "viewCount": 853,
+      "likeCount": 0,
+      "commentCount": 1,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qXSPkxy7-Co/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qXSPkxy7-Co/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qXSPkxy7-Co/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/qXSPkxy7-Co/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/qXSPkxy7-Co/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true,
+      "fromSearch": true
+    },
+    {
+      "id": "n75-Q4aLdro",
+      "channelId": "UCKQI9j2Rh4kP1w65WnreqMA",
+      "channelTitle": "짤짤정치",
+      "title": "아프리카 출장 갔던 양지열, 차베스 대통령이 이해가 가는 이유",
+      "description": "#이재명#유시민#김어준#뉴스공장#주진우#홍사훈#매불쇼#최욱#정청래#shorts#쇼츠\n[🔴 구독] ⬅ 눌러주시면 큰 힘이 됩니다!\n서울한강체/남산체 ©서울특별시",
+      "publishedAt": "2026-01-05T09:13:38Z",
+      "duration": "PT36S",
+      "durationSeconds": 36,
+      "viewCount": 69421,
+      "likeCount": 3055,
+      "commentCount": 28,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/n75-Q4aLdro/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/n75-Q4aLdro/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/n75-Q4aLdro/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/n75-Q4aLdro/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/n75-Q4aLdro/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true,
+      "fromSearch": true
+    },
+    {
+      "id": "EyQvMMKLEwo",
+      "channelId": "UCSzuWp86F2AgsLa8CcyuzaQ",
+      "channelTitle": "NewsAnalysisবাংলা71",
+      "title": "ভেনেজুয়েলার হিগুয়েরোতে বিমান ঘাঁটিতে মার্কিন বিমান হামলা #venezuela #maduro #donaldtrump #shorts",
+      "description": "ভেনেজুয়েলার হিগুয়েরোতে বিমান ঘাঁটিতে মার্কিন বিমান হামলা #venezuela #maduro #donaldtrump #shorts \n\n✅আজকের এই সংক্ষিপ্ত ভিডিওতে দেখা যাচ্ছে ইউএস ডেল্টা ফোর্স \nভেনুজুয়েলার বিমান ঘাঁটিতে হামলা করেছে। ",
+      "publishedAt": "2026-01-05T09:10:00Z",
+      "duration": "PT41S",
+      "durationSeconds": 41,
+      "viewCount": 355,
+      "likeCount": 8,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/EyQvMMKLEwo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/EyQvMMKLEwo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/EyQvMMKLEwo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/EyQvMMKLEwo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/EyQvMMKLEwo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "Venezuela",
+        "maduro",
+        "donaldtrump",
+        "news",
+        "breaking news",
+        "latest news",
+        "khaleda zia today news",
+        "khaleda zia",
+        "khaleda zia news",
+        "tareq rahman news today",
+        "tariquerahman",
+        "dr yunus",
+        "bangla news",
+        "bdnews",
+        "bangla news today",
+        "newsupdate",
+        "social media",
+        "viral video",
+        "bnp",
+        "political news",
+        "Bangladesh Politics",
+        "shorts",
+        "shortvideo",
+        "youtubeshorts",
+        "NewsAnalysisবাংলা71",
+        "খালেদা জিয়া আজকের খবর",
+        "তারেক রহমান",
+        "আজকের খবর",
+        "আন্তর্জাতিক খবর",
+        "রোহিঙ্গা খবর আজকের",
+        "rohingya news",
+        "international news"
+      ],
+      "isShorts": true,
+      "fromSearch": true
+    },
+    {
+      "id": "BRAxRdEJewo",
+      "channelId": "UCXgBW_8dBpdJ-Lc2CUQAg8Q",
+      "channelTitle": "Shorts Sangbad",
+      "title": "India ERUPTS Over Hasina! Politicians Demand Her Return! #shorts #breakingnews",
+      "description": "A political firestorm is erupting in India over Sheikh Hasina's asylum! The Modi government is under immense pressure as influential politicians like Asaduddin Owaisi publicly demand her extradition, ",
+      "publishedAt": "2026-01-05T09:09:50Z",
+      "duration": "PT15S",
+      "durationSeconds": 15,
+      "viewCount": 10332,
+      "likeCount": 0,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BRAxRdEJewo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BRAxRdEJewo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BRAxRdEJewo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/BRAxRdEJewo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/BRAxRdEJewo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true,
+      "fromSearch": true
+    },
+    {
+      "id": "X84SOL6hnNs",
+      "channelId": "UCDitc5wk_aLxqk4Vgakbkbw",
+      "channelTitle": "JOSH STORIES",
+      "title": "Africa Becoming a Global Political Influencer #shorts",
+      "description": "What if the center of global power shifted? Imagine a world where the African Union is the ultimate diplomatic powerhouse, uniting 54 nations to redefine international policy, trade, and security. Fro",
+      "publishedAt": "2026-01-05T08:52:18Z",
+      "duration": "PT30S",
+      "durationSeconds": 30,
+      "viewCount": 736,
+      "likeCount": 9,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/X84SOL6hnNs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/X84SOL6hnNs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/X84SOL6hnNs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/X84SOL6hnNs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "tags": [
+        "shorts",
+        "Africa",
+        "Africa development",
+        "ai animation",
+        "storytelling",
+        "geopolitics",
+        "global powers",
+        "global politics"
+      ],
+      "isShorts": true,
+      "fromSearch": true
+    },
+    {
+      "id": "eNlvzEqfCHA",
+      "channelId": "UCGrraKQiTF-ml0KqPQ8mrUA",
+      "channelTitle": "매일신문",
+      "title": "민주주의, 이제 '역습' 시작? \"독재자들이 대가를 치를 때\" #shorts",
+      "description": "#민주주의 #역습 #독재자 #대가 #미국 #국제법 #마두로 #베네수엘라\n#매일신문 #금요비대위 #김금혁 #쇼츠 #shorts",
+      "publishedAt": "2026-01-05T08:43:15Z",
+      "duration": "PT1M",
+      "durationSeconds": 60,
+      "viewCount": 5201,
+      "likeCount": 1072,
+      "commentCount": 21,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/eNlvzEqfCHA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/eNlvzEqfCHA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/eNlvzEqfCHA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/eNlvzEqfCHA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/eNlvzEqfCHA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "#뉴스",
+        "#정치",
+        "#시사",
+        "#이슈",
+        "#경제",
+        "#사건사고",
+        "#news",
+        "#매일신문",
+        "#대구",
+        "#경북",
+        "#민주주의",
+        "#역습",
+        "#독재자",
+        "#대가",
+        "#미국",
+        "#국제법",
+        "#마두로",
+        "#베네수엘라",
+        "#금요비대위",
+        "#김금혁",
+        "#쇼츠",
+        "#shorts"
+      ],
+      "isShorts": true,
+      "fromSearch": true
+    },
+    {
+      "id": "DjseruUEM7Y",
+      "channelId": "UCOirDBZC-M38crB8enWFKeA",
+      "channelTitle": "Brasil Dos Patriotas",
+      "title": "Depois do Maduro, quem será o próximo? #shorts",
+      "description": "Depois do Maduro, quem será o próximo?\n#noticias #nikolasmaduro #política #shortsvideos #youtubeshorts #venezuela",
+      "publishedAt": "2026-01-05T08:24:41Z",
+      "duration": "PT1M10S",
+      "durationSeconds": 70,
+      "viewCount": 340,
+      "likeCount": 24,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DjseruUEM7Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DjseruUEM7Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DjseruUEM7Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/DjseruUEM7Y/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/DjseruUEM7Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "Nikolas Maduro",
+        "Donald Trump",
+        "Política externa",
+        "Venezuela",
+        "Estados Unidos",
+        "Cilia Flores",
+        "Fórum de São Paulo",
+        "Governo Federal",
+        "Palácio da Alvorada",
+        "Palácio do Planalto",
+        "Congresso Nacional",
+        "Câmara dos Deputados",
+        "Senado Federal",
+        "Parlamento brasileiro"
+      ],
+      "isShorts": true,
+      "fromSearch": true
+    },
+    {
+      "id": "Uk-lm7VTnIA",
+      "channelId": "UC_HQU7IEbUoUE0dNdMVHscQ",
+      "channelTitle": "Hora do Ranking ",
+      "title": "🚨 Como um país rico em petróleo entrou em colapso total? O caso da Venezuela",
+      "description": "A Venezuela já foi um dos países mais ricos da América Latina. Hoje, enfrenta uma das maiores crises da história moderna. Mas como tudo isso aconteceu? Neste vídeo, você vai entender os principais fat",
+      "publishedAt": "2026-01-05T08:00:42Z",
+      "duration": "PT1M6S",
+      "durationSeconds": 66,
+      "viewCount": 452,
+      "likeCount": 19,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Uk-lm7VTnIA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Uk-lm7VTnIA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Uk-lm7VTnIA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Uk-lm7VTnIA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Uk-lm7VTnIA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "venezuela",
+        "maduro",
+        "trump",
+        "ao vivo",
+        "prisão de maduro",
+        "estados unidos",
+        "donald trump"
+      ],
+      "isShorts": true,
+      "fromSearch": true
+    },
+    {
+      "id": "cZea1Q-iYtQ",
+      "channelId": "UC0NFsLMKBNb4RstTBm0Sq3Q",
+      "channelTitle": "인생조언 한줄",
+      "title": "자식이 복이 될까 빚이 될까? 진짜 이유 공개!#부처님말씀 #부처님명언 #자식",
+      "description": "오늘도 기도합니다\n맺어진 자식 인연이\n서로의 복으로 이어지게 하소서\n그대여, 자식은 소유가 아니라\n하늘이 내게 맡긴 인연입니다\n\n모든 것은 마음에서 비롯된다.\n이 짧은 말씀은 부처님이 설하신 법(法)의 핵심을 담고 있습니다.  \n우리 삶의 고통과 기쁨, 평온과 번뇌는 모두 마음에서 시작되며,  \n마음을 다스릴 때 진정한 자유에 이를 수 있음을 가르칩니다.\n",
+      "publishedAt": "2025-10-01T22:30:08Z",
+      "duration": "PT56S",
+      "durationSeconds": 56,
+      "viewCount": 1093,
+      "likeCount": 86,
+      "commentCount": 1,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cZea1Q-iYtQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cZea1Q-iYtQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cZea1Q-iYtQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/cZea1Q-iYtQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/cZea1Q-iYtQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "부처님가르침",
+        "불교이야기",
+        "자기성찰",
+        "위로글",
+        "짧은명언",
+        "자기수행",
+        "삶의지혜",
+        "지친마음",
+        "오늘의명언",
+        "부처님명언",
+        "마음치유",
+        "스트레스해소",
+        "힐링명상",
+        "자면서듣는불교",
+        "불교오디오북",
+        "불교철학",
+        "인생명언",
+        "마음다스리는법",
+        "불교오디오",
+        "부처님말씀듣기",
+        "평온찾기",
+        "위로영상",
+        "자비심",
+        "상처치유",
+        "부처님법문",
+        "마음비우기",
+        "부처님지혜",
+        "자기위로",
+        "인간관계힐링",
+        "불교상담",
+        "근심걱정",
+        "자비",
+        "깨달음",
+        "고요한",
+        "불안극복",
+        "힐링글",
+        "롱폼",
+        "부처님말씀동영상",
+        "번뇌해소",
+        "나이들어",
+        "친구",
+        "가르침",
+        "석가모니명언"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "QurpbUpIbzE",
+      "channelId": "UC0NFsLMKBNb4RstTBm0Sq3Q",
+      "channelTitle": "인생조언 한줄",
+      "title": "말 안 듣는 자식깨닫게 하는 지혜#부처님말씀 #부처님명언 #자식",
+      "description": "그대여, 말은 막히지만\n삶은 통합니다\n부모의 뒷모습이\n곧 자식의 거울입니다\n\n모든 것은 마음에서 비롯된다.\n이 짧은 말씀은 부처님이 설하신 법(法)의 핵심을 담고 있습니다.  \n우리 삶의 고통과 기쁨, 평온과 번뇌는 모두 마음에서 시작되며,  \n마음을 다스릴 때 진정한 자유에 이를 수 있음을 가르칩니다.\n\n이 채널은 부처님의 지혜를 따라  \n삶의 순간순간을",
+      "publishedAt": "2025-09-30T22:30:09Z",
+      "duration": "PT59S",
+      "durationSeconds": 59,
+      "viewCount": 886,
+      "likeCount": 39,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QurpbUpIbzE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QurpbUpIbzE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QurpbUpIbzE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/QurpbUpIbzE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/QurpbUpIbzE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "부처님가르침",
+        "불교이야기",
+        "자기성찰",
+        "위로글",
+        "짧은명언",
+        "자기수행",
+        "삶의지혜",
+        "지친마음",
+        "오늘의명언",
+        "부처님명언",
+        "마음치유",
+        "스트레스해소",
+        "힐링명상",
+        "자면서듣는불교",
+        "불교오디오북",
+        "불교철학",
+        "인생명언",
+        "마음다스리는법",
+        "불교오디오",
+        "부처님말씀듣기",
+        "평온찾기",
+        "위로영상",
+        "자비심",
+        "상처치유",
+        "부처님법문",
+        "마음비우기",
+        "부처님지혜",
+        "자기위로",
+        "인간관계힐링",
+        "불교상담",
+        "근심걱정",
+        "자비",
+        "깨달음",
+        "고요한",
+        "불안극복",
+        "힐링글",
+        "롱폼",
+        "부처님말씀동영상",
+        "번뇌해소",
+        "나이들어",
+        "친구",
+        "가르침",
+        "석가모니명언"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "r50xgZHLw1o",
+      "channelId": "UC0NFsLMKBNb4RstTBm0Sq3Q",
+      "channelTitle": "인생조언 한줄",
+      "title": "꽉 막힌 자식, 풀어주는 지혜#부처님말씀 #부처님명언 #자식",
+      "description": "자식은 귀가 아니라 눈으로 배웁니다.\n부처님이 말씀하셨듯, 삶이 가르침이 될 때 자식은 깨닫습니다.\n오늘부터 말보다 삶으로 보여주십시오.\n\n모든 것은 마음에서 비롯된다.\n이 짧은 말씀은 부처님이 설하신 법(法)의 핵심을 담고 있습니다.  \n우리 삶의 고통과 기쁨, 평온과 번뇌는 모두 마음에서 시작되며,  \n마음을 다스릴 때 진정한 자유에 이를 수 있음을 가",
+      "publishedAt": "2025-09-29T22:30:20Z",
+      "duration": "PT59S",
+      "durationSeconds": 59,
+      "viewCount": 2372,
+      "likeCount": 91,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/r50xgZHLw1o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/r50xgZHLw1o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/r50xgZHLw1o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/r50xgZHLw1o/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/r50xgZHLw1o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "부처님가르침",
+        "불교이야기",
+        "자기성찰",
+        "위로글",
+        "짧은명언",
+        "자기수행",
+        "삶의지혜",
+        "지친마음",
+        "오늘의명언",
+        "부처님명언",
+        "마음치유",
+        "스트레스해소",
+        "힐링명상",
+        "자면서듣는불교",
+        "불교오디오북",
+        "불교철학",
+        "인생명언",
+        "마음다스리는법",
+        "불교오디오",
+        "부처님말씀듣기",
+        "평온찾기",
+        "위로영상",
+        "자비심",
+        "상처치유",
+        "부처님법문",
+        "마음비우기",
+        "부처님지혜",
+        "자기위로",
+        "인간관계힐링",
+        "불교상담",
+        "근심걱정",
+        "자비",
+        "깨달음",
+        "고요한",
+        "불안극복",
+        "힐링글",
+        "롱폼",
+        "부처님말씀동영상",
+        "번뇌해소",
+        "나이들어",
+        "친구",
+        "가르침",
+        "석가모니명언"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "_-0MxnS2Z6U",
+      "channelId": "UC0NFsLMKBNb4RstTBm0Sq3Q",
+      "channelTitle": "인생조언 한줄",
+      "title": "나이 들수록 행복해지는 법#부처님말씀 #불교지혜 #행복",
+      "description": "“나이가 들수록 행복해지는 길은 멀리 있지 않습니다.\n덜 가지고, 비교하지 않고, 감사하는 것.\n이 세 가지가 그대의 인생을 가장 편안하고 빛나게 합니다.”\n\n모든 것은 마음에서 비롯된다.\n이 짧은 말씀은 부처님이 설하신 법(法)의 핵심을 담고 있습니다.  \n우리 삶의 고통과 기쁨, 평온과 번뇌는 모두 마음에서 시작되며,  \n마음을 다스릴 때 진정한 자유에",
+      "publishedAt": "2025-09-22T22:30:12Z",
+      "duration": "PT59S",
+      "durationSeconds": 59,
+      "viewCount": 917,
+      "likeCount": 44,
+      "commentCount": 2,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_-0MxnS2Z6U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_-0MxnS2Z6U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_-0MxnS2Z6U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/_-0MxnS2Z6U/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/_-0MxnS2Z6U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "부처님가르침",
+        "불교이야기",
+        "자기성찰",
+        "위로글",
+        "짧은명언",
+        "자기수행",
+        "삶의지혜",
+        "지친마음",
+        "오늘의명언",
+        "부처님명언",
+        "마음치유",
+        "스트레스해소",
+        "힐링명상",
+        "자면서듣는불교",
+        "불교오디오북",
+        "불교철학",
+        "인생명언",
+        "마음다스리는법",
+        "불교오디오",
+        "부처님말씀듣기",
+        "평온찾기",
+        "위로영상",
+        "자비심",
+        "상처치유",
+        "부처님법문",
+        "마음비우기",
+        "부처님지혜",
+        "자기위로",
+        "인간관계힐링",
+        "불교상담",
+        "근심걱정",
+        "자비",
+        "깨달음",
+        "고요한",
+        "불안극복",
+        "힐링글",
+        "롱폼",
+        "부처님말씀동영상",
+        "번뇌해소",
+        "나이들어",
+        "친구",
+        "가르침",
+        "석가모니명언"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "U7YxVHi7ZN0",
+      "channelId": "UC0NFsLMKBNb4RstTBm0Sq3Q",
+      "channelTitle": "인생조언 한줄",
+      "title": "악연이 될 사람피해야 할 신호#부처님말씀 #불교지혜 #불교명언",
+      "description": "선한 인연은 향기처럼 스며들고,\n악연은 독처럼 스며듭니다.\n오늘부터 내 곁의 인연을 살펴보고,\n복이 되는 사람을 지키십시오.\n\n모든 것은 마음에서 비롯된다.\n이 짧은 말씀은 부처님이 설하신 법(法)의 핵심을 담고 있습니다.  \n우리 삶의 고통과 기쁨, 평온과 번뇌는 모두 마음에서 시작되며,  \n마음을 다스릴 때 진정한 자유에 이를 수 있음을 가르칩니다.\n\n",
+      "publishedAt": "2025-09-22T08:45:03Z",
+      "duration": "PT54S",
+      "durationSeconds": 54,
+      "viewCount": 785,
+      "likeCount": 47,
+      "commentCount": 1,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/U7YxVHi7ZN0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/U7YxVHi7ZN0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/U7YxVHi7ZN0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/U7YxVHi7ZN0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/U7YxVHi7ZN0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "부처님가르침",
+        "불교이야기",
+        "자기성찰",
+        "위로글",
+        "짧은명언",
+        "자기수행",
+        "삶의지혜",
+        "지친마음",
+        "오늘의명언",
+        "부처님명언",
+        "마음치유",
+        "스트레스해소",
+        "힐링명상",
+        "자면서듣는불교",
+        "불교오디오북",
+        "불교철학",
+        "인생명언",
+        "마음다스리는법",
+        "불교오디오",
+        "부처님말씀듣기",
+        "평온찾기",
+        "위로영상",
+        "자비심",
+        "상처치유",
+        "부처님법문",
+        "마음비우기",
+        "부처님지혜",
+        "자기위로",
+        "인간관계힐링",
+        "불교상담",
+        "근심걱정",
+        "자비",
+        "깨달음",
+        "고요한",
+        "불안극복",
+        "힐링글",
+        "롱폼",
+        "부처님말씀동영상",
+        "번뇌해소",
+        "나이들어",
+        "친구",
+        "가르침",
+        "석가모니명언"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "LtOw_-H-u34",
+      "channelId": "UC0NFsLMKBNb4RstTBm0Sq3Q",
+      "channelTitle": "인생조언 한줄",
+      "title": "자식을 위한 매일 1분 기도법#부처님말씀 #불교명언 #자식",
+      "description": "자식을 위해 부모가 할 수 있는 가장 큰 힘은 기도입니다.\n매일 단 1분, 감사와 믿음, 축복의 기도를 드리십시오.\n그 기도가 자식의 업장을 녹이고 복을 부르게 됩니다.\n\n모든 것은 마음에서 비롯된다.\n이 짧은 말씀은 부처님이 설하신 법(法)의 핵심을 담고 있습니다.  \n우리 삶의 고통과 기쁨, 평온과 번뇌는 모두 마음에서 시작되며,  \n마음을 다스릴 때 ",
+      "publishedAt": "2025-09-21T22:30:10Z",
+      "duration": "PT57S",
+      "durationSeconds": 57,
+      "viewCount": 788,
+      "likeCount": 54,
+      "commentCount": 1,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LtOw_-H-u34/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LtOw_-H-u34/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LtOw_-H-u34/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/LtOw_-H-u34/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/LtOw_-H-u34/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "부처님가르침",
+        "불교이야기",
+        "자기성찰",
+        "위로글",
+        "짧은명언",
+        "자기수행",
+        "삶의지혜",
+        "지친마음",
+        "오늘의명언",
+        "부처님명언",
+        "마음치유",
+        "스트레스해소",
+        "힐링명상",
+        "자면서듣는불교",
+        "불교오디오북",
+        "불교철학",
+        "인생명언",
+        "마음다스리는법",
+        "불교오디오",
+        "부처님말씀듣기",
+        "평온찾기",
+        "위로영상",
+        "자비심",
+        "상처치유",
+        "부처님법문",
+        "마음비우기",
+        "부처님지혜",
+        "자기위로",
+        "인간관계힐링",
+        "불교상담",
+        "근심걱정",
+        "자비",
+        "깨달음",
+        "고요한",
+        "불안극복",
+        "힐링글",
+        "롱폼",
+        "부처님말씀동영상",
+        "번뇌해소",
+        "나이들어",
+        "친구",
+        "가르침",
+        "석가모니명언"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "5bd3zvZA4u4",
+      "channelId": "UC0NFsLMKBNb4RstTBm0Sq3Q",
+      "channelTitle": "인생조언 한줄",
+      "title": "부모의 눈빛이 자녀의 미래를 바꾼다!#부처님말씀 #불교명언 #자식",
+      "description": "부모의 눈빛 하나가 자식의 내일을 바꿉니다.\n자비로운 눈길은 복을 짓고, 험한 눈길은 업을 남깁니다.\n오늘부터 자식에게 감사와 믿음, 축복의 눈빛을 보내십시오.\n\n모든 것은 마음에서 비롯된다.\n이 짧은 말씀은 부처님이 설하신 법(法)의 핵심을 담고 있습니다.  \n우리 삶의 고통과 기쁨, 평온과 번뇌는 모두 마음에서 시작되며,  \n마음을 다스릴 때 진정한 자",
+      "publishedAt": "2025-09-21T06:59:15Z",
+      "duration": "PT59S",
+      "durationSeconds": 59,
+      "viewCount": 1544,
+      "likeCount": 108,
+      "commentCount": 2,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5bd3zvZA4u4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5bd3zvZA4u4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5bd3zvZA4u4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/5bd3zvZA4u4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/5bd3zvZA4u4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "부처님가르침",
+        "불교이야기",
+        "자기성찰",
+        "위로글",
+        "짧은명언",
+        "자기수행",
+        "삶의지혜",
+        "지친마음",
+        "오늘의명언",
+        "부처님명언",
+        "마음치유",
+        "스트레스해소",
+        "힐링명상",
+        "자면서듣는불교",
+        "불교오디오북",
+        "불교철학",
+        "인생명언",
+        "마음다스리는법",
+        "불교오디오",
+        "부처님말씀듣기",
+        "평온찾기",
+        "위로영상",
+        "자비심",
+        "상처치유",
+        "부처님법문",
+        "마음비우기",
+        "부처님지혜",
+        "자기위로",
+        "인간관계힐링",
+        "불교상담",
+        "근심걱정",
+        "자비",
+        "깨달음",
+        "고요한",
+        "불안극복",
+        "힐링글",
+        "롱폼",
+        "부처님말씀동영상",
+        "번뇌해소",
+        "나이들어",
+        "친구",
+        "가르침",
+        "석가모니명언"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "ckKNY54BHnc",
+      "channelId": "UC0NFsLMKBNb4RstTBm0Sq3Q",
+      "channelTitle": "인생조언 한줄",
+      "title": "부모의 수행이 자식의 운명을 바꾼다#부처님말씀 #불교지혜 #지식",
+      "description": "자식의 운명은 부모의 마음에서 시작됩니다.\n부모가 덕을 닦을 때, 그 덕이 자식의 길을 열어줍니다.\n오늘부터 수행과 기도로 자식의 복을 지으십시오.\n\n모든 것은 마음에서 비롯된다.\n이 짧은 말씀은 부처님이 설하신 법(法)의 핵심을 담고 있습니다.  \n우리 삶의 고통과 기쁨, 평온과 번뇌는 모두 마음에서 시작되며,  \n마음을 다스릴 때 진정한 자유에 이를 수",
+      "publishedAt": "2025-09-17T22:30:09Z",
+      "duration": "PT55S",
+      "durationSeconds": 55,
+      "viewCount": 957,
+      "likeCount": 60,
+      "commentCount": 2,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ckKNY54BHnc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ckKNY54BHnc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ckKNY54BHnc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ckKNY54BHnc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ckKNY54BHnc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "부처님가르침",
+        "불교이야기",
+        "자기성찰",
+        "위로글",
+        "짧은명언",
+        "자기수행",
+        "삶의지혜",
+        "지친마음",
+        "오늘의명언",
+        "부처님명언",
+        "마음치유",
+        "스트레스해소",
+        "힐링명상",
+        "자면서듣는불교",
+        "불교오디오북",
+        "불교철학",
+        "인생명언",
+        "마음다스리는법",
+        "불교오디오",
+        "부처님말씀듣기",
+        "평온찾기",
+        "위로영상",
+        "자비심",
+        "상처치유",
+        "부처님법문",
+        "마음비우기",
+        "부처님지혜",
+        "자기위로",
+        "인간관계힐링",
+        "불교상담",
+        "근심걱정",
+        "자비",
+        "깨달음",
+        "고요한",
+        "불안극복",
+        "힐링글",
+        "롱폼",
+        "부처님말씀동영상",
+        "번뇌해소",
+        "나이들어",
+        "친구",
+        "가르침",
+        "석가모니명언"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "DvlTGapCGYU",
+      "channelId": "UC0NFsLMKBNb4RstTBm0Sq3Q",
+      "channelTitle": "인생조언 한줄",
+      "title": "부모의 말 한마디가 자식의 내일을 바꾼다#부처님말씀 #불교지혜 #자식복",
+      "description": "부모의 말 한마디가 자식의 내일을 바꿉니다.\n부드러운 말은 꽃이 되고, 거친 말은 가시가 됩니다.\n오늘부터 감사와 믿음, 축복의 말을 선택하세요.\n\n모든 것은 마음에서 비롯된다.\n이 짧은 말씀은 부처님이 설하신 법(法)의 핵심을 담고 있습니다.  \n우리 삶의 고통과 기쁨, 평온과 번뇌는 모두 마음에서 시작되며,  \n마음을 다스릴 때 진정한 자유에 이를 수 ",
+      "publishedAt": "2025-09-15T22:30:02Z",
+      "duration": "PT1M",
+      "durationSeconds": 60,
+      "viewCount": 3528,
+      "likeCount": 87,
+      "commentCount": 1,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DvlTGapCGYU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DvlTGapCGYU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DvlTGapCGYU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/DvlTGapCGYU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/DvlTGapCGYU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "부처님가르침",
+        "불교이야기",
+        "자기성찰",
+        "위로글",
+        "짧은명언",
+        "자기수행",
+        "삶의지혜",
+        "지친마음",
+        "오늘의명언",
+        "부처님명언",
+        "마음치유",
+        "스트레스해소",
+        "힐링명상",
+        "자면서듣는불교",
+        "불교오디오북",
+        "불교철학",
+        "인생명언",
+        "마음다스리는법",
+        "불교오디오",
+        "부처님말씀듣기",
+        "평온찾기",
+        "위로영상",
+        "자비심",
+        "상처치유",
+        "부처님법문",
+        "마음비우기",
+        "부처님지혜",
+        "자기위로",
+        "인간관계힐링",
+        "불교상담",
+        "근심걱정",
+        "자비",
+        "깨달음",
+        "고요한",
+        "불안극복",
+        "힐링글",
+        "롱폼",
+        "부처님말씀동영상",
+        "번뇌해소",
+        "나이들어",
+        "친구",
+        "가르침",
+        "석가모니명언"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "QuHGZf1IKqo",
+      "channelId": "UC0NFsLMKBNb4RstTBm0Sq3Q",
+      "channelTitle": "인생조언 한줄",
+      "title": "돈  끝없는 갈증#부처님말씀 #부처님명언 #불교명언",
+      "description": "돈이 부족한 게 아닙니다.\n욕심이 갈증을 키우는 것입니다.\n비워야 만족이 생깁니다.\n오늘, 당신은 무엇으로 갈증을 채우고 있습니까?\n\n모든 것은 마음에서 비롯된다.\n이 짧은 말씀은 부처님이 설하신 법(法)의 핵심을 담고 있습니다.  \n우리 삶의 고통과 기쁨, 평온과 번뇌는 모두 마음에서 시작되며,  \n마음을 다스릴 때 진정한 자유에 이를 수 있음을 가르칩니",
+      "publishedAt": "2025-09-15T08:45:01Z",
+      "duration": "PT54S",
+      "durationSeconds": 54,
+      "viewCount": 1103,
+      "likeCount": 22,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QuHGZf1IKqo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QuHGZf1IKqo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QuHGZf1IKqo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/QuHGZf1IKqo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/QuHGZf1IKqo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "부처님가르침",
+        "불교이야기",
+        "자기성찰",
+        "위로글",
+        "짧은명언",
+        "자기수행",
+        "삶의지혜",
+        "지친마음",
+        "오늘의명언",
+        "부처님명언",
+        "마음치유",
+        "스트레스해소",
+        "힐링명상",
+        "자면서듣는불교",
+        "불교오디오북",
+        "불교철학",
+        "인생명언",
+        "마음다스리는법",
+        "불교오디오",
+        "부처님말씀듣기",
+        "평온찾기",
+        "위로영상",
+        "자비심",
+        "상처치유",
+        "부처님법문",
+        "마음비우기",
+        "부처님지혜",
+        "자기위로",
+        "인간관계힐링",
+        "불교상담",
+        "근심걱정",
+        "자비",
+        "깨달음",
+        "고요한",
+        "불안극복",
+        "힐링글",
+        "롱폼",
+        "부처님말씀동영상",
+        "번뇌해소",
+        "나이들어",
+        "친구",
+        "가르침",
+        "석가모니명언"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "l76glrC9sYA",
+      "channelId": "UC0NFsLMKBNb4RstTBm0Sq3Q",
+      "channelTitle": "인생조언 한줄",
+      "title": "부모의 기도가 자식의 운명을 바꿀 수 있을까?",
+      "description": "자식의 길이 막혔을 때 부모의 마음은 무너집니다.\n그러나 업은 불평이 아니라 기도로 녹아내립니다.\n부모가 덕을 닦을 때, 자식의 운명이 열립니다.\n\n모든 것은 마음에서 비롯된다.\n이 짧은 말씀은 부처님이 설하신 법(法)의 핵심을 담고 있습니다.  \n우리 삶의 고통과 기쁨, 평온과 번뇌는 모두 마음에서 시작되며,  \n마음을 다스릴 때 진정한 자유에 이를 수 ",
+      "publishedAt": "2025-09-14T22:30:17Z",
+      "duration": "PT56S",
+      "durationSeconds": 56,
+      "viewCount": 2813,
+      "likeCount": 70,
+      "commentCount": 1,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/l76glrC9sYA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/l76glrC9sYA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/l76glrC9sYA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/l76glrC9sYA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/l76glrC9sYA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "부처님가르침",
+        "불교이야기",
+        "자기성찰",
+        "위로글",
+        "짧은명언",
+        "자기수행",
+        "삶의지혜",
+        "지친마음",
+        "오늘의명언",
+        "부처님명언",
+        "마음치유",
+        "스트레스해소",
+        "힐링명상",
+        "자면서듣는불교",
+        "불교오디오북",
+        "불교철학",
+        "인생명언",
+        "마음다스리는법",
+        "불교오디오",
+        "부처님말씀듣기",
+        "평온찾기",
+        "위로영상",
+        "자비심",
+        "상처치유",
+        "부처님법문",
+        "마음비우기",
+        "부처님지혜",
+        "자기위로",
+        "인간관계힐링",
+        "불교상담",
+        "근심걱정",
+        "자비",
+        "깨달음",
+        "고요한",
+        "불안극복",
+        "힐링글",
+        "롱폼",
+        "부처님말씀동영상",
+        "번뇌해소",
+        "나이들어",
+        "친구",
+        "가르침",
+        "석가모니명언"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "jJE5TzDok-I",
+      "channelId": "UC0NFsLMKBNb4RstTBm0Sq3Q",
+      "channelTitle": "인생조언 한줄",
+      "title": "연꽃의 대답#부처님말씀 #부처님명언 #불교명언",
+      "description": "연꽃은 흙을 탓하지 않습니다.\n오히려 진흙을 딛고 더 고귀하게 피어납니다.\n고통은 짐이 아니라 성장의 뿌리입니다.\n오늘, 당신은 어떤 꽃을 피우시겠습니까?\n\n모든 것은 마음에서 비롯된다.\n이 짧은 말씀은 부처님이 설하신 법(法)의 핵심을 담고 있습니다.  \n우리 삶의 고통과 기쁨, 평온과 번뇌는 모두 마음에서 시작되며,  \n마음을 다스릴 때 진정한 자유에 ",
+      "publishedAt": "2025-09-14T08:45:03Z",
+      "duration": "PT55S",
+      "durationSeconds": 55,
+      "viewCount": 951,
+      "likeCount": 20,
+      "commentCount": 1,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jJE5TzDok-I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jJE5TzDok-I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jJE5TzDok-I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/jJE5TzDok-I/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/jJE5TzDok-I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "부처님가르침",
+        "불교이야기",
+        "자기성찰",
+        "위로글",
+        "짧은명언",
+        "자기수행",
+        "삶의지혜",
+        "지친마음",
+        "오늘의명언",
+        "부처님명언",
+        "마음치유",
+        "스트레스해소",
+        "힐링명상",
+        "자면서듣는불교",
+        "불교오디오북",
+        "불교철학",
+        "인생명언",
+        "마음다스리는법",
+        "불교오디오",
+        "부처님말씀듣기",
+        "평온찾기",
+        "위로영상",
+        "자비심",
+        "상처치유",
+        "부처님법문",
+        "마음비우기",
+        "부처님지혜",
+        "자기위로",
+        "인간관계힐링",
+        "불교상담",
+        "근심걱정",
+        "자비",
+        "깨달음",
+        "고요한",
+        "불안극복",
+        "힐링글",
+        "롱폼",
+        "부처님말씀동영상",
+        "번뇌해소",
+        "나이들어",
+        "친구",
+        "가르침",
+        "석가모니명언"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "BqC_wqeWXyQ",
+      "channelId": "UCafWa6gl-idwzBXJImBZVww",
+      "channelTitle": "정치도시",
+      "title": "임이자 의원 #이미자",
+      "description": "",
+      "publishedAt": "2024-07-04T17:55:31Z",
+      "duration": "PT18S",
+      "durationSeconds": 18,
+      "viewCount": 3047,
+      "likeCount": 40,
+      "commentCount": 4,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BqC_wqeWXyQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BqC_wqeWXyQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BqC_wqeWXyQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/BqC_wqeWXyQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/BqC_wqeWXyQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "iaQiWEWfokY",
+      "channelId": "UCafWa6gl-idwzBXJImBZVww",
+      "channelTitle": "정치도시",
+      "title": "배현진의원 갈지마오",
+      "description": "",
+      "publishedAt": "2024-07-04T13:32:24Z",
+      "duration": "PT17S",
+      "durationSeconds": 17,
+      "viewCount": 8744,
+      "likeCount": 147,
+      "commentCount": 106,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/iaQiWEWfokY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/iaQiWEWfokY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/iaQiWEWfokY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/iaQiWEWfokY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/iaQiWEWfokY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "nKvU4dvL03o",
+      "channelId": "UCafWa6gl-idwzBXJImBZVww",
+      "channelTitle": "정치도시",
+      "title": "김재원 서울 중랑(을) 낙선 에피소드",
+      "description": "",
+      "publishedAt": "2024-07-04T07:24:59Z",
+      "duration": "PT47S",
+      "durationSeconds": 47,
+      "viewCount": 2973,
+      "likeCount": 28,
+      "commentCount": 3,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/nKvU4dvL03o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/nKvU4dvL03o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/nKvU4dvL03o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/nKvU4dvL03o/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/nKvU4dvL03o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "0eTFeVJNxOw",
+      "channelId": "UCafWa6gl-idwzBXJImBZVww",
+      "channelTitle": "정치도시",
+      "title": "이게 시간 끌며 척 하는 이유 #김건희",
+      "description": "",
+      "publishedAt": "2024-07-04T05:52:09Z",
+      "duration": "PT57S",
+      "durationSeconds": 57,
+      "viewCount": 3910,
+      "likeCount": 197,
+      "commentCount": 8,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0eTFeVJNxOw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0eTFeVJNxOw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0eTFeVJNxOw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/0eTFeVJNxOw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/0eTFeVJNxOw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "Ppk8YU-qO4I",
+      "channelId": "UCafWa6gl-idwzBXJImBZVww",
+      "channelTitle": "정치도시",
+      "title": "집권 여당의 당당함. 프로 국짐러",
+      "description": "",
+      "publishedAt": "2024-07-03T16:52:39Z",
+      "duration": "PT27S",
+      "durationSeconds": 27,
+      "viewCount": 6791,
+      "likeCount": 291,
+      "commentCount": 62,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Ppk8YU-qO4I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Ppk8YU-qO4I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Ppk8YU-qO4I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Ppk8YU-qO4I/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Ppk8YU-qO4I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "DM7YSeuLSdk",
+      "channelId": "UCafWa6gl-idwzBXJImBZVww",
+      "channelTitle": "정치도시",
+      "title": "류희림 개인취향.",
+      "description": "",
+      "publishedAt": "2024-07-03T09:39:13Z",
+      "duration": "PT53S",
+      "durationSeconds": 53,
+      "viewCount": 22060,
+      "likeCount": 996,
+      "commentCount": 41,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DM7YSeuLSdk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DM7YSeuLSdk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DM7YSeuLSdk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/DM7YSeuLSdk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/DM7YSeuLSdk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "SoGIamUG8C8",
+      "channelId": "UCafWa6gl-idwzBXJImBZVww",
+      "channelTitle": "정치도시",
+      "title": "그들의 방식에 감탄하는 유시민",
+      "description": "",
+      "publishedAt": "2024-07-02T12:10:26Z",
+      "duration": "PT1M",
+      "durationSeconds": 60,
+      "viewCount": 9607,
+      "likeCount": 139,
+      "commentCount": 8,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SoGIamUG8C8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SoGIamUG8C8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SoGIamUG8C8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/SoGIamUG8C8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/SoGIamUG8C8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "dTd_nLL09RI",
+      "channelId": "UCafWa6gl-idwzBXJImBZVww",
+      "channelTitle": "정치도시",
+      "title": "도피 도주 특징. 일단 튀",
+      "description": "",
+      "publishedAt": "2024-07-02T11:23:39Z",
+      "duration": "PT54S",
+      "durationSeconds": 54,
+      "viewCount": 7011,
+      "likeCount": 231,
+      "commentCount": 10,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/dTd_nLL09RI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/dTd_nLL09RI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/dTd_nLL09RI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/dTd_nLL09RI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/dTd_nLL09RI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "vLaZTghA4yA",
+      "channelId": "UCafWa6gl-idwzBXJImBZVww",
+      "channelTitle": "정치도시",
+      "title": "02-800-천공천공 #백운기 #김승원",
+      "description": "",
+      "publishedAt": "2024-07-02T10:02:22Z",
+      "duration": "PT32S",
+      "durationSeconds": 32,
+      "viewCount": 6351,
+      "likeCount": 216,
+      "commentCount": 8,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vLaZTghA4yA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vLaZTghA4yA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vLaZTghA4yA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/vLaZTghA4yA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/vLaZTghA4yA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "w6Tx9zb0A-4",
+      "channelId": "UCafWa6gl-idwzBXJImBZVww",
+      "channelTitle": "정치도시",
+      "title": "자승자박. 꿀먹은 벙어리",
+      "description": "",
+      "publishedAt": "2024-07-02T09:41:22Z",
+      "duration": "PT24S",
+      "durationSeconds": 24,
+      "viewCount": 237,
+      "likeCount": 13,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/w6Tx9zb0A-4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/w6Tx9zb0A-4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/w6Tx9zb0A-4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/w6Tx9zb0A-4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/w6Tx9zb0A-4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "HvS3Stm17bs",
+      "channelId": "UCafWa6gl-idwzBXJImBZVww",
+      "channelTitle": "정치도시",
+      "title": "윤석열 대통령 탄핵은 이미 결정되었다 #전광훈",
+      "description": "",
+      "publishedAt": "2024-07-02T06:38:37Z",
+      "duration": "PT34S",
+      "durationSeconds": 34,
+      "viewCount": 133,
+      "likeCount": 4,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/HvS3Stm17bs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/HvS3Stm17bs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/HvS3Stm17bs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/HvS3Stm17bs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/HvS3Stm17bs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "IWfF01V3Bfw",
+      "channelId": "UCafWa6gl-idwzBXJImBZVww",
+      "channelTitle": "정치도시",
+      "title": "국가 기밀 안보, Ai에게 뚫렸다. 찍소리 못하는 정진석 #강유정",
+      "description": "",
+      "publishedAt": "2024-07-01T10:29:47Z",
+      "duration": "PT58S",
+      "durationSeconds": 58,
+      "viewCount": 12946,
+      "likeCount": 613,
+      "commentCount": 46,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/IWfF01V3Bfw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/IWfF01V3Bfw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/IWfF01V3Bfw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/IWfF01V3Bfw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/IWfF01V3Bfw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "8iGbrSB17wg",
+      "channelId": "UCafWa6gl-idwzBXJImBZVww",
+      "channelTitle": "정치도시",
+      "title": "그 디올백 어디 있어요? 성대모사 #김건희",
+      "description": "",
+      "publishedAt": "2024-07-01T05:35:18Z",
+      "duration": "PT30S",
+      "durationSeconds": 30,
+      "viewCount": 9414,
+      "likeCount": 249,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8iGbrSB17wg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8iGbrSB17wg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8iGbrSB17wg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/8iGbrSB17wg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/8iGbrSB17wg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "GfwTco4_gGE",
+      "channelId": "UCafWa6gl-idwzBXJImBZVww",
+      "channelTitle": "정치도시",
+      "title": "전 국힘의원 4년전 분석. 임성근 사단장과 싱크로율100%",
+      "description": "",
+      "publishedAt": "2024-06-30T10:05:05Z",
+      "duration": "PT29S",
+      "durationSeconds": 29,
+      "viewCount": 17245,
+      "likeCount": 512,
+      "commentCount": 13,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GfwTco4_gGE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GfwTco4_gGE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GfwTco4_gGE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/GfwTco4_gGE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/GfwTco4_gGE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    }
+  ],
+  "channelStats": [
+    {
+      "id": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "title": " YTN",
+      "description": "24시간 생중계되는 대한민국 대표 뉴스\nYTN 공식채널을 지금 바로 구독하세요\n\n▶ 구독하기 : http://goo.gl/Ytb5SZ\n\n▶ YTN 기사제보 안내\n- 홈페이지: https://mj.ytn.co.kr/mj/mj_write.php?sort=0\n- 모바일: YTN 앱의 제보하기\n- 이메일: social@ytn.co.kr\n- 전화: 02-398-8282 또는 8585 \n\n▶ 라이브 스트리밍 대체광고 및 콘텐츠 협업 문의\n - 이메일 : ljk@ytn.co.kr\n\n▶ 영상 사용 및 구매 문의\n - https://www.ytn.co.kr/business/sell_program.php\n",
+      "customUrl": "@ytnnews24",
+      "publishedAt": "2013-05-23T07:07:42Z",
+      "subscriberCount": 5250000,
+      "videoCount": 926952,
+      "viewCount": 18975987875,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUhlgI3UHCOnwUGzWzbJ3H5w",
+      "country": "KR",
+      "videosAnalyzed": 29,
+      "shortsCount": 3,
+      "regularVideosCount": 26
+    },
+    {
+      "id": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "title": "뉴스TVCHOSUN",
+      "description": "TV조선 뉴스 공식 YouTube 입니다.",
+      "customUrl": "@tvchosunnews",
+      "publishedAt": "2012-08-23T12:33:18Z",
+      "subscriberCount": 3030000,
+      "videoCount": 169568,
+      "viewCount": 4976665115,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUWlV3Lz_55UaX4JsMj-z__Q",
+      "country": "KR",
+      "videosAnalyzed": 30,
+      "shortsCount": 5,
+      "regularVideosCount": 25
+    },
+    {
+      "id": "UCbJfg1BrJ5hJPlVqDUUv8lg",
+      "title": "sondhitalk",
+      "description": "\n\n• สนับสนุนความจริงมีหนึ่งเดียว ด้วยการสมัครเป็น Membership : https://www.youtube.com/@sondhitalk/join \n• ติดต่อสอบถามได้ที่ Line : @sondhitalk\n\n",
+      "customUrl": "@sondhitalk",
+      "publishedAt": "2013-01-11T08:32:41Z",
+      "subscriberCount": 2400000,
+      "videoCount": 5885,
+      "viewCount": 592874402,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GlRwJz9olSd_9v-L4fjru7ErFTZ4YKnek4FsZMfGXzFl_Ln7sAp3r_lXEcEkNHiIfgq4Sl2A=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GlRwJz9olSd_9v-L4fjru7ErFTZ4YKnek4FsZMfGXzFl_Ln7sAp3r_lXEcEkNHiIfgq4Sl2A=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GlRwJz9olSd_9v-L4fjru7ErFTZ4YKnek4FsZMfGXzFl_Ln7sAp3r_lXEcEkNHiIfgq4Sl2A=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUbJfg1BrJ5hJPlVqDUUv8lg",
+      "country": "TH",
+      "videosAnalyzed": 30,
+      "shortsCount": 0,
+      "regularVideosCount": 30
+    },
+    {
+      "id": "UCgeOlLcX6PReHdWImEnUVTg",
+      "title": "스픽스",
+      "description": "국민과 함께 더 나은 세상을 만들어가는 스픽스\n혁신-균형-정의를 지향하는 뉴미디어, 저널리즘의 표준\n\n#최고의 전략가 정치와 정치인을 논하다 '정치본색' 생방송 (월~금 13시) \n#예능급 고수들의 정치수다 '역전의용사들' 생방송 (월~금 20시)\n\n#실시간 속보 가장 빠른 분석 '긴급편성' \n#탁월한 관점의 정치, 경제 현안분석 '고수의전략'  \n#차원이 다른 토크  '마키아벨리'\n\n협업 및 공동기획 문의 010-8596-0073\n광고문의 010-4615-9996\nspeaksad@speaks.kr\n",
+      "customUrl": "@speaks_tv",
+      "publishedAt": "2022-05-24T02:02:45.424058Z",
+      "subscriberCount": 1560000,
+      "videoCount": 29456,
+      "viewCount": 1877535713,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/S3rLqAB2YDYQDzLNBiFveCxuoTifWkLQtQP-V416WUiciWNz1umav1O51CwrxVy8zKrTMSKg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/S3rLqAB2YDYQDzLNBiFveCxuoTifWkLQtQP-V416WUiciWNz1umav1O51CwrxVy8zKrTMSKg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/S3rLqAB2YDYQDzLNBiFveCxuoTifWkLQtQP-V416WUiciWNz1umav1O51CwrxVy8zKrTMSKg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUgeOlLcX6PReHdWImEnUVTg",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCGbkN-3JpOct4KuEv59NF0Q",
+      "title": "엠키타카 MKTK",
+      "description": "국회 티키타카! 콘텐츠왕국! 어른김장하! 지역소생연구소!\n\n홈페이지 : http://www.mbcgn.kr\n페이스북 : http://www.facebook.com/withmbcgn\n인스타그램  : https://www.instagram.com/mbcgn/",
+      "customUrl": "@mbcgn_tv",
+      "publishedAt": "2017-08-08T04:13:21Z",
+      "subscriberCount": 1030000,
+      "videoCount": 21773,
+      "viewCount": 2331812559,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/hUPG97aBRPUUtqvU3nFszYHV-x3GYfoFNbwNJ1-NvsXBXelhnLpgjoDFP3D7svnaY5bLpli6pQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/hUPG97aBRPUUtqvU3nFszYHV-x3GYfoFNbwNJ1-NvsXBXelhnLpgjoDFP3D7svnaY5bLpli6pQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/hUPG97aBRPUUtqvU3nFszYHV-x3GYfoFNbwNJ1-NvsXBXelhnLpgjoDFP3D7svnaY5bLpli6pQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUGbkN-3JpOct4KuEv59NF0Q",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCF2ecghgS_p1F925r-cIfdQ",
+      "title": "핫소스",
+      "description": "\"음뫄-! 핫소스!\"\n코미디 크리에이터 핫소스입니다!\n잘 부탁드립니다!\n\n업로드 주기는 2일/1영상 입니다!\n응스타그램 @apnalchangchangkimseoneung\n송스타그램 @hyoja94\n\n광고 문의 - elzksms222@naver.com\n",
+      "customUrl": "@hotsauceuniverse",
+      "publishedAt": "2022-01-12T03:06:06.679652Z",
+      "subscriberCount": 1000000,
+      "videoCount": 714,
+      "viewCount": 1030031679,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/MwrNX-40K7CQRTNsOVR_jVYYILGKl30ZHGy7nw2ifmx_AcL-RUp67XGdj7vNV2lsQ8CCfMRrLz8=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/MwrNX-40K7CQRTNsOVR_jVYYILGKl30ZHGy7nw2ifmx_AcL-RUp67XGdj7vNV2lsQ8CCfMRrLz8=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/MwrNX-40K7CQRTNsOVR_jVYYILGKl30ZHGy7nw2ifmx_AcL-RUp67XGdj7vNV2lsQ8CCfMRrLz8=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUF2ecghgS_p1F925r-cIfdQ",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCu0b6ODtYia0snp9JE4UUDw",
+      "title": "세상만사",
+      "description": "세상만사 모든 이야기를 들려드립니다!\n문의: dorifamily1234@gmail.com\n\n",
+      "customUrl": "@세상만사-n6h",
+      "publishedAt": "2024-02-14T06:48:46.622989Z",
+      "subscriberCount": 643000,
+      "videoCount": 3119,
+      "viewCount": 1560526938,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/tgqlfQiRq_Zny5G7E9VWdhFv7AORkvo26IKEnvHirKGPoxbwFaZG02qQsa5NUMM03AURCDC_=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/tgqlfQiRq_Zny5G7E9VWdhFv7AORkvo26IKEnvHirKGPoxbwFaZG02qQsa5NUMM03AURCDC_=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/tgqlfQiRq_Zny5G7E9VWdhFv7AORkvo26IKEnvHirKGPoxbwFaZG02qQsa5NUMM03AURCDC_=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUu0b6ODtYia0snp9JE4UUDw",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UC8tH3EF_zmxnKwmpuy9LbYw",
+      "title": "한국의목소리",
+      "description": "빠르고 쉽게 올바른 생각을 전합니다\n제보 및 협업 문의\n✉️ connect.voiceofkorea@gmail.com\n",
+      "customUrl": "@한국의목소리",
+      "publishedAt": "2025-01-31T07:55:07.066491Z",
+      "subscriberCount": 603000,
+      "videoCount": 1524,
+      "viewCount": 1044042305,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/4iOFLb4gPIReye1CRxGOIYK6oe3-i65mtzpT851pm5sFWY46hVgPMVo7loKQVWy-ZJSxYv_K=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/4iOFLb4gPIReye1CRxGOIYK6oe3-i65mtzpT851pm5sFWY46hVgPMVo7loKQVWy-ZJSxYv_K=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/4iOFLb4gPIReye1CRxGOIYK6oe3-i65mtzpT851pm5sFWY46hVgPMVo7loKQVWy-ZJSxYv_K=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UU8tH3EF_zmxnKwmpuy9LbYw",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCHDYKIRxMEItLVoqtmGq3aA",
+      "title": "정치창",
+      "description": "세상을 보여주는 창!",
+      "customUrl": "@jknews97",
+      "publishedAt": "2024-03-24T10:26:55.652981Z",
+      "subscriberCount": 512000,
+      "videoCount": 2137,
+      "viewCount": 1067194706,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/K4zWkeJjnkekAxKX8t6KdvNSVpCGo_UUYNGY67R7Qkt0DKWbsfg84eY_O1l6pyC5YtPZgC9O8es=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/K4zWkeJjnkekAxKX8t6KdvNSVpCGo_UUYNGY67R7Qkt0DKWbsfg84eY_O1l6pyC5YtPZgC9O8es=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/K4zWkeJjnkekAxKX8t6KdvNSVpCGo_UUYNGY67R7Qkt0DKWbsfg84eY_O1l6pyC5YtPZgC9O8es=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUHDYKIRxMEItLVoqtmGq3aA",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UC8brKujsZC20lURDZcuRSlQ",
+      "title": "미디어몽구",
+      "description": "1. 소개\n안녕하세요. 저는 영상취재를 전문으로 하는 1인 미디어로서, 2005년부터 활동을 해오고 있으며, 제 주변에 일어나는 일을 시작으로 사회적 이슈 현장까지, 분야를 가리지 않고 생생한 현장 소식을 전하고 있습니다. \n\n언론에서 비중은 있는데 단신보도 됐거나, 보도 되지 않았던 내용, 사회적으로 소외 받고 있는 이들의 목소리 등을 전하기 위해, 오늘도 발로 뛰며 현장을 기록하고 있습니다.\n\n2. 수상 및 선정\n2005 대한민국 블로그어워드 올해의 시사블로거 선정\n2006 Daum 블로거뉴스 대상 수상\n2007 Daum 블로거뉴스 우수상 수상\n2008 월간 말 선정, 파워블로거 50인에 1위 선정\n2009 온라인 저널리스트 시사부문상 수상\n2010 올해의 온라인 저널리스트 대상 수상\n2012 서울시 공익제보상 수상\n2012 안종필 자유언론상 수상\n2012 송건호 언론상 수상\n2012 김학순상 수상\n2012 노근리 평화상 방송부문상 수상\n2013 세상을 따뜻하게 만든 사람들 선정\n2014 투명사회상 수상\n2015 성유보 특별상 수상\n2015 한국 온라인 저널리즘 어워드 공로상 수상\n2023 한국인터넷기자협회 1인미디어상 수상\n\n3. 경력\n- 하트하트재단 온세상 서포터즈 위촉\n- Daum 블로거뉴스 검색 메인 모델\n- 언론연대 정책위원\n- 민언련 미디어위원회 위원\n- 김복동의 희망 운영위원\n- 한겨레 오피니언 hook 필진\n- CBS 라디오 김미화의 여러분 - '몽구야 어딨니' 코너 담당\n- 한국탐사저널리즘센터 - 뉴스타파 기자\n- 김어준의 파파이스 - '몽구타임' 코너 담당\n- MBC 손바닥TV 현장리포터\n\n4. 후원하기\n21년째 현장을 누비고 있는 미디어몽구가 후원을 기다립니다. 언제나처럼 생생한 현장의 진실을 전하겠으니 제가 카메라를 놓지 않도록 든든한 버팀목이 되어 주십시오. 고마움 잊지 않고 한결 같은 마음으로 시대를 기록하겠습니다. 후원계좌는 (농협 / 317-0006-4512-51) / 페이팔 mediamongu@gmail.com 입니다.\n",
+      "customUrl": "@mediamongu",
+      "publishedAt": "2009-03-21T08:15:07Z",
+      "subscriberCount": 496000,
+      "videoCount": 3310,
+      "viewCount": 714500292,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/fVn9FhfxwrVUvNj_Vii0l6vcyUNNQFQImVhwPhUSHguibKKkR1_8iIyHeaMGxFrjJ6GYGqlymw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/fVn9FhfxwrVUvNj_Vii0l6vcyUNNQFQImVhwPhUSHguibKKkR1_8iIyHeaMGxFrjJ6GYGqlymw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/fVn9FhfxwrVUvNj_Vii0l6vcyUNNQFQImVhwPhUSHguibKKkR1_8iIyHeaMGxFrjJ6GYGqlymw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UU8brKujsZC20lURDZcuRSlQ",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCrxe-Msh2j6ICbfUaDJj81g",
+      "title": "이슈카톡",
+      "description": "민주주의와 이재명 국민주권 정부의 성공, 사법정의 등을 위한 민주시민 채널 입니다\n\n“진실을 밝히는 민주 정치 채널”\n이곳은 대한민국 민주주의를 지키고, 사법 개혁, 검찰 개혁을 위한 쇼츠 깨어 있는 시민들의 채널입니다\n우리는 국민들의 목소리를 정치권과 민주당 등에 전하며, 정치 이슈를 빠르게 전달합니다\n\n이재명 대표의 행보부터 국회 정치 분석, 윤석열 정부의 문제점, 국민의힘 비판까지 —\n가짜뉴스에 맞서 진실을 전하고, 시민의 눈으로 정치 현실을 바라봅니다.\n\n정의로운 사회, 공정한 나라, 그리고 개혁 완수를 위해 함께합니다.\n응원봉의 힘으로 정치 변화를 만들어가는 바른 채널이 되겠습니다\n\n\n📌 주요 키워드\n민주당, 이재명, 윤석열 계엄 응징, 검찰개혁, 언론개혁, 법원 사법개혁, 민주주의 수호, 진보 정치, 개혁정치, 정치 해설, 정치 시사, 정치 유튜브, 대한민국 민주주의, 공정한 사회, 검찰독재, 국민의힘 비리 비판, 국회 정치 분석, 정치이슈, 정의로운 사회, 경제민주화, 재벌혁신, 검언유착, 정치토론, 뉴스해석, 시사분석, 대선전망, 총선승리, 민주진영 단결, 개혁 완수, 정치유머, 시민정치, 정치참여, 국회 방송, 대통령실 방송. 이재명 TV방송, \n\n",
+      "customUrl": "@이슈카톡",
+      "publishedAt": "2022-05-30T11:34:11.689006Z",
+      "subscriberCount": 487000,
+      "videoCount": 3893,
+      "viewCount": 1956365974,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GXD6CIjLk1Dnt5VC7nl-M72a7ueVq8b6oA4yjURVnF1ZYbgqtwf5ZPNg72VafPOIw02ANvMh2A=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GXD6CIjLk1Dnt5VC7nl-M72a7ueVq8b6oA4yjURVnF1ZYbgqtwf5ZPNg72VafPOIw02ANvMh2A=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GXD6CIjLk1Dnt5VC7nl-M72a7ueVq8b6oA4yjURVnF1ZYbgqtwf5ZPNg72VafPOIw02ANvMh2A=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUrxe-Msh2j6ICbfUaDJj81g",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCipltOI85rqpxH4iFt_x0Cg",
+      "title": "잼통",
+      "description": "재밌는 것들만 모은 잼통!",
+      "customUrl": "@jamjam9787",
+      "publishedAt": "2024-03-17T11:15:44.181866Z",
+      "subscriberCount": 470000,
+      "videoCount": 275,
+      "viewCount": 149602932,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/haTQr8ZLyCIIL48yyYimlvHCx0bHV8v5-qJ49u62tOMhPgnOLloFb6RJaSBbSJSOQyBd52Uhcw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/haTQr8ZLyCIIL48yyYimlvHCx0bHV8v5-qJ49u62tOMhPgnOLloFb6RJaSBbSJSOQyBd52Uhcw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/haTQr8ZLyCIIL48yyYimlvHCx0bHV8v5-qJ49u62tOMhPgnOLloFb6RJaSBbSJSOQyBd52Uhcw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUipltOI85rqpxH4iFt_x0Cg",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCEsWtfVdAK8soPcDuVqu58g",
+      "title": "엠뉴 | MBC경남 NEWS",
+      "description": "MBC경남 뉴스 공식 계정입니다.\n지역 핫이슈부터 전국적 관심 사안까지 두루 살핍니다.\n방위산업의 중심지에서 K-방산 콘텐츠도 집중적으로 다룹니다.\n많은 관심 부탁드립니다. (구독, 좋아요, 댓글은 필수!)\n\n홈페이지 : http://www.mbcgn.kr\nX : @mbcgn_news\n페이스북 : http://www.facebook.com/withmbcgn\n인스타그램  : https://www.instagram.com/mbcgn_news/",
+      "customUrl": "@mbcnews7670",
+      "publishedAt": "2017-08-07T06:21:04Z",
+      "subscriberCount": 445000,
+      "videoCount": 46163,
+      "viewCount": 560009954,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/v__eiQEgXgwAynGyNr0_Nmcs3pBhXI-ZGhkiNwgxvQnlCaDH-m1DKnnC7044d95G3qW_8V3iZQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/v__eiQEgXgwAynGyNr0_Nmcs3pBhXI-ZGhkiNwgxvQnlCaDH-m1DKnnC7044d95G3qW_8V3iZQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/v__eiQEgXgwAynGyNr0_Nmcs3pBhXI-ZGhkiNwgxvQnlCaDH-m1DKnnC7044d95G3qW_8V3iZQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUEsWtfVdAK8soPcDuVqu58g",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCPnsRM1XL2NM3xq8N7XGaQg",
+      "title": "링킹",
+      "description": "구독과 방문 감사합니다.\n문의 mrgray275@gmail.com\n",
+      "customUrl": "@linkingranking",
+      "publishedAt": "2018-02-07T05:25:49Z",
+      "subscriberCount": 415000,
+      "videoCount": 2970,
+      "viewCount": 561628301,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/CfeyGSvQwDc7p7TSueVaFvcuwKlwu999XXxNCdBVKb0YyYhth-H-321wlxcbaSOHMYjODKnK5_M=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/CfeyGSvQwDc7p7TSueVaFvcuwKlwu999XXxNCdBVKb0YyYhth-H-321wlxcbaSOHMYjODKnK5_M=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/CfeyGSvQwDc7p7TSueVaFvcuwKlwu999XXxNCdBVKb0YyYhth-H-321wlxcbaSOHMYjODKnK5_M=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUPnsRM1XL2NM3xq8N7XGaQg",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCgHG6kRpULWaJ1AGUr2pOXQ",
+      "title": "정치공감",
+      "description": "이재명 대통령님은 정치는 국민이 하는 것이라 했습니다. 늘 민주 시민 여러분과 같은 곳을 바라보고 같이 걷겠습니다\n\n\n",
+      "customUrl": "@정치공감tv",
+      "publishedAt": "2020-05-28T12:15:50.768611Z",
+      "subscriberCount": 389000,
+      "videoCount": 688,
+      "viewCount": 119290099,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/R6ynfgFkV7pKnrgUIp52TOpg2AQ2qD0Geo57N9uoFitMuC1nvsL7LmBRqgnZqqwGCj1RNL0Yvg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/R6ynfgFkV7pKnrgUIp52TOpg2AQ2qD0Geo57N9uoFitMuC1nvsL7LmBRqgnZqqwGCj1RNL0Yvg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/R6ynfgFkV7pKnrgUIp52TOpg2AQ2qD0Geo57N9uoFitMuC1nvsL7LmBRqgnZqqwGCj1RNL0Yvg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUgHG6kRpULWaJ1AGUr2pOXQ",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCd6tMX5cbTf6HNf1iug0HrQ",
+      "title": "이마까TV",
+      "description": "정치 풍자, 패러디를 통해  / 진보 진영에는 힘을 드리고 / 중도층에는 공감을 이끌어 내는 영상 제작을 목표로 합니다.",
+      "customUrl": "@이마까tv",
+      "publishedAt": "2018-11-09T08:01:53Z",
+      "subscriberCount": 336000,
+      "videoCount": 873,
+      "viewCount": 788276822,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/RstzVEx_9sC_aaMuFohYXwUyclAN97UMi8jX4N8me9lyj7vIOlmHLoOdV1_GfPwJcOGBC_zf=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/RstzVEx_9sC_aaMuFohYXwUyclAN97UMi8jX4N8me9lyj7vIOlmHLoOdV1_GfPwJcOGBC_zf=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/RstzVEx_9sC_aaMuFohYXwUyclAN97UMi8jX4N8me9lyj7vIOlmHLoOdV1_GfPwJcOGBC_zf=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUd6tMX5cbTf6HNf1iug0HrQ",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCd6tMX5cbTf6HNf1iug0HrQ",
+      "title": "이마까TV",
+      "description": "정치 풍자, 패러디를 통해  / 진보 진영에는 힘을 드리고 / 중도층에는 공감을 이끌어 내는 영상 제작을 목표로 합니다.",
+      "customUrl": "@이마까tv",
+      "publishedAt": "2018-11-09T08:01:53Z",
+      "subscriberCount": 336000,
+      "videoCount": 873,
+      "viewCount": 788276822,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/RstzVEx_9sC_aaMuFohYXwUyclAN97UMi8jX4N8me9lyj7vIOlmHLoOdV1_GfPwJcOGBC_zf=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/RstzVEx_9sC_aaMuFohYXwUyclAN97UMi8jX4N8me9lyj7vIOlmHLoOdV1_GfPwJcOGBC_zf=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/RstzVEx_9sC_aaMuFohYXwUyclAN97UMi8jX4N8me9lyj7vIOlmHLoOdV1_GfPwJcOGBC_zf=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUd6tMX5cbTf6HNf1iug0HrQ",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCc6sEta0lPmVJ3TFIw8s-wA",
+      "title": "민주픽",
+      "description": "다시 시작하는 민주주의를 위해\n \n민주시민을 위한 민주 뉴스 숏츠 채널입니다\n\n0H9LA0@AICOMPANY",
+      "customUrl": "@minjupick",
+      "publishedAt": "2013-04-08T07:04:38Z",
+      "subscriberCount": 320000,
+      "videoCount": 2250,
+      "viewCount": 1731420032,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/9cfPcDDSln3sHmfzt4F-nYQU9rnYhfew9LoTnLeKqkCNbyp_FtOzXqnFM_z6Fl7kvLmi7JAE=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/9cfPcDDSln3sHmfzt4F-nYQU9rnYhfew9LoTnLeKqkCNbyp_FtOzXqnFM_z6Fl7kvLmi7JAE=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/9cfPcDDSln3sHmfzt4F-nYQU9rnYhfew9LoTnLeKqkCNbyp_FtOzXqnFM_z6Fl7kvLmi7JAE=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUc6sEta0lPmVJ3TFIw8s-wA",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCJm_AJKFjq89w5brQ3yTa8g",
+      "title": "김감독 쇼츠 ",
+      "description": "국회·정치 현장을 가장 빠르고 정확하게 기록하는 쇼츠\nhanbae2371@gmail.com \n\n",
+      "customUrl": "@tv17314",
+      "publishedAt": "2023-05-08T14:08:28.931191Z",
+      "subscriberCount": 303000,
+      "videoCount": 101,
+      "viewCount": 26007061,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/_0ShL4v6U7Pt37_bS8jQY4Wr-JrY1bnycbK3Dy2LqXhOi4oGBqeRmTjWiYKa6tPuK0znuQ24rug=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/_0ShL4v6U7Pt37_bS8jQY4Wr-JrY1bnycbK3Dy2LqXhOi4oGBqeRmTjWiYKa6tPuK0znuQ24rug=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/_0ShL4v6U7Pt37_bS8jQY4Wr-JrY1bnycbK3Dy2LqXhOi4oGBqeRmTjWiYKa6tPuK0znuQ24rug=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUJm_AJKFjq89w5brQ3yTa8g",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCZYaBjwqn9XiWUWbw8jjFnw",
+      "title": "나의조국",
+      "description": "민주주의 최후의 보루는 깨어있는 시민의 조직된 힘입니다\n\n",
+      "customUrl": "@mychokuk",
+      "publishedAt": "2021-08-05T10:53:39.000195Z",
+      "subscriberCount": 290000,
+      "videoCount": 2888,
+      "viewCount": 716754641,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/tZbcl-KHk4OL2vHneZCZS3Dya5Op54TNjjWwBX-QV2rU8mJG_Y27LGFIoerxGT8Sd08yHibziA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/tZbcl-KHk4OL2vHneZCZS3Dya5Op54TNjjWwBX-QV2rU8mJG_Y27LGFIoerxGT8Sd08yHibziA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/tZbcl-KHk4OL2vHneZCZS3Dya5Op54TNjjWwBX-QV2rU8mJG_Y27LGFIoerxGT8Sd08yHibziA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUZYaBjwqn9XiWUWbw8jjFnw",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    }
+  ]
 }
