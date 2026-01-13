@@ -1,157 +1,132 @@
 {
-  "lastUpdated": "2026-01-13T12:28:11.506Z",
+  "lastUpdated": "2026-01-13T18:22:13.031Z",
   "totalChannelsAnalyzed": 82,
-  "totalVideos": 300,
-  "totalShorts": 161,
-  "totalRegularVideos": 139,
-  "totalViewCount": 40965787,
-  "totalLikeCount": 1341461,
-  "averageViewsPerShort": 200419,
+  "totalVideos": 160,
+  "totalShorts": 20,
+  "totalRegularVideos": 140,
+  "totalViewCount": 18960169,
+  "totalLikeCount": 329226,
+  "averageViewsPerShort": 11865,
   "topChannelsByShorts": [
     {
-      "title": "한국의목소리",
-      "shortsCount": 30,
-      "subscriberCount": 609000
-    },
-    {
-      "title": "정치창",
-      "shortsCount": 30,
-      "subscriberCount": 512000
-    },
-    {
-      "title": "이마까TV",
-      "shortsCount": 28,
-      "subscriberCount": 337000
-    },
-    {
-      "title": "정치토크",
-      "shortsCount": 26,
-      "subscriberCount": 6570
-    },
-    {
-      "title": "링킹",
-      "shortsCount": 13,
-      "subscriberCount": 417000
-    },
-    {
       "title": "스픽스",
-      "shortsCount": 12,
+      "shortsCount": 10,
       "subscriberCount": 1560000
     },
     {
-      "title": "Quatro Magazine",
-      "shortsCount": 12,
-      "subscriberCount": 106000
-    },
-    {
-      "title": "뉴스TVCHOSUN",
-      "shortsCount": 6,
-      "subscriberCount": 3030000
-    },
-    {
       "title": " YTN",
-      "shortsCount": 4,
+      "shortsCount": 5,
       "subscriberCount": 5260000
+    },
+    {
+      "title": "연합뉴스TV",
+      "shortsCount": 4,
+      "subscriberCount": 2160000
+    },
+    {
+      "title": "Human Issue - Topic",
+      "shortsCount": 1,
+      "subscriberCount": 24
     }
   ],
   "topShortsByViews": [
     {
-      "title": "쿠팡은 미국기업이라면서 돈은 왜 우리나라에서 빌리죠? 악덕기업 쿠팡에 분노하는 최민희",
-      "channelTitle": "정치창",
-      "viewCount": 3490793,
-      "publishedAt": "2026-01-01T03:13:06Z"
+      "title": "윤석열 사형 구형 속보 뜬 순간!! (feat. 2분 뉴스 강지호 기자)",
+      "channelTitle": "스픽스",
+      "viewCount": 92109,
+      "publishedAt": "2026-01-13T14:15:00Z"
     },
     {
-      "title": "민주당의 통일교 특검 수용, 국힘당 반응",
-      "channelTitle": "이마까TV",
-      "viewCount": 1906831,
-      "publishedAt": "2025-12-22T04:06:43Z"
+      "title": "빤스목사 시러! 전광훈 뉴스엔조이 보이콧",
+      "channelTitle": "스픽스",
+      "viewCount": 39337,
+      "publishedAt": "2026-01-13T08:30:28Z"
     },
     {
-      "title": "계엄 당일, 경찰 녹취 \"국회의장도 통제하라\"",
-      "channelTitle": "이마까TV",
-      "viewCount": 1609728,
-      "publishedAt": "2026-01-08T11:06:21Z"
+      "title": "당당한 대한민국! 이재명 대통령이 말하는 상생 발전",
+      "channelTitle": "스픽스",
+      "viewCount": 28322,
+      "publishedAt": "2026-01-13T07:30:03Z"
     },
     {
-      "title": "국힘당 베네수엘라 타령 팩트로 입틀막",
-      "channelTitle": "이마까TV",
-      "viewCount": 1012731,
-      "publishedAt": "2026-01-05T21:35:45Z"
+      "title": "윤석열 피고인 부르는데 웃고있는 윤석열",
+      "channelTitle": "스픽스",
+      "viewCount": 14794,
+      "publishedAt": "2026-01-13T10:47:00Z"
     },
     {
-      "title": "오세훈 쉴드치다 질문 한방에 어버버",
-      "channelTitle": "이마까TV",
-      "viewCount": 957427,
-      "publishedAt": "2026-01-02T08:01:07Z"
+      "title": "이상민 측 눈물바다",
+      "channelTitle": "스픽스",
+      "viewCount": 12420,
+      "publishedAt": "2026-01-13T08:15:00Z"
     },
     {
-      "title": "국힘당 탈출은 지능순이라는 민주패널",
-      "channelTitle": "이마까TV",
-      "viewCount": 914499,
-      "publishedAt": "2025-12-31T03:22:24Z"
+      "title": "\"좌파 대통령만 되면 발작?\" \"전광훈의 폭탄 발언\"",
+      "channelTitle": "스픽스",
+      "viewCount": 12342,
+      "publishedAt": "2026-01-13T08:01:09Z"
     },
     {
-      "title": "#빅안수 #계엄사령관 #파면 #징계를 #받지 #않은 #황당 #사연",
-      "channelTitle": "링킹",
-      "viewCount": 905589,
-      "publishedAt": "2026-01-10T08:30:28Z"
+      "title": "구형 재판 입장하는 윤석열 표정 보니...",
+      "channelTitle": "스픽스",
+      "viewCount": 11832,
+      "publishedAt": "2026-01-13T10:27:01Z"
     },
     {
-      "title": "쿠팡이 믿는 구석이 있어서 그랬군요? 김앤장 출신 실명 쫙 나열하자 얼음된 쿠팡 부사장",
-      "channelTitle": "정치창",
-      "viewCount": 849669,
-      "publishedAt": "2026-01-01T10:52:12Z"
+      "title": "\"창문 부순 건 우리 팀 아냐!\" 전광훈의 꼬리 자르기?",
+      "channelTitle": "스픽스",
+      "viewCount": 7212,
+      "publishedAt": "2026-01-13T08:30:13Z"
     },
     {
-      "title": "약관 왜 몰래 뺐어요? 하나하나 따지며 쿠팡 부사장 박살내는 구글 출신 이해민",
-      "channelTitle": "정치창",
-      "viewCount": 823986,
-      "publishedAt": "2026-01-02T03:35:41Z"
+      "title": "김계리의 궤변 \"기사 쪼가리 62개 탄핵\"",
+      "channelTitle": "스픽스",
+      "viewCount": 5727,
+      "publishedAt": "2026-01-13T11:07:00Z"
     },
     {
-      "title": "행정의 대가 이재명, 부산 해수부 개청식",
-      "channelTitle": "이마까TV",
-      "viewCount": 819293,
-      "publishedAt": "2025-12-24T03:17:30Z"
+      "title": "[영상] 윤석열 내란 혐의 '사형' 구형 / YTN",
+      "channelTitle": " YTN",
+      "viewCount": 4466,
+      "publishedAt": "2026-01-13T14:04:41Z"
     }
   ],
   "recentShorts": [
     {
-      "id": "5AK2UUy4Z0Q",
+      "id": "09zvspIfCW4",
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelTitle": " YTN",
-      "title": "김병기 \"당 없는 정치는 사형 선고...떠나지 않겠다\" / YTN",
-      "description": "더불어민주당 김병기 의원이 제명과 탈당 압박에 대해, 자신에게 민주당이 없는 정치는 사형 선고와 같다며 제명을 당할지언정 스스로 친정을, 고향을, 전부를 떠나지는 못하겠다고 거듭 강조했습니다.\n\n김 의원은 오늘(13일) SNS를 통해 그건 자신에게 패륜과도 같다며 비록 내쳐지는 한이 있더라도 망부석처럼 민주당 곁을 지키며 이재명 정부 성공을 기원하겠다고 적",
-      "publishedAt": "2026-01-13T12:22:48Z",
-      "duration": "PT41S",
-      "durationSeconds": 41,
-      "viewCount": 24,
+      "title": "트럼프 \"계속 저항하라...이란과 모든 회담 취소\" / YTN",
+      "description": "도널드 트럼프 미국 대통령은 이란에서 반정부 시위대를 향한 살상이 멈출 때까지 이란 당국자들과의 모든 회담을 취소했다고 밝혔습니다.\n\n트럼프 대통령은 현지 시간 13일, 소셜미디어에 \"이란의 애국자 여러분, 계속 저항하고 여러분의 기관들을 장악하라\"며 이같이 썼습니다.\n\n그러면서 \"도움과 지원이 가고 있어 곧 도착할 것\" 이라며 \"이란을 다시 위대하게\"라고",
+      "publishedAt": "2026-01-13T18:07:24Z",
+      "duration": "PT36S",
+      "durationSeconds": 36,
+      "viewCount": 31,
       "likeCount": 1,
-      "commentCount": 1,
+      "commentCount": 0,
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/5AK2UUy4Z0Q/default.jpg",
+          "url": "https://i.ytimg.com/vi/09zvspIfCW4/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/5AK2UUy4Z0Q/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/09zvspIfCW4/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/5AK2UUy4Z0Q/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/09zvspIfCW4/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/5AK2UUy4Z0Q/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/09zvspIfCW4/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/5AK2UUy4Z0Q/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/09zvspIfCW4/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -159,47 +134,47 @@
       "tags": [
         "source:영상",
         "type:방송",
-        "genre:정치",
+        "genre:국제",
         "format:단신",
-        "person:임성재"
+        "person:신윤정"
       ],
       "isShorts": true
     },
     {
-      "id": "meSZIcVTY5I",
+      "id": "wF-C1KypH0A",
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelTitle": " YTN",
-      "title": "코스피 4,692 마감...8거래일 연속 최고가 경신 / YTN",
-      "description": "코스피가 4,692로 마감하면서 8거래일 연속 종가 기준 사상 최고가를 기록했습니다.\n\n코스피는 0.8% 오른 4,662로 출발해 기관의 7천억 원 순매수에 힘입어 1.47% 오른 4,692로 장을 마쳤습니다.\n\n현대차는 휴머노이드 로봇 아틀라스 공개와 완전 자율 로보택시 상용화 발표에 10.6% 오른 406,000원으로 마감해 종가 기준 최고가를 경신했습",
-      "publishedAt": "2026-01-13T12:22:01Z",
-      "duration": "PT41S",
-      "durationSeconds": 41,
-      "viewCount": 16,
-      "likeCount": 0,
+      "title": "미국 정부, 자국민에 \"당장 이란 떠나라\" 권고 / YTN",
+      "description": "미국 정부가 이란에 머무르는 자국민들에게 즉각 안전한 인접국으로 대피하라고 권고했습니다.\n\n미국이 온라인으로 운영하는 이란 주재 가상 대사관은 현지 시간 13일 성명을 통해 \"이란 전역에서 시위가 격화해 폭력으로 이어질 수 있다\"며 \"미국 시민들은 안전이 보장되는 상황이면 육로로 이란을 떠나 아르메니아나 튀르키예로 이동하는 걸 고려해야 한다\"고 밝혔습니다.",
+      "publishedAt": "2026-01-13T18:06:30Z",
+      "duration": "PT35S",
+      "durationSeconds": 35,
+      "viewCount": 92,
+      "likeCount": 1,
       "commentCount": 0,
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/meSZIcVTY5I/default.jpg",
+          "url": "https://i.ytimg.com/vi/wF-C1KypH0A/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/meSZIcVTY5I/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/wF-C1KypH0A/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/meSZIcVTY5I/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/wF-C1KypH0A/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/meSZIcVTY5I/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/wF-C1KypH0A/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/meSZIcVTY5I/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/wF-C1KypH0A/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -207,239 +182,299 @@
       "tags": [
         "source:영상",
         "type:방송",
-        "genre:경제",
+        "genre:국제",
         "format:단신",
-        "person:류환홍"
+        "person:신호"
       ],
       "isShorts": true
     },
     {
-      "id": "wdsHTvWqSww",
-      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
-      "channelTitle": "뉴스TVCHOSUN",
-      "title": "1월 13일 '뉴스 9' 헤드라인",
-      "description": "1. 민주당이 #김병기 의원의 제명을 결정했지만, 김 의원은 재심을 예고하며 반발했습니다. 당 지도부는 재심 결론도 빨리 낼 거라고 했습니다.\n\n2. #윤석열 전 대통령의 내란 우두머리 혐의 결심공판이 12시간 가까이 진행되고 있습니다. 재판부가 오늘은 반드시 끝내겠다고 공언한 만큼 늦게라도 구형량이 결정될 전망입니다.\n\n3. #이재명 대통령이 다카이치 일",
-      "publishedAt": "2026-01-13T12:07:53Z",
-      "duration": "PT56S",
-      "durationSeconds": 56,
-      "viewCount": 103,
-      "likeCount": 1,
-      "commentCount": 1,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/wdsHTvWqSww/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/wdsHTvWqSww/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/wdsHTvWqSww/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/wdsHTvWqSww/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/wdsHTvWqSww/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [
-        "TV조선",
-        "티비조선",
-        "조선일보",
-        "종편",
-        "종합편성",
-        "TV조선뉴스",
-        "뉴스",
-        "뉴스프로그램",
-        "NEWS",
-        "채널19",
-        "CH19",
-        "뉴스9",
-        "뉴스7",
-        "윤정호",
-        "포커스",
-        "윤우리",
-        "강펀치",
-        "TVCHOSUN",
-        "LIVE",
-        "티비조선라이브",
-        "TV조선라이브"
-      ],
-      "isShorts": true
-    },
-    {
-      "id": "uWNW08XNBaU",
-      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
-      "channelTitle": "뉴스TVCHOSUN",
-      "title": "[뉴스트라다무스] 대장동 '깡통계좌'에 분노한 신상진 성남시장 향한 송영훈의 말!! \"꼭 하셔야 될 일이...\" #shorts",
-      "description": "#뉴스트라다무스 #대장동 #성남시\n\n영상이 마음에 드셨다면?\n뉴스트라다무스 채널로 이동하기 →www.youtube.com/@Newstradamus\n\n구독과 좋아요는 사랑입니다♥️\n\n매주 월~금 오후4시 LIVE🔴\n\"세상에서 가장 재미있는 정치쇼\n장원준·김미선의 뉴스트라다무스\"",
-      "publishedAt": "2026-01-13T11:33:42Z",
-      "duration": "PT1M6S",
-      "durationSeconds": 66,
-      "viewCount": 1593,
-      "likeCount": 63,
+      "id": "E7TjkeC5SYs",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelTitle": " YTN",
+      "title": "러시아, 우크라이나 수도·제2 도시 집중 공습...피해 속출 / YTN",
+      "description": "러시아군이 현지 시각 13일 새벽, 우크라이나 수도 키이우와 주요 도시에 미사일과 드론을 동원한 집중 공격을 퍼부었습니다.\n\n이번 공습으로 제2의 도시, 하르키우 외곽에서 최소한 4명이 숨지고, 키이우에선 비상 정전 조치가 시행된 것으로 전해졌습니다.\n\n하르키우 시장은 장거리 드론이 아동용 의료 시설을 공격해 화재가 발생했다고 밝혔습니다.\n\n남부 항구 도시",
+      "publishedAt": "2026-01-13T16:47:11Z",
+      "duration": "PT18S",
+      "durationSeconds": 18,
+      "viewCount": 395,
+      "likeCount": 6,
       "commentCount": 0,
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/uWNW08XNBaU/default.jpg",
+          "url": "https://i.ytimg.com/vi/E7TjkeC5SYs/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/uWNW08XNBaU/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/E7TjkeC5SYs/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/uWNW08XNBaU/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/E7TjkeC5SYs/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/uWNW08XNBaU/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/E7TjkeC5SYs/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/uWNW08XNBaU/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/E7TjkeC5SYs/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
       },
       "tags": [
-        "TV조선",
-        "티비조선",
-        "조선일보",
-        "종편",
-        "종합편성",
-        "TV조선뉴스",
-        "뉴스",
-        "뉴스프로그램",
-        "NEWS",
-        "채널19",
-        "CH19",
-        "뉴스9",
-        "뉴스7",
-        "윤정호",
-        "포커스",
-        "윤우리",
-        "강펀치",
-        "TVCHOSUN",
-        "LIVE",
-        "티비조선라이브",
-        "TV조선라이브"
+        "source:영상",
+        "type:방송",
+        "genre:국제",
+        "format:단신",
+        "person:유투권"
       ],
       "isShorts": true
     },
     {
-      "id": "TKjKI8CIiLM",
-      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
-      "channelTitle": "뉴스TVCHOSUN",
-      "title": "[뉴스트라다무스] 성남시 가압류 '헛수고' 만든 대장동 일당들 잔고 확인해보니?! #shorts",
-      "description": "#뉴스트라다무스 #대장동 #깡통계좌\n\n영상이 마음에 드셨다면?\n뉴스트라다무스 채널로 이동하기 →www.youtube.com/@Newstradamus\n\n구독과 좋아요는 사랑입니다♥️\n\n매주 월~금 오후4시 LIVE🔴\n\"세상에서 가장 재미있는 정치쇼\n장원준·김미선의 뉴스트라다무스\"",
-      "publishedAt": "2026-01-13T11:30:43Z",
-      "duration": "PT1M8S",
-      "durationSeconds": 68,
-      "viewCount": 4398,
-      "likeCount": 205,
+      "id": "dO6ZqE_5PyU",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelTitle": "연합뉴스TV",
+      "title": "정청래 \"검사는 공소유지만…중수청 수사사법관 바람직 않아\" / 연합뉴스TV (YonhapnewsTV)",
+      "description": "더불어민주당 정청래 대표가 정부의 중수청, 공소청 설치법안과 관련해 \"수사·기소 분리가 대원칙이고 검찰청을 폐지하면 검사는 공소 유지만 하라는 것\"이라고 말했습니다.\n\n정 대표는 어제(13일) 한 유튜브 방송에 출연해 \"이런 기본 정신에 어긋나면 안 된다는 게 민주당 의원 대부분 생각이고, 아마 그것대로 입법이 될 것\"이라고 밝혔습니다.\n\n중수청의 인력을 ",
+      "publishedAt": "2026-01-13T16:13:41Z",
+      "duration": "PT39S",
+      "durationSeconds": 39,
+      "viewCount": 353,
+      "likeCount": 9,
+      "commentCount": 6,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/dO6ZqE_5PyU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/dO6ZqE_5PyU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/dO6ZqE_5PyU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/dO6ZqE_5PyU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/dO6ZqE_5PyU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "LIVE",
+        "NEWS",
+        "뉴스",
+        "라이브",
+        "생방송",
+        "생중계",
+        "연합뉴스TV",
+        "주요뉴스"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "wy3Cp97U__c",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelTitle": "연합뉴스TV",
+      "title": "[속보] 尹 \"장기집권 계획 세운 적 없어\" / 연합뉴스TV (YonhapnewsTV)",
+      "description": "윤 전 대통령이 장기집권 계획은 세운 적이 없고 국헌 문란의 의도도 없고 폭동의 목적도 없었다.\n\n또 주먹을 불끈 쥐며 내란은 망상이고 소설이라는 최후 진술 내용까지 말을 했다고 지금 전해지고 있습니다.\n\n윤 전 대통령의 최후 진술은 내용은 저희가 들어오는 대로 또 정리해서 이어지는 뉴스에서 또 전해드리고요.\n\n▣ 연합뉴스TV 다큐멘터리 전문 채널 '다큐디",
+      "publishedAt": "2026-01-13T15:54:07Z",
+      "duration": "PT23S",
+      "durationSeconds": 23,
+      "viewCount": 646,
+      "likeCount": 9,
       "commentCount": 4,
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/TKjKI8CIiLM/default.jpg",
+          "url": "https://i.ytimg.com/vi/wy3Cp97U__c/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/TKjKI8CIiLM/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/wy3Cp97U__c/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/TKjKI8CIiLM/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/wy3Cp97U__c/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/TKjKI8CIiLM/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/wy3Cp97U__c/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/TKjKI8CIiLM/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/wy3Cp97U__c/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
       },
       "tags": [
-        "TV조선",
-        "티비조선",
-        "조선일보",
-        "종편",
-        "종합편성",
-        "TV조선뉴스",
-        "뉴스",
-        "뉴스프로그램",
-        "NEWS",
-        "채널19",
-        "CH19",
-        "뉴스9",
-        "뉴스7",
-        "윤정호",
-        "포커스",
-        "윤우리",
-        "강펀치",
-        "TVCHOSUN",
         "LIVE",
-        "티비조선라이브",
-        "TV조선라이브"
+        "NEWS",
+        "뉴스",
+        "라이브",
+        "생방송",
+        "생중계",
+        "연합뉴스TV",
+        "주요뉴스"
       ],
       "isShorts": true
     },
     {
-      "id": "CR1lFe-nVSY",
-      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
-      "channelTitle": " YTN",
-      "title": "민주 \"내란 수괴 윤석열, 법정 최고형 구형해야\" / YTN",
-      "description": "더불어민주당이 윤석열 전 대통령에게 법정 최고형을 선고해야 한다고 내란 특검에 촉구했습니다.\n\n한병도 원내대표는 오늘(13일) 원내대책회의에서 윤석열은 헌법과 민주주의를 총칼로 짓밟고, 국민 생명을 위협한 내란 수괴라고 강조했습니다.\n\n또 16일에는 윤석열의 체포방해 혐의에 대한 1심 선고가 예정돼 있다며, 내란 수괴와 공범들에게 법과 원칙에 따른 최고 수",
-      "publishedAt": "2026-01-13T11:16:35Z",
-      "duration": "PT30S",
-      "durationSeconds": 30,
-      "viewCount": 151,
-      "likeCount": 0,
-      "commentCount": 7,
+      "id": "g3A_qZSL1B0",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelTitle": "연합뉴스TV",
+      "title": "[속보] 윤석열 최후 진술 시작...준비한 종이 읽어내려가 / 연합뉴스TV (YonhapnewsTV)",
+      "description": "조금 전에 이제 저희가 자막으로도 지금 보여드리고 있습니다만 윤석열 전 대통령이 최후 진술을 시작했다는 소식이 전해졌습니다.\n\n준비한 종이를 하나하나 읽어 나가고 있는 상황인데요.\n\n어떤 내용이 담겨 있는지 저희가 전해드리겠습니다.\n\n윤 전 대통령 측이 특검이 무리한 수사와 기소를 남발했다.\n\n무조건 내란을 목표로 수사하고 있다.\n\n또 최후 진술에서 호소용",
+      "publishedAt": "2026-01-13T15:26:50Z",
+      "duration": "PT51S",
+      "durationSeconds": 51,
+      "viewCount": 2585,
+      "likeCount": 25,
+      "commentCount": 16,
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/CR1lFe-nVSY/default.jpg",
+          "url": "https://i.ytimg.com/vi/g3A_qZSL1B0/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/CR1lFe-nVSY/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/g3A_qZSL1B0/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/CR1lFe-nVSY/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/g3A_qZSL1B0/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/CR1lFe-nVSY/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/g3A_qZSL1B0/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/CR1lFe-nVSY/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/g3A_qZSL1B0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "LIVE",
+        "NEWS",
+        "뉴스",
+        "라이브",
+        "생방송",
+        "생중계",
+        "연합뉴스TV",
+        "주요뉴스"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "Wig0db7FSNw",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelTitle": "연합뉴스TV",
+      "title": "[영상구성] 법정 필리버스터 끝... 특검 윤석열에 사형 구형 / 연합뉴스TV (YonhapnewsTV)",
+      "description": "갈색 봉투 들고 입장한 윤석열 전 대통령\n\n변호인들과 웃으며 대화하고\n\n이어 들어온 김용현과도 눈인사\n\n\"갈릴레이도 탄압\" \"위법 수사\"\n\n마라톤 변론 중\n\n무언의 손짓도 보여...\n\n11시간 '법정 필리버스터' 종료 기다린 특검\n\n\"비상계엄, 반국가세력 의한 중대한 헌법 파괴\"\n\n\"윤석열 전 대통령에 사형 선고해달라\"\n\n이제 판단은 사법부로\n\n[영상구성 ",
+      "publishedAt": "2026-01-13T15:03:19Z",
+      "duration": "PT38S",
+      "durationSeconds": 38,
+      "viewCount": 455,
+      "likeCount": 9,
+      "commentCount": 4,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Wig0db7FSNw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Wig0db7FSNw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Wig0db7FSNw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Wig0db7FSNw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Wig0db7FSNw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "LIVE",
+        "NEWS",
+        "뉴스",
+        "라이브",
+        "생방송",
+        "생중계",
+        "연합뉴스TV",
+        "주요뉴스"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "abtMb68Oy1g",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelTitle": " YTN",
+      "title": "중국 \"한일 정상회담, 양국 간의 일...논평 안 해\" / YTN",
+      "description": "이재명 대통령과 다카이치 사나에 총리의 정상회담을 두고 중국은 \"한국과 일본의 양자 교류\"라며 선을 그었습니다.\n\n마오닝 중국 외교부 대변인은 정례브리핑에서 한일 정상회담에 대한 중국 측 입장을 묻는 질문에 이같이 짧게 대답했습니다.\n\n마오 대변인은 앞서 지난 9일에도 이 대통령의 일본 방문은 한일 양국 간 일이라며 논평을 자제했습니다.\n\n다만 그때는 \"국",
+      "publishedAt": "2026-01-13T14:26:38Z",
+      "duration": "PT26S",
+      "durationSeconds": 26,
+      "viewCount": 619,
+      "likeCount": 0,
+      "commentCount": 3,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/abtMb68Oy1g/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/abtMb68Oy1g/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/abtMb68Oy1g/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/abtMb68Oy1g/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/abtMb68Oy1g/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -447,73 +482,122 @@
       "tags": [
         "source:영상",
         "type:방송",
-        "genre:정치",
+        "genre:국제",
         "format:단신",
-        "person:강민경"
+        "person:강정규"
       ],
       "isShorts": true
     },
     {
-      "id": "OWWOCi_XmMQ",
-      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
-      "channelTitle": "뉴스TVCHOSUN",
-      "title": "백지원 \"김병기, 악성 민원인 중에서도 보스급이네요\" 장남에 이어 차남까지 편입 청탁 의혹터진 김병기!![엄튜브]#shorts",
-      "description": "#엄튜브 #김병기 #백지원 \n\n[TV조선 뉴스·시사 프로그램｜유튜브 라이브 방송시간]\n\n📡 월~금 07:30 강상구의 투시경 (유튜브)\n📡 월~금 07:30 뉴스퍼레이드\n📡 월        08:40 네트워크 매거진\n📡 월~금 09:00 신통방통 \n📡 월~금 10:20 류병수의 강펀치 (유튜브)\n📡 월~금 13:00 보도본부 핫라인\n📡 월~금 ",
-      "publishedAt": "2026-01-13T11:07:46Z",
-      "duration": "PT1M10S",
-      "durationSeconds": 70,
-      "viewCount": 2707,
-      "likeCount": 135,
-      "commentCount": 1,
+      "id": "7SOwCe-zv60",
+      "channelId": "UCgeOlLcX6PReHdWImEnUVTg",
+      "channelTitle": "스픽스",
+      "title": "윤석열 사형 구형 속보 뜬 순간!! (feat. 2분 뉴스 강지호 기자)",
+      "description": "#shorts #속보 #윤석열 #사형 #구형 #강지호",
+      "publishedAt": "2026-01-13T14:15:00Z",
+      "duration": "PT31S",
+      "durationSeconds": 31,
+      "viewCount": 92109,
+      "likeCount": 8482,
+      "commentCount": 212,
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/OWWOCi_XmMQ/default.jpg",
+          "url": "https://i.ytimg.com/vi/7SOwCe-zv60/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/OWWOCi_XmMQ/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/7SOwCe-zv60/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/OWWOCi_XmMQ/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/7SOwCe-zv60/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/OWWOCi_XmMQ/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/7SOwCe-zv60/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/OWWOCi_XmMQ/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/7SOwCe-zv60/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
       },
       "tags": [
-        "TV조선",
-        "티비조선",
-        "조선일보",
-        "종편",
-        "종합편성",
-        "TV조선뉴스",
-        "뉴스",
-        "뉴스프로그램",
-        "NEWS",
-        "채널19",
-        "CH19",
-        "뉴스9",
-        "뉴스7",
-        "윤정호",
-        "포커스",
-        "윤우리",
-        "강펀치",
-        "TVCHOSUN",
-        "LIVE",
-        "티비조선라이브",
-        "TV조선라이브"
+        "스픽스",
+        "speaks",
+        "더불어민주당",
+        "민주당",
+        "국민의힘",
+        "여당",
+        "야당",
+        "여야",
+        "정치대담",
+        "정치",
+        "경제대담",
+        "경제",
+        "윤석열",
+        "윤대통령",
+        "대통령",
+        "정부",
+        "보수",
+        "진보",
+        "중도",
+        "전계완",
+        "김건희",
+        "건희사랑"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "0xJDwTYeeMg",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelTitle": " YTN",
+      "title": "[영상] 윤석열 내란 혐의 '사형' 구형 / YTN",
+      "description": "[영상] 윤석열 내란 혐의 '사형' 구형\n\n\n\n\n\nYTN 김현준 (lhsb509@ytn.co.kr)\n\n※ '당신의 제보가 뉴스가 됩니다'\n[카카오톡] YTN 검색해 채널 추가\n[전화] 02-398-8585\n[메일] social@ytn.co.kr\n\n▶ 기사 원문 : https://www.ytn.co.kr/_ln/0103_202601132246319072\n▶ ",
+      "publishedAt": "2026-01-13T14:04:41Z",
+      "duration": "PT29S",
+      "durationSeconds": 29,
+      "viewCount": 4466,
+      "likeCount": 80,
+      "commentCount": 71,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0xJDwTYeeMg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0xJDwTYeeMg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0xJDwTYeeMg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/0xJDwTYeeMg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/0xJDwTYeeMg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "source:영상",
+        "type:방송",
+        "genre:사회",
+        "format:raw footage",
+        "person:김현준"
       ],
       "isShorts": true
     },
@@ -526,9 +610,9 @@
       "publishedAt": "2026-01-13T11:07:00Z",
       "duration": "PT16S",
       "durationSeconds": 16,
-      "viewCount": 1392,
-      "likeCount": 24,
-      "commentCount": 0,
+      "viewCount": 5727,
+      "likeCount": 91,
+      "commentCount": 5,
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/L_kUCosltc4/default.jpg",
@@ -583,182 +667,6 @@
       "isShorts": true
     },
     {
-      "id": "d-p_VOPXnf8",
-      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
-      "channelTitle": "뉴스TVCHOSUN",
-      "title": "백지원 \"'서해구조물' 논란에 제주엔 중국어 적힌 나무 배가 떠밀려 오는데 '한중 연합훈련' 제안한 李\"?! [엄튜브]#shorts",
-      "description": "#엄튜브 #중국 #서해 #제주 \n\n[TV조선 뉴스·시사 프로그램｜유튜브 라이브 방송시간]\n\n📡 월~금 07:30 강상구의 투시경 (유튜브)\n📡 월~금 07:30 뉴스퍼레이드\n📡 월        08:40 네트워크 매거진\n📡 월~금 09:00 신통방통 \n📡 월~금 10:20 류병수의 강펀치 (유튜브)\n📡 월~금 13:00 보도본부 핫라인\n📡 월~",
-      "publishedAt": "2026-01-13T11:06:42Z",
-      "duration": "PT1M14S",
-      "durationSeconds": 74,
-      "viewCount": 2388,
-      "likeCount": 149,
-      "commentCount": 4,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/d-p_VOPXnf8/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/d-p_VOPXnf8/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/d-p_VOPXnf8/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/d-p_VOPXnf8/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/d-p_VOPXnf8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [
-        "TV조선",
-        "티비조선",
-        "조선일보",
-        "종편",
-        "종합편성",
-        "TV조선뉴스",
-        "뉴스",
-        "뉴스프로그램",
-        "NEWS",
-        "채널19",
-        "CH19",
-        "뉴스9",
-        "뉴스7",
-        "윤정호",
-        "포커스",
-        "윤우리",
-        "강펀치",
-        "TVCHOSUN",
-        "LIVE",
-        "티비조선라이브",
-        "TV조선라이브"
-      ],
-      "isShorts": true
-    },
-    {
-      "id": "rUiVrsUe930",
-      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
-      "channelTitle": " YTN",
-      "title": "연세대 화학 실험실에서 불...133명 대피·실험장비 소실 / YTN",
-      "description": "어제저녁(12일) 8시 20분쯤 서울 서대문구 연세대학교 과학관 4층에 있는 화학 실험실에서 불이 나 20여 분 만에 꺼졌습니다.\n\n이 불로 다친 사람은 없었지만, 건물에 있던 학생과 교수 등 133명이 대피했고, 실험 장비 일부가 불에 탔습니다.\n\n소방 당국은 약품 폐기 과정에서 불이 시작된 것으로 보고 정확한 화재 원인을 조사하고 있습니다.\n\n※ ’당신",
-      "publishedAt": "2026-01-13T11:01:41Z",
-      "duration": "PT26S",
-      "durationSeconds": 26,
-      "viewCount": 338,
-      "likeCount": 1,
-      "commentCount": 0,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/rUiVrsUe930/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/rUiVrsUe930/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/rUiVrsUe930/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/rUiVrsUe930/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/rUiVrsUe930/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [
-        "source:영상",
-        "type:방송",
-        "genre:사회",
-        "format:단신",
-        "person:정영수"
-      ],
-      "isShorts": true
-    },
-    {
-      "id": "Ew6WPUVIiEI",
-      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
-      "channelTitle": "뉴스TVCHOSUN",
-      "title": "[뉴스트라다무스] 송영훈, \"김병기 차남에 대한 재밌는 후일담이 있다. 이재명 후보 캠프에 합류했는데...\" #shorts",
-      "description": "#뉴스트라다무스 #김병기 #김병기차남",
-      "publishedAt": "2026-01-13T10:47:40Z",
-      "duration": "PT1M24S",
-      "durationSeconds": 84,
-      "viewCount": 1013,
-      "likeCount": 26,
-      "commentCount": 0,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Ew6WPUVIiEI/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Ew6WPUVIiEI/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Ew6WPUVIiEI/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/Ew6WPUVIiEI/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/Ew6WPUVIiEI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [
-        "TV조선",
-        "티비조선",
-        "조선일보",
-        "종편",
-        "종합편성",
-        "TV조선뉴스",
-        "뉴스",
-        "뉴스프로그램",
-        "NEWS",
-        "채널19",
-        "CH19",
-        "뉴스9",
-        "뉴스7",
-        "윤정호",
-        "포커스",
-        "윤우리",
-        "강펀치",
-        "TVCHOSUN",
-        "LIVE",
-        "티비조선라이브",
-        "TV조선라이브"
-      ],
-      "isShorts": true
-    },
-    {
       "id": "596Zo2Ajh54",
       "channelId": "UCgeOlLcX6PReHdWImEnUVTg",
       "channelTitle": "스픽스",
@@ -767,9 +675,9 @@
       "publishedAt": "2026-01-13T10:47:00Z",
       "duration": "PT27S",
       "durationSeconds": 27,
-      "viewCount": 3743,
-      "likeCount": 107,
-      "commentCount": 25,
+      "viewCount": 14794,
+      "likeCount": 300,
+      "commentCount": 53,
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/596Zo2Ajh54/default.jpg",
@@ -832,9 +740,9 @@
       "publishedAt": "2026-01-13T10:27:01Z",
       "duration": "PT24S",
       "durationSeconds": 24,
-      "viewCount": 4115,
-      "likeCount": 135,
-      "commentCount": 13,
+      "viewCount": 11832,
+      "likeCount": 250,
+      "commentCount": 33,
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/rsov_NsX8Ac/default.jpg",
@@ -889,137 +797,6 @@
       "isShorts": true
     },
     {
-      "id": "7MbcZi_d8oc",
-      "channelId": "UC8tH3EF_zmxnKwmpuy9LbYw",
-      "channelTitle": "한국의목소리",
-      "title": "[속보] 지금 당장 국민연금 받는 방법",
-      "description": "",
-      "publishedAt": "2026-01-13T09:59:16Z",
-      "duration": "PT43S",
-      "durationSeconds": 43,
-      "viewCount": 38918,
-      "likeCount": 4136,
-      "commentCount": 268,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/7MbcZi_d8oc/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/7MbcZi_d8oc/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/7MbcZi_d8oc/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/7MbcZi_d8oc/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/7MbcZi_d8oc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
-      "id": "5gCK94H-6wk",
-      "channelId": "UC8tH3EF_zmxnKwmpuy9LbYw",
-      "channelTitle": "한국의목소리",
-      "title": "[속보] 2030 청년들 폭발, 일어났다",
-      "description": "",
-      "publishedAt": "2026-01-13T09:17:36Z",
-      "duration": "PT44S",
-      "durationSeconds": 44,
-      "viewCount": 74674,
-      "likeCount": 17803,
-      "commentCount": 738,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/5gCK94H-6wk/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/5gCK94H-6wk/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/5gCK94H-6wk/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/5gCK94H-6wk/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/5gCK94H-6wk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
-      "id": "AUFzWKLBIyU",
-      "channelId": "UC_PvWUdkXjDOKlW6Hao5l6A",
-      "channelTitle": "정치토크",
-      "title": "검찰개혁과 관련하여 #박지원의원",
-      "description": "턱도 없는 소리는",
-      "publishedAt": "2026-01-13T09:00:17Z",
-      "duration": "PT33S",
-      "durationSeconds": 33,
-      "viewCount": 848,
-      "likeCount": 14,
-      "commentCount": 0,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/AUFzWKLBIyU/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/AUFzWKLBIyU/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/AUFzWKLBIyU/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/AUFzWKLBIyU/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/AUFzWKLBIyU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [
-        "박지원 법사위",
-        "박지원",
-        "박지원 의원",
-        "박지원 이재명"
-      ],
-      "isShorts": true
-    },
-    {
       "id": "o6C5Qd3dVn8",
       "channelId": "UCgeOlLcX6PReHdWImEnUVTg",
       "channelTitle": "스픽스",
@@ -1028,9 +805,9 @@
       "publishedAt": "2026-01-13T08:30:28Z",
       "duration": "PT7S",
       "durationSeconds": 7,
-      "viewCount": 22356,
-      "likeCount": 343,
-      "commentCount": 9,
+      "viewCount": 39337,
+      "likeCount": 469,
+      "commentCount": 16,
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/o6C5Qd3dVn8/default.jpg",
@@ -1093,9 +870,9 @@
       "publishedAt": "2026-01-13T08:30:13Z",
       "duration": "PT27S",
       "durationSeconds": 27,
-      "viewCount": 4845,
-      "likeCount": 72,
-      "commentCount": 9,
+      "viewCount": 7212,
+      "likeCount": 92,
+      "commentCount": 11,
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/OzxR0F3FzzY/default.jpg",
@@ -1158,9 +935,9 @@
       "publishedAt": "2026-01-13T08:15:00Z",
       "duration": "PT1M10S",
       "durationSeconds": 70,
-      "viewCount": 7170,
-      "likeCount": 71,
-      "commentCount": 36,
+      "viewCount": 12420,
+      "likeCount": 126,
+      "commentCount": 66,
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/9zxw8Urr4I0/default.jpg",
@@ -1223,9 +1000,9 @@
       "publishedAt": "2026-01-13T08:01:09Z",
       "duration": "PT19S",
       "durationSeconds": 19,
-      "viewCount": 8658,
-      "likeCount": 156,
-      "commentCount": 33,
+      "viewCount": 12342,
+      "likeCount": 192,
+      "commentCount": 40,
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/r3t6hTLlsf0/default.jpg",
@@ -1288,8 +1065,8 @@
       "publishedAt": "2026-01-13T07:39:20Z",
       "duration": "PT39S",
       "durationSeconds": 39,
-      "viewCount": 2766,
-      "likeCount": 48,
+      "viewCount": 3401,
+      "likeCount": 54,
       "commentCount": 4,
       "thumbnails": {
         "default": {
@@ -1345,61 +1122,6 @@
       "isShorts": true
     },
     {
-      "id": "A-yxNMd_MJo",
-      "channelId": "UCHDYKIRxMEItLVoqtmGq3aA",
-      "channelTitle": "정치창",
-      "title": "유치원 선생님이냐? 윤석열 선고 날 한심한 지귀연의 모습",
-      "description": "채널의 회원이 되어주셔서 감사합니다! \nhttps://www.youtube.com/channel/UCHDYKIRxMEItLVoqtmGq3aA/join",
-      "publishedAt": "2026-01-13T07:32:42Z",
-      "duration": "PT28S",
-      "durationSeconds": 28,
-      "viewCount": 5167,
-      "likeCount": 47,
-      "commentCount": 8,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/A-yxNMd_MJo/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/A-yxNMd_MJo/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/A-yxNMd_MJo/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/A-yxNMd_MJo/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/A-yxNMd_MJo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [
-        "김건희",
-        "윤석열",
-        "정치",
-        "시사",
-        "국민의힘",
-        "민주당",
-        "이재명",
-        "한동훈",
-        "나경원",
-        "배현진",
-        "조국",
-        "조국혁신당"
-      ],
-      "isShorts": true
-    },
-    {
       "id": "ap_d6OGUVOs",
       "channelId": "UCgeOlLcX6PReHdWImEnUVTg",
       "channelTitle": "스픽스",
@@ -1408,9 +1130,9 @@
       "publishedAt": "2026-01-13T07:30:03Z",
       "duration": "PT16S",
       "durationSeconds": 16,
-      "viewCount": 19827,
-      "likeCount": 558,
-      "commentCount": 5,
+      "viewCount": 28322,
+      "likeCount": 641,
+      "commentCount": 9,
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/ap_d6OGUVOs/default.jpg",
@@ -1465,1299 +1187,49 @@
       "isShorts": true
     },
     {
-      "id": "1bnV3SI1J6A",
-      "channelId": "UCgeOlLcX6PReHdWImEnUVTg",
-      "channelTitle": "스픽스",
-      "title": "이재명 대통령 \"한일 관계, 다시 시작하는 60년\"",
-      "description": "#스픽스 #이재명 #한일정상회담\n\n♣스픽스몰\nhttps://www.speaksmall.kr/\n\n♣스픽스 멤버십 가입하기\nhttps://www.youtube.com/channel/UCgeOlLcX6PReHdWImEnUVTg/join\n\n♣️ 스픽스 유튜브 구독하기\nhttps://www.youtube.com/@SPEAKS_TV\n\n♣️더 나은 세상을 만들어가는 대",
-      "publishedAt": "2026-01-13T07:00:05Z",
-      "duration": "PT16S",
-      "durationSeconds": 16,
-      "viewCount": 15019,
-      "likeCount": 370,
-      "commentCount": 2,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/1bnV3SI1J6A/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/1bnV3SI1J6A/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/1bnV3SI1J6A/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/1bnV3SI1J6A/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/1bnV3SI1J6A/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [
-        "스픽스",
-        "speaks",
-        "더불어민주당",
-        "민주당",
-        "국민의힘",
-        "여당",
-        "야당",
-        "여야",
-        "정치대담",
-        "정치",
-        "경제대담",
-        "경제",
-        "윤석열",
-        "윤대통령",
-        "대통령",
-        "정부",
-        "보수",
-        "진보",
-        "중도",
-        "전계완",
-        "김건희",
-        "건희사랑"
-      ],
-      "isShorts": true
-    },
-    {
-      "id": "VeiQKGy_quA",
-      "channelId": "UC_PvWUdkXjDOKlW6Hao5l6A",
-      "channelTitle": "정치토크",
-      "title": "검사의 권력을 견제하려면 #한동수",
-      "description": "추의 균형을",
-      "publishedAt": "2026-01-13T06:50:33Z",
-      "duration": "PT22S",
-      "durationSeconds": 22,
-      "viewCount": 1134,
-      "likeCount": 17,
-      "commentCount": 2,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/VeiQKGy_quA/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/VeiQKGy_quA/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/VeiQKGy_quA/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/VeiQKGy_quA/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/VeiQKGy_quA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [
-        "한동수 최욱",
-        "한동수 매불쇼",
-        "한동수 최욱 매불쇼",
-        "한동수 검찰개혁",
-        "한동수 위원장"
-      ],
-      "isShorts": true
-    },
-    {
-      "id": "srPQ2YY5sJs",
-      "channelId": "UCgeOlLcX6PReHdWImEnUVTg",
-      "channelTitle": "스픽스",
-      "title": "\"좋은 건 키우고 나쁜 건 줄이고\" 모두가 고개를 끄덕인 대통령의 한일관",
-      "description": "#스픽스 #이재명 #한일관\n\n♣스픽스몰\nhttps://www.speaksmall.kr/\n\n♣스픽스 멤버십 가입하기\nhttps://www.youtube.com/channel/UCgeOlLcX6PReHdWImEnUVTg/join\n\n♣️ 스픽스 유튜브 구독하기\nhttps://www.youtube.com/@SPEAKS_TV\n\n♣️더 나은 세상을 만들어가는 대한민국",
-      "publishedAt": "2026-01-13T06:35:26Z",
-      "duration": "PT12S",
-      "durationSeconds": 12,
-      "viewCount": 26572,
-      "likeCount": 981,
-      "commentCount": 5,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/srPQ2YY5sJs/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/srPQ2YY5sJs/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/srPQ2YY5sJs/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/srPQ2YY5sJs/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/srPQ2YY5sJs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [
-        "스픽스",
-        "speaks",
-        "더불어민주당",
-        "민주당",
-        "국민의힘",
-        "여당",
-        "야당",
-        "여야",
-        "정치대담",
-        "정치",
-        "경제대담",
-        "경제",
-        "윤석열",
-        "윤대통령",
-        "대통령",
-        "정부",
-        "보수",
-        "진보",
-        "중도",
-        "전계완",
-        "김건희",
-        "건희사랑"
-      ],
-      "isShorts": true
-    },
-    {
-      "id": "LXxxAPJoRJ0",
-      "channelId": "UCHDYKIRxMEItLVoqtmGq3aA",
-      "channelTitle": "정치창",
-      "title": "이재명 대통령보고 방긋 웃는 다카이치 총리..입이 귀에 걸렸네~",
-      "description": "채널의 회원이 되어주셔서 감사합니다! \nhttps://www.youtube.com/channel/UCHDYKIRxMEItLVoqtmGq3aA/join",
-      "publishedAt": "2026-01-13T06:33:21Z",
-      "duration": "PT15S",
-      "durationSeconds": 15,
-      "viewCount": 7832,
-      "likeCount": 158,
-      "commentCount": 8,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/LXxxAPJoRJ0/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/LXxxAPJoRJ0/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/LXxxAPJoRJ0/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/LXxxAPJoRJ0/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/LXxxAPJoRJ0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [
-        "김건희",
-        "윤석열",
-        "정치",
-        "시사",
-        "국민의힘",
-        "민주당",
-        "이재명",
-        "한동훈",
-        "나경원",
-        "배현진",
-        "조국",
-        "조국혁신당"
-      ],
-      "isShorts": true
-    },
-    {
-      "id": "DNsyr8LEROI",
-      "channelId": "UCgeOlLcX6PReHdWImEnUVTg",
-      "channelTitle": "스픽스",
-      "title": "MB의 입에서 MB의 저승사자로?! 나경원의 화려한 변신",
-      "description": "#스픽스 #나경원 #이명박\n\n♣스픽스몰\nhttps://www.speaksmall.kr/\n\n♣스픽스 멤버십 가입하기\nhttps://www.youtube.com/channel/UCgeOlLcX6PReHdWImEnUVTg/join\n\n♣️ 스픽스 유튜브 구독하기\nhttps://www.youtube.com/@SPEAKS_TV\n\n♣️더 나은 세상을 만들어가는 대한민국",
-      "publishedAt": "2026-01-13T06:01:41Z",
-      "duration": "PT23S",
-      "durationSeconds": 23,
-      "viewCount": 20872,
-      "likeCount": 301,
-      "commentCount": 25,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/DNsyr8LEROI/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/DNsyr8LEROI/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/DNsyr8LEROI/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/DNsyr8LEROI/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/DNsyr8LEROI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [
-        "스픽스",
-        "speaks",
-        "더불어민주당",
-        "민주당",
-        "국민의힘",
-        "여당",
-        "야당",
-        "여야",
-        "정치대담",
-        "정치",
-        "경제대담",
-        "경제",
-        "윤석열",
-        "윤대통령",
-        "대통령",
-        "정부",
-        "보수",
-        "진보",
-        "중도",
-        "전계완",
-        "김건희",
-        "건희사랑"
-      ],
-      "isShorts": true
-    },
-    {
-      "id": "mj05Vd7f-Gs",
-      "channelId": "UC8tH3EF_zmxnKwmpuy9LbYw",
-      "channelTitle": "한국의목소리",
-      "title": "[속보] 이란 공습, 옵션에 있다",
-      "description": "",
-      "publishedAt": "2026-01-13T05:46:25Z",
-      "duration": "PT42S",
-      "durationSeconds": 42,
-      "viewCount": 54974,
-      "likeCount": 3576,
-      "commentCount": 140,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/mj05Vd7f-Gs/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/mj05Vd7f-Gs/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/mj05Vd7f-Gs/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/mj05Vd7f-Gs/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/mj05Vd7f-Gs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
-      "id": "6hIkku65a5Y",
-      "channelId": "UC8tH3EF_zmxnKwmpuy9LbYw",
-      "channelTitle": "한국의목소리",
-      "title": "[속보] 나경원에 찍소리 못하는 안규백",
-      "description": "",
-      "publishedAt": "2026-01-13T05:36:10Z",
-      "duration": "PT34S",
-      "durationSeconds": 34,
-      "viewCount": 63785,
-      "likeCount": 7075,
-      "commentCount": 443,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/6hIkku65a5Y/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/6hIkku65a5Y/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/6hIkku65a5Y/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/6hIkku65a5Y/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/6hIkku65a5Y/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
-      "id": "WgYEvO7uz64",
-      "channelId": "UCHDYKIRxMEItLVoqtmGq3aA",
-      "channelTitle": "정치창",
-      "title": "다시 봐도 어마어마한 윤석열 이재명의 수준 차이",
-      "description": "",
-      "publishedAt": "2026-01-13T05:24:57Z",
-      "duration": "PT54S",
-      "durationSeconds": 54,
-      "viewCount": 3681,
-      "likeCount": 65,
-      "commentCount": 5,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/WgYEvO7uz64/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/WgYEvO7uz64/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/WgYEvO7uz64/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/WgYEvO7uz64/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/WgYEvO7uz64/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
-      "id": "wMSppxPGrGs",
-      "channelId": "UC_PvWUdkXjDOKlW6Hao5l6A",
-      "channelTitle": "정치토크",
-      "title": "든든한 김민석 총리 #김민석총리",
-      "description": "대통령 일본 순방 중",
-      "publishedAt": "2026-01-13T05:06:35Z",
-      "duration": "PT22S",
-      "durationSeconds": 22,
-      "viewCount": 1074,
-      "likeCount": 45,
+      "id": "Z97pm4_tfGs",
+      "channelId": "UC3JHAan3P2LhRbk0xUYTK6w",
+      "channelTitle": "Human Issue - Topic",
+      "title": "Saved",
+      "description": "Provided to YouTube by Virgin Music Group\n\nSaved · Human Issue\n\nFaceless. Nameless.\n\n℗ 2022 Rad Girlfriend Records\n\nReleased on: 2022-02-18\n\nComposer, Writer: Hunter Martinez\n\nAuto-generated by YouTub",
+      "publishedAt": "2022-02-17T10:05:37Z",
+      "duration": "PT28S",
+      "durationSeconds": 28,
+      "viewCount": 155,
+      "likeCount": 0,
       "commentCount": 0,
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/wMSppxPGrGs/default.jpg",
+          "url": "https://i.ytimg.com/vi/Z97pm4_tfGs/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/wMSppxPGrGs/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Z97pm4_tfGs/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/wMSppxPGrGs/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Z97pm4_tfGs/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/wMSppxPGrGs/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/Z97pm4_tfGs/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/wMSppxPGrGs/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Z97pm4_tfGs/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
       },
       "tags": [
-        "김민석 총리",
-        "김민석 국무회의"
+        "Human Issue",
+        "Faceless. Nameless.",
+        "Saved"
       ],
-      "isShorts": true
-    },
-    {
-      "id": "UiT9VTSQII8",
-      "channelId": "UC8tH3EF_zmxnKwmpuy9LbYw",
-      "channelTitle": "한국의목소리",
-      "title": "[속보] 트럼프 소개령, 이란에서 즉시 대피",
-      "description": "",
-      "publishedAt": "2026-01-13T04:01:59Z",
-      "duration": "PT36S",
-      "durationSeconds": 36,
-      "viewCount": 117763,
-      "likeCount": 12768,
-      "commentCount": 517,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/UiT9VTSQII8/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/UiT9VTSQII8/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/UiT9VTSQII8/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/UiT9VTSQII8/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/UiT9VTSQII8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
-      "id": "zkjkucTALco",
-      "channelId": "UC8tH3EF_zmxnKwmpuy9LbYw",
-      "channelTitle": "한국의목소리",
-      "title": "[속보] 돌이킬 수 없는 후쿠시마 거짓선동",
-      "description": "",
-      "publishedAt": "2026-01-13T03:37:53Z",
-      "duration": "PT51S",
-      "durationSeconds": 51,
-      "viewCount": 58407,
-      "likeCount": 6469,
-      "commentCount": 956,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/zkjkucTALco/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/zkjkucTALco/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/zkjkucTALco/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/zkjkucTALco/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/zkjkucTALco/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
-      "id": "V7ouxEvQyA0",
-      "channelId": "UC8tH3EF_zmxnKwmpuy9LbYw",
-      "channelTitle": "한국의목소리",
-      "title": "[속보] 이재명, 중국과 군사훈련 제안",
-      "description": "",
-      "publishedAt": "2026-01-13T03:07:14Z",
-      "duration": "PT43S",
-      "durationSeconds": 43,
-      "viewCount": 210981,
-      "likeCount": 23229,
-      "commentCount": 1607,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/V7ouxEvQyA0/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/V7ouxEvQyA0/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/V7ouxEvQyA0/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/V7ouxEvQyA0/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/V7ouxEvQyA0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
-      "id": "QbI1bjG62DM",
-      "channelId": "UC8tH3EF_zmxnKwmpuy9LbYw",
-      "channelTitle": "한국의목소리",
-      "title": "[속보] UN 국제기구 사기였다",
-      "description": "",
-      "publishedAt": "2026-01-13T02:46:09Z",
-      "duration": "PT54S",
-      "durationSeconds": 54,
-      "viewCount": 42963,
-      "likeCount": 5490,
-      "commentCount": 225,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/QbI1bjG62DM/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/QbI1bjG62DM/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/QbI1bjG62DM/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/QbI1bjG62DM/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/QbI1bjG62DM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
-      "id": "MpuPwEmz5_A",
-      "channelId": "UCHDYKIRxMEItLVoqtmGq3aA",
-      "channelTitle": "정치창",
-      "title": "정치9단 박지원 의원에게 버릇없는 말버릇 시전하는 김재섭 바로 박살내는 추미애 위원장",
-      "description": "채널의 회원이 되어주셔서 감사합니다! \nhttps://www.youtube.com/channel/UCHDYKIRxMEItLVoqtmGq3aA/join",
-      "publishedAt": "2026-01-13T02:38:08Z",
-      "duration": "PT59S",
-      "durationSeconds": 59,
-      "viewCount": 10476,
-      "likeCount": 196,
-      "commentCount": 13,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/MpuPwEmz5_A/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/MpuPwEmz5_A/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/MpuPwEmz5_A/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/MpuPwEmz5_A/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/MpuPwEmz5_A/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [
-        "김건희",
-        "윤석열",
-        "정치",
-        "시사",
-        "국민의힘",
-        "민주당",
-        "이재명",
-        "한동훈",
-        "나경원",
-        "배현진",
-        "조국",
-        "조국혁신당"
-      ],
-      "isShorts": true
-    },
-    {
-      "id": "nOuLWnTW-pE",
-      "channelId": "UC8tH3EF_zmxnKwmpuy9LbYw",
-      "channelTitle": "한국의목소리",
-      "title": "[속보] 한국 정치인에 폭발한 베네수엘라인",
-      "description": "",
-      "publishedAt": "2026-01-13T02:34:01Z",
-      "duration": "PT34S",
-      "durationSeconds": 34,
-      "viewCount": 40455,
-      "likeCount": 4140,
-      "commentCount": 224,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/nOuLWnTW-pE/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/nOuLWnTW-pE/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/nOuLWnTW-pE/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/nOuLWnTW-pE/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/nOuLWnTW-pE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
-      "id": "hmOe8cxMEX8",
-      "channelId": "UCPnsRM1XL2NM3xq8N7XGaQg",
-      "channelTitle": "링킹",
-      "title": "#제명당해도 #탈당은 #안한다 #김병기 #제명에 #재심 #청구",
-      "description": "#제명당해도 #탈당은 #안한다 #김병기 #제명에 #재심 #청구",
-      "publishedAt": "2026-01-13T02:30:45Z",
-      "duration": "PT58S",
-      "durationSeconds": 58,
-      "viewCount": 11473,
-      "likeCount": 300,
-      "commentCount": 11,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/hmOe8cxMEX8/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/hmOe8cxMEX8/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/hmOe8cxMEX8/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/hmOe8cxMEX8/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/hmOe8cxMEX8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
-      "id": "PWQwOV6UAp4",
-      "channelId": "UC8tH3EF_zmxnKwmpuy9LbYw",
-      "channelTitle": "한국의목소리",
-      "title": "[속보] 김만배 4800억 사라졌다",
-      "description": "",
-      "publishedAt": "2026-01-13T02:12:22Z",
-      "duration": "PT37S",
-      "durationSeconds": 37,
-      "viewCount": 216116,
-      "likeCount": 16308,
-      "commentCount": 1438,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/PWQwOV6UAp4/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/PWQwOV6UAp4/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/PWQwOV6UAp4/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/PWQwOV6UAp4/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/PWQwOV6UAp4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
-      "id": "1ylV6kz7yQ8",
-      "channelId": "UC8tH3EF_zmxnKwmpuy9LbYw",
-      "channelTitle": "한국의목소리",
-      "title": "[속보] 이재명 때문에 백지원 분노",
-      "description": "",
-      "publishedAt": "2026-01-13T01:51:28Z",
-      "duration": "PT1M",
-      "durationSeconds": 60,
-      "viewCount": 34618,
-      "likeCount": 5452,
-      "commentCount": 210,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/1ylV6kz7yQ8/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/1ylV6kz7yQ8/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/1ylV6kz7yQ8/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/1ylV6kz7yQ8/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/1ylV6kz7yQ8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
-      "id": "LRcXZPGcq3Q",
-      "channelId": "UC8tH3EF_zmxnKwmpuy9LbYw",
-      "channelTitle": "한국의목소리",
-      "title": "[속보] 이재명 지지율 60% 나오는 이유",
-      "description": "",
-      "publishedAt": "2026-01-13T01:25:44Z",
-      "duration": "PT34S",
-      "durationSeconds": 34,
-      "viewCount": 222439,
-      "likeCount": 10063,
-      "commentCount": 1326,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/LRcXZPGcq3Q/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/LRcXZPGcq3Q/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/LRcXZPGcq3Q/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/LRcXZPGcq3Q/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/LRcXZPGcq3Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
-      "id": "DrDH5kySwhc",
-      "channelId": "UCPnsRM1XL2NM3xq8N7XGaQg",
-      "channelTitle": "링킹",
-      "title": "#계엄의 #밤 #박성재에게 #3600명 #수용 #가능 #보고 #후 #증거 #삭제 #역대 #최장수 #교정본부장",
-      "description": "#계엄의 #밤 #박성재에게 #3600명 #수용 #가능 #보고 #후 #증거 #삭제 #역대 #최장수 #교정본부장",
-      "publishedAt": "2026-01-12T22:08:18Z",
-      "duration": "PT56S",
-      "durationSeconds": 56,
-      "viewCount": 38418,
-      "likeCount": 1146,
-      "commentCount": 78,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/DrDH5kySwhc/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/DrDH5kySwhc/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/DrDH5kySwhc/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/DrDH5kySwhc/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/DrDH5kySwhc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
-      "id": "ip2nD5QN5MU",
-      "channelId": "UCHDYKIRxMEItLVoqtmGq3aA",
-      "channelTitle": "정치창",
-      "title": "국민의 힘 이름 바꾸겠다고?",
-      "description": "채널의 회원이 되어주셔서 감사합니다! \nhttps://www.youtube.com/channel/UCHDYKIRxMEItLVoqtmGq3aA/join",
-      "publishedAt": "2026-01-12T09:39:17Z",
-      "duration": "PT51S",
-      "durationSeconds": 51,
-      "viewCount": 12160,
-      "likeCount": 447,
-      "commentCount": 6,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ip2nD5QN5MU/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ip2nD5QN5MU/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ip2nD5QN5MU/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/ip2nD5QN5MU/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/ip2nD5QN5MU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [
-        "김건희",
-        "윤석열",
-        "정치",
-        "시사",
-        "국민의힘",
-        "민주당",
-        "이재명",
-        "한동훈",
-        "나경원",
-        "배현진",
-        "조국",
-        "조국혁신당"
-      ],
-      "isShorts": true
-    },
-    {
-      "id": "6ui3M6lnQK0",
-      "channelId": "UCd6tMX5cbTf6HNf1iug0HrQ",
-      "channelTitle": "이마까TV",
-      "title": "이혜훈 갑질 알면서도 5번 공천한 국힘",
-      "description": "김재원 최고위, 장현주 부대변인",
-      "publishedAt": "2026-01-12T09:00:45Z",
-      "duration": "PT50S",
-      "durationSeconds": 50,
-      "viewCount": 272603,
-      "likeCount": 4547,
-      "commentCount": 385,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/6ui3M6lnQK0/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/6ui3M6lnQK0/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/6ui3M6lnQK0/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/6ui3M6lnQK0/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/6ui3M6lnQK0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [
-        "이마까티비"
-      ],
-      "isShorts": true
-    },
-    {
-      "id": "yBQkgqIY7Yc",
-      "channelId": "UCHDYKIRxMEItLVoqtmGq3aA",
-      "channelTitle": "정치창",
-      "title": "왜 통일교 특검을  전재수만 콕 찝어서 합니까? 최혁진 일침에 나경원 화들짝",
-      "description": "채널의 회원이 되어주셔서 감사합니다! \nhttps://www.youtube.com/channel/UCHDYKIRxMEItLVoqtmGq3aA/join",
-      "publishedAt": "2026-01-12T08:34:51Z",
-      "duration": "PT53S",
-      "durationSeconds": 53,
-      "viewCount": 42179,
-      "likeCount": 1492,
-      "commentCount": 63,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/yBQkgqIY7Yc/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/yBQkgqIY7Yc/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/yBQkgqIY7Yc/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/yBQkgqIY7Yc/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/yBQkgqIY7Yc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [
-        "김건희",
-        "윤석열",
-        "정치",
-        "시사",
-        "국민의힘",
-        "민주당",
-        "이재명",
-        "한동훈",
-        "나경원",
-        "배현진",
-        "조국",
-        "조국혁신당"
-      ],
-      "isShorts": true
-    },
-    {
-      "id": "q-OV0WmT74A",
-      "channelId": "UCHDYKIRxMEItLVoqtmGq3aA",
-      "channelTitle": "정치창",
-      "title": "전재수 특검 하라고! 정성호 건드렸다가 말로받는 나빠루 나경원",
-      "description": "채널의 회원이 되어주셔서 감사합니다! \nhttps://www.youtube.com/channel/UCHDYKIRxMEItLVoqtmGq3aA/join",
-      "publishedAt": "2026-01-12T08:18:33Z",
-      "duration": "PT50S",
-      "durationSeconds": 50,
-      "viewCount": 21819,
-      "likeCount": 337,
-      "commentCount": 14,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/q-OV0WmT74A/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/q-OV0WmT74A/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/q-OV0WmT74A/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/q-OV0WmT74A/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/q-OV0WmT74A/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [
-        "김건희",
-        "윤석열",
-        "정치",
-        "시사",
-        "국민의힘",
-        "민주당",
-        "이재명",
-        "한동훈",
-        "나경원",
-        "배현진",
-        "조국",
-        "조국혁신당"
-      ],
-      "isShorts": true
-    },
-    {
-      "id": "31mEcdq07Ec",
-      "channelId": "UC_PvWUdkXjDOKlW6Hao5l6A",
-      "channelTitle": "정치토크",
-      "title": "부산에서 국무회의 했던 의미는 #해수부",
-      "description": "",
-      "publishedAt": "2026-01-12T08:00:06Z",
-      "duration": "PT43S",
-      "durationSeconds": 43,
-      "viewCount": 917,
-      "likeCount": 27,
-      "commentCount": 0,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/31mEcdq07Ec/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/31mEcdq07Ec/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/31mEcdq07Ec/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/31mEcdq07Ec/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/31mEcdq07Ec/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [
-        "부산 해수부",
-        "해수부이전",
-        "해수부"
-      ],
-      "isShorts": true
-    },
-    {
-      "id": "IoBOaJW50b0",
-      "channelId": "UCHDYKIRxMEItLVoqtmGq3aA",
-      "channelTitle": "정치창",
-      "title": "장관님은 안 챙기나요? 역대급 답답한 정성호 철저하게 박살내는 박은정 의원",
-      "description": "채널의 회원이 되어주셔서 감사합니다! \nhttps://www.youtube.com/channel/UCHDYKIRxMEItLVoqtmGq3aA/join",
-      "publishedAt": "2026-01-12T07:42:55Z",
-      "duration": "PT43S",
-      "durationSeconds": 43,
-      "viewCount": 22716,
-      "likeCount": 559,
-      "commentCount": 58,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/IoBOaJW50b0/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/IoBOaJW50b0/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/IoBOaJW50b0/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/IoBOaJW50b0/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/IoBOaJW50b0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [
-        "김건희",
-        "윤석열",
-        "정치",
-        "시사",
-        "국민의힘",
-        "민주당",
-        "이재명",
-        "한동훈",
-        "나경원",
-        "배현진",
-        "조국",
-        "조국혁신당"
-      ],
-      "isShorts": true
-    },
-    {
-      "id": "budMBG43lSM",
-      "channelId": "UC8tH3EF_zmxnKwmpuy9LbYw",
-      "channelTitle": "한국의목소리",
-      "title": "[속보] 계엄 미리 알았던 민노총",
-      "description": "",
-      "publishedAt": "2026-01-12T07:09:18Z",
-      "duration": "PT38S",
-      "durationSeconds": 38,
-      "viewCount": 304432,
-      "likeCount": 27990,
-      "commentCount": 1328,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/budMBG43lSM/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/budMBG43lSM/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/budMBG43lSM/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/budMBG43lSM/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/budMBG43lSM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
       "isShorts": true
     }
   ],
@@ -2769,8 +1241,8 @@
       "customUrl": "@ytnnews24",
       "publishedAt": "2013-05-23T07:07:42Z",
       "subscriberCount": 5260000,
-      "videoCount": 929346,
-      "viewCount": 19079539938,
+      "videoCount": 929382,
+      "viewCount": 19083271387,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s88-c-k-c0x00ffffff-no-rj",
@@ -2791,8 +1263,8 @@
       "uploads": "UUhlgI3UHCOnwUGzWzbJ3H5w",
       "country": "KR",
       "videosAnalyzed": 30,
-      "shortsCount": 4,
-      "regularVideosCount": 26
+      "shortsCount": 5,
+      "regularVideosCount": 25
     },
     {
       "id": "UCWlV3Lz_55UaX4JsMj-z__Q",
@@ -2801,8 +1273,8 @@
       "customUrl": "@tvchosunnews",
       "publishedAt": "2012-08-23T12:33:18Z",
       "subscriberCount": 3030000,
-      "videoCount": 170761,
-      "viewCount": 5010736047,
+      "videoCount": 170788,
+      "viewCount": 5012466598,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
@@ -2823,38 +1295,6 @@
       "uploads": "UUWlV3Lz_55UaX4JsMj-z__Q",
       "country": "KR",
       "videosAnalyzed": 30,
-      "shortsCount": 6,
-      "regularVideosCount": 24
-    },
-    {
-      "id": "UCbJfg1BrJ5hJPlVqDUUv8lg",
-      "title": "sondhitalk",
-      "description": "\n\n• สนับสนุนความจริงมีหนึ่งเดียว ด้วยการสมัครเป็น Membership : https://www.youtube.com/@sondhitalk/join \n• ติดต่อสอบถามได้ที่ Line : @sondhitalk\n\n",
-      "customUrl": "@sondhitalk",
-      "publishedAt": "2013-01-11T08:32:41Z",
-      "subscriberCount": 2410000,
-      "videoCount": 5930,
-      "viewCount": 596755274,
-      "thumbnails": {
-        "default": {
-          "url": "https://yt3.ggpht.com/GlRwJz9olSd_9v-L4fjru7ErFTZ4YKnek4FsZMfGXzFl_Ln7sAp3r_lXEcEkNHiIfgq4Sl2A=s88-c-k-c0x00ffffff-no-rj",
-          "width": 88,
-          "height": 88
-        },
-        "medium": {
-          "url": "https://yt3.ggpht.com/GlRwJz9olSd_9v-L4fjru7ErFTZ4YKnek4FsZMfGXzFl_Ln7sAp3r_lXEcEkNHiIfgq4Sl2A=s240-c-k-c0x00ffffff-no-rj",
-          "width": 240,
-          "height": 240
-        },
-        "high": {
-          "url": "https://yt3.ggpht.com/GlRwJz9olSd_9v-L4fjru7ErFTZ4YKnek4FsZMfGXzFl_Ln7sAp3r_lXEcEkNHiIfgq4Sl2A=s800-c-k-c0x00ffffff-no-rj",
-          "width": 800,
-          "height": 800
-        }
-      },
-      "uploads": "UUbJfg1BrJ5hJPlVqDUUv8lg",
-      "country": "TH",
-      "videosAnalyzed": 30,
       "shortsCount": 0,
       "regularVideosCount": 30
     },
@@ -2865,8 +1305,8 @@
       "customUrl": "@yonhapnewstv23",
       "publishedAt": "2015-01-05T04:29:03Z",
       "subscriberCount": 2160000,
-      "videoCount": 663147,
-      "viewCount": 3679315220,
+      "videoCount": 663200,
+      "viewCount": 3680351442,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
@@ -2886,9 +1326,9 @@
       },
       "uploads": "UUTHCOPwqNfZ0uiKOvFyhGwg",
       "country": "KR",
-      "videosAnalyzed": 0,
-      "shortsCount": 0,
-      "regularVideosCount": 0
+      "videosAnalyzed": 30,
+      "shortsCount": 4,
+      "regularVideosCount": 26
     },
     {
       "id": "UCgeOlLcX6PReHdWImEnUVTg",
@@ -2897,8 +1337,8 @@
       "customUrl": "@speaks_tv",
       "publishedAt": "2022-05-24T02:02:45.424058Z",
       "subscriberCount": 1560000,
-      "videoCount": 29760,
-      "viewCount": 1898786173,
+      "videoCount": 29766,
+      "viewCount": 1899256317,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/S3rLqAB2YDYQDzLNBiFveCxuoTifWkLQtQP-V416WUiciWNz1umav1O51CwrxVy8zKrTMSKg=s88-c-k-c0x00ffffff-no-rj",
@@ -2919,8 +1359,8 @@
       "uploads": "UUgeOlLcX6PReHdWImEnUVTg",
       "country": "KR",
       "videosAnalyzed": 30,
-      "shortsCount": 12,
-      "regularVideosCount": 18
+      "shortsCount": 10,
+      "regularVideosCount": 20
     },
     {
       "id": "UCGbkN-3JpOct4KuEv59NF0Q",
@@ -2929,8 +1369,8 @@
       "customUrl": "@mbcgn_tv",
       "publishedAt": "2017-08-08T04:13:21Z",
       "subscriberCount": 1040000,
-      "videoCount": 22004,
-      "viewCount": 2343317147,
+      "videoCount": 22009,
+      "viewCount": 2343862647,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/hUPG97aBRPUUtqvU3nFszYHV-x3GYfoFNbwNJ1-NvsXBXelhnLpgjoDFP3D7svnaY5bLpli6pQ=s88-c-k-c0x00ffffff-no-rj",
@@ -2962,7 +1402,7 @@
       "publishedAt": "2022-01-12T03:06:06.679652Z",
       "subscriberCount": 1010000,
       "videoCount": 718,
-      "viewCount": 1037565201,
+      "viewCount": 1037862568,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/MwrNX-40K7CQRTNsOVR_jVYYILGKl30ZHGy7nw2ifmx_AcL-RUp67XGdj7vNV2lsQ8CCfMRrLz8=s88-c-k-c0x00ffffff-no-rj",
@@ -2982,9 +1422,9 @@
       },
       "uploads": "UUF2ecghgS_p1F925r-cIfdQ",
       "country": "KR",
-      "videosAnalyzed": 0,
+      "videosAnalyzed": 30,
       "shortsCount": 0,
-      "regularVideosCount": 0
+      "regularVideosCount": 30
     },
     {
       "id": "UCu0b6ODtYia0snp9JE4UUDw",
@@ -2993,8 +1433,8 @@
       "customUrl": "@세상만사-n6h",
       "publishedAt": "2024-02-14T06:48:46.622989Z",
       "subscriberCount": 644000,
-      "videoCount": 3168,
-      "viewCount": 1571682773,
+      "videoCount": 3170,
+      "viewCount": 1571999475,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/tgqlfQiRq_Zny5G7E9VWdhFv7AORkvo26IKEnvHirKGPoxbwFaZG02qQsa5NUMM03AURCDC_=s88-c-k-c0x00ffffff-no-rj",
@@ -3024,9 +1464,9 @@
       "description": "빠르고 쉽게 올바른 생각을 전합니다\n제보 및 협업 문의\n✉️ connect.voiceofkorea@gmail.com\n",
       "customUrl": "@한국의목소리",
       "publishedAt": "2025-01-31T07:55:07.066491Z",
-      "subscriberCount": 609000,
+      "subscriberCount": 610000,
       "videoCount": 1577,
-      "viewCount": 1068251679,
+      "viewCount": 1069215682,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/4iOFLb4gPIReye1CRxGOIYK6oe3-i65mtzpT851pm5sFWY46hVgPMVo7loKQVWy-ZJSxYv_K=s88-c-k-c0x00ffffff-no-rj",
@@ -3046,8 +1486,8 @@
       },
       "uploads": "UU8tH3EF_zmxnKwmpuy9LbYw",
       "country": "KR",
-      "videosAnalyzed": 30,
-      "shortsCount": 30,
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
       "regularVideosCount": 0
     },
     {
@@ -3058,7 +1498,7 @@
       "publishedAt": "2024-03-24T10:26:55.652981Z",
       "subscriberCount": 512000,
       "videoCount": 2157,
-      "viewCount": 1069911199,
+      "viewCount": 1069961160,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/K4zWkeJjnkekAxKX8t6KdvNSVpCGo_UUYNGY67R7Qkt0DKWbsfg84eY_O1l6pyC5YtPZgC9O8es=s88-c-k-c0x00ffffff-no-rj",
@@ -3078,8 +1518,8 @@
       },
       "uploads": "UUHDYKIRxMEItLVoqtmGq3aA",
       "country": "KR",
-      "videosAnalyzed": 30,
-      "shortsCount": 30,
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
       "regularVideosCount": 0
     },
     {
@@ -3090,7 +1530,7 @@
       "publishedAt": "2009-03-21T08:15:07Z",
       "subscriberCount": 508000,
       "videoCount": 3344,
-      "viewCount": 773941991,
+      "viewCount": 774392534,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/fVn9FhfxwrVUvNj_Vii0l6vcyUNNQFQImVhwPhUSHguibKKkR1_8iIyHeaMGxFrjJ6GYGqlymw=s88-c-k-c0x00ffffff-no-rj",
@@ -3121,8 +1561,8 @@
       "customUrl": "@이슈카톡",
       "publishedAt": "2022-05-30T11:34:11.689006Z",
       "subscriberCount": 487000,
-      "videoCount": 3935,
-      "viewCount": 1964799091,
+      "videoCount": 3937,
+      "viewCount": 1964900042,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/GXD6CIjLk1Dnt5VC7nl-M72a7ueVq8b6oA4yjURVnF1ZYbgqtwf5ZPNg72VafPOIw02ANvMh2A=s88-c-k-c0x00ffffff-no-rj",
@@ -3154,7 +1594,7 @@
       "publishedAt": "2024-03-17T11:15:44.181866Z",
       "subscriberCount": 470000,
       "videoCount": 275,
-      "viewCount": 149604587,
+      "viewCount": 149604643,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/haTQr8ZLyCIIL48yyYimlvHCx0bHV8v5-qJ49u62tOMhPgnOLloFb6RJaSBbSJSOQyBd52Uhcw=s88-c-k-c0x00ffffff-no-rj",
@@ -3185,8 +1625,8 @@
       "customUrl": "@mbcnews7670",
       "publishedAt": "2017-08-07T06:21:04Z",
       "subscriberCount": 449000,
-      "videoCount": 46730,
-      "viewCount": 574015751,
+      "videoCount": 46738,
+      "viewCount": 574331265,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/v__eiQEgXgwAynGyNr0_Nmcs3pBhXI-ZGhkiNwgxvQnlCaDH-m1DKnnC7044d95G3qW_8V3iZQ=s88-c-k-c0x00ffffff-no-rj",
@@ -3218,7 +1658,7 @@
       "publishedAt": "2018-02-07T05:25:49Z",
       "subscriberCount": 417000,
       "videoCount": 3002,
-      "viewCount": 570682556,
+      "viewCount": 571015796,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/CfeyGSvQwDc7p7TSueVaFvcuwKlwu999XXxNCdBVKb0YyYhth-H-321wlxcbaSOHMYjODKnK5_M=s88-c-k-c0x00ffffff-no-rj",
@@ -3238,9 +1678,9 @@
       },
       "uploads": "UUPnsRM1XL2NM3xq8N7XGaQg",
       "country": "KR",
-      "videosAnalyzed": 30,
-      "shortsCount": 13,
-      "regularVideosCount": 17
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
     },
     {
       "id": "UCgHG6kRpULWaJ1AGUr2pOXQ",
@@ -3250,7 +1690,7 @@
       "publishedAt": "2020-05-28T12:15:50.768611Z",
       "subscriberCount": 391000,
       "videoCount": 694,
-      "viewCount": 120173431,
+      "viewCount": 120180068,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/R6ynfgFkV7pKnrgUIp52TOpg2AQ2qD0Geo57N9uoFitMuC1nvsL7LmBRqgnZqqwGCj1RNL0Yvg=s88-c-k-c0x00ffffff-no-rj",
@@ -3281,8 +1721,8 @@
       "customUrl": "@이마까tv",
       "publishedAt": "2018-11-09T08:01:53Z",
       "subscriberCount": 337000,
-      "videoCount": 881,
-      "viewCount": 793307333,
+      "videoCount": 882,
+      "viewCount": 793527175,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/RstzVEx_9sC_aaMuFohYXwUyclAN97UMi8jX4N8me9lyj7vIOlmHLoOdV1_GfPwJcOGBC_zf=s88-c-k-c0x00ffffff-no-rj",
@@ -3302,9 +1742,9 @@
       },
       "uploads": "UUd6tMX5cbTf6HNf1iug0HrQ",
       "country": "KR",
-      "videosAnalyzed": 30,
-      "shortsCount": 28,
-      "regularVideosCount": 2
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
     },
     {
       "id": "UCd6tMX5cbTf6HNf1iug0HrQ",
@@ -3313,8 +1753,8 @@
       "customUrl": "@이마까tv",
       "publishedAt": "2018-11-09T08:01:53Z",
       "subscriberCount": 337000,
-      "videoCount": 881,
-      "viewCount": 793307333,
+      "videoCount": 882,
+      "viewCount": 793527175,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/RstzVEx_9sC_aaMuFohYXwUyclAN97UMi8jX4N8me9lyj7vIOlmHLoOdV1_GfPwJcOGBC_zf=s88-c-k-c0x00ffffff-no-rj",
@@ -3345,8 +1785,8 @@
       "customUrl": "@minjupick",
       "publishedAt": "2013-04-08T07:04:38Z",
       "subscriberCount": 322000,
-      "videoCount": 2289,
-      "viewCount": 1749798572,
+      "videoCount": 2291,
+      "viewCount": 1750651386,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/9cfPcDDSln3sHmfzt4F-nYQU9rnYhfew9LoTnLeKqkCNbyp_FtOzXqnFM_z6Fl7kvLmi7JAE=s88-c-k-c0x00ffffff-no-rj",
@@ -3377,8 +1817,8 @@
       "customUrl": "@tv17314",
       "publishedAt": "2023-05-08T14:08:28.931191Z",
       "subscriberCount": 311000,
-      "videoCount": 195,
-      "viewCount": 78615073,
+      "videoCount": 196,
+      "viewCount": 79372047,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/_0ShL4v6U7Pt37_bS8jQY4Wr-JrY1bnycbK3Dy2LqXhOi4oGBqeRmTjWiYKa6tPuK0znuQ24rug=s88-c-k-c0x00ffffff-no-rj",
@@ -3397,6 +1837,38 @@
         }
       },
       "uploads": "UUJm_AJKFjq89w5brQ3yTa8g",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCZYaBjwqn9XiWUWbw8jjFnw",
+      "title": "나의조국",
+      "description": "민주주의 최후의 보루는 깨어있는 시민의 조직된 힘입니다\n\n",
+      "customUrl": "@mychokuk",
+      "publishedAt": "2021-08-05T10:53:39.000195Z",
+      "subscriberCount": 290000,
+      "videoCount": 2881,
+      "viewCount": 718280050,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/tZbcl-KHk4OL2vHneZCZS3Dya5Op54TNjjWwBX-QV2rU8mJG_Y27LGFIoerxGT8Sd08yHibziA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/tZbcl-KHk4OL2vHneZCZS3Dya5Op54TNjjWwBX-QV2rU8mJG_Y27LGFIoerxGT8Sd08yHibziA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/tZbcl-KHk4OL2vHneZCZS3Dya5Op54TNjjWwBX-QV2rU8mJG_Y27LGFIoerxGT8Sd08yHibziA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUZYaBjwqn9XiWUWbw8jjFnw",
       "country": "KR",
       "videosAnalyzed": 0,
       "shortsCount": 0,

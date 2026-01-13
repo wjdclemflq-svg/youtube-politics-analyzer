@@ -1,119 +1,94 @@
 {
-  "lastUpdated": "2026-01-13T12:28:11.506Z",
+  "lastUpdated": "2026-01-13T18:22:13.031Z",
   "totalChannelsAnalyzed": 82,
-  "totalVideos": 300,
-  "totalShorts": 161,
-  "totalRegularVideos": 139,
-  "totalViewCount": 40965787,
-  "totalLikeCount": 1341461,
-  "averageViewsPerShort": 200419,
+  "totalVideos": 160,
+  "totalShorts": 20,
+  "totalRegularVideos": 140,
+  "totalViewCount": 18960169,
+  "totalLikeCount": 329226,
+  "averageViewsPerShort": 11865,
   "topChannelsByShorts": [
     {
-      "title": "한국의목소리",
-      "shortsCount": 30,
-      "subscriberCount": 609000
-    },
-    {
-      "title": "정치창",
-      "shortsCount": 30,
-      "subscriberCount": 512000
-    },
-    {
-      "title": "이마까TV",
-      "shortsCount": 28,
-      "subscriberCount": 337000
-    },
-    {
-      "title": "정치토크",
-      "shortsCount": 26,
-      "subscriberCount": 6570
-    },
-    {
-      "title": "링킹",
-      "shortsCount": 13,
-      "subscriberCount": 417000
-    },
-    {
       "title": "스픽스",
-      "shortsCount": 12,
+      "shortsCount": 10,
       "subscriberCount": 1560000
     },
     {
-      "title": "Quatro Magazine",
-      "shortsCount": 12,
-      "subscriberCount": 106000
-    },
-    {
-      "title": "뉴스TVCHOSUN",
-      "shortsCount": 6,
-      "subscriberCount": 3030000
-    },
-    {
       "title": " YTN",
-      "shortsCount": 4,
+      "shortsCount": 5,
       "subscriberCount": 5260000
+    },
+    {
+      "title": "연합뉴스TV",
+      "shortsCount": 4,
+      "subscriberCount": 2160000
+    },
+    {
+      "title": "Human Issue - Topic",
+      "shortsCount": 1,
+      "subscriberCount": 24
     }
   ],
   "topShortsByViews": [
     {
-      "title": "쿠팡은 미국기업이라면서 돈은 왜 우리나라에서 빌리죠? 악덕기업 쿠팡에 분노하는 최민희",
-      "channelTitle": "정치창",
-      "viewCount": 3490793,
-      "publishedAt": "2026-01-01T03:13:06Z"
+      "title": "윤석열 사형 구형 속보 뜬 순간!! (feat. 2분 뉴스 강지호 기자)",
+      "channelTitle": "스픽스",
+      "viewCount": 92109,
+      "publishedAt": "2026-01-13T14:15:00Z"
     },
     {
-      "title": "민주당의 통일교 특검 수용, 국힘당 반응",
-      "channelTitle": "이마까TV",
-      "viewCount": 1906831,
-      "publishedAt": "2025-12-22T04:06:43Z"
+      "title": "빤스목사 시러! 전광훈 뉴스엔조이 보이콧",
+      "channelTitle": "스픽스",
+      "viewCount": 39337,
+      "publishedAt": "2026-01-13T08:30:28Z"
     },
     {
-      "title": "계엄 당일, 경찰 녹취 \"국회의장도 통제하라\"",
-      "channelTitle": "이마까TV",
-      "viewCount": 1609728,
-      "publishedAt": "2026-01-08T11:06:21Z"
+      "title": "당당한 대한민국! 이재명 대통령이 말하는 상생 발전",
+      "channelTitle": "스픽스",
+      "viewCount": 28322,
+      "publishedAt": "2026-01-13T07:30:03Z"
     },
     {
-      "title": "국힘당 베네수엘라 타령 팩트로 입틀막",
-      "channelTitle": "이마까TV",
-      "viewCount": 1012731,
-      "publishedAt": "2026-01-05T21:35:45Z"
+      "title": "윤석열 피고인 부르는데 웃고있는 윤석열",
+      "channelTitle": "스픽스",
+      "viewCount": 14794,
+      "publishedAt": "2026-01-13T10:47:00Z"
     },
     {
-      "title": "오세훈 쉴드치다 질문 한방에 어버버",
-      "channelTitle": "이마까TV",
-      "viewCount": 957427,
-      "publishedAt": "2026-01-02T08:01:07Z"
+      "title": "이상민 측 눈물바다",
+      "channelTitle": "스픽스",
+      "viewCount": 12420,
+      "publishedAt": "2026-01-13T08:15:00Z"
     },
     {
-      "title": "국힘당 탈출은 지능순이라는 민주패널",
-      "channelTitle": "이마까TV",
-      "viewCount": 914499,
-      "publishedAt": "2025-12-31T03:22:24Z"
+      "title": "\"좌파 대통령만 되면 발작?\" \"전광훈의 폭탄 발언\"",
+      "channelTitle": "스픽스",
+      "viewCount": 12342,
+      "publishedAt": "2026-01-13T08:01:09Z"
     },
     {
-      "title": "#빅안수 #계엄사령관 #파면 #징계를 #받지 #않은 #황당 #사연",
-      "channelTitle": "링킹",
-      "viewCount": 905589,
-      "publishedAt": "2026-01-10T08:30:28Z"
+      "title": "구형 재판 입장하는 윤석열 표정 보니...",
+      "channelTitle": "스픽스",
+      "viewCount": 11832,
+      "publishedAt": "2026-01-13T10:27:01Z"
     },
     {
-      "title": "쿠팡이 믿는 구석이 있어서 그랬군요? 김앤장 출신 실명 쫙 나열하자 얼음된 쿠팡 부사장",
-      "channelTitle": "정치창",
-      "viewCount": 849669,
-      "publishedAt": "2026-01-01T10:52:12Z"
+      "title": "\"창문 부순 건 우리 팀 아냐!\" 전광훈의 꼬리 자르기?",
+      "channelTitle": "스픽스",
+      "viewCount": 7212,
+      "publishedAt": "2026-01-13T08:30:13Z"
     },
     {
-      "title": "약관 왜 몰래 뺐어요? 하나하나 따지며 쿠팡 부사장 박살내는 구글 출신 이해민",
-      "channelTitle": "정치창",
-      "viewCount": 823986,
-      "publishedAt": "2026-01-02T03:35:41Z"
+      "title": "김계리의 궤변 \"기사 쪼가리 62개 탄핵\"",
+      "channelTitle": "스픽스",
+      "viewCount": 5727,
+      "publishedAt": "2026-01-13T11:07:00Z"
     },
     {
-      "title": "행정의 대가 이재명, 부산 해수부 개청식",
-      "channelTitle": "이마까TV",
-      "viewCount": 819293,
-      "publishedAt": "2025-12-24T03:17:30Z"
+      "title": "[영상] 윤석열 내란 혐의 '사형' 구형 / YTN",
+      "channelTitle": " YTN",
+      "viewCount": 4466,
+      "publishedAt": "2026-01-13T14:04:41Z"
     }
   ]
 }
