@@ -1,14 +1,3175 @@
 {
-  "lastUpdated": "2026-01-19T06:25:17.262Z",
-  "totalChannelsAnalyzed": 0,
-  "totalVideos": 0,
-  "totalShorts": 0,
-  "totalRegularVideos": 0,
-  "totalViewCount": 0,
-  "totalLikeCount": 0,
-  "averageViewsPerShort": 0,
-  "topChannelsByShorts": [],
-  "topShortsByViews": [],
-  "recentShorts": [],
-  "channelStats": []
+  "lastUpdated": "2026-01-19T12:29:46.336Z",
+  "totalChannelsAnalyzed": 81,
+  "totalVideos": 288,
+  "totalShorts": 185,
+  "totalRegularVideos": 103,
+  "totalViewCount": 16944317,
+  "totalLikeCount": 345061,
+  "averageViewsPerShort": 73389,
+  "topChannelsByShorts": [
+    {
+      "title": "정치창",
+      "shortsCount": 30,
+      "subscriberCount": 512000
+    },
+    {
+      "title": "미디어몽구",
+      "shortsCount": 29,
+      "subscriberCount": 509000
+    },
+    {
+      "title": "슬기로운 정치생활",
+      "shortsCount": 26,
+      "subscriberCount": 41700
+    },
+    {
+      "title": "잼있는뉴스",
+      "shortsCount": 25,
+      "subscriberCount": 51900
+    },
+    {
+      "title": "정치브리프",
+      "shortsCount": 24,
+      "subscriberCount": 99700
+    },
+    {
+      "title": "엠뉴 | MBC경남 NEWS",
+      "shortsCount": 14,
+      "subscriberCount": 450000
+    },
+    {
+      "title": "정치정보TV",
+      "shortsCount": 14,
+      "subscriberCount": 609
+    },
+    {
+      "title": "정치파일",
+      "shortsCount": 12,
+      "subscriberCount": 159000
+    },
+    {
+      "title": "링킹",
+      "shortsCount": 7,
+      "subscriberCount": 419000
+    },
+    {
+      "title": "뉴스TVCHOSUN",
+      "shortsCount": 3,
+      "subscriberCount": 3030000
+    }
+  ],
+  "topShortsByViews": [
+    {
+      "title": "현대차의 아틀라스, 놀라움과 두려움의 공존#매불쇼 #현대차 #로봇 #ces",
+      "channelTitle": "슬기로운 정치생활",
+      "viewCount": 1450829,
+      "publishedAt": "2026-01-14T08:00:48Z"
+    },
+    {
+      "title": "노영희, 김용남 민정수석?! 김용남도... 보좌관 얘기 나올 수 있다!",
+      "channelTitle": "정치브리프",
+      "viewCount": 1405380,
+      "publishedAt": "2026-01-17T23:20:58Z"
+    },
+    {
+      "title": "한국 축구, 솔직히 이 수준입니다#뉴스공장 #축구 #박문성 #아시안컵",
+      "channelTitle": "슬기로운 정치생활",
+      "viewCount": 1101281,
+      "publishedAt": "2026-01-15T22:00:09Z"
+    },
+    {
+      "title": "김용남 민정수석?! 김용남 무서운 사람이다",
+      "channelTitle": "정치브리프",
+      "viewCount": 732903,
+      "publishedAt": "2026-01-16T17:21:42Z"
+    },
+    {
+      "title": "대한외국인이 충격받은 한국 음식 문화#뉴스공장 #외국인 #음식 #피자",
+      "channelTitle": "슬기로운 정치생활",
+      "viewCount": 575058,
+      "publishedAt": "2026-01-14T22:30:07Z"
+    },
+    {
+      "title": "오랜만에 보는 두 분 #김제동 #김미화 다가가 토닥토닥 인사나누네요ㅣ#신영복 선생님 10주기 추모식",
+      "channelTitle": "미디어몽구",
+      "viewCount": 531166,
+      "publishedAt": "2026-01-16T01:45:30Z"
+    },
+    {
+      "title": "오늘 #청와대 에서 찍힌 투샷 장면. #이재명 대통령과 #강훈식 비서실장 수석보좌관회의 참석 모습.",
+      "channelTitle": "미디어몽구",
+      "viewCount": 517750,
+      "publishedAt": "2026-01-15T08:21:30Z"
+    },
+    {
+      "title": "김용남 민정수석?! 본인등판, 사실은 이거였다?",
+      "channelTitle": "정치브리프",
+      "viewCount": 500139,
+      "publishedAt": "2026-01-18T14:45:25Z"
+    },
+    {
+      "title": "#계엄의 #밤 #박성재에게 #3600명 #수용 #가능 #보고 #후 #증거 #삭제 #역대 #최장수 #교정본부장",
+      "channelTitle": "링킹",
+      "viewCount": 493642,
+      "publishedAt": "2026-01-12T22:08:18Z"
+    },
+    {
+      "title": "#육군 #장성인사 #공병의 #유리천장을 #깼다 #32년 #만에 #여군 #소장 #강영미",
+      "channelTitle": "링킹",
+      "viewCount": 419542,
+      "publishedAt": "2026-01-14T08:45:00Z"
+    }
+  ],
+  "recentShorts": [
+    {
+      "id": "sWpLfy5mPzo",
+      "channelId": "UCEsWtfVdAK8soPcDuVqu58g",
+      "channelTitle": "엠뉴 | MBC경남 NEWS",
+      "title": "창원지검 마산지청 '의령 천공기 끼임 사망' 현장소장 등 3명 기소(2026.1.19/뉴스데스크/MBC경남)",
+      "description": "#창원지검 #마산지청 #의령 #천공기 #끼임 #기소 \n\n[ MBC경남 NEWS 구독하기 ]\n구독하기 : https://www.youtube.com/c/MBC경남News?sub_confirmation=1\n\n[ MBC경남 NEWS 제보하기 ]\n시청자 여러분들의 제보를 받습니다. 현장의 소리를 들으며\n항상 정확한 정보를 신속하게 보도하겠습니다.\n\n문자, 전화 제",
+      "publishedAt": "2026-01-19T12:18:34Z",
+      "duration": "PT19S",
+      "durationSeconds": 19,
+      "viewCount": 4,
+      "likeCount": 0,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/sWpLfy5mPzo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/sWpLfy5mPzo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/sWpLfy5mPzo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/sWpLfy5mPzo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "tags": [
+        "mbc경남",
+        "엠비씨경남",
+        "mbc경남 뉴스데스크",
+        "뉴스데스크",
+        "뉴스",
+        "news 경남뉴스 경남",
+        "엠뉴"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "YMHWBWQD4Sc",
+      "channelId": "UCEsWtfVdAK8soPcDuVqu58g",
+      "channelTitle": "엠뉴 | MBC경남 NEWS",
+      "title": "하승철 하동군수 군의원 성추행 혐의 검찰 송치 (2026.1.19/뉴스데스크/MBC경남)",
+      "description": "#하승철 #하동군수 #군의원 #성추행 \n\n[ MBC경남 NEWS 구독하기 ]\n구독하기 : https://www.youtube.com/c/MBC경남News?sub_confirmation=1\n\n[ MBC경남 NEWS 제보하기 ]\n시청자 여러분들의 제보를 받습니다. 현장의 소리를 들으며\n항상 정확한 정보를 신속하게 보도하겠습니다.\n\n문자, 전화 제보 - 055.",
+      "publishedAt": "2026-01-19T12:18:32Z",
+      "duration": "PT26S",
+      "durationSeconds": 26,
+      "viewCount": 7,
+      "likeCount": 0,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/YMHWBWQD4Sc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/YMHWBWQD4Sc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/YMHWBWQD4Sc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/YMHWBWQD4Sc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/YMHWBWQD4Sc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "mbc경남",
+        "엠비씨경남",
+        "mbc경남 뉴스데스크",
+        "뉴스데스크",
+        "뉴스",
+        "news 경남뉴스 경남",
+        "엠뉴"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "uAKaJCtxet4",
+      "channelId": "UCEsWtfVdAK8soPcDuVqu58g",
+      "channelTitle": "엠뉴 | MBC경남 NEWS",
+      "title": "민주당, 최구식*송도근 입당 승인 (2026.1.19/뉴스데스크/MBC경남)",
+      "description": "#더불어민주당 #최구식 #송도근 #입당 \n[ MBC경남 NEWS 구독하기 ]\n구독하기 : https://www.youtube.com/c/MBC경남News?sub_confirmation=1\n\n[ MBC경남 NEWS 제보하기 ]\n시청자 여러분들의 제보를 받습니다. 현장의 소리를 들으며\n항상 정확한 정보를 신속하게 보도하겠습니다.\n\n문자, 전화 제보 - 055.",
+      "publishedAt": "2026-01-19T12:18:29Z",
+      "duration": "PT25S",
+      "durationSeconds": 25,
+      "viewCount": 8,
+      "likeCount": 2,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/uAKaJCtxet4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/uAKaJCtxet4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/uAKaJCtxet4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/uAKaJCtxet4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/uAKaJCtxet4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "mbc경남",
+        "엠비씨경남",
+        "mbc경남 뉴스데스크",
+        "뉴스데스크",
+        "뉴스",
+        "news 경남뉴스 경남",
+        "엠뉴"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "XYoGtMZDg1I",
+      "channelId": "UCEsWtfVdAK8soPcDuVqu58g",
+      "channelTitle": "엠뉴 | MBC경남 NEWS",
+      "title": "검찰, 박일호 전 밀양시장 '무죄'에 항소(2026.1.19/뉴스데스크/MBC경남)",
+      "description": "#박일호 #밀양시장 #검찰 #항소 \n\n[ MBC경남 NEWS 구독하기 ]\n구독하기 : https://www.youtube.com/c/MBC경남News?sub_confirmation=1\n\n[ MBC경남 NEWS 제보하기 ]\n시청자 여러분들의 제보를 받습니다. 현장의 소리를 들으며\n항상 정확한 정보를 신속하게 보도하겠습니다.\n\n문자, 전화 제보 - 055.77",
+      "publishedAt": "2026-01-19T12:18:25Z",
+      "duration": "PT36S",
+      "durationSeconds": 36,
+      "viewCount": 4,
+      "likeCount": 0,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XYoGtMZDg1I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XYoGtMZDg1I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XYoGtMZDg1I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/XYoGtMZDg1I/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/XYoGtMZDg1I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "mbc경남",
+        "엠비씨경남",
+        "mbc경남 뉴스데스크",
+        "뉴스데스크",
+        "뉴스",
+        "news 경남뉴스 경남",
+        "엠뉴"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "O-0iYkZmTBA",
+      "channelId": "UCEsWtfVdAK8soPcDuVqu58g",
+      "channelTitle": "엠뉴 | MBC경남 NEWS",
+      "title": "창원 봉암교 9차로로 확장..오는 2029년 완공(2026.1.19/뉴스데스크/MBC경남)",
+      "description": "#봉암교 #확장 #공사 #완공 \n\n[ MBC경남 NEWS 구독하기 ]\n구독하기 : https://www.youtube.com/c/MBC경남News?sub_confirmation=1\n\n[ MBC경남 NEWS 제보하기 ]\n시청자 여러분들의 제보를 받습니다. 현장의 소리를 들으며\n항상 정확한 정보를 신속하게 보도하겠습니다.\n\n문자, 전화 제보 - 055.771.",
+      "publishedAt": "2026-01-19T12:18:22Z",
+      "duration": "PT38S",
+      "durationSeconds": 38,
+      "viewCount": 5,
+      "likeCount": 1,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/O-0iYkZmTBA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/O-0iYkZmTBA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/O-0iYkZmTBA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/O-0iYkZmTBA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/O-0iYkZmTBA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "mbc경남",
+        "엠비씨경남",
+        "mbc경남 뉴스데스크",
+        "뉴스데스크",
+        "뉴스",
+        "news 경남뉴스 경남",
+        "엠뉴"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "9Lkn2LcsUY8",
+      "channelId": "UCEsWtfVdAK8soPcDuVqu58g",
+      "channelTitle": "엠뉴 | MBC경남 NEWS",
+      "title": "고리 2호기 수명연장 무효소송 도민 모집(2026.1.19/뉴스데스크/MBC경남)",
+      "description": "#고리 #원전 #수명연장 \n\n[ MBC경남 NEWS 구독하기 ]\n구독하기 : https://www.youtube.com/c/MBC경남News?sub_confirmation=1\n\n[ MBC경남 NEWS 제보하기 ]\n시청자 여러분들의 제보를 받습니다. 현장의 소리를 들으며\n항상 정확한 정보를 신속하게 보도하겠습니다.\n\n문자, 전화 제보 - 055.771.258",
+      "publishedAt": "2026-01-19T12:18:19Z",
+      "duration": "PT39S",
+      "durationSeconds": 39,
+      "viewCount": 0,
+      "likeCount": 0,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9Lkn2LcsUY8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9Lkn2LcsUY8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9Lkn2LcsUY8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/9Lkn2LcsUY8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/9Lkn2LcsUY8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "mbc경남",
+        "엠비씨경남",
+        "mbc경남 뉴스데스크",
+        "뉴스데스크",
+        "뉴스",
+        "news 경남뉴스 경남",
+        "엠뉴"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "GcY1uANi-p4",
+      "channelId": "UCEsWtfVdAK8soPcDuVqu58g",
+      "channelTitle": "엠뉴 | MBC경남 NEWS",
+      "title": "\"지리산산청샘물 증량허가 결정은 행정권 남용\"(2026.1.19/뉴스데스크/MBC경남)",
+      "description": "#지리산산청샘물 #생수 #증량 #허가 \n\n[ MBC경남 NEWS 구독하기 ]\n구독하기 : https://www.youtube.com/c/MBC경남News?sub_confirmation=1\n\n[ MBC경남 NEWS 제보하기 ]\n시청자 여러분들의 제보를 받습니다. 현장의 소리를 들으며\n항상 정확한 정보를 신속하게 보도하겠습니다.\n\n문자, 전화 제보 - 055.",
+      "publishedAt": "2026-01-19T12:18:16Z",
+      "duration": "PT31S",
+      "durationSeconds": 31,
+      "viewCount": 0,
+      "likeCount": 0,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GcY1uANi-p4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GcY1uANi-p4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GcY1uANi-p4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/GcY1uANi-p4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/GcY1uANi-p4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "mbc경남",
+        "엠비씨경남",
+        "mbc경남 뉴스데스크",
+        "뉴스데스크",
+        "뉴스",
+        "news 경남뉴스 경남",
+        "엠뉴"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "zEv2gjwrK8M",
+      "channelId": "UCEsWtfVdAK8soPcDuVqu58g",
+      "channelTitle": "엠뉴 | MBC경남 NEWS",
+      "title": "2차 특검법 통과..6*3 지선까지 '특검 정국'(2026.1.19/뉴스데스크/MBC경남)",
+      "description": "내란·김건희·채 해병 등 3대 특검의\n미진한 부분과 새로운 의혹을 수사하기 위한 \n2차 종합 특검법이 국회에서 통과되면서\n6·3 지방선거를 앞두고 여야 공방이 \n가열될 전망입니다.\n\n2차 특검법은 \n지방 정부의 계엄 선포 동조,\n윤석열 전 대통령 부부의 공천 개입 의혹,\n창원국가산단 지정 과정 등\n17가지를 수사 대상으로 정하고 있는데\n여기엔 명태균 씨와 ",
+      "publishedAt": "2026-01-19T12:18:13Z",
+      "duration": "PT47S",
+      "durationSeconds": 47,
+      "viewCount": 0,
+      "likeCount": 0,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zEv2gjwrK8M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zEv2gjwrK8M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zEv2gjwrK8M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/zEv2gjwrK8M/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/zEv2gjwrK8M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "mbc경남",
+        "엠비씨경남",
+        "mbc경남 뉴스데스크",
+        "뉴스데스크",
+        "뉴스",
+        "news 경남뉴스 경남",
+        "엠뉴"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "hkobkYZZO84",
+      "channelId": "UCEsWtfVdAK8soPcDuVqu58g",
+      "channelTitle": "엠뉴 | MBC경남 NEWS",
+      "title": "경상남도 민생회복지원금 조례 놓고 논란 (2026.1.19/뉴스데스크/MBC경남)",
+      "description": "#민생회복지원금 #조례 \n\n[ MBC경남 NEWS 구독하기 ]\n구독하기 : https://www.youtube.com/c/MBC경남News?sub_confirmation=1\n\n[ MBC경남 NEWS 제보하기 ]\n시청자 여러분들의 제보를 받습니다. 현장의 소리를 들으며\n항상 정확한 정보를 신속하게 보도하겠습니다.\n\n문자, 전화 제보 - 055.771.2580",
+      "publishedAt": "2026-01-19T12:18:11Z",
+      "duration": "PT41S",
+      "durationSeconds": 41,
+      "viewCount": 3,
+      "likeCount": 0,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hkobkYZZO84/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hkobkYZZO84/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hkobkYZZO84/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/hkobkYZZO84/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/hkobkYZZO84/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "mbc경남",
+        "엠비씨경남",
+        "mbc경남 뉴스데스크",
+        "뉴스데스크",
+        "뉴스",
+        "news 경남뉴스 경남",
+        "엠뉴"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "2LQNYG6mcOY",
+      "channelId": "UC8brKujsZC20lURDZcuRSlQ",
+      "channelTitle": "미디어몽구",
+      "title": "#인사청문회 끝내 무산, 대기 중 국회 떠난 #이혜훈 후보자 #기획예산처",
+      "description": "",
+      "publishedAt": "2026-01-19T12:11:40Z",
+      "duration": "PT10S",
+      "durationSeconds": 10,
+      "viewCount": 2920,
+      "likeCount": 24,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2LQNYG6mcOY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2LQNYG6mcOY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2LQNYG6mcOY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/2LQNYG6mcOY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/2LQNYG6mcOY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "QWYM7njyWwI",
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelTitle": "뉴스TVCHOSUN",
+      "title": "[뉴스트라다무스] 이혜훈 '부정청약 의혹' 국토부가 조사할까 의문에 설주완, \"청문회 지켜보고 별 문제 없더라 할 듯\" #shorts",
+      "description": "#뉴스트라다무스 #이혜훈 #래미안원펜타스\n\n영상이 마음에 드셨다면?\n뉴스트라다무스 채널로 이동하기 →www.youtube.com/@Newstradamus\n\n구독과 좋아요는 사랑입니다♥️\n\n매주 월~금 오후4시 LIVE🔴\n\"세상에서 가장 재미있는 정치쇼\n장원준·김미선의 뉴스트라다무스\"",
+      "publishedAt": "2026-01-19T11:32:15Z",
+      "duration": "PT1M14S",
+      "durationSeconds": 74,
+      "viewCount": 2723,
+      "likeCount": 99,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QWYM7njyWwI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QWYM7njyWwI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QWYM7njyWwI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/QWYM7njyWwI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/QWYM7njyWwI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램",
+        "NEWS",
+        "채널19",
+        "CH19",
+        "뉴스9",
+        "뉴스7",
+        "윤정호",
+        "포커스",
+        "윤우리",
+        "강펀치",
+        "TVCHOSUN",
+        "LIVE",
+        "티비조선라이브",
+        "TV조선라이브"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "wkPfP5imKqU",
+      "channelId": "UCHDYKIRxMEItLVoqtmGq3aA",
+      "channelTitle": "정치창",
+      "title": "윤석열 5년 선고가 나경원에게 불리한 이유? 나경원도 감빵 갈 수 있다!",
+      "description": "채널의 회원이 되어주셔서 감사합니다! \nhttps://www.youtube.com/channel/UCHDYKIRxMEItLVoqtmGq3aA/join",
+      "publishedAt": "2026-01-19T11:30:39Z",
+      "duration": "PT49S",
+      "durationSeconds": 49,
+      "viewCount": 2921,
+      "likeCount": 90,
+      "commentCount": 2,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wkPfP5imKqU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wkPfP5imKqU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wkPfP5imKqU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/wkPfP5imKqU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/wkPfP5imKqU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "김건희",
+        "윤석열",
+        "정치",
+        "시사",
+        "국민의힘",
+        "민주당",
+        "이재명",
+        "한동훈",
+        "나경원",
+        "배현진",
+        "조국",
+        "조국혁신당"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "EHjqo-cUYZw",
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelTitle": "뉴스TVCHOSUN",
+      "title": "[뉴스트라다무스] 이혜훈 인사청문회 파행 와중 포착된 대기 모습?! 설주완, \"속이 편하신가 보네요\" #shorts",
+      "description": "#뉴스트라다무스 #이혜훈 #도시락\n\n영상이 마음에 드셨다면?\n뉴스트라다무스 채널로 이동하기 →www.youtube.com/@Newstradamus\n\n구독과 좋아요는 사랑입니다♥️\n\n매주 월~금 오후4시 LIVE🔴\n\"세상에서 가장 재미있는 정치쇼\n장원준·김미선의 뉴스트라다무스\"",
+      "publishedAt": "2026-01-19T11:30:29Z",
+      "duration": "PT1M24S",
+      "durationSeconds": 84,
+      "viewCount": 3430,
+      "likeCount": 86,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/EHjqo-cUYZw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/EHjqo-cUYZw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/EHjqo-cUYZw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/EHjqo-cUYZw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/EHjqo-cUYZw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램",
+        "NEWS",
+        "채널19",
+        "CH19",
+        "뉴스9",
+        "뉴스7",
+        "윤정호",
+        "포커스",
+        "윤우리",
+        "강펀치",
+        "TVCHOSUN",
+        "LIVE",
+        "티비조선라이브",
+        "TV조선라이브"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "6MZwyOTkXlk",
+      "channelId": "UC8brKujsZC20lURDZcuRSlQ",
+      "channelTitle": "미디어몽구",
+      "title": "#강훈식 비서실장 #멜로니 총리와 인사하며.. #이재명 #정상회담 #청와대",
+      "description": "",
+      "publishedAt": "2026-01-19T11:07:46Z",
+      "duration": "PT12S",
+      "durationSeconds": 12,
+      "viewCount": 11309,
+      "likeCount": 406,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6MZwyOTkXlk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6MZwyOTkXlk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6MZwyOTkXlk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/6MZwyOTkXlk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/6MZwyOTkXlk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "S_J74dBy6VY",
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelTitle": "뉴스TVCHOSUN",
+      "title": "[뉴스트라다무스] ] 설주완, \"이해가 안 가는게 민주당 의원들도 이혜훈 쉴드 치고 싶은 마음 없다\" #shorts",
+      "description": "#뉴스트라다무스 #이혜훈 #민주당\n\n영상이 마음에 드셨다면?\n뉴스트라다무스 채널로 이동하기 →www.youtube.com/@Newstradamus\n\n구독과 좋아요는 사랑입니다♥️\n\n매주 월~금 오후4시 LIVE🔴\n\"세상에서 가장 재미있는 정치쇼\n장원준·김미선의 뉴스트라다무스\"\n\n[TV조선 뉴스·시사 프로그램｜유튜브 라이브 방송시간]\n\n📡 월~금 07:3",
+      "publishedAt": "2026-01-19T11:07:01Z",
+      "duration": "PT1M25S",
+      "durationSeconds": 85,
+      "viewCount": 6282,
+      "likeCount": 198,
+      "commentCount": 7,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/S_J74dBy6VY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/S_J74dBy6VY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/S_J74dBy6VY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/S_J74dBy6VY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/S_J74dBy6VY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램",
+        "NEWS",
+        "채널19",
+        "CH19",
+        "뉴스9",
+        "뉴스7",
+        "윤정호",
+        "포커스",
+        "윤우리",
+        "강펀치",
+        "TVCHOSUN",
+        "LIVE",
+        "티비조선라이브",
+        "TV조선라이브"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "l171__hOGCk",
+      "channelId": "UCPRYsGzNGBrNMuXU12SMLqw",
+      "channelTitle": "슬기로운 정치생활",
+      "title": "한덕수의 댱당함, 뭘? 믿고는 있나보네#매불쇼 #한덕수 #사법부 #내란재판",
+      "description": "",
+      "publishedAt": "2026-01-19T10:30:27Z",
+      "duration": "PT53S",
+      "durationSeconds": 53,
+      "viewCount": 2281,
+      "likeCount": 130,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/l171__hOGCk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/l171__hOGCk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/l171__hOGCk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/l171__hOGCk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/l171__hOGCk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "국무총리",
+        "직제"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "dRQiRKcHTI8",
+      "channelId": "UCHDYKIRxMEItLVoqtmGq3aA",
+      "channelTitle": "정치창",
+      "title": "국민의 힘이 이혜훈한테 요구한 자료 제출 요구 다 까봤더니..제정신인가? 반전에 발칵",
+      "description": "채널의 회원이 되어주셔서 감사합니다! \nhttps://www.youtube.com/channel/UCHDYKIRxMEItLVoqtmGq3aA/join",
+      "publishedAt": "2026-01-19T09:10:06Z",
+      "duration": "PT53S",
+      "durationSeconds": 53,
+      "viewCount": 9321,
+      "likeCount": 63,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/dRQiRKcHTI8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/dRQiRKcHTI8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/dRQiRKcHTI8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/dRQiRKcHTI8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/dRQiRKcHTI8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "김건희",
+        "윤석열",
+        "정치",
+        "시사",
+        "국민의힘",
+        "민주당",
+        "이재명",
+        "한동훈",
+        "나경원",
+        "배현진",
+        "조국",
+        "조국혁신당"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "a3e3CYUgkJA",
+      "channelId": "UCEsWtfVdAK8soPcDuVqu58g",
+      "channelTitle": "엠뉴 | MBC경남 NEWS",
+      "title": "사르르 녹는 이 대통령의 눈웃음 외교?",
+      "description": "#이재명 #대통령 #이탈리아 #조르자멜로니 #총리 #접견 #엠뉴 #mbc #mbc경남 #mbc뉴스 #청와대 #이탈리아총리 \n\n[ MBC경남 NEWS 구독하기 ]\n구독하기 : https://www.youtube.com/c/MBC경남News?sub_confirmation=1\n\n[ MBC경남 NEWS 제보하기 ]\n시청자 여러분들의 제보를 받습니다. 현장의 소리를",
+      "publishedAt": "2026-01-19T08:34:18Z",
+      "duration": "PT35S",
+      "durationSeconds": 35,
+      "viewCount": 5632,
+      "likeCount": 453,
+      "commentCount": 2,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/a3e3CYUgkJA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/a3e3CYUgkJA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/a3e3CYUgkJA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/a3e3CYUgkJA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/a3e3CYUgkJA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "mbc경남",
+        "엠비씨경남",
+        "mbc경남 뉴스데스크",
+        "뉴스데스크",
+        "뉴스",
+        "news 경남뉴스 경남",
+        "엠뉴"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "tu62oeA5ACQ",
+      "channelId": "UCPRYsGzNGBrNMuXU12SMLqw",
+      "channelTitle": "슬기로운 정치생활",
+      "title": "대한중동인이 생각하는 그린란드 사태?#뉴스공장 #외국인 #전쟁 #트럼프",
+      "description": "",
+      "publishedAt": "2026-01-19T08:30:36Z",
+      "duration": "PT45S",
+      "durationSeconds": 45,
+      "viewCount": 10867,
+      "likeCount": 343,
+      "commentCount": 8,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/tu62oeA5ACQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/tu62oeA5ACQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/tu62oeA5ACQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/tu62oeA5ACQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/tu62oeA5ACQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "그린란드",
+        "유럽입장",
+        "덴마크령"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "tRkP5PJOuJ4",
+      "channelId": "UCEsWtfVdAK8soPcDuVqu58g",
+      "channelTitle": "엠뉴 | MBC경남 NEWS",
+      "title": "월요일 아침부터 분주한 이 대통령?",
+      "description": "#이재명 #대통령 #이탈리아 #조르자멜로니 #총리 #접견 #엠뉴 #mbc #mbc경남 #mbc뉴스 #청와대 #이탈리아총리 \n\n[ MBC경남 NEWS 구독하기 ]\n구독하기 : https://www.youtube.com/c/MBC경남News?sub_confirmation=1\n\n[ MBC경남 NEWS 제보하기 ]\n시청자 여러분들의 제보를 받습니다. 현장의 소리를",
+      "publishedAt": "2026-01-19T08:22:38Z",
+      "duration": "PT35S",
+      "durationSeconds": 35,
+      "viewCount": 3023,
+      "likeCount": 207,
+      "commentCount": 2,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/tRkP5PJOuJ4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/tRkP5PJOuJ4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/tRkP5PJOuJ4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/tRkP5PJOuJ4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/tRkP5PJOuJ4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "mbc경남",
+        "엠비씨경남",
+        "mbc경남 뉴스데스크",
+        "뉴스데스크",
+        "뉴스",
+        "news 경남뉴스 경남",
+        "엠뉴"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "wPNdDZg0u3I",
+      "channelId": "UCEsWtfVdAK8soPcDuVqu58g",
+      "channelTitle": "엠뉴 | MBC경남 NEWS",
+      "title": "19년 만에 방문한 이탈리아의 반가운 손님?",
+      "description": "#이재명 #대통령 #이탈리아 #조르자멜로니 #총리 #접견 #엠뉴 #mbc #mbc경남 #mbc뉴스 #청와대 #이탈리아총리 \n\n[ MBC경남 NEWS 구독하기 ]\n구독하기 : https://www.youtube.com/c/MBC경남News?sub_confirmation=1\n\n[ MBC경남 NEWS 제보하기 ]\n시청자 여러분들의 제보를 받습니다. 현장의 소리를",
+      "publishedAt": "2026-01-19T08:20:58Z",
+      "duration": "PT38S",
+      "durationSeconds": 38,
+      "viewCount": 16759,
+      "likeCount": 795,
+      "commentCount": 7,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wPNdDZg0u3I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wPNdDZg0u3I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wPNdDZg0u3I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/wPNdDZg0u3I/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/wPNdDZg0u3I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "mbc경남",
+        "엠비씨경남",
+        "mbc경남 뉴스데스크",
+        "뉴스데스크",
+        "뉴스",
+        "news 경남뉴스 경남",
+        "엠뉴"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "55CMrnDk5ls",
+      "channelId": "UC8brKujsZC20lURDZcuRSlQ",
+      "channelTitle": "미디어몽구",
+      "title": "단식 5일차 #장동혁 대표, 잠시 포토타임?",
+      "description": "",
+      "publishedAt": "2026-01-19T08:16:01Z",
+      "duration": "PT33S",
+      "durationSeconds": 33,
+      "viewCount": 5326,
+      "likeCount": 70,
+      "commentCount": 38,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/55CMrnDk5ls/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/55CMrnDk5ls/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/55CMrnDk5ls/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/55CMrnDk5ls/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/55CMrnDk5ls/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "xUfqqnVz1TE",
+      "channelId": "UCEsWtfVdAK8soPcDuVqu58g",
+      "channelTitle": "엠뉴 | MBC경남 NEWS",
+      "title": "#멜로니 총리 한마디에 ㅎㅎ 웃음 짓는 #이재명대통령",
+      "description": "#이탈리아 #한국 #방한 #멜로니총리 #조르자멜로니 #이재명 #대통령 #청와대 #현충원 #블랙핑크 #응원봉 #kpop #케이팝 #콘서트 #멜로니총리딸\n\n[ MBC경남 NEWS 구독하기 ]\n구독하기 : https://www.youtube.com/c/MBC경남News?sub_confirmation=1\n\n[ MBC경남 NEWS 제보하기 ]\n시청자 여러분들의 제보",
+      "publishedAt": "2026-01-19T07:58:12Z",
+      "duration": "PT37S",
+      "durationSeconds": 37,
+      "viewCount": 52786,
+      "likeCount": 3195,
+      "commentCount": 27,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xUfqqnVz1TE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xUfqqnVz1TE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xUfqqnVz1TE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/xUfqqnVz1TE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/xUfqqnVz1TE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "mbc경남",
+        "엠비씨경남",
+        "mbc경남 뉴스데스크",
+        "뉴스데스크",
+        "뉴스",
+        "news 경남뉴스 경남",
+        "엠뉴"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "uUoGXwtmR4s",
+      "channelId": "UCEsWtfVdAK8soPcDuVqu58g",
+      "channelTitle": "엠뉴 | MBC경남 NEWS",
+      "title": "맘 급했던 멜로니 총리? 이 대통령의 미소 ㅎㅎ",
+      "description": "#이재명 #이재명대통령 #멜로니 #멜로니총리 #이탈리아총리 #이탈리아방한 #국빈방문 #정상외교 #한이탈리아 #확대회담 #MOU체결 #공동언론발표 #공식오찬 #건배장면 #외교현장 #정상회담 #외교성과 #국제정치 #외교뉴스 #대통령일정 #청와대 #국빈행사 #화제의순간 #뉴스쇼츠 #정치쇼츠 #K외교 #글로벌외교 #엠뉴 #엠뉴뉴스 #엠비씨뉴스 #엠비씨경남 #mbc",
+      "publishedAt": "2026-01-19T07:51:46Z",
+      "duration": "PT48S",
+      "durationSeconds": 48,
+      "viewCount": 9643,
+      "likeCount": 1165,
+      "commentCount": 11,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/uUoGXwtmR4s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/uUoGXwtmR4s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/uUoGXwtmR4s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/uUoGXwtmR4s/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/uUoGXwtmR4s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "mbc경남",
+        "엠비씨경남",
+        "mbc경남 뉴스데스크",
+        "뉴스데스크",
+        "뉴스",
+        "news 경남뉴스 경남",
+        "엠뉴"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "T5e9BY1HVY0",
+      "channelId": "UC07sfpMTLmMWBhbMglEv05w",
+      "channelTitle": "정치브리프",
+      "title": "김용남을 매불쇼가 청와대에 꽂아줬다고? 김용남을 두 번 죽이는 최욱",
+      "description": "김용남을 매불쇼가 청와대에 꽂아줬다고? 김용남을 두 번 죽이는 최욱\n\n#김용남 #민정수석 #매불쇼 #청와대 #최욱 #가짜뉴스",
+      "publishedAt": "2026-01-19T06:33:22Z",
+      "duration": "PT39S",
+      "durationSeconds": 39,
+      "viewCount": 24615,
+      "likeCount": 807,
+      "commentCount": 30,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/T5e9BY1HVY0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/T5e9BY1HVY0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/T5e9BY1HVY0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/T5e9BY1HVY0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/T5e9BY1HVY0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "#김용남",
+        "#민정수석",
+        "#매불쇼",
+        "#청와대",
+        "#최욱",
+        "#가짜뉴스"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "zSC0Sy59_uI",
+      "channelId": "UC07sfpMTLmMWBhbMglEv05w",
+      "channelTitle": "정치브리프",
+      "title": "대만, 미국과의 관세협상에서 한국보다 유리한 조건? 중국도 웃게 만든 팩트체크...",
+      "description": "대만, 미국과의 관세협상에서 한국보다 유리한 조건? 중국도 웃게 만든 팩트체크...\n\n#대만 #미국  #트럼프 #관세협상 #트럼프 #tsmc #한국 #반도체",
+      "publishedAt": "2026-01-19T04:54:58Z",
+      "duration": "PT1M",
+      "durationSeconds": 60,
+      "viewCount": 38203,
+      "likeCount": 715,
+      "commentCount": 11,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zSC0Sy59_uI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zSC0Sy59_uI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zSC0Sy59_uI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/zSC0Sy59_uI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/zSC0Sy59_uI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "#대만",
+        "#미국",
+        "#트럼프",
+        "#관세협상",
+        "#tsmc",
+        "#한국",
+        "#반도체"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "3dGRwUpsVtY",
+      "channelId": "UC8brKujsZC20lURDZcuRSlQ",
+      "channelTitle": "미디어몽구",
+      "title": "반가움에 너무 마중 나간 #이재명 대통령??ㅋㅋ 멜로니 #이탈리아 총리 영접",
+      "description": "",
+      "publishedAt": "2026-01-19T04:50:34Z",
+      "duration": "PT15S",
+      "durationSeconds": 15,
+      "viewCount": 12545,
+      "likeCount": 574,
+      "commentCount": 5,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3dGRwUpsVtY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3dGRwUpsVtY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3dGRwUpsVtY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/3dGRwUpsVtY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/3dGRwUpsVtY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "guFKf5fieDA",
+      "channelId": "UC_hbCoK3ingnR_YB0eJJfCg",
+      "channelTitle": "잼있는뉴스",
+      "title": "#임이자 #이혜훈청문회 안열자 #박홍근 격분 [잼뉴] #잼있는뉴스",
+      "description": "#기재위 #이혜훈",
+      "publishedAt": "2026-01-19T04:38:58Z",
+      "duration": "PT58S",
+      "durationSeconds": 58,
+      "viewCount": 6578,
+      "likeCount": 177,
+      "commentCount": 10,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/guFKf5fieDA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/guFKf5fieDA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/guFKf5fieDA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/guFKf5fieDA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/guFKf5fieDA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "RyCbB_PYaOw",
+      "channelId": "UC8brKujsZC20lURDZcuRSlQ",
+      "channelTitle": "미디어몽구",
+      "title": "국회에서 청문회 대기중인 #이혜훈 후보자",
+      "description": "",
+      "publishedAt": "2026-01-19T04:10:54Z",
+      "duration": "PT12S",
+      "durationSeconds": 12,
+      "viewCount": 13980,
+      "likeCount": 226,
+      "commentCount": 10,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/RyCbB_PYaOw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/RyCbB_PYaOw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/RyCbB_PYaOw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/RyCbB_PYaOw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/RyCbB_PYaOw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "E6uS_l0XJYQ",
+      "channelId": "UC_hbCoK3ingnR_YB0eJJfCg",
+      "channelTitle": "잼있는뉴스",
+      "title": "'윤' 체포방해 5년 선고 '초범'이라 감형? [잼뉴] #잼있는뉴스",
+      "description": "#민주당최고위 #정청래당대표",
+      "publishedAt": "2026-01-19T03:58:01Z",
+      "duration": "PT55S",
+      "durationSeconds": 55,
+      "viewCount": 9166,
+      "likeCount": 1452,
+      "commentCount": 25,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/E6uS_l0XJYQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/E6uS_l0XJYQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/E6uS_l0XJYQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/E6uS_l0XJYQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/E6uS_l0XJYQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "F94VpepuT3Q",
+      "channelId": "UC07sfpMTLmMWBhbMglEv05w",
+      "channelTitle": "정치브리프",
+      "title": "민주당 이소영 정면비판! 이혜훈 청문회, 나도 여당이지만, 솔직히 심경이 복잡하다",
+      "description": "민주당 이소영 정면비판! 이혜훈 청문회, 나도 여당이지만, 솔직히 심경이 복잡하다\n\n#이혜훈 #청문회 #민주당 #이소영 #여당",
+      "publishedAt": "2026-01-19T03:34:31Z",
+      "duration": "PT56S",
+      "durationSeconds": 56,
+      "viewCount": 30315,
+      "likeCount": 903,
+      "commentCount": 10,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/F94VpepuT3Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/F94VpepuT3Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/F94VpepuT3Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/F94VpepuT3Q/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/F94VpepuT3Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "#이혜훈",
+        "#청문회",
+        "#민주당",
+        "#이소영",
+        "#여당"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "KBXSulCRIgY",
+      "channelId": "UC8brKujsZC20lURDZcuRSlQ",
+      "channelTitle": "미디어몽구",
+      "title": "#이재명 대통령 안내에 #이탈리아 총리 웃음꽃 만발하며 입장ㅣ#청와대 #정상회담",
+      "description": "",
+      "publishedAt": "2026-01-19T03:32:21Z",
+      "duration": "PT19S",
+      "durationSeconds": 19,
+      "viewCount": 33658,
+      "likeCount": 1722,
+      "commentCount": 24,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KBXSulCRIgY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KBXSulCRIgY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KBXSulCRIgY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/KBXSulCRIgY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/KBXSulCRIgY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "MWdYv25BNko",
+      "channelId": "UC07sfpMTLmMWBhbMglEv05w",
+      "channelTitle": "정치브리프",
+      "title": "노영희 직격! 이혜훈 논란, 이재명 대통령은 안 되겠지만, 윤석열이라면?",
+      "description": "노영희 직격! 이혜훈 논란, 이재명 대통령은 안 되겠지만, 윤석열이라면?\n\n#노영희 #이혜훈 #이재명 #이재명대통령 #윤석열 #임영웅 #기획처 #기획예산처 #장관 #청문회",
+      "publishedAt": "2026-01-19T03:12:19Z",
+      "duration": "PT56S",
+      "durationSeconds": 56,
+      "viewCount": 19891,
+      "likeCount": 571,
+      "commentCount": 3,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/MWdYv25BNko/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/MWdYv25BNko/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/MWdYv25BNko/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/MWdYv25BNko/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/MWdYv25BNko/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "#노영희",
+        "#이혜훈",
+        "#이재명",
+        "#이재명대통령",
+        "#윤석열",
+        "#임영웅",
+        "#기획처",
+        "#기획예산처",
+        "#장관",
+        "#청문회"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "-SZeQkG2rds",
+      "channelId": "UCPRYsGzNGBrNMuXU12SMLqw",
+      "channelTitle": "슬기로운 정치생활",
+      "title": "라이너의 냉정한 조언, 형은 너무 예민해#매불쇼 #최욱 #평가 #라이너",
+      "description": "",
+      "publishedAt": "2026-01-19T03:10:00Z",
+      "duration": "PT56S",
+      "durationSeconds": 56,
+      "viewCount": 19834,
+      "likeCount": 609,
+      "commentCount": 8,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-SZeQkG2rds/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-SZeQkG2rds/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-SZeQkG2rds/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/-SZeQkG2rds/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/-SZeQkG2rds/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "시네마지옥",
+        "조언"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "S1gqS91q27w",
+      "channelId": "UCHDYKIRxMEItLVoqtmGq3aA",
+      "channelTitle": "정치창",
+      "title": "손 더럽다고 상인이 악수 거절하자 이재명 대통령의 반응",
+      "description": "채널의 회원이 되어주셔서 감사합니다! \nhttps://www.youtube.com/channel/UCHDYKIRxMEItLVoqtmGq3aA/join",
+      "publishedAt": "2026-01-19T03:03:40Z",
+      "duration": "PT19S",
+      "durationSeconds": 19,
+      "viewCount": 10185,
+      "likeCount": 175,
+      "commentCount": 4,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/S1gqS91q27w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/S1gqS91q27w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/S1gqS91q27w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/S1gqS91q27w/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/S1gqS91q27w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "김건희",
+        "윤석열",
+        "정치",
+        "시사",
+        "국민의힘",
+        "민주당",
+        "이재명",
+        "한동훈",
+        "나경원",
+        "배현진",
+        "조국",
+        "조국혁신당"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "BA5JkLFB768",
+      "channelId": "UC07sfpMTLmMWBhbMglEv05w",
+      "channelTitle": "정치브리프",
+      "title": "김병기의 결단! 제명 수용, 재심 없이 민주당 떠난다!",
+      "description": "김병기의 결단! 제명 수용, 재심 없이 민주당 떠난다!\n\n#김병기 #제명 #탈당 #민주당 #재심",
+      "publishedAt": "2026-01-19T02:42:51Z",
+      "duration": "PT47S",
+      "durationSeconds": 47,
+      "viewCount": 2642,
+      "likeCount": 62,
+      "commentCount": 7,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BA5JkLFB768/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BA5JkLFB768/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BA5JkLFB768/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/BA5JkLFB768/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/BA5JkLFB768/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "#김병기",
+        "#제명",
+        "#탈당",
+        "#민주당",
+        "#재심"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "OljAkiBqJ-M",
+      "channelId": "UC07sfpMTLmMWBhbMglEv05w",
+      "channelTitle": "정치브리프",
+      "title": "노영희 결단! ‘민주당,  털고 갈 것은 털고가자’",
+      "description": "노영희 결단! ‘민주당,  털고 갈 것은 털고가자’\n\n#노영희 #김병기 #강선우 #이혜훈",
+      "publishedAt": "2026-01-19T02:27:06Z",
+      "duration": "PT51S",
+      "durationSeconds": 51,
+      "viewCount": 2958,
+      "likeCount": 194,
+      "commentCount": 1,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OljAkiBqJ-M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OljAkiBqJ-M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OljAkiBqJ-M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/OljAkiBqJ-M/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/OljAkiBqJ-M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "#노영희",
+        "#김병기",
+        "#강선우",
+        "#이혜훈"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "RR_5sXEJXcE",
+      "channelId": "UCPRYsGzNGBrNMuXU12SMLqw",
+      "channelTitle": "슬기로운 정치생활",
+      "title": "로봇이 인간을 평가하는 시대가 온다#매불쇼 #로봇 #ai #인공지능",
+      "description": "",
+      "publishedAt": "2026-01-18T22:00:32Z",
+      "duration": "PT54S",
+      "durationSeconds": 54,
+      "viewCount": 19957,
+      "likeCount": 331,
+      "commentCount": 5,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/RR_5sXEJXcE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/RR_5sXEJXcE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/RR_5sXEJXcE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/RR_5sXEJXcE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/RR_5sXEJXcE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "경험",
+        "학습",
+        "지표"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "PdR94Ljtykw",
+      "channelId": "UC07sfpMTLmMWBhbMglEv05w",
+      "channelTitle": "정치브리프",
+      "title": "김용남 민정수석?! 본인등판, 사실은 이거였다?",
+      "description": "김용남 민정수석?! 본인등판, 사실은 이거였다?\n\n#김용남 #민정수석 #본인등판 #봉욱 #청와대",
+      "publishedAt": "2026-01-18T14:45:25Z",
+      "duration": "PT40S",
+      "durationSeconds": 40,
+      "viewCount": 500139,
+      "likeCount": 12718,
+      "commentCount": 390,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PdR94Ljtykw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PdR94Ljtykw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PdR94Ljtykw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/PdR94Ljtykw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/PdR94Ljtykw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "#김용남",
+        "#민정수석",
+        "#본인등판",
+        "#봉욱",
+        "#청와대"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "8SBVum4TZ0E",
+      "channelId": "UC_hbCoK3ingnR_YB0eJJfCg",
+      "channelTitle": "잼있는뉴스",
+      "title": "#검찰개혁 막는 #법사위 국회의원 명단 #서보학 [잼뉴] #잼있는뉴스",
+      "description": "#검찰개혁TF",
+      "publishedAt": "2026-01-18T14:35:55Z",
+      "duration": "PT57S",
+      "durationSeconds": 57,
+      "viewCount": 8523,
+      "likeCount": 690,
+      "commentCount": 16,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8SBVum4TZ0E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8SBVum4TZ0E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8SBVum4TZ0E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/8SBVum4TZ0E/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/8SBVum4TZ0E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "69Xuco0LQC4",
+      "channelId": "UCPRYsGzNGBrNMuXU12SMLqw",
+      "channelTitle": "슬기로운 정치생활",
+      "title": "시네마지옥 캐스팅 스토리#매불쇼 #박재홍의한판승부 #캐스팅 #스토리",
+      "description": "",
+      "publishedAt": "2026-01-18T11:30:06Z",
+      "duration": "PT54S",
+      "durationSeconds": 54,
+      "viewCount": 21222,
+      "likeCount": 658,
+      "commentCount": 5,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/69Xuco0LQC4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/69Xuco0LQC4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/69Xuco0LQC4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/69Xuco0LQC4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/69Xuco0LQC4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "영화코너",
+        "영화추천",
+        "영화평론"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "sZi5pjFUNKY",
+      "channelId": "UC8brKujsZC20lURDZcuRSlQ",
+      "channelTitle": "미디어몽구",
+      "title": "오랜만인 #김제동 #신영복 선생님 10주기 추모식 참석 모습",
+      "description": "",
+      "publishedAt": "2026-01-18T08:27:37Z",
+      "duration": "PT23S",
+      "durationSeconds": 23,
+      "viewCount": 33056,
+      "likeCount": 975,
+      "commentCount": 11,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/sZi5pjFUNKY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/sZi5pjFUNKY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/sZi5pjFUNKY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/sZi5pjFUNKY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/sZi5pjFUNKY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "4vvTq8R_ds0",
+      "channelId": "UCPRYsGzNGBrNMuXU12SMLqw",
+      "channelTitle": "슬기로운 정치생활",
+      "title": "최욱이 고백하면 바로 결혼하네#매불쇼 #최욱 #고백 #결혼",
+      "description": "",
+      "publishedAt": "2026-01-18T07:00:10Z",
+      "duration": "PT47S",
+      "durationSeconds": 47,
+      "viewCount": 12111,
+      "likeCount": 53,
+      "commentCount": 0,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4vvTq8R_ds0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4vvTq8R_ds0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4vvTq8R_ds0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/4vvTq8R_ds0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/4vvTq8R_ds0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "zwyJEs82Xiw",
+      "channelId": "UC8brKujsZC20lURDZcuRSlQ",
+      "channelTitle": "미디어몽구",
+      "title": "#우상호 #정무수석 마지막 인사 후 퇴장 모습ㅣ#청와대 #이재명 #홍익표",
+      "description": "",
+      "publishedAt": "2026-01-18T06:25:35Z",
+      "duration": "PT24S",
+      "durationSeconds": 24,
+      "viewCount": 119540,
+      "likeCount": 3582,
+      "commentCount": 139,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zwyJEs82Xiw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zwyJEs82Xiw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zwyJEs82Xiw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/zwyJEs82Xiw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/zwyJEs82Xiw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "UoMzTNC3obU",
+      "channelId": "UC07sfpMTLmMWBhbMglEv05w",
+      "channelTitle": "정치브리프",
+      "title": "노영희, 이혜훈 비망록, 통일교 행사 참석 영상 그리고 통일교 돈도 받았다",
+      "description": "노영희, 이혜훈 비망록, 통일교 행사 참석 영상 그리고 통일교 돈도 받았다\n\n#노영희 #이혜훈 #비망록 #통일교 #행사 #청문회",
+      "publishedAt": "2026-01-18T06:14:58Z",
+      "duration": "PT1M",
+      "durationSeconds": 60,
+      "viewCount": 25252,
+      "likeCount": 1379,
+      "commentCount": 27,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UoMzTNC3obU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UoMzTNC3obU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UoMzTNC3obU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/UoMzTNC3obU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/UoMzTNC3obU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "#노영희",
+        "#이혜훈",
+        "#비망록",
+        "#통일교",
+        "#행사",
+        "#청문회"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "RdUsk6LGpQA",
+      "channelId": "UC8brKujsZC20lURDZcuRSlQ",
+      "channelTitle": "미디어몽구",
+      "title": "서류가방 들고 #청와대 온 #김영훈 노동부 장관. 현장 뛰어 다니느라 가장 바쁜 사람!",
+      "description": "",
+      "publishedAt": "2026-01-18T05:06:04Z",
+      "duration": "PT13S",
+      "durationSeconds": 13,
+      "viewCount": 33056,
+      "likeCount": 1704,
+      "commentCount": 35,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/RdUsk6LGpQA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/RdUsk6LGpQA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/RdUsk6LGpQA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/RdUsk6LGpQA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/RdUsk6LGpQA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "SbOT0qzhsFQ",
+      "channelId": "UC07sfpMTLmMWBhbMglEv05w",
+      "channelTitle": "정치브리프",
+      "title": "노영희 직격! 李대통령이 왜 이혜훈과 같이 가나! X는 국힘이 싸놓고!",
+      "description": "노영희 직격! 李대통령이 왜 이혜훈과 같이 가나! X는 국힘이 싸놓고!\n\n#노영희 #이대통령 #이재명 #이재명대통령 #이혜훈 #청문회 #국힘 #국민의힘",
+      "publishedAt": "2026-01-18T04:00:24Z",
+      "duration": "PT43S",
+      "durationSeconds": 43,
+      "viewCount": 24109,
+      "likeCount": 1475,
+      "commentCount": 12,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SbOT0qzhsFQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SbOT0qzhsFQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SbOT0qzhsFQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/SbOT0qzhsFQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/SbOT0qzhsFQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "#노영희",
+        "#이대통령",
+        "#이재명",
+        "#이재명대통령",
+        "#이혜훈",
+        "#청문회",
+        "#국힘",
+        "#국민의힘"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "Hx6q1n_xkxI",
+      "channelId": "UC8brKujsZC20lURDZcuRSlQ",
+      "channelTitle": "미디어몽구",
+      "title": "#강훈식 실장 진지한 모습ㅣ#이재명 대통령 아소 전 총리 접견 현장 #청와대",
+      "description": "",
+      "publishedAt": "2026-01-18T03:04:33Z",
+      "duration": "PT18S",
+      "durationSeconds": 18,
+      "viewCount": 22670,
+      "likeCount": 675,
+      "commentCount": 6,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Hx6q1n_xkxI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Hx6q1n_xkxI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Hx6q1n_xkxI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Hx6q1n_xkxI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Hx6q1n_xkxI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "p6LDAhiomIg",
+      "channelId": "UC07sfpMTLmMWBhbMglEv05w",
+      "channelTitle": "정치브리프",
+      "title": "노영희 일갈! 이혜훈 인사 청문회, 왜 이재명 대통령이 책임지나? 말도 안 되는 소리 하지 마라!",
+      "description": "노영희 일갈! 이혜훈 인사 청문회, 왜 이재명 대통령이 책임지나? 말도 안 되는 소리 하지 마라!\n\n#노영희 #이혜훈 #청문회 #인사청문회 #국회 #이재명 #이재명대통령 #국힘 #국민의힘 #검증 #공천",
+      "publishedAt": "2026-01-18T02:46:33Z",
+      "duration": "PT45S",
+      "durationSeconds": 45,
+      "viewCount": 32284,
+      "likeCount": 1330,
+      "commentCount": 35,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/p6LDAhiomIg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/p6LDAhiomIg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/p6LDAhiomIg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/p6LDAhiomIg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/p6LDAhiomIg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "#노영희",
+        "#이혜훈",
+        "#청문회",
+        "#인사청문회",
+        "#국회",
+        "#이재명",
+        "#이재명대통령",
+        "#국힘",
+        "#국민의힘",
+        "#검증",
+        "#공천"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "cH_1U61L6Jo",
+      "channelId": "UC8brKujsZC20lURDZcuRSlQ",
+      "channelTitle": "미디어몽구",
+      "title": "직접 문 닫는 #이재명 대통령ㅣ#청와대 아소 전 #일본총리 접견 모습",
+      "description": "",
+      "publishedAt": "2026-01-18T02:22:12Z",
+      "duration": "PT26S",
+      "durationSeconds": 26,
+      "viewCount": 13049,
+      "likeCount": 726,
+      "commentCount": 12,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cH_1U61L6Jo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cH_1U61L6Jo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cH_1U61L6Jo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/cH_1U61L6Jo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/cH_1U61L6Jo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    }
+  ],
+  "channelStats": [
+    {
+      "id": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "title": " YTN",
+      "description": "24시간 생중계되는 대한민국 대표 뉴스\nYTN 공식채널을 지금 바로 구독하세요\n\n▶ 구독하기 : http://goo.gl/Ytb5SZ\n\n▶ YTN 기사제보 안내\n- 홈페이지: https://mj.ytn.co.kr/mj/mj_write.php?sort=0\n- 모바일: YTN 앱의 제보하기\n- 이메일: social@ytn.co.kr\n- 전화: 02-398-8282 또는 8585 \n\n▶ 라이브 스트리밍 대체광고 및 콘텐츠 협업 문의\n - 이메일 : ljk@ytn.co.kr\n\n▶ 영상 사용 및 구매 문의\n - https://www.ytn.co.kr/business/sell_program.php\n",
+      "customUrl": "@ytnnews24",
+      "publishedAt": "2013-05-23T07:07:42Z",
+      "subscriberCount": 5260000,
+      "videoCount": 930995,
+      "viewCount": 19152388282,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUhlgI3UHCOnwUGzWzbJ3H5w",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "title": "뉴스TVCHOSUN",
+      "description": "TV조선 뉴스 공식 YouTube 입니다.",
+      "customUrl": "@tvchosunnews",
+      "publishedAt": "2012-08-23T12:33:18Z",
+      "subscriberCount": 3030000,
+      "videoCount": 171611,
+      "viewCount": 5033403309,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUWlV3Lz_55UaX4JsMj-z__Q",
+      "country": "KR",
+      "videosAnalyzed": 30,
+      "shortsCount": 3,
+      "regularVideosCount": 27
+    },
+    {
+      "id": "UCbJfg1BrJ5hJPlVqDUUv8lg",
+      "title": "sondhitalk",
+      "description": "\n\n• สนับสนุนความจริงมีหนึ่งเดียว ด้วยการสมัครเป็น Membership : https://www.youtube.com/@sondhitalk/join \n• ติดต่อสอบถามได้ที่ Line : @sondhitalk\n\n",
+      "customUrl": "@sondhitalk",
+      "publishedAt": "2013-01-11T08:32:41Z",
+      "subscriberCount": 2410000,
+      "videoCount": 5963,
+      "viewCount": 598872433,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GlRwJz9olSd_9v-L4fjru7ErFTZ4YKnek4FsZMfGXzFl_Ln7sAp3r_lXEcEkNHiIfgq4Sl2A=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GlRwJz9olSd_9v-L4fjru7ErFTZ4YKnek4FsZMfGXzFl_Ln7sAp3r_lXEcEkNHiIfgq4Sl2A=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GlRwJz9olSd_9v-L4fjru7ErFTZ4YKnek4FsZMfGXzFl_Ln7sAp3r_lXEcEkNHiIfgq4Sl2A=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUbJfg1BrJ5hJPlVqDUUv8lg",
+      "country": "TH",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "title": "연합뉴스TV",
+      "description": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "customUrl": "@yonhapnewstv23",
+      "publishedAt": "2015-01-05T04:29:03Z",
+      "subscriberCount": 2170000,
+      "videoCount": 664789,
+      "viewCount": 3699235320,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUTHCOPwqNfZ0uiKOvFyhGwg",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCgeOlLcX6PReHdWImEnUVTg",
+      "title": "스픽스",
+      "description": "국민과 함께 더 나은 세상을 만들어가는 스픽스\n혁신-균형-정의를 지향하는 뉴미디어, 저널리즘의 표준\n\n#최고의 전략가 정치와 정치인을 논하다 '정치본색' 생방송 (월~금 13시) \n#예능급 고수들의 정치수다 '역전의용사들' 생방송 (월~금 20시)\n\n#실시간 속보 가장 빠른 분석 '긴급편성' \n#탁월한 관점의 정치, 경제 현안분석 '고수의전략'  \n#차원이 다른 토크  '마키아벨리'\n\n협업 및 공동기획 문의 010-8596-0073\n광고문의 010-4615-9996\nspeaksad@speaks.kr\n",
+      "customUrl": "@speaks_tv",
+      "publishedAt": "2022-05-24T02:02:45.424058Z",
+      "subscriberCount": 1570000,
+      "videoCount": 29980,
+      "viewCount": 1908131360,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/S3rLqAB2YDYQDzLNBiFveCxuoTifWkLQtQP-V416WUiciWNz1umav1O51CwrxVy8zKrTMSKg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/S3rLqAB2YDYQDzLNBiFveCxuoTifWkLQtQP-V416WUiciWNz1umav1O51CwrxVy8zKrTMSKg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/S3rLqAB2YDYQDzLNBiFveCxuoTifWkLQtQP-V416WUiciWNz1umav1O51CwrxVy8zKrTMSKg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUgeOlLcX6PReHdWImEnUVTg",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCGbkN-3JpOct4KuEv59NF0Q",
+      "title": "엠키타카 MKTK",
+      "description": "국회 티키타카! 콘텐츠왕국! 어른김장하! 지역소생연구소!\n\n홈페이지 : http://www.mbcgn.kr\n페이스북 : http://www.facebook.com/withmbcgn\n인스타그램  : https://www.instagram.com/mbcgn/",
+      "customUrl": "@mbcgn_tv",
+      "publishedAt": "2017-08-08T04:13:21Z",
+      "subscriberCount": 1040000,
+      "videoCount": 22148,
+      "viewCount": 2351688766,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/hUPG97aBRPUUtqvU3nFszYHV-x3GYfoFNbwNJ1-NvsXBXelhnLpgjoDFP3D7svnaY5bLpli6pQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/hUPG97aBRPUUtqvU3nFszYHV-x3GYfoFNbwNJ1-NvsXBXelhnLpgjoDFP3D7svnaY5bLpli6pQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/hUPG97aBRPUUtqvU3nFszYHV-x3GYfoFNbwNJ1-NvsXBXelhnLpgjoDFP3D7svnaY5bLpli6pQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUGbkN-3JpOct4KuEv59NF0Q",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCF2ecghgS_p1F925r-cIfdQ",
+      "title": "핫소스",
+      "description": "\"음뫄-! 핫소스!\"\n코미디 크리에이터 핫소스입니다!\n잘 부탁드립니다!\n\n업로드 주기는 2일/1영상 입니다!\n응스타그램 @apnalchangchangkimseoneung\n송스타그램 @hyoja94\n\n광고 문의 - elzksms222@naver.com\n",
+      "customUrl": "@hotsauceuniverse",
+      "publishedAt": "2022-01-12T03:06:06.679652Z",
+      "subscriberCount": 1010000,
+      "videoCount": 722,
+      "viewCount": 1043434479,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/MwrNX-40K7CQRTNsOVR_jVYYILGKl30ZHGy7nw2ifmx_AcL-RUp67XGdj7vNV2lsQ8CCfMRrLz8=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/MwrNX-40K7CQRTNsOVR_jVYYILGKl30ZHGy7nw2ifmx_AcL-RUp67XGdj7vNV2lsQ8CCfMRrLz8=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/MwrNX-40K7CQRTNsOVR_jVYYILGKl30ZHGy7nw2ifmx_AcL-RUp67XGdj7vNV2lsQ8CCfMRrLz8=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUF2ecghgS_p1F925r-cIfdQ",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCu0b6ODtYia0snp9JE4UUDw",
+      "title": "세상만사",
+      "description": "세상만사 모든 이야기를 들려드립니다!\n문의: dorifamily1234@gmail.com\n\n",
+      "customUrl": "@세상만사-n6h",
+      "publishedAt": "2024-02-14T06:48:46.622989Z",
+      "subscriberCount": 645000,
+      "videoCount": 3208,
+      "viewCount": 1577933514,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/tgqlfQiRq_Zny5G7E9VWdhFv7AORkvo26IKEnvHirKGPoxbwFaZG02qQsa5NUMM03AURCDC_=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/tgqlfQiRq_Zny5G7E9VWdhFv7AORkvo26IKEnvHirKGPoxbwFaZG02qQsa5NUMM03AURCDC_=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/tgqlfQiRq_Zny5G7E9VWdhFv7AORkvo26IKEnvHirKGPoxbwFaZG02qQsa5NUMM03AURCDC_=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUu0b6ODtYia0snp9JE4UUDw",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UC8tH3EF_zmxnKwmpuy9LbYw",
+      "title": "한국의목소리",
+      "description": "빠르고 쉽게 올바른 생각을 전합니다\n제보 및 협업 문의\n✉️ connect.voiceofkorea@gmail.com\n",
+      "customUrl": "@한국의목소리",
+      "publishedAt": "2025-01-31T07:55:07.066491Z",
+      "subscriberCount": 616000,
+      "videoCount": 1606,
+      "viewCount": 1089591219,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/4iOFLb4gPIReye1CRxGOIYK6oe3-i65mtzpT851pm5sFWY46hVgPMVo7loKQVWy-ZJSxYv_K=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/4iOFLb4gPIReye1CRxGOIYK6oe3-i65mtzpT851pm5sFWY46hVgPMVo7loKQVWy-ZJSxYv_K=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/4iOFLb4gPIReye1CRxGOIYK6oe3-i65mtzpT851pm5sFWY46hVgPMVo7loKQVWy-ZJSxYv_K=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UU8tH3EF_zmxnKwmpuy9LbYw",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCHDYKIRxMEItLVoqtmGq3aA",
+      "title": "정치창",
+      "description": "세상을 보여주는 창!",
+      "customUrl": "@jknews97",
+      "publishedAt": "2024-03-24T10:26:55.652981Z",
+      "subscriberCount": 512000,
+      "videoCount": 2172,
+      "viewCount": 1071446860,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/K4zWkeJjnkekAxKX8t6KdvNSVpCGo_UUYNGY67R7Qkt0DKWbsfg84eY_O1l6pyC5YtPZgC9O8es=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/K4zWkeJjnkekAxKX8t6KdvNSVpCGo_UUYNGY67R7Qkt0DKWbsfg84eY_O1l6pyC5YtPZgC9O8es=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/K4zWkeJjnkekAxKX8t6KdvNSVpCGo_UUYNGY67R7Qkt0DKWbsfg84eY_O1l6pyC5YtPZgC9O8es=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUHDYKIRxMEItLVoqtmGq3aA",
+      "country": "KR",
+      "videosAnalyzed": 30,
+      "shortsCount": 30,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UC8brKujsZC20lURDZcuRSlQ",
+      "title": "미디어몽구",
+      "description": "1. 소개\n안녕하세요. 저는 영상취재를 전문으로 하는 1인 미디어로서, 2005년부터 활동을 해오고 있으며, 제 주변에 일어나는 일을 시작으로 사회적 이슈 현장까지, 분야를 가리지 않고 생생한 현장 소식을 전하고 있습니다. \n\n언론에서 비중은 있는데 단신보도 됐거나, 보도 되지 않았던 내용, 사회적으로 소외 받고 있는 이들의 목소리 등을 전하기 위해, 오늘도 발로 뛰며 현장을 기록하고 있습니다.\n\n2. 수상 및 선정\n2005 대한민국 블로그어워드 올해의 시사블로거 선정\n2006 Daum 블로거뉴스 대상 수상\n2007 Daum 블로거뉴스 우수상 수상\n2008 월간 말 선정, 파워블로거 50인에 1위 선정\n2009 온라인 저널리스트 시사부문상 수상\n2010 올해의 온라인 저널리스트 대상 수상\n2012 서울시 공익제보상 수상\n2012 안종필 자유언론상 수상\n2012 송건호 언론상 수상\n2012 김학순상 수상\n2012 노근리 평화상 방송부문상 수상\n2013 세상을 따뜻하게 만든 사람들 선정\n2014 투명사회상 수상\n2015 성유보 특별상 수상\n2015 한국 온라인 저널리즘 어워드 공로상 수상\n2023 한국인터넷기자협회 1인미디어상 수상\n\n3. 경력\n- 하트하트재단 온세상 서포터즈 위촉\n- Daum 블로거뉴스 검색 메인 모델\n- 언론연대 정책위원\n- 민언련 미디어위원회 위원\n- 김복동의 희망 운영위원\n- 한겨레 오피니언 hook 필진\n- CBS 라디오 김미화의 여러분 - '몽구야 어딨니' 코너 담당\n- 한국탐사저널리즘센터 - 뉴스타파 기자\n- 김어준의 파파이스 - '몽구타임' 코너 담당\n- MBC 손바닥TV 현장리포터\n\n4. 후원하기\n21년째 현장을 누비고 있는 미디어몽구가 후원을 기다립니다. 언제나처럼 생생한 현장의 진실을 전하겠으니 제가 카메라를 놓지 않도록 든든한 버팀목이 되어 주십시오. 고마움 잊지 않고 한결 같은 마음으로 시대를 기록하겠습니다. 후원계좌는 (농협 / 317-0006-4512-51) / 페이팔 mediamongu@gmail.com 입니다.\n",
+      "customUrl": "@mediamongu",
+      "publishedAt": "2009-03-21T08:15:07Z",
+      "subscriberCount": 509000,
+      "videoCount": 3374,
+      "viewCount": 780392850,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/fVn9FhfxwrVUvNj_Vii0l6vcyUNNQFQImVhwPhUSHguibKKkR1_8iIyHeaMGxFrjJ6GYGqlymw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/fVn9FhfxwrVUvNj_Vii0l6vcyUNNQFQImVhwPhUSHguibKKkR1_8iIyHeaMGxFrjJ6GYGqlymw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/fVn9FhfxwrVUvNj_Vii0l6vcyUNNQFQImVhwPhUSHguibKKkR1_8iIyHeaMGxFrjJ6GYGqlymw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UU8brKujsZC20lURDZcuRSlQ",
+      "country": "KR",
+      "videosAnalyzed": 30,
+      "shortsCount": 29,
+      "regularVideosCount": 1
+    },
+    {
+      "id": "UCrxe-Msh2j6ICbfUaDJj81g",
+      "title": "이슈카톡",
+      "description": "민주주의와 이재명 국민주권 정부의 성공, 사법정의 등을 위한 민주시민 채널 입니다\n\n“진실을 밝히는 민주 정치 채널”\n이곳은 대한민국 민주주의를 지키고, 사법 개혁, 검찰 개혁을 위한 쇼츠 깨어 있는 시민들의 채널입니다\n우리는 국민들의 목소리를 정치권과 민주당 등에 전하며, 정치 이슈를 빠르게 전달합니다\n\n이재명 대표의 행보부터 국회 정치 분석, 윤석열 정부의 문제점, 국민의힘 비판까지 —\n가짜뉴스에 맞서 진실을 전하고, 시민의 눈으로 정치 현실을 바라봅니다.\n\n정의로운 사회, 공정한 나라, 그리고 개혁 완수를 위해 함께합니다.\n응원봉의 힘으로 정치 변화를 만들어가는 바른 채널이 되겠습니다\n\n\n📌 주요 키워드\n민주당, 이재명, 윤석열 계엄 응징, 검찰개혁, 언론개혁, 법원 사법개혁, 민주주의 수호, 진보 정치, 개혁정치, 정치 해설, 정치 시사, 정치 유튜브, 대한민국 민주주의, 공정한 사회, 검찰독재, 국민의힘 비리 비판, 국회 정치 분석, 정치이슈, 정의로운 사회, 경제민주화, 재벌혁신, 검언유착, 정치토론, 뉴스해석, 시사분석, 대선전망, 총선승리, 민주진영 단결, 개혁 완수, 정치유머, 시민정치, 정치참여, 국회 방송, 대통령실 방송. 이재명 TV방송, \n\n",
+      "customUrl": "@이슈카톡",
+      "publishedAt": "2022-05-30T11:34:11.689006Z",
+      "subscriberCount": 489000,
+      "videoCount": 3969,
+      "viewCount": 1976736134,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GXD6CIjLk1Dnt5VC7nl-M72a7ueVq8b6oA4yjURVnF1ZYbgqtwf5ZPNg72VafPOIw02ANvMh2A=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GXD6CIjLk1Dnt5VC7nl-M72a7ueVq8b6oA4yjURVnF1ZYbgqtwf5ZPNg72VafPOIw02ANvMh2A=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GXD6CIjLk1Dnt5VC7nl-M72a7ueVq8b6oA4yjURVnF1ZYbgqtwf5ZPNg72VafPOIw02ANvMh2A=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUrxe-Msh2j6ICbfUaDJj81g",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCipltOI85rqpxH4iFt_x0Cg",
+      "title": "잼통",
+      "description": "재밌는 것들만 모은 잼통!",
+      "customUrl": "@jamjam9787",
+      "publishedAt": "2024-03-17T11:15:44.181866Z",
+      "subscriberCount": 470000,
+      "videoCount": 275,
+      "viewCount": 149605956,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/haTQr8ZLyCIIL48yyYimlvHCx0bHV8v5-qJ49u62tOMhPgnOLloFb6RJaSBbSJSOQyBd52Uhcw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/haTQr8ZLyCIIL48yyYimlvHCx0bHV8v5-qJ49u62tOMhPgnOLloFb6RJaSBbSJSOQyBd52Uhcw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/haTQr8ZLyCIIL48yyYimlvHCx0bHV8v5-qJ49u62tOMhPgnOLloFb6RJaSBbSJSOQyBd52Uhcw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUipltOI85rqpxH4iFt_x0Cg",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCEsWtfVdAK8soPcDuVqu58g",
+      "title": "엠뉴 | MBC경남 NEWS",
+      "description": "MBC경남 뉴스 공식 계정입니다.\n지역 핫이슈부터 전국적 관심 사안까지 두루 살핍니다.\n방위산업의 중심지에서 K-방산 콘텐츠도 집중적으로 다룹니다.\n많은 관심 부탁드립니다. (구독, 좋아요, 댓글은 필수!)\n\n홈페이지 : http://www.mbcgn.kr\nX : @mbcgn_news\n페이스북 : http://www.facebook.com/withmbcgn\n인스타그램  : https://www.instagram.com/mbcgn_news/",
+      "customUrl": "@mbcnews7670",
+      "publishedAt": "2017-08-07T06:21:04Z",
+      "subscriberCount": 450000,
+      "videoCount": 47059,
+      "viewCount": 579002722,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/v__eiQEgXgwAynGyNr0_Nmcs3pBhXI-ZGhkiNwgxvQnlCaDH-m1DKnnC7044d95G3qW_8V3iZQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/v__eiQEgXgwAynGyNr0_Nmcs3pBhXI-ZGhkiNwgxvQnlCaDH-m1DKnnC7044d95G3qW_8V3iZQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/v__eiQEgXgwAynGyNr0_Nmcs3pBhXI-ZGhkiNwgxvQnlCaDH-m1DKnnC7044d95G3qW_8V3iZQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUEsWtfVdAK8soPcDuVqu58g",
+      "country": "KR",
+      "videosAnalyzed": 30,
+      "shortsCount": 14,
+      "regularVideosCount": 16
+    },
+    {
+      "id": "UCPnsRM1XL2NM3xq8N7XGaQg",
+      "title": "링킹",
+      "description": "구독과 방문 감사합니다.\n문의 mrgray275@gmail.com\n",
+      "customUrl": "@linkingranking",
+      "publishedAt": "2018-02-07T05:25:49Z",
+      "subscriberCount": 419000,
+      "videoCount": 3025,
+      "viewCount": 575420916,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/CfeyGSvQwDc7p7TSueVaFvcuwKlwu999XXxNCdBVKb0YyYhth-H-321wlxcbaSOHMYjODKnK5_M=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/CfeyGSvQwDc7p7TSueVaFvcuwKlwu999XXxNCdBVKb0YyYhth-H-321wlxcbaSOHMYjODKnK5_M=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/CfeyGSvQwDc7p7TSueVaFvcuwKlwu999XXxNCdBVKb0YyYhth-H-321wlxcbaSOHMYjODKnK5_M=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUPnsRM1XL2NM3xq8N7XGaQg",
+      "country": "KR",
+      "videosAnalyzed": 30,
+      "shortsCount": 7,
+      "regularVideosCount": 23
+    },
+    {
+      "id": "UCgHG6kRpULWaJ1AGUr2pOXQ",
+      "title": "정치공감",
+      "description": "이재명 대통령님은 정치는 국민이 하는 것이라 했습니다. 늘 민주 시민 여러분과 같은 곳을 바라보고 같이 걷겠습니다\n\n\n",
+      "customUrl": "@정치공감tv",
+      "publishedAt": "2020-05-28T12:15:50.768611Z",
+      "subscriberCount": 391000,
+      "videoCount": 698,
+      "viewCount": 120510550,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/R6ynfgFkV7pKnrgUIp52TOpg2AQ2qD0Geo57N9uoFitMuC1nvsL7LmBRqgnZqqwGCj1RNL0Yvg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/R6ynfgFkV7pKnrgUIp52TOpg2AQ2qD0Geo57N9uoFitMuC1nvsL7LmBRqgnZqqwGCj1RNL0Yvg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/R6ynfgFkV7pKnrgUIp52TOpg2AQ2qD0Geo57N9uoFitMuC1nvsL7LmBRqgnZqqwGCj1RNL0Yvg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUgHG6kRpULWaJ1AGUr2pOXQ",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCd6tMX5cbTf6HNf1iug0HrQ",
+      "title": "이마까TV",
+      "description": "정치 풍자, 패러디를 통해  / 진보 진영에는 힘을 드리고 / 중도층에는 공감을 이끌어 내는 영상 제작을 목표로 합니다.",
+      "customUrl": "@이마까tv",
+      "publishedAt": "2018-11-09T08:01:53Z",
+      "subscriberCount": 337000,
+      "videoCount": 887,
+      "viewCount": 796657256,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/RstzVEx_9sC_aaMuFohYXwUyclAN97UMi8jX4N8me9lyj7vIOlmHLoOdV1_GfPwJcOGBC_zf=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/RstzVEx_9sC_aaMuFohYXwUyclAN97UMi8jX4N8me9lyj7vIOlmHLoOdV1_GfPwJcOGBC_zf=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/RstzVEx_9sC_aaMuFohYXwUyclAN97UMi8jX4N8me9lyj7vIOlmHLoOdV1_GfPwJcOGBC_zf=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUd6tMX5cbTf6HNf1iug0HrQ",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCd6tMX5cbTf6HNf1iug0HrQ",
+      "title": "이마까TV",
+      "description": "정치 풍자, 패러디를 통해  / 진보 진영에는 힘을 드리고 / 중도층에는 공감을 이끌어 내는 영상 제작을 목표로 합니다.",
+      "customUrl": "@이마까tv",
+      "publishedAt": "2018-11-09T08:01:53Z",
+      "subscriberCount": 337000,
+      "videoCount": 887,
+      "viewCount": 796657256,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/RstzVEx_9sC_aaMuFohYXwUyclAN97UMi8jX4N8me9lyj7vIOlmHLoOdV1_GfPwJcOGBC_zf=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/RstzVEx_9sC_aaMuFohYXwUyclAN97UMi8jX4N8me9lyj7vIOlmHLoOdV1_GfPwJcOGBC_zf=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/RstzVEx_9sC_aaMuFohYXwUyclAN97UMi8jX4N8me9lyj7vIOlmHLoOdV1_GfPwJcOGBC_zf=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUd6tMX5cbTf6HNf1iug0HrQ",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCc6sEta0lPmVJ3TFIw8s-wA",
+      "title": "민주픽",
+      "description": "다시 시작하는 민주주의를 위해\n \n민주시민을 위한 민주 뉴스 숏츠 채널입니다\n\n0H9LA0@AICOMPANY",
+      "customUrl": "@minjupick",
+      "publishedAt": "2013-04-08T07:04:38Z",
+      "subscriberCount": 323000,
+      "videoCount": 2312,
+      "viewCount": 1764987714,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/9cfPcDDSln3sHmfzt4F-nYQU9rnYhfew9LoTnLeKqkCNbyp_FtOzXqnFM_z6Fl7kvLmi7JAE=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/9cfPcDDSln3sHmfzt4F-nYQU9rnYhfew9LoTnLeKqkCNbyp_FtOzXqnFM_z6Fl7kvLmi7JAE=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/9cfPcDDSln3sHmfzt4F-nYQU9rnYhfew9LoTnLeKqkCNbyp_FtOzXqnFM_z6Fl7kvLmi7JAE=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUc6sEta0lPmVJ3TFIw8s-wA",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCJm_AJKFjq89w5brQ3yTa8g",
+      "title": "김감독 쇼츠 ",
+      "description": "정치·연예·사회 주요 현장을\n가장 빠르고 간결한 쇼츠로 전합니다.\n팩트 중심, 현장 중심 뉴스 쇼츠 채널입니다.\nhanbae2371@gmail.com \n\n",
+      "customUrl": "@tv17314",
+      "publishedAt": "2023-05-08T14:08:28.931191Z",
+      "subscriberCount": 311000,
+      "videoCount": 218,
+      "viewCount": 83901302,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/_0ShL4v6U7Pt37_bS8jQY4Wr-JrY1bnycbK3Dy2LqXhOi4oGBqeRmTjWiYKa6tPuK0znuQ24rug=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/_0ShL4v6U7Pt37_bS8jQY4Wr-JrY1bnycbK3Dy2LqXhOi4oGBqeRmTjWiYKa6tPuK0znuQ24rug=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/_0ShL4v6U7Pt37_bS8jQY4Wr-JrY1bnycbK3Dy2LqXhOi4oGBqeRmTjWiYKa6tPuK0znuQ24rug=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUJm_AJKFjq89w5brQ3yTa8g",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    }
+  ]
 }
