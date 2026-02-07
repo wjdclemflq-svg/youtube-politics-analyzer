@@ -1,12 +1,37 @@
 {
-  "lastUpdated": "2026-02-07T12:28:26.897Z",
+  "lastUpdated": "2026-02-07T18:22:28.883Z",
   "totalChannelsAnalyzed": 80,
-  "totalVideos": 0,
-  "totalShorts": 0,
-  "totalRegularVideos": 0,
-  "totalViewCount": 0,
-  "totalLikeCount": 0,
-  "averageViewsPerShort": 0,
-  "topChannelsByShorts": [],
-  "topShortsByViews": []
+  "totalVideos": 60,
+  "totalShorts": 3,
+  "totalRegularVideos": 57,
+  "totalViewCount": 648851,
+  "totalLikeCount": 4774,
+  "averageViewsPerShort": 1859,
+  "topChannelsByShorts": [
+    {
+      "title": "연합뉴스TV",
+      "shortsCount": 3,
+      "subscriberCount": 2180000
+    }
+  ],
+  "topShortsByViews": [
+    {
+      "title": "엄마 된장찌개가 더 맛있는 이유 / 연합뉴스TV(YonhapnewsTV)",
+      "channelTitle": "연합뉴스TV",
+      "viewCount": 2593,
+      "publishedAt": "2026-02-07T12:00:58Z"
+    },
+    {
+      "title": "'50억 클럽 공소기각' 곽상도 측 \"검찰에 손해배상 청구\" / 연합뉴스TV (YonhapnewsTV)",
+      "channelTitle": "연합뉴스TV",
+      "viewCount": 1782,
+      "publishedAt": "2026-02-07T10:34:10Z"
+    },
+    {
+      "title": "'위안부 모욕' 보수단체 대표 \"당분간 거리투쟁 중단\" / 연합뉴스TV (YonhapnewsTV)",
+      "channelTitle": "연합뉴스TV",
+      "viewCount": 1203,
+      "publishedAt": "2026-02-07T10:43:18Z"
+    }
+  ]
 }
