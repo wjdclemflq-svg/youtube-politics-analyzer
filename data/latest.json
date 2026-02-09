@@ -1,463 +1,251 @@
 {
-  "lastUpdated": "2026-02-09T12:44:56.480Z",
+  "lastUpdated": "2026-02-09T18:45:12.039Z",
   "totalChannelsAnalyzed": 80,
-  "totalVideos": 480,
-  "totalShorts": 231,
-  "totalRegularVideos": 249,
-  "totalViewCount": 89960411,
-  "totalLikeCount": 3396676,
-  "averageViewsPerShort": 268835,
+  "totalVideos": 60,
+  "totalShorts": 6,
+  "totalRegularVideos": 54,
+  "totalViewCount": 906695,
+  "totalLikeCount": 28721,
+  "averageViewsPerShort": 56308,
   "topChannelsByShorts": [
     {
-      "title": "미디어몽구",
-      "shortsCount": 30,
-      "subscriberCount": 525000
-    },
-    {
-      "title": "정치창",
-      "shortsCount": 30,
-      "subscriberCount": 512000
-    },
-    {
-      "title": "김감독 ",
-      "shortsCount": 30,
-      "subscriberCount": 316000
-    },
-    {
-      "title": "골프콜라",
-      "shortsCount": 30,
-      "subscriberCount": 253000
-    },
-    {
-      "title": "잼통",
-      "shortsCount": 28,
-      "subscriberCount": 469000
-    },
-    {
-      "title": "한국의목소리",
-      "shortsCount": 25,
-      "subscriberCount": 635000
-    },
-    {
-      "title": "폴리티카 POLITICA",
-      "shortsCount": 23,
-      "subscriberCount": 228000
-    },
-    {
-      "title": "민주픽",
-      "shortsCount": 14,
-      "subscriberCount": 328000
-    },
-    {
-      "title": "오늘의뉴스",
-      "shortsCount": 10,
-      "subscriberCount": 796
-    },
-    {
-      "title": "뉴스TVCHOSUN",
-      "shortsCount": 3,
-      "subscriberCount": 3040000
+      "title": "스픽스",
+      "shortsCount": 6,
+      "subscriberCount": 1570000
     }
   ],
   "topShortsByViews": [
     {
-      "title": "[속보] 전국 송출된 이재명 깡패 본성",
-      "channelTitle": "한국의목소리",
-      "viewCount": 5178086,
-      "publishedAt": "2026-01-27T08:56:00Z"
+      "title": "김민석 총리 발언 의미..\"이 대통령 엄청 화났다!\"",
+      "channelTitle": "스픽스",
+      "viewCount": 200607,
+      "publishedAt": "2026-02-09T10:45:06Z"
     },
     {
-      "title": "그 중요한 걸 왜 보고를 안 해요? 엉망인 보고 체계 지적하는 이재명 대통령에 문체부 장관 답이..",
-      "channelTitle": "정치창",
-      "viewCount": 3478585,
-      "publishedAt": "2026-01-27T05:12:33Z"
+      "title": "이광수 대표의 예언! 코스피 어디까지?!",
+      "channelTitle": "스픽스",
+      "viewCount": 44484,
+      "publishedAt": "2026-02-09T11:07:00Z"
     },
     {
-      "title": "기업 총수들 '눈 커진' 전무후무한 카드! \"날 활용해라\"",
-      "channelTitle": "폴리티카 POLITICA",
-      "viewCount": 2528313,
-      "publishedAt": "2026-02-04T10:25:07Z"
+      "title": "“계엄 회의면 안 합니다” 법정에서 나온 사표 선언",
+      "channelTitle": "스픽스",
+      "viewCount": 31683,
+      "publishedAt": "2026-02-09T14:17:00Z"
     },
     {
-      "title": "[속보] 이해찬 장례식 세금 지원",
-      "channelTitle": "한국의목소리",
-      "viewCount": 1846465,
-      "publishedAt": "2026-01-27T09:18:45Z"
+      "title": "뭔가 로망이 있죠?  안 나간다고 말씀을..",
+      "channelTitle": "스픽스",
+      "viewCount": 25521,
+      "publishedAt": "2026-02-09T06:40:02Z"
     },
     {
-      "title": "쥐락펴락 안귀령 부대변인의 '신들린' 진행력 ㅋㅋ",
-      "channelTitle": "폴리티카 POLITICA",
-      "viewCount": 1515153,
-      "publishedAt": "2026-02-06T12:25:07Z"
+      "title": "박성재는 왜 계엄을 반대했나",
+      "channelTitle": "스픽스",
+      "viewCount": 20896,
+      "publishedAt": "2026-02-09T14:00:34Z"
     },
     {
-      "title": "[속보] 이재명 직접 언급하며 경고",
-      "channelTitle": "한국의목소리",
-      "viewCount": 1492407,
-      "publishedAt": "2026-01-27T03:12:25Z"
-    },
-    {
-      "title": "[속보] 청소년 노동신문 개방",
-      "channelTitle": "한국의목소리",
-      "viewCount": 1012949,
-      "publishedAt": "2026-01-28T08:22:20Z"
-    },
-    {
-      "title": "달라진 얼굴이 화제라는 김건희",
-      "channelTitle": "잼통",
-      "viewCount": 998572,
-      "publishedAt": "2025-08-08T03:18:09Z"
-    },
-    {
-      "title": "'재벌 앞' 정책실장과 비서실장은?! 재밌는 캐릭터 차이 ㅋㅋ",
-      "channelTitle": "폴리티카 POLITICA",
-      "viewCount": 965653,
-      "publishedAt": "2026-02-04T09:01:13Z"
-    },
-    {
-      "title": "아무리봐도 미친 #매불쇼",
-      "channelTitle": "골프콜라",
-      "viewCount": 954605,
-      "publishedAt": "2026-01-08T11:49:52Z"
+      "title": "김광민 변호사 충격 발언!! 광장에서 시작된 로비 의혹",
+      "channelTitle": "스픽스",
+      "viewCount": 14657,
+      "publishedAt": "2026-02-09T15:03:00Z"
     }
   ],
   "recentShorts": [
     {
-      "id": "k8O8SVwtKtU",
-      "channelId": "UCHDYKIRxMEItLVoqtmGq3aA",
-      "channelTitle": "정치창",
-      "title": "계엄 선포하는 윤석열 얼굴 표정도 보기 싫어..증언하다가 점점 빡쳐하는 류혁 전 감찰관",
-      "description": "채널의 회원이 되어주셔서 감사합니다! \nhttps://www.youtube.com/channel/UCHDYKIRxMEItLVoqtmGq3aA/join",
-      "publishedAt": "2026-02-09T12:27:24Z",
-      "duration": "PT36S",
-      "durationSeconds": 36,
-      "viewCount": 4751,
-      "likeCount": 63,
-      "commentCount": 0,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/k8O8SVwtKtU/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/k8O8SVwtKtU/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/k8O8SVwtKtU/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/k8O8SVwtKtU/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/k8O8SVwtKtU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [
-        "김건희",
-        "윤석열",
-        "정치",
-        "시사",
-        "국민의힘",
-        "민주당",
-        "이재명",
-        "한동훈",
-        "나경원",
-        "배현진",
-        "조국",
-        "조국혁신당"
-      ],
-      "isShorts": true
-    },
-    {
-      "id": "WEyVfAhAhQM",
-      "channelId": "UCc6sEta0lPmVJ3TFIw8s-wA",
-      "channelTitle": "민주픽",
-      "title": "왠지 이랬을 거 같은데~ㅋㅋ",
-      "description": "민주 진보 진영 쇼츠 전문 채널 Ͼ민주픽Ͽ 입니다\n\n내란 세력 척결과 사법 카르텔 척결을 위해 끝까지 함께 하겠습니다",
-      "publishedAt": "2026-02-09T12:24:10Z",
+      "id": "xGA4p523ZRw",
+      "channelId": "UCgeOlLcX6PReHdWImEnUVTg",
+      "channelTitle": "스픽스",
+      "title": "김광민 변호사 충격 발언!! 광장에서 시작된 로비 의혹",
+      "description": "#shorts #전준철 #이성윤 #전주 #김광민 #광장",
+      "publishedAt": "2026-02-09T15:03:00Z",
       "duration": "PT35S",
       "durationSeconds": 35,
-      "viewCount": 5524,
-      "likeCount": 119,
-      "commentCount": 14,
+      "viewCount": 14657,
+      "likeCount": 565,
+      "commentCount": 20,
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/WEyVfAhAhQM/default.jpg",
+          "url": "https://i.ytimg.com/vi/xGA4p523ZRw/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/WEyVfAhAhQM/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/xGA4p523ZRw/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/WEyVfAhAhQM/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/xGA4p523ZRw/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/WEyVfAhAhQM/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/xGA4p523ZRw/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/WEyVfAhAhQM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
-      "id": "Hd1c8SinC4M",
-      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
-      "channelTitle": "연합뉴스TV",
-      "title": "[단독] 대한상의 '연구검증반' 가동…자료 팩트체크 강화 / 연합뉴스TV (YonhapnewsTV)",
-      "description": "최근 상속세 관련 보도자료로 논란에 휩싸인 대한상공회의소가 '연구검증반'을 신설해, 본격적으로 자료 검증 절차 강화에 나섰습니다.\n\n오늘(9일) 업계에 따르면, 대한상의는 박양수 SGI 원장을 담당 임원으로 하는 연구검증반을 발족했습니다.\n\n박사급 조사연구 인력 등을 비롯한 조직 내외부의 전문가들을 투입해 자료에 포함된 통계의 출처 및 조사기관 신뢰도 등을",
-      "publishedAt": "2026-02-09T12:21:51Z",
-      "duration": "PT58S",
-      "durationSeconds": 58,
-      "viewCount": 23,
-      "likeCount": 0,
-      "commentCount": 0,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Hd1c8SinC4M/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Hd1c8SinC4M/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Hd1c8SinC4M/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/Hd1c8SinC4M/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/Hd1c8SinC4M/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/xGA4p523ZRw/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
       },
       "tags": [
-        "LIVE",
-        "NEWS",
-        "뉴스",
-        "라이브",
-        "생방송",
-        "생중계",
-        "연합뉴스TV",
-        "주요뉴스"
-      ],
-      "isShorts": true
-    },
-    {
-      "id": "wqvqLgqbqBU",
-      "channelId": "UCMvbvHHnMC9DNzOymwsPTMQ",
-      "channelTitle": "폴리티카 POLITICA",
-      "title": "탈북자도 인정할 수 밖에 없는 ㅋㅋ \"잘했습니다!\"",
-      "description": "핵잠의 위력! \n탈북자도 인정할 수 밖에 없는 ㅋㅋ \"잘했습니다!\"",
-      "publishedAt": "2026-02-09T12:00:43Z",
-      "duration": "PT21S",
-      "durationSeconds": 21,
-      "viewCount": 6639,
-      "likeCount": 210,
-      "commentCount": 26,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/wqvqLgqbqBU/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/wqvqLgqbqBU/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/wqvqLgqbqBU/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/wqvqLgqbqBU/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/wqvqLgqbqBU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
-      "id": "YOWoRSvfCF0",
-      "channelId": "UCHDYKIRxMEItLVoqtmGq3aA",
-      "channelTitle": "정치창",
-      "title": "예의는 북한에 두고 탈북했나....김민석 총리에게 능구렁이 막말하는 박충권에 국회는 발칵",
-      "description": "채널의 회원이 되어주셔서 감사합니다! \nhttps://www.youtube.com/channel/UCHDYKIRxMEItLVoqtmGq3aA/join",
-      "publishedAt": "2026-02-09T11:53:31Z",
-      "duration": "PT54S",
-      "durationSeconds": 54,
-      "viewCount": 2189,
-      "likeCount": 60,
-      "commentCount": 12,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/YOWoRSvfCF0/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/YOWoRSvfCF0/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/YOWoRSvfCF0/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/YOWoRSvfCF0/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/YOWoRSvfCF0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [
-        "김건희",
-        "윤석열",
-        "정치",
-        "시사",
-        "국민의힘",
+        "스픽스",
+        "speaks",
+        "더불어민주당",
         "민주당",
-        "이재명",
-        "한동훈",
-        "나경원",
-        "배현진",
-        "조국",
-        "조국혁신당"
+        "국민의힘",
+        "여당",
+        "야당",
+        "여야",
+        "정치대담",
+        "정치",
+        "경제대담",
+        "경제",
+        "윤석열",
+        "윤대통령",
+        "대통령",
+        "정부",
+        "보수",
+        "진보",
+        "중도",
+        "전계완",
+        "김건희",
+        "건희사랑"
       ],
       "isShorts": true
     },
     {
-      "id": "K524jx_sCuw",
-      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
-      "channelTitle": "연합뉴스TV",
-      "title": "법무장관 \"김건희 1심 판결 국민 감정과는 거리\" / 연합뉴스TV (YonhapnewsTV)",
-      "description": "정성호 법무부 장관이 김건희 씨의 도이치모터스 주가조작, '명태균 여론조사' 관련 혐의를 1심에서 무죄로 판결한 데 대해 \"국민 일반의 감정과는 조금 거리가 있어 보인다\"라고 말했습니다.\n\n정 장관은 오늘(9일) 국회 대정부 질문에서 '공정한 판결이 맞느냐'라는 더불어민주당 박정 의원의 질의에 이같이 답하고, \"다만 1심 판결이기 때문에 특검에서 법원의 판",
-      "publishedAt": "2026-02-09T11:41:27Z",
-      "duration": "PT48S",
-      "durationSeconds": 48,
-      "viewCount": 75,
-      "likeCount": 2,
-      "commentCount": 0,
+      "id": "MWAmec5gcKM",
+      "channelId": "UCgeOlLcX6PReHdWImEnUVTg",
+      "channelTitle": "스픽스",
+      "title": "“계엄 회의면 안 합니다” 법정에서 나온 사표 선언",
+      "description": "#shorts #류혁 #박성재 #사표 #계엄 #회의",
+      "publishedAt": "2026-02-09T14:17:00Z",
+      "duration": "PT33S",
+      "durationSeconds": 33,
+      "viewCount": 31683,
+      "likeCount": 1042,
+      "commentCount": 23,
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/K524jx_sCuw/default.jpg",
+          "url": "https://i.ytimg.com/vi/MWAmec5gcKM/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/K524jx_sCuw/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/MWAmec5gcKM/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/K524jx_sCuw/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/MWAmec5gcKM/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/K524jx_sCuw/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/MWAmec5gcKM/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/K524jx_sCuw/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/MWAmec5gcKM/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
       },
       "tags": [
-        "LIVE",
-        "NEWS",
-        "뉴스",
-        "라이브",
-        "생방송",
-        "생중계",
-        "연합뉴스TV",
-        "주요뉴스"
+        "스픽스",
+        "speaks",
+        "더불어민주당",
+        "민주당",
+        "국민의힘",
+        "여당",
+        "야당",
+        "여야",
+        "정치대담",
+        "정치",
+        "경제대담",
+        "경제",
+        "윤석열",
+        "윤대통령",
+        "대통령",
+        "정부",
+        "보수",
+        "진보",
+        "중도",
+        "전계완",
+        "김건희",
+        "건희사랑"
       ],
       "isShorts": true
     },
     {
-      "id": "7BwnGQl71ag",
-      "channelId": "UCc6sEta0lPmVJ3TFIw8s-wA",
-      "channelTitle": "민주픽",
-      "title": "북한 찬양 국가보안법 위반 당장 구속이 필요한 국개",
-      "description": "민주 진보 진영 쇼츠 전문 채널 Ͼ민주픽Ͽ 입니다\n\n내란 세력 척결과 사법 카르텔 척결을 위해 끝까지 함께 하겠습니다",
-      "publishedAt": "2026-02-09T11:35:13Z",
-      "duration": "PT48S",
-      "durationSeconds": 48,
-      "viewCount": 14811,
-      "likeCount": 438,
-      "commentCount": 258,
+      "id": "Lk4InJr3DDY",
+      "channelId": "UCgeOlLcX6PReHdWImEnUVTg",
+      "channelTitle": "스픽스",
+      "title": "박성재는 왜 계엄을 반대했나",
+      "description": "#shorts #박성재 #계엄 #반대 #이진관",
+      "publishedAt": "2026-02-09T14:00:34Z",
+      "duration": "PT25S",
+      "durationSeconds": 25,
+      "viewCount": 20896,
+      "likeCount": 369,
+      "commentCount": 24,
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/7BwnGQl71ag/default.jpg",
+          "url": "https://i.ytimg.com/vi/Lk4InJr3DDY/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/7BwnGQl71ag/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Lk4InJr3DDY/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/7BwnGQl71ag/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Lk4InJr3DDY/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/7BwnGQl71ag/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/Lk4InJr3DDY/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/7BwnGQl71ag/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Lk4InJr3DDY/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
       },
-      "tags": [],
+      "tags": [
+        "스픽스",
+        "speaks",
+        "더불어민주당",
+        "민주당",
+        "국민의힘",
+        "여당",
+        "야당",
+        "여야",
+        "정치대담",
+        "정치",
+        "경제대담",
+        "경제",
+        "윤석열",
+        "윤대통령",
+        "대통령",
+        "정부",
+        "보수",
+        "진보",
+        "중도",
+        "전계완",
+        "김건희",
+        "건희사랑"
+      ],
       "isShorts": true
     },
     {
@@ -469,9 +257,9 @@
       "publishedAt": "2026-02-09T11:07:00Z",
       "duration": "PT47S",
       "durationSeconds": 47,
-      "viewCount": 5899,
-      "likeCount": 342,
-      "commentCount": 0,
+      "viewCount": 44484,
+      "likeCount": 821,
+      "commentCount": 4,
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/t5Jit0uiQcs/default.jpg",
@@ -526,102 +314,6 @@
       "isShorts": true
     },
     {
-      "id": "yZFU5g47rEk",
-      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
-      "channelTitle": "뉴스TVCHOSUN",
-      "title": "이재명 비거주 분당 아파트 왜 안 파나? 본인만 예외? [🥊류병수의 강펀치] #shorts",
-      "description": "#이재명 #이재명아파트 #이재명부동산\n\n[TV조선 뉴스·시사 프로그램｜유튜브 라이브 방송시간]\n\n📡 월~금 07:30 강상구의 투시경 (유튜브)\n📡 월~금 07:30 뉴스퍼레이드\n📡 월        08:40 네트워크 매거진\n📡 월~금 09:00 신통방통 \n📡 월~금 10:20 류병수의 강펀치 (유튜브)\n📡 월~금 13:00 보도본부 핫라인\n📡",
-      "publishedAt": "2026-02-09T11:02:35Z",
-      "duration": "PT51S",
-      "durationSeconds": 51,
-      "viewCount": 5967,
-      "likeCount": 308,
-      "commentCount": 11,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/yZFU5g47rEk/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/yZFU5g47rEk/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/yZFU5g47rEk/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/yZFU5g47rEk/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/yZFU5g47rEk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [
-        "이재명",
-        "이재명 부동산",
-        "부동산",
-        "이재용",
-        "이재명 이재용",
-        "부동산 정책",
-        "이재명 트럼프",
-        "부동산 전망",
-        "부동산 매물",
-        "부동산 보유세",
-        "부동산 규제",
-        "부동산 대책",
-        "다주택자",
-        "다주택자 양도세 중과",
-        "다주택자 보유세",
-        "다주택자 양도세 중과 지역",
-        "다주택자 양도세",
-        "다주택자 기준",
-        "다주택자 세금",
-        "국회의원 다주택자",
-        "다주택자 취득세",
-        "양도세 중과",
-        "쿠팡",
-        "쿠팡 정부 지시",
-        "쿠팡 로저스",
-        "쿠팡 국정원",
-        "미국",
-        "트럼프",
-        "미국 쿠팡",
-        "쿠팡 미국",
-        "트럼프 쿠팡",
-        "김경",
-        "강선우",
-        "관세",
-        "미국 관세",
-        "트럼프 관세",
-        "이재명 관세",
-        "추미애",
-        "추미애 나경원",
-        "추나",
-        "추미애 문재인",
-        "추미애 법사위원장",
-        "나경원",
-        "강펀치",
-        "류병수의강펀치",
-        "류병수",
-        "김경율",
-        "TVCHOSUN",
-        "LIVE",
-        "티비조선라이브",
-        "TV조선라이브",
-        "실시간",
-        "tv조선"
-      ],
-      "isShorts": true
-    },
-    {
       "id": "dspH7-P4J1s",
       "channelId": "UCgeOlLcX6PReHdWImEnUVTg",
       "channelTitle": "스픽스",
@@ -630,9 +322,9 @@
       "publishedAt": "2026-02-09T10:45:06Z",
       "duration": "PT17S",
       "durationSeconds": 17,
-      "viewCount": 6313,
-      "likeCount": 2237,
-      "commentCount": 62,
+      "viewCount": 200607,
+      "likeCount": 6903,
+      "commentCount": 158,
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/dspH7-P4J1s/default.jpg",
@@ -687,682 +379,6 @@
       "isShorts": true
     },
     {
-      "id": "2NO62ueGNXI",
-      "channelId": "UCHDYKIRxMEItLVoqtmGq3aA",
-      "channelTitle": "정치창",
-      "title": "박성재 흉내내는 류혁 감찰관ㅋㅋ 유일하게 계엄 때 사표던진 공직자의 생생한 증언",
-      "description": "채널의 회원이 되어주셔서 감사합니다! \nhttps://www.youtube.com/channel/UCHDYKIRxMEItLVoqtmGq3aA/join",
-      "publishedAt": "2026-02-09T10:37:34Z",
-      "duration": "PT56S",
-      "durationSeconds": 56,
-      "viewCount": 30564,
-      "likeCount": 1161,
-      "commentCount": 40,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/2NO62ueGNXI/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/2NO62ueGNXI/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/2NO62ueGNXI/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/2NO62ueGNXI/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/2NO62ueGNXI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [
-        "김건희",
-        "윤석열",
-        "정치",
-        "시사",
-        "국민의힘",
-        "민주당",
-        "이재명",
-        "한동훈",
-        "나경원",
-        "배현진",
-        "조국",
-        "조국혁신당"
-      ],
-      "isShorts": true
-    },
-    {
-      "id": "Zp4GYj21i8M",
-      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
-      "channelTitle": "뉴스TVCHOSUN",
-      "title": "[뉴스트라다무스] 한동훈, 지선 출마할까? 설주완, \"텃밭에서 지는건 의미없다. 서사를 만들어갈 수 있는 지역이어야\" #shorts",
-      "description": "#뉴스트라다무스 #한동훈 #지방선거",
-      "publishedAt": "2026-02-09T10:34:20Z",
-      "duration": "PT1M12S",
-      "durationSeconds": 72,
-      "viewCount": 1350,
-      "likeCount": 24,
-      "commentCount": 3,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Zp4GYj21i8M/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Zp4GYj21i8M/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Zp4GYj21i8M/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/Zp4GYj21i8M/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/Zp4GYj21i8M/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [
-        "TV조선",
-        "티비조선",
-        "조선일보",
-        "종편",
-        "종합편성",
-        "TV조선뉴스",
-        "뉴스",
-        "뉴스프로그램",
-        "NEWS",
-        "채널19",
-        "CH19",
-        "뉴스9",
-        "뉴스7",
-        "윤정호",
-        "포커스",
-        "윤우리",
-        "강펀치",
-        "TVCHOSUN",
-        "LIVE",
-        "티비조선라이브",
-        "TV조선라이브"
-      ],
-      "isShorts": true
-    },
-    {
-      "id": "o8rTy0Xx0Ug",
-      "channelId": "UCJm_AJKFjq89w5brQ3yTa8g",
-      "channelTitle": "김감독 ",
-      "title": "리액션 부자 전원주 선생님 출판기념회 나들이 모습 포착 #전원주 #리액션부자 #출판기념식 #축사 #박수 #끄덕끄덕 #현장포착 #행사스케치  #쇼츠 #Shorts #현장영상",
-      "description": "리액션 부자 전원주 선생님이 김영배 출판 기념회에 깜짝 나들이 오셨습니다.\n성북구 주민이기도 한 전원주 선생님, 특유의 밝고 유쾌한 리액션으로 현장 분위기를 한층 더 살려주셨는데요.\n웃음과 훈훈함이 함께한 김영배 출판 기념회 현장, 짧게 함께 보시죠 😊\n#전원주 #리액션부자 #김영배 #김영배출판기념회 #출판기념회\n#성북구주민 #전원주선생님",
-      "publishedAt": "2026-02-09T10:30:38Z",
-      "duration": "PT10S",
-      "durationSeconds": 10,
-      "viewCount": 11786,
-      "likeCount": 133,
-      "commentCount": 1,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/o8rTy0Xx0Ug/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/o8rTy0Xx0Ug/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/o8rTy0Xx0Ug/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/o8rTy0Xx0Ug/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/o8rTy0Xx0Ug/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
-      "id": "MgMygcwYHFA",
-      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
-      "channelTitle": "뉴스TVCHOSUN",
-      "title": "이기인 \"이거는 뭐 정청래가 의도한 것이라고 봐야죠 근데 전준철 변호사 추천이 뭐가 문제죠?\" [🥊류병수의 강펀치] #shorts",
-      "description": "#이재명 #정청래 #민주당 \n\n[TV조선 뉴스·시사 프로그램｜유튜브 라이브 방송시간]\n\n📡 월~금 07:00 강상구 부장의 투시경 (유튜브)\n📡 월~금 07:30 뉴스퍼레이드\n📡 월        08:40 네트워크 매거진\n📡 월~금 09:00 신통방통 \n📡 월~금 10:20 류병수의 강펀치 (유튜브)\n📡 월~금 13:00 보도본부 핫라인\n📡 월",
-      "publishedAt": "2026-02-09T10:27:55Z",
-      "duration": "PT55S",
-      "durationSeconds": 55,
-      "viewCount": 2034,
-      "likeCount": 46,
-      "commentCount": 3,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/MgMygcwYHFA/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/MgMygcwYHFA/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/MgMygcwYHFA/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/MgMygcwYHFA/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/MgMygcwYHFA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [
-        "이재명",
-        "이재명 정청래",
-        "정청래",
-        "이재명 부동산",
-        "김병기",
-        "조국",
-        "조국혁신당",
-        "정청래 합당",
-        "정청래 김어준",
-        "민주당",
-        "민주당 합당",
-        "합당",
-        "조국 민주당",
-        "상속세",
-        "상속세 증여세",
-        "상속세 개편",
-        "대한상공회의소",
-        "대한상공회의소 가짜뉴스",
-        "오세훈",
-        "오세훈 장동혁",
-        "오세훈 정원오",
-        "정원오 성동구청장",
-        "정원오 서울시장 출마",
-        "조국혁신당 합당",
-        "조국 정청래",
-        "한동훈",
-        "한동훈 콘서트",
-        "한동훈 토크 콘서트",
-        "배현진",
-        "장동혁",
-        "한동훈 가발",
-        "한동훈 제명",
-        "이준석",
-        "전한길 이준석",
-        "전한길",
-        "이준석 전한길",
-        "토론",
-        "전한길 이준석 토론",
-        "부정선거",
-        "부정선거 토론",
-        "개혁신당",
-        "이준석 부정선거",
-        "강펀치",
-        "류병수의강펀치",
-        "류병수",
-        "윤희석",
-        "이기인",
-        "TVCHOSUN",
-        "LIVE",
-        "티비조선라이브",
-        "TV조선라이브",
-        "실시간",
-        "tv조선"
-      ],
-      "isShorts": true
-    },
-    {
-      "id": "Co5HmCxVZro",
-      "channelId": "UCHDYKIRxMEItLVoqtmGq3aA",
-      "channelTitle": "정치창",
-      "title": "미국에서 누가 그래요? 김민석 총리에게 단 한마디도 못 이기는 탈북자 출신 박충권",
-      "description": "채널의 회원이 되어주셔서 감사합니다! \nhttps://www.youtube.com/channel/UCHDYKIRxMEItLVoqtmGq3aA/join",
-      "publishedAt": "2026-02-09T10:09:55Z",
-      "duration": "PT44S",
-      "durationSeconds": 44,
-      "viewCount": 12995,
-      "likeCount": 284,
-      "commentCount": 33,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Co5HmCxVZro/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Co5HmCxVZro/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Co5HmCxVZro/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/Co5HmCxVZro/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/Co5HmCxVZro/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [
-        "김건희",
-        "윤석열",
-        "정치",
-        "시사",
-        "국민의힘",
-        "민주당",
-        "이재명",
-        "한동훈",
-        "나경원",
-        "배현진",
-        "조국",
-        "조국혁신당"
-      ],
-      "isShorts": true
-    },
-    {
-      "id": "YMXpW8thjmg",
-      "channelId": "UCGbkN-3JpOct4KuEv59NF0Q",
-      "channelTitle": "엠키타카 MKTK",
-      "title": "\"이 개X의 XX\" #김희수 #진도군수",
-      "description": "#김희수 #진도군수 #막말 #망언 #엠키타카\n\n영상 출처: 남도일보\n\n국회티키타카! 콘텐츠왕국! 어른김장하! 지역소생연구소!\n콘텐츠 왕국  ★★★More clips are available★★★\n[구독 좋아요 알림설정]은 콘텐츠 제작에 큰 힘이 됩니다\n\n홈페이지 : http://www.mbcgn.kr\n페이스북 : http://www.facebook.com/",
-      "publishedAt": "2026-02-09T09:54:23Z",
-      "duration": "PT22S",
-      "durationSeconds": 22,
-      "viewCount": 9050,
-      "likeCount": 159,
-      "commentCount": 70,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/YMXpW8thjmg/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/YMXpW8thjmg/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/YMXpW8thjmg/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/YMXpW8thjmg/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/YMXpW8thjmg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [
-        "MBC경남",
-        "mbc경남",
-        "문화",
-        "오락",
-        "여행",
-        "경남",
-        "경남맛집",
-        "맛집",
-        "넘어서다",
-        "엠키타카",
-        "K클래식",
-        "임윤찬",
-        "통영국제음악제",
-        "맘프",
-        "윤이상",
-        "박경리",
-        "자연",
-        "지리산",
-        "섬진강",
-        "통영",
-        "산청",
-        "사천",
-        "하동",
-        "함양",
-        "창원시",
-        "마산",
-        "진해",
-        "거제",
-        "의령",
-        "함안",
-        "거창",
-        "합천",
-        "nature",
-        "방송대상",
-        "진주",
-        "삼천포",
-        "충무",
-        "국회",
-        "법사위",
-        "과방위",
-        "내란",
-        "계엄",
-        "윤석열",
-        "비상계엄",
-        "상임위"
-      ],
-      "isShorts": true
-    },
-    {
-      "id": "BYFgmUzg66k",
-      "channelId": "UCMvbvHHnMC9DNzOymwsPTMQ",
-      "channelTitle": "폴리티카 POLITICA",
-      "title": "총리에게 덤볐다가 '시원하게' 털리는 국힘~",
-      "description": "총리에게 덤볐다가 '시원하게' 털리는 국힘~",
-      "publishedAt": "2026-02-09T09:21:15Z",
-      "duration": "PT51S",
-      "durationSeconds": 51,
-      "viewCount": 46504,
-      "likeCount": 1869,
-      "commentCount": 104,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/BYFgmUzg66k/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/BYFgmUzg66k/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/BYFgmUzg66k/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/BYFgmUzg66k/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/BYFgmUzg66k/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
-      "id": "BklU73E2sT0",
-      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
-      "channelTitle": " YTN",
-      "title": "트럼프 뒷목 잡을 '무기' #shorts / YTN",
-      "description": "미국조차 섣불리 이란을 공격하지 못한다는 것입니다.\n\n제작 : 고현주\n\n▶ 기사 원문 : https://www.ytn.co.kr/_ln/0519_202602091752499657\n▶ 제보 하기 : https://mj.ytn.co.kr/mj/mj_write.php\n\n▣ YTN 유튜브 채널 구독 : http://goo.gl/Ytb5SZ\n\nⓒ YTN 무단 전재,",
-      "publishedAt": "2026-02-09T09:02:24Z",
-      "duration": "PT23S",
-      "durationSeconds": 23,
-      "viewCount": 25571,
-      "likeCount": 227,
-      "commentCount": 5,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/BklU73E2sT0/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/BklU73E2sT0/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/BklU73E2sT0/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/BklU73E2sT0/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/BklU73E2sT0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [
-        "source:영상",
-        "type:방송",
-        "genre:기타",
-        "format:기타",
-        "미국",
-        "미국 이란",
-        "이란 핵무기",
-        "이란 탄도미사일",
-        "중동전쟁",
-        "미국 이란 공습",
-        "이란군사력",
-        "우라늄"
-      ],
-      "isShorts": true
-    },
-    {
-      "id": "Stp5iJYIlBc",
-      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
-      "channelTitle": " YTN",
-      "title": "프로펠러 천천히 돌면서... #shorts / YTN",
-      "description": "YTN이 확보한 사고 당시 모습을 보면서 설명하겠습니다.\n\n제작 : 고현주\n\n▶ 기사 원문 : https://www.ytn.co.kr/_ln/0519_202602091710211850\n▶ 제보 하기 : https://mj.ytn.co.kr/mj/mj_write.php\n\n▣ YTN 유튜브 채널 구독 : http://goo.gl/Ytb5SZ\n\nⓒ YTN 무단 ",
-      "publishedAt": "2026-02-09T09:01:43Z",
-      "duration": "PT18S",
-      "durationSeconds": 18,
-      "viewCount": 42107,
-      "likeCount": 214,
-      "commentCount": 19,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Stp5iJYIlBc/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Stp5iJYIlBc/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Stp5iJYIlBc/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/Stp5iJYIlBc/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/Stp5iJYIlBc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [
-        "source:영상",
-        "type:방송",
-        "genre:기타",
-        "format:기타",
-        "헬기 추락",
-        "가평 헬기 추락",
-        "육군 헬기 추락",
-        "코브라 헬기",
-        "헬기 조종사",
-        "헬기 사고"
-      ],
-      "isShorts": true
-    },
-    {
-      "id": "NeIft63__FE",
-      "channelId": "UCc6sEta0lPmVJ3TFIw8s-wA",
-      "channelTitle": "민주픽",
-      "title": "총리 뼈 때리는 돌직구에 맛탱이 간 내란국개",
-      "description": "민주 진보 진영 쇼츠 전문 채널 Ͼ민주픽Ͽ 입니다\n\n내란 세력 척결과 사법 카르텔 척결을 위해 끝까지 함께 하겠습니다",
-      "publishedAt": "2026-02-09T08:30:41Z",
-      "duration": "PT53S",
-      "durationSeconds": 53,
-      "viewCount": 25141,
-      "likeCount": 1250,
-      "commentCount": 146,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/NeIft63__FE/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/NeIft63__FE/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/NeIft63__FE/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/NeIft63__FE/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/NeIft63__FE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
-      "id": "KvBPxrde3fs",
-      "channelId": "UCc6sEta0lPmVJ3TFIw8s-wA",
-      "channelTitle": "민주픽",
-      "title": "국회부의장이 국회에서 대놓고 이런 쌉소리를?",
-      "description": "민주 진보 진영 쇼츠 전문 채널 Ͼ민주픽Ͽ 입니다\n\n내란 세력 척결과 사법 카르텔 척결을 위해 끝까지 함께 하겠습니다",
-      "publishedAt": "2026-02-09T07:25:39Z",
-      "duration": "PT52S",
-      "durationSeconds": 52,
-      "viewCount": 118909,
-      "likeCount": 2091,
-      "commentCount": 345,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/KvBPxrde3fs/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/KvBPxrde3fs/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/KvBPxrde3fs/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/KvBPxrde3fs/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/KvBPxrde3fs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
-      "id": "0PhTQeWgnIA",
-      "channelId": "UCMvbvHHnMC9DNzOymwsPTMQ",
-      "channelTitle": "폴리티카 POLITICA",
-      "title": "'아예 대놓고 편가르기인가?' 뚜껑 열린 김민석 총리",
-      "description": "민주당 의원끼리 이렇게 대놓고?? 힘을 모아도 모자랄판에..아이고;;\n'아예 대놓고 편가르기인가?' 뚜껑 열린 김민석 총리",
-      "publishedAt": "2026-02-09T07:08:31Z",
-      "duration": "PT47S",
-      "durationSeconds": 47,
-      "viewCount": 26514,
-      "likeCount": 774,
-      "commentCount": 467,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/0PhTQeWgnIA/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/0PhTQeWgnIA/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/0PhTQeWgnIA/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/0PhTQeWgnIA/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/0PhTQeWgnIA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
       "id": "V1Z7Ev84B_s",
       "channelId": "UCgeOlLcX6PReHdWImEnUVTg",
       "channelTitle": "스픽스",
@@ -1371,9 +387,9 @@
       "publishedAt": "2026-02-09T06:40:02Z",
       "duration": "PT48S",
       "durationSeconds": 48,
-      "viewCount": 20852,
-      "likeCount": 284,
-      "commentCount": 101,
+      "viewCount": 25521,
+      "likeCount": 322,
+      "commentCount": 114,
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/V1Z7Ev84B_s/default.jpg",
@@ -1426,1166 +442,6 @@
         "건희사랑"
       ],
       "isShorts": true
-    },
-    {
-      "id": "H_BiUKtP6JA",
-      "channelId": "UCMvbvHHnMC9DNzOymwsPTMQ",
-      "channelTitle": "폴리티카 POLITICA",
-      "title": "콩가루 민주당과 외로운 잼프..\"우리가 지켜요!\"",
-      "description": "콩가루 민주당과 외로운 잼프..\"우리가 지켜요!\"",
-      "publishedAt": "2026-02-09T06:02:41Z",
-      "duration": "PT15S",
-      "durationSeconds": 15,
-      "viewCount": 7107,
-      "likeCount": 1024,
-      "commentCount": 36,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/H_BiUKtP6JA/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/H_BiUKtP6JA/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/H_BiUKtP6JA/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/H_BiUKtP6JA/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/H_BiUKtP6JA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
-      "id": "ARHeyT3xDcY",
-      "channelId": "UC8brKujsZC20lURDZcuRSlQ",
-      "channelTitle": "미디어몽구",
-      "title": "열공모드 중인 장관들 #조현 #정성호 #정동영ㅣ대정부질문 1일차 국회 본회의장 모습",
-      "description": "",
-      "publishedAt": "2026-02-09T05:56:01Z",
-      "duration": "PT12S",
-      "durationSeconds": 12,
-      "viewCount": 8629,
-      "likeCount": 215,
-      "commentCount": 14,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ARHeyT3xDcY/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ARHeyT3xDcY/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ARHeyT3xDcY/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/ARHeyT3xDcY/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/ARHeyT3xDcY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
-      "id": "MLHs3h4ZD8c",
-      "channelId": "UC8brKujsZC20lURDZcuRSlQ",
-      "channelTitle": "미디어몽구",
-      "title": "#이성윤 의원 유감표명 하자 듣고 있던 #황명선 한숨 내쉬더니 표정이...ㅣ#민주당 최고위 #정청래",
-      "description": "",
-      "publishedAt": "2026-02-09T04:14:37Z",
-      "duration": "PT21S",
-      "durationSeconds": 21,
-      "viewCount": 5265,
-      "likeCount": 159,
-      "commentCount": 70,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/MLHs3h4ZD8c/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/MLHs3h4ZD8c/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/MLHs3h4ZD8c/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/MLHs3h4ZD8c/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/MLHs3h4ZD8c/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
-      "id": "g-_Ny-iDVBQ",
-      "channelId": "UCHDYKIRxMEItLVoqtmGq3aA",
-      "channelTitle": "정치창",
-      "title": "베트남 처녀를 수입하자고? 망언 진도 군수 민주당 즉각 제명!",
-      "description": "채널의 회원이 되어주셔서 감사합니다! \nhttps://www.youtube.com/channel/UCHDYKIRxMEItLVoqtmGq3aA/join",
-      "publishedAt": "2026-02-09T03:39:59Z",
-      "duration": "PT30S",
-      "durationSeconds": 30,
-      "viewCount": 3127,
-      "likeCount": 42,
-      "commentCount": 8,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/g-_Ny-iDVBQ/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/g-_Ny-iDVBQ/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/g-_Ny-iDVBQ/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/g-_Ny-iDVBQ/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/g-_Ny-iDVBQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [
-        "김건희",
-        "윤석열",
-        "정치",
-        "시사",
-        "국민의힘",
-        "민주당",
-        "이재명",
-        "한동훈",
-        "나경원",
-        "배현진",
-        "조국",
-        "조국혁신당"
-      ],
-      "isShorts": true
-    },
-    {
-      "id": "EmlhZUKpxqY",
-      "channelId": "UCJm_AJKFjq89w5brQ3yTa8g",
-      "channelTitle": "김감독 ",
-      "title": "무대 밖 이용식, 김영배 출판기념회에서 만난 추억의 얼굴 #이용식 #추억의스타 #국민코미디언 #레전드 #근황포착 #김영배 #출판기념회#조용한감동 #무대뒤 #포착영상 #shorts",
-      "description": "무대 위에서 수많은 웃음을 주셨던 이용식 선생님.\n오늘은 김영배 의원 출판기념회 행사장에서, 조용히 뒤에 서 있는 모습으로 포착됐습니다.\n화려한 스포트라이트 대신, 묵묵히 자리를 지키는 모습에서 세월과 품격이 느껴집니다.\n우리의 어린 시절 추억을 만들어준 이용식 선생님의 건강을 응원합니다. 🙏\n조용하지만 더 인상 깊었던 그 순간을 영상으로 담았습니다.\n#",
-      "publishedAt": "2026-02-09T03:30:10Z",
-      "duration": "PT10S",
-      "durationSeconds": 10,
-      "viewCount": 20097,
-      "likeCount": 116,
-      "commentCount": 1,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/EmlhZUKpxqY/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/EmlhZUKpxqY/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/EmlhZUKpxqY/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/EmlhZUKpxqY/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/EmlhZUKpxqY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
-      "id": "goQnjFg3CLw",
-      "channelId": "UCMvbvHHnMC9DNzOymwsPTMQ",
-      "channelTitle": "폴리티카 POLITICA",
-      "title": "합당 소용돌이에 휘말린 김어준 쓴소리 \" 내가 설계자?\"",
-      "description": "합당 소용돌이에 휘말린 김어준 쓴소리 \" 내가 설계자?\"",
-      "publishedAt": "2026-02-09T02:34:10Z",
-      "duration": "PT1M",
-      "durationSeconds": 60,
-      "viewCount": 8793,
-      "likeCount": 225,
-      "commentCount": 184,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/goQnjFg3CLw/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/goQnjFg3CLw/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/goQnjFg3CLw/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/goQnjFg3CLw/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/goQnjFg3CLw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
-      "id": "wPZ72fZZK7A",
-      "channelId": "UC8brKujsZC20lURDZcuRSlQ",
-      "channelTitle": "미디어몽구",
-      "title": "\"모든 책임은 저에게..\" 특검 추천 관련, #이재명 대통령에게 사과하는 #정청래 대표ㅣ#이성윤 #민주당",
-      "description": "",
-      "publishedAt": "2026-02-09T01:48:09Z",
-      "duration": "PT43S",
-      "durationSeconds": 43,
-      "viewCount": 4894,
-      "likeCount": 97,
-      "commentCount": 134,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/wPZ72fZZK7A/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/wPZ72fZZK7A/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/wPZ72fZZK7A/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/wPZ72fZZK7A/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/wPZ72fZZK7A/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
-      "id": "phIM6yki5Os",
-      "channelId": "UCipltOI85rqpxH4iFt_x0Cg",
-      "channelTitle": "잼통",
-      "title": "정청래에게 단단히 빡쳤다는 이재명 대통령",
-      "description": "",
-      "publishedAt": "2026-02-09T01:46:03Z",
-      "duration": "PT39S",
-      "durationSeconds": 39,
-      "viewCount": 9970,
-      "likeCount": 384,
-      "commentCount": 22,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/phIM6yki5Os/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/phIM6yki5Os/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/phIM6yki5Os/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/phIM6yki5Os/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/phIM6yki5Os/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
-      "id": "On-PxrTYojA",
-      "channelId": "UCJm_AJKFjq89w5brQ3yTa8g",
-      "channelTitle": "김감독 ",
-      "title": "끝까지 웃음 가득, 전원주 선생님의 따뜻한 퇴장 #전원주 #전원주선생님 #배우전원주 #출판기념회 #행사장스케치 #현장영상 #건강하세요 #웃음가득 #쇼츠 #shorts",
-      "description": "출판기념회 행사장을 밝은 웃음으로 채워주신 배우 전원주 선생님.\n끝까지 따뜻한 인사와 건강한 미소를 남기고 퇴장하시는 모습이 참 인상적이었습니다.\n늘 건강하시고, 오래오래 건강한 모습으로 뵙길 바랍니다 🙏\n#전원주 #전원주선생님 #배우전원주\n#출판기념회 #행사장스케치 #현장영상\n#건강하세요 #웃음가득",
-      "publishedAt": "2026-02-09T01:45:05Z",
-      "duration": "PT9S",
-      "durationSeconds": 9,
-      "viewCount": 102096,
-      "likeCount": 715,
-      "commentCount": 11,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/On-PxrTYojA/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/On-PxrTYojA/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/On-PxrTYojA/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/On-PxrTYojA/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/On-PxrTYojA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
-      "id": "J2Xsn394CW8",
-      "channelId": "UC8brKujsZC20lURDZcuRSlQ",
-      "channelTitle": "미디어몽구",
-      "title": "[현장속보] #민주당 최고위 끝나자 #황명선 의원 #정청래 대표와 #이성윤 의원에게 폭발한 현장",
-      "description": "",
-      "publishedAt": "2026-02-09T01:24:40Z",
-      "duration": "PT23S",
-      "durationSeconds": 23,
-      "viewCount": 118164,
-      "likeCount": 3793,
-      "commentCount": 773,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/J2Xsn394CW8/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/J2Xsn394CW8/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/J2Xsn394CW8/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/J2Xsn394CW8/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/J2Xsn394CW8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
-      "id": "0IiqNaPxSrM",
-      "channelId": "UC8brKujsZC20lURDZcuRSlQ",
-      "channelTitle": "미디어몽구",
-      "title": "#민주당 최고위에 쏠린 언론의 큰 관심 현장ㅣ#정청래 #한병도 #이언주",
-      "description": "",
-      "publishedAt": "2026-02-09T01:05:11Z",
-      "duration": "PT17S",
-      "durationSeconds": 17,
-      "viewCount": 11126,
-      "likeCount": 272,
-      "commentCount": 103,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/0IiqNaPxSrM/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/0IiqNaPxSrM/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/0IiqNaPxSrM/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/0IiqNaPxSrM/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/0IiqNaPxSrM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
-      "id": "hVqbyrWEkOw",
-      "channelId": "UCHDYKIRxMEItLVoqtmGq3aA",
-      "channelTitle": "정치창",
-      "title": "왜 우리나라만 빵값이 이렇게 비싸요? 설탕 밀가루 담합 의혹에 경찰 검찰에 공개지시하는 이재명 대통령",
-      "description": "채널의 회원이 되어주셔서 감사합니다! \nhttps://www.youtube.com/channel/UCHDYKIRxMEItLVoqtmGq3aA/join",
-      "publishedAt": "2026-02-08T21:00:40Z",
-      "duration": "PT56S",
-      "durationSeconds": 56,
-      "viewCount": 6716,
-      "likeCount": 260,
-      "commentCount": 11,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/hVqbyrWEkOw/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/hVqbyrWEkOw/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/hVqbyrWEkOw/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/hVqbyrWEkOw/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/hVqbyrWEkOw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [
-        "김건희",
-        "윤석열",
-        "정치",
-        "시사",
-        "국민의힘",
-        "민주당",
-        "이재명",
-        "한동훈",
-        "나경원",
-        "배현진",
-        "조국",
-        "조국혁신당"
-      ],
-      "isShorts": true
-    },
-    {
-      "id": "dSqrifUauCk",
-      "channelId": "UC8brKujsZC20lURDZcuRSlQ",
-      "channelTitle": "미디어몽구",
-      "title": "#우상호 강원도 행사에 참석하자 명함주러 몰려든 강원도민들 #지방선거 #강원도지사",
-      "description": "",
-      "publishedAt": "2026-02-08T12:13:03Z",
-      "duration": "PT16S",
-      "durationSeconds": 16,
-      "viewCount": 61303,
-      "likeCount": 796,
-      "commentCount": 49,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/dSqrifUauCk/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/dSqrifUauCk/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/dSqrifUauCk/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/dSqrifUauCk/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/dSqrifUauCk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
-      "id": "fSBDcC9iEYI",
-      "channelId": "UC8brKujsZC20lURDZcuRSlQ",
-      "channelTitle": "미디어몽구",
-      "title": "끝내 웃지 않은 #강훈식 실장. #김민석 총리 #정청래 대표와 기념 촬영ㅣ고위당정협의회",
-      "description": "",
-      "publishedAt": "2026-02-08T11:54:25Z",
-      "duration": "PT17S",
-      "durationSeconds": 17,
-      "viewCount": 476101,
-      "likeCount": 9464,
-      "commentCount": 1094,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/fSBDcC9iEYI/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/fSBDcC9iEYI/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/fSBDcC9iEYI/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/fSBDcC9iEYI/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/fSBDcC9iEYI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
-      "id": "TRrDuKMxybw",
-      "channelId": "UC8brKujsZC20lURDZcuRSlQ",
-      "channelTitle": "미디어몽구",
-      "title": "기념촬영 전 #강훈식 실장과 #정청래 대표 표정과 분위기가... 고위당정협의회 현장 #김민석",
-      "description": "",
-      "publishedAt": "2026-02-08T11:12:10Z",
-      "duration": "PT15S",
-      "durationSeconds": 15,
-      "viewCount": 511561,
-      "likeCount": 10820,
-      "commentCount": 1551,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/TRrDuKMxybw/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/TRrDuKMxybw/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/TRrDuKMxybw/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/TRrDuKMxybw/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/TRrDuKMxybw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
-      "id": "r9kbjNtAbaI",
-      "channelId": "UC8brKujsZC20lURDZcuRSlQ",
-      "channelTitle": "미디어몽구",
-      "title": "#청와대 참모들 하나같이 표정이.. 고위당정협의회 현장 분위기 #강훈식 #김용범 #홍익표",
-      "description": "",
-      "publishedAt": "2026-02-08T10:27:09Z",
-      "duration": "PT20S",
-      "durationSeconds": 20,
-      "viewCount": 382149,
-      "likeCount": 8097,
-      "commentCount": 737,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/r9kbjNtAbaI/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/r9kbjNtAbaI/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/r9kbjNtAbaI/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/r9kbjNtAbaI/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/r9kbjNtAbaI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
-      "id": "4d0Xn9Gn0B4",
-      "channelId": "UC8brKujsZC20lURDZcuRSlQ",
-      "channelTitle": "미디어몽구",
-      "title": "항상 밝은 모습으로 입장하던 #강훈식 실장 오늘은 표정이..ㅣ고위당정협의회 현장",
-      "description": "",
-      "publishedAt": "2026-02-08T10:14:34Z",
-      "duration": "PT10S",
-      "durationSeconds": 10,
-      "viewCount": 627351,
-      "likeCount": 12519,
-      "commentCount": 482,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/4d0Xn9Gn0B4/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/4d0Xn9Gn0B4/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/4d0Xn9Gn0B4/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/4d0Xn9Gn0B4/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/4d0Xn9Gn0B4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
-      "id": "8_w2C5-ChsM",
-      "channelId": "UCJm_AJKFjq89w5brQ3yTa8g",
-      "channelTitle": "김감독 ",
-      "title": "정원오 구청장 서울시장 출격! 실력으로 말한다 #정원오 #정원오구청장 #서울시장 #서울시장도전 #출마#행정력 #일하는정치 #서울정치 #지방행정 #정치이슈#정치뉴스 #shorts",
-      "description": "행정력으로 이미 인정받아온 정원오 구청장.\n이재명 대통령이 직접\n**“나보다 훨씬 일 잘하신다”**고 칭찬했던 바로 그 인물입니다.\n현장에서 일로 증명해온 정원오 구청장,\n이제 서울시장을 향한 더 큰 도전에 나섭니다.\n그의 도전을 응원합니다.\n#정원오 #정원오구청장 #이재명 #이재명대통령\n#서울시장 #서울시장도전 #행정력 #일잘하는정치\n#정치이슈 #정치뉴스",
-      "publishedAt": "2026-02-08T08:45:00Z",
-      "duration": "PT7S",
-      "durationSeconds": 7,
-      "viewCount": 28765,
-      "likeCount": 643,
-      "commentCount": 17,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/8_w2C5-ChsM/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/8_w2C5-ChsM/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/8_w2C5-ChsM/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/8_w2C5-ChsM/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/8_w2C5-ChsM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
-      "id": "55M_eFsh79Y",
-      "channelId": "UC8ceET6A2UJ1j8Cuob-dstg",
-      "channelTitle": "골프콜라",
-      "title": "어떻게 김성태 변호인을 특검후보에",
-      "description": "",
-      "publishedAt": "2026-02-08T08:38:29Z",
-      "duration": "PT49S",
-      "durationSeconds": 49,
-      "viewCount": 6308,
-      "likeCount": 150,
-      "commentCount": 16,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/55M_eFsh79Y/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/55M_eFsh79Y/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/55M_eFsh79Y/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/55M_eFsh79Y/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/55M_eFsh79Y/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
-      "id": "UNxIpfr0pQU",
-      "channelId": "UCJm_AJKFjq89w5brQ3yTa8g",
-      "channelTitle": "김감독 ",
-      "title": "\"전원주 선생님도 인정! 👍 정원오 구청장, 서울시장 각?\" #정원오 #서울시장도전 #전원주 #엄지척 #일잘하는구청장 #정치쇼츠 #후킹영상 #서울뉴스",
-      "description": "배우 전원주 님이 김영배 출판 기념회에서 정원오 구청장을 반갑게 맞으며 엄지척!\n일 잘하는 구청장, 배우도 인정한 훈훈한 순간을 놓치지 마세요.\n#정원오 #전원주 #김영배출판기념회 #엄지척 #일잘하는구청장 #서울시장도전 #정치쇼츠 #훈훈한순간",
-      "publishedAt": "2026-02-08T03:40:01Z",
-      "duration": "PT9S",
-      "durationSeconds": 9,
-      "viewCount": 173924,
-      "likeCount": 1689,
-      "commentCount": 12,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/UNxIpfr0pQU/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/UNxIpfr0pQU/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/UNxIpfr0pQU/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/UNxIpfr0pQU/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/UNxIpfr0pQU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
-      "id": "d3KxDIpjkug",
-      "channelId": "UC8brKujsZC20lURDZcuRSlQ",
-      "channelTitle": "미디어몽구",
-      "title": "#네이버 방문한 #김민석 총리, #최수연 대표와 기념사진 분위기 어쩔?ㅋㅋ",
-      "description": "",
-      "publishedAt": "2026-02-08T03:37:01Z",
-      "duration": "PT20S",
-      "durationSeconds": 20,
-      "viewCount": 71771,
-      "likeCount": 1903,
-      "commentCount": 60,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/d3KxDIpjkug/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/d3KxDIpjkug/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/d3KxDIpjkug/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/d3KxDIpjkug/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/d3KxDIpjkug/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
-      "id": "ZsCDoLfUQ6I",
-      "channelId": "UC8brKujsZC20lURDZcuRSlQ",
-      "channelTitle": "미디어몽구",
-      "title": "\"싸우자\" #하정우 수석의 장난끼 발동 귀엽 ㅎㅎㅣ#이재명 대통령 입장 전 새로운 자리 배치에 맞은편 앉아 있는 분들과 장난 중 #청와대",
-      "description": "",
-      "publishedAt": "2026-02-08T02:56:31Z",
-      "duration": "PT15S",
-      "durationSeconds": 15,
-      "viewCount": 133683,
-      "likeCount": 2908,
-      "commentCount": 64,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ZsCDoLfUQ6I/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ZsCDoLfUQ6I/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ZsCDoLfUQ6I/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/ZsCDoLfUQ6I/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/ZsCDoLfUQ6I/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
-      "id": "CqGD3uOZ6LA",
-      "channelId": "UCJm_AJKFjq89w5brQ3yTa8g",
-      "channelTitle": "김감독 ",
-      "title": "성북구 주민 배우 전원주, 김영배 출판기념회 축사! 🎤 \"마음 따라 일이 술술~\" #전원주 #김영배 #출판기념회 #성북구주민 #축사 #마음가짐 #행사현장 #쇼츠",
-      "description": "성북구 주민이자 배우 전원주님이 김영배 국회의원 출판기념회에 참석하여 축사를 전했습니다.\n전원주 배우는 성북구 주민으로서 지역을 함께 지켜온 마음을 담아 축사를 진행하며, “마음에 따라 모든 일이 술술 풀린다”라는 따뜻한 말씀도 전했습니다.\n행사장을 가득 채운 따뜻한 분위기 속에서 지역 주민과 정치인, 그리고 많은 참석자들이 함께 웃고 공감하는 순간을 담은",
-      "publishedAt": "2026-02-08T02:20:00Z",
-      "duration": "PT16S",
-      "durationSeconds": 16,
-      "viewCount": 31078,
-      "likeCount": 210,
-      "commentCount": 5,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/CqGD3uOZ6LA/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/CqGD3uOZ6LA/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/CqGD3uOZ6LA/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/CqGD3uOZ6LA/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/CqGD3uOZ6LA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
-      "id": "fYxxtPYPQ8E",
-      "channelId": "UCJm_AJKFjq89w5brQ3yTa8g",
-      "channelTitle": "김감독 ",
-      "title": "“육아 덕분에 살 빠진 이용식 😎 김영배 출판기념회 나들이 후 귀가” #이용식 #김영배 #출판기념회 #귀가모습 #육아효과 #살빠짐 #훈훈한현장 #정치인일상 #쇼츠 #Shorts",
-      "description": "코미디언 출신 이용식 육아 덕분에 살이 빠진 모습으로 김영배 출판기념회 나들이를 마치고 의원회관 복도로 귀가했습니다.\n정치 현장 속에서도 특유의 유쾌함과 훈훈한 미소는 여전하네요. 😄\n짧은 나들이지만, 소소한 일상과 변화된 모습을 함께 확인해보세요. 📸\n#이용식 #코미디언 #김영배 #출판기념회 #의원회관 #복도 #귀가모습\n#육아효과 #살빠짐 #정치인일상",
-      "publishedAt": "2026-02-08T00:00:44Z",
-      "duration": "PT12S",
-      "durationSeconds": 12,
-      "viewCount": 108113,
-      "likeCount": 443,
-      "commentCount": 2,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/fYxxtPYPQ8E/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/fYxxtPYPQ8E/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/fYxxtPYPQ8E/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/fYxxtPYPQ8E/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/fYxxtPYPQ8E/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
-      "id": "a-7jRgyiG4c",
-      "channelId": "UCJm_AJKFjq89w5brQ3yTa8g",
-      "channelTitle": "김감독 ",
-      "title": "전원주 선생님 축사에 행사장 빵 터졌다 😂 | 김영배 출판기념회 #전원주 #김영배 #출판기념회 #성북구 #성북구주민 #축사 #현장스케치 #웃음폭발 #화기애애 #정치쇼츠  #행사현장",
-      "description": "성북구 주민이기도 한 배우 전원주 선생님이 김영배 국회의원 출판기념회에 참석해 축사를 전하며 행사장 분위기를 한껏 띄워주셨습니다.\n유쾌한 입담과 따뜻한 메시지로 현장은 웃음바다가 되었고, 참석자들도 모두 즐겁게 박수를 보냈습니다.\n김영배 의원 출판기념회에서 포착된 화기애애한 순간입니다. \n#전원주 #김영배 #출판기념회 #성북구 #성북구주민\n#축사 #행사현장",
-      "publishedAt": "2026-02-07T12:46:01Z",
-      "duration": "PT21S",
-      "durationSeconds": 21,
-      "viewCount": 124476,
-      "likeCount": 706,
-      "commentCount": 7,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/a-7jRgyiG4c/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/a-7jRgyiG4c/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/a-7jRgyiG4c/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/a-7jRgyiG4c/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/a-7jRgyiG4c/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
-      "id": "1Ucgc06Qt00",
-      "channelId": "UCMvbvHHnMC9DNzOymwsPTMQ",
-      "channelTitle": "폴리티카 POLITICA",
-      "title": "'잼프의 점심 뿌시기! 거제 '쌈밥' 맛있네~",
-      "description": "'잼프의 점심 뿌시기! 거제 '쌈밥' 맛있네~",
-      "publishedAt": "2026-02-07T11:52:18Z",
-      "duration": "PT20S",
-      "durationSeconds": 20,
-      "viewCount": 308092,
-      "likeCount": 8874,
-      "commentCount": 161,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/1Ucgc06Qt00/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/1Ucgc06Qt00/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/1Ucgc06Qt00/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/1Ucgc06Qt00/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/1Ucgc06Qt00/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
-    },
-    {
-      "id": "GdTus34a3wA",
-      "channelId": "UCJm_AJKFjq89w5brQ3yTa8g",
-      "channelTitle": "김감독 ",
-      "title": "“사람 먼저 챙긴다” 정원오 구청장 인사 매너 포착 #정원오 #정원오구청장 #성동구청장 #서울시장도전 #정치현장 #현장포착 #시민인사 #요원인사 #리더십 #훈훈한장면 #쇼츠",
-      "description": "김영배 의원 출판기념회 행사장에서 정원오 구청장이\n행사를 진행하는 요원들과 시민들에게 하나하나 깍듯하게 인사하는 모습이 포착됐습니다.\n서울시장 도전에 나선 정원오 구청장, 사람을 먼저 챙기는 태도가 인상적인 순간입니다.\n#정원오 #정원오구청장 #김영배 #김영배출판기념회 #출판기념회\n#서울시장도전 #정치현장 #행사현장 #현장포착 #시민인사\n#요원인사 #깍듯한",
-      "publishedAt": "2026-02-07T11:30:11Z",
-      "duration": "PT9S",
-      "durationSeconds": 9,
-      "viewCount": 99874,
-      "likeCount": 1559,
-      "commentCount": 36,
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/GdTus34a3wA/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/GdTus34a3wA/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/GdTus34a3wA/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/GdTus34a3wA/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/GdTus34a3wA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "tags": [],
-      "isShorts": true
     }
   ],
   "channelStats": [
@@ -2596,8 +452,8 @@
       "customUrl": "@ytnnews24",
       "publishedAt": "2013-05-23T07:07:42Z",
       "subscriberCount": 5270000,
-      "videoCount": 935476,
-      "viewCount": 19388139169,
+      "videoCount": 935515,
+      "viewCount": 19391650615,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s88-c-k-c0x00ffffff-no-rj",
@@ -2618,8 +474,8 @@
       "uploads": "UUhlgI3UHCOnwUGzWzbJ3H5w",
       "country": "KR",
       "videosAnalyzed": 30,
-      "shortsCount": 2,
-      "regularVideosCount": 28
+      "shortsCount": 0,
+      "regularVideosCount": 30
     },
     {
       "id": "UCWlV3Lz_55UaX4JsMj-z__Q",
@@ -2628,8 +484,8 @@
       "customUrl": "@tvchosunnews",
       "publishedAt": "2012-08-23T12:33:18Z",
       "subscriberCount": 3040000,
-      "videoCount": 174681,
-      "viewCount": 5117856674,
+      "videoCount": 174711,
+      "viewCount": 5118589647,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
@@ -2649,9 +505,9 @@
       },
       "uploads": "UUWlV3Lz_55UaX4JsMj-z__Q",
       "country": "KR",
-      "videosAnalyzed": 30,
-      "shortsCount": 3,
-      "regularVideosCount": 27
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
     },
     {
       "id": "UCTHCOPwqNfZ0uiKOvFyhGwg",
@@ -2660,8 +516,8 @@
       "customUrl": "@yonhapnewstv23",
       "publishedAt": "2015-01-05T04:29:03Z",
       "subscriberCount": 2180000,
-      "videoCount": 670560,
-      "viewCount": 3760728128,
+      "videoCount": 670587,
+      "viewCount": 3761716476,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
@@ -2681,9 +537,9 @@
       },
       "uploads": "UUTHCOPwqNfZ0uiKOvFyhGwg",
       "country": "KR",
-      "videosAnalyzed": 30,
-      "shortsCount": 2,
-      "regularVideosCount": 28
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
     },
     {
       "id": "UCgeOlLcX6PReHdWImEnUVTg",
@@ -2692,8 +548,8 @@
       "customUrl": "@speaks_tv",
       "publishedAt": "2022-05-24T02:02:45.424058Z",
       "subscriberCount": 1570000,
-      "videoCount": 30766,
-      "viewCount": 1949929183,
+      "videoCount": 30775,
+      "viewCount": 1950494018,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/S3rLqAB2YDYQDzLNBiFveCxuoTifWkLQtQP-V416WUiciWNz1umav1O51CwrxVy8zKrTMSKg=s88-c-k-c0x00ffffff-no-rj",
@@ -2714,8 +570,8 @@
       "uploads": "UUgeOlLcX6PReHdWImEnUVTg",
       "country": "KR",
       "videosAnalyzed": 30,
-      "shortsCount": 3,
-      "regularVideosCount": 27
+      "shortsCount": 6,
+      "regularVideosCount": 24
     },
     {
       "id": "UCGbkN-3JpOct4KuEv59NF0Q",
@@ -2724,8 +580,8 @@
       "customUrl": "@mbcgn_tv",
       "publishedAt": "2017-08-08T04:13:21Z",
       "subscriberCount": 1040000,
-      "videoCount": 22768,
-      "viewCount": 2399661750,
+      "videoCount": 22769,
+      "viewCount": 2400023239,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/hUPG97aBRPUUtqvU3nFszYHV-x3GYfoFNbwNJ1-NvsXBXelhnLpgjoDFP3D7svnaY5bLpli6pQ=s88-c-k-c0x00ffffff-no-rj",
@@ -2745,9 +601,9 @@
       },
       "uploads": "UUGbkN-3JpOct4KuEv59NF0Q",
       "country": "KR",
-      "videosAnalyzed": 30,
-      "shortsCount": 1,
-      "regularVideosCount": 29
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
     },
     {
       "id": "UCF2ecghgS_p1F925r-cIfdQ",
@@ -2757,7 +613,7 @@
       "publishedAt": "2022-01-12T03:06:06.679652Z",
       "subscriberCount": 1010000,
       "videoCount": 736,
-      "viewCount": 1066872639,
+      "viewCount": 1067352104,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/MwrNX-40K7CQRTNsOVR_jVYYILGKl30ZHGy7nw2ifmx_AcL-RUp67XGdj7vNV2lsQ8CCfMRrLz8=s88-c-k-c0x00ffffff-no-rj",
@@ -2777,9 +633,9 @@
       },
       "uploads": "UUF2ecghgS_p1F925r-cIfdQ",
       "country": "KR",
-      "videosAnalyzed": 30,
+      "videosAnalyzed": 0,
       "shortsCount": 0,
-      "regularVideosCount": 30
+      "regularVideosCount": 0
     },
     {
       "id": "UCu0b6ODtYia0snp9JE4UUDw",
@@ -2789,7 +645,7 @@
       "publishedAt": "2024-02-14T06:48:46.622989Z",
       "subscriberCount": 651000,
       "videoCount": 3330,
-      "viewCount": 1621185053,
+      "viewCount": 1621727341,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/tgqlfQiRq_Zny5G7E9VWdhFv7AORkvo26IKEnvHirKGPoxbwFaZG02qQsa5NUMM03AURCDC_=s88-c-k-c0x00ffffff-no-rj",
@@ -2821,7 +677,7 @@
       "publishedAt": "2025-01-31T07:55:07.066491Z",
       "subscriberCount": 635000,
       "videoCount": 1659,
-      "viewCount": 1149081601,
+      "viewCount": 1149466391,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/4iOFLb4gPIReye1CRxGOIYK6oe3-i65mtzpT851pm5sFWY46hVgPMVo7loKQVWy-ZJSxYv_K=s88-c-k-c0x00ffffff-no-rj",
@@ -2841,9 +697,9 @@
       },
       "uploads": "UU8tH3EF_zmxnKwmpuy9LbYw",
       "country": "KR",
-      "videosAnalyzed": 30,
-      "shortsCount": 25,
-      "regularVideosCount": 5
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
     },
     {
       "id": "UC8brKujsZC20lURDZcuRSlQ",
@@ -2853,7 +709,7 @@
       "publishedAt": "2009-03-21T08:15:07Z",
       "subscriberCount": 525000,
       "videoCount": 3539,
-      "viewCount": 858060401,
+      "viewCount": 859126494,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/fVn9FhfxwrVUvNj_Vii0l6vcyUNNQFQImVhwPhUSHguibKKkR1_8iIyHeaMGxFrjJ6GYGqlymw=s88-c-k-c0x00ffffff-no-rj",
@@ -2873,8 +729,8 @@
       },
       "uploads": "UU8brKujsZC20lURDZcuRSlQ",
       "country": "KR",
-      "videosAnalyzed": 30,
-      "shortsCount": 30,
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
       "regularVideosCount": 0
     },
     {
@@ -2885,7 +741,7 @@
       "publishedAt": "2024-03-24T10:26:55.652981Z",
       "subscriberCount": 512000,
       "videoCount": 2239,
-      "viewCount": 1087618525,
+      "viewCount": 1087674700,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/5LMoYuUKLuZC-uUY7eAT1eyTerK1sS0WrBD_ciRrGV7QZumPP4BBwqp1ZiXk0EOsPaAIXyoeyW0=s88-c-k-c0x00ffffff-no-rj",
@@ -2905,8 +761,8 @@
       },
       "uploads": "UUHDYKIRxMEItLVoqtmGq3aA",
       "country": "KR",
-      "videosAnalyzed": 30,
-      "shortsCount": 30,
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
       "regularVideosCount": 0
     },
     {
@@ -2916,8 +772,8 @@
       "customUrl": "@이슈카톡",
       "publishedAt": "2022-05-30T11:34:11.689006Z",
       "subscriberCount": 496000,
-      "videoCount": 4116,
-      "viewCount": 2040287291,
+      "videoCount": 4118,
+      "viewCount": 2040638161,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/GXD6CIjLk1Dnt5VC7nl-M72a7ueVq8b6oA4yjURVnF1ZYbgqtwf5ZPNg72VafPOIw02ANvMh2A=s88-c-k-c0x00ffffff-no-rj",
@@ -2949,7 +805,7 @@
       "publishedAt": "2024-03-17T11:15:44.181866Z",
       "subscriberCount": 469000,
       "videoCount": 278,
-      "viewCount": 149614432,
+      "viewCount": 149623058,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/haTQr8ZLyCIIL48yyYimlvHCx0bHV8v5-qJ49u62tOMhPgnOLloFb6RJaSBbSJSOQyBd52Uhcw=s88-c-k-c0x00ffffff-no-rj",
@@ -2969,9 +825,9 @@
       },
       "uploads": "UUipltOI85rqpxH4iFt_x0Cg",
       "country": "KR",
-      "videosAnalyzed": 30,
-      "shortsCount": 28,
-      "regularVideosCount": 2
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
     },
     {
       "id": "UCEsWtfVdAK8soPcDuVqu58g",
@@ -2980,8 +836,8 @@
       "customUrl": "@mbcnews7670",
       "publishedAt": "2017-08-07T06:21:04Z",
       "subscriberCount": 456000,
-      "videoCount": 48199,
-      "viewCount": 598144469,
+      "videoCount": 48216,
+      "viewCount": 598387142,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/v__eiQEgXgwAynGyNr0_Nmcs3pBhXI-ZGhkiNwgxvQnlCaDH-m1DKnnC7044d95G3qW_8V3iZQ=s88-c-k-c0x00ffffff-no-rj",
@@ -3013,7 +869,7 @@
       "publishedAt": "2018-02-07T05:25:49Z",
       "subscriberCount": 423000,
       "videoCount": 3116,
-      "viewCount": 588539639,
+      "viewCount": 588605754,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/CfeyGSvQwDc7p7TSueVaFvcuwKlwu999XXxNCdBVKb0YyYhth-H-321wlxcbaSOHMYjODKnK5_M=s88-c-k-c0x00ffffff-no-rj",
@@ -3045,7 +901,7 @@
       "publishedAt": "2020-05-28T12:15:50.768611Z",
       "subscriberCount": 391000,
       "videoCount": 719,
-      "viewCount": 121585560,
+      "viewCount": 121622399,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/R6ynfgFkV7pKnrgUIp52TOpg2AQ2qD0Geo57N9uoFitMuC1nvsL7LmBRqgnZqqwGCj1RNL0Yvg=s88-c-k-c0x00ffffff-no-rj",
@@ -3065,9 +921,9 @@
       },
       "uploads": "UUgHG6kRpULWaJ1AGUr2pOXQ",
       "country": "KR",
-      "videosAnalyzed": 30,
+      "videosAnalyzed": 0,
       "shortsCount": 0,
-      "regularVideosCount": 30
+      "regularVideosCount": 0
     },
     {
       "id": "UCd6tMX5cbTf6HNf1iug0HrQ",
@@ -3076,8 +932,8 @@
       "customUrl": "@이마까tv",
       "publishedAt": "2018-11-09T08:01:53Z",
       "subscriberCount": 339000,
-      "videoCount": 910,
-      "viewCount": 812311201,
+      "videoCount": 911,
+      "viewCount": 812714631,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/RstzVEx_9sC_aaMuFohYXwUyclAN97UMi8jX4N8me9lyj7vIOlmHLoOdV1_GfPwJcOGBC_zf=s88-c-k-c0x00ffffff-no-rj",
@@ -3108,8 +964,8 @@
       "customUrl": "@이마까tv",
       "publishedAt": "2018-11-09T08:01:53Z",
       "subscriberCount": 339000,
-      "videoCount": 910,
-      "viewCount": 812311201,
+      "videoCount": 911,
+      "viewCount": 812714631,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/RstzVEx_9sC_aaMuFohYXwUyclAN97UMi8jX4N8me9lyj7vIOlmHLoOdV1_GfPwJcOGBC_zf=s88-c-k-c0x00ffffff-no-rj",
@@ -3140,8 +996,8 @@
       "customUrl": "@minjupick",
       "publishedAt": "2013-04-08T07:04:38Z",
       "subscriberCount": 328000,
-      "videoCount": 2388,
-      "viewCount": 1808642338,
+      "videoCount": 2389,
+      "viewCount": 1808934553,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/9cfPcDDSln3sHmfzt4F-nYQU9rnYhfew9LoTnLeKqkCNbyp_FtOzXqnFM_z6Fl7kvLmi7JAE=s88-c-k-c0x00ffffff-no-rj",
@@ -3161,9 +1017,9 @@
       },
       "uploads": "UUc6sEta0lPmVJ3TFIw8s-wA",
       "country": "KR",
-      "videosAnalyzed": 30,
-      "shortsCount": 14,
-      "regularVideosCount": 16
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
     },
     {
       "id": "UCJm_AJKFjq89w5brQ3yTa8g",
@@ -3173,7 +1029,7 @@
       "publishedAt": "2023-05-08T14:08:28.931191Z",
       "subscriberCount": 316000,
       "videoCount": 433,
-      "viewCount": 119370448,
+      "viewCount": 119871288,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/_0ShL4v6U7Pt37_bS8jQY4Wr-JrY1bnycbK3Dy2LqXhOi4oGBqeRmTjWiYKa6tPuK0znuQ24rug=s88-c-k-c0x00ffffff-no-rj",
@@ -3193,8 +1049,8 @@
       },
       "uploads": "UUJm_AJKFjq89w5brQ3yTa8g",
       "country": "KR",
-      "videosAnalyzed": 30,
-      "shortsCount": 30,
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
       "regularVideosCount": 0
     },
     {
@@ -3204,8 +1060,8 @@
       "customUrl": "@mychokuk",
       "publishedAt": "2021-08-05T10:53:39.000195Z",
       "subscriberCount": 290000,
-      "videoCount": 3049,
-      "viewCount": 722088529,
+      "videoCount": 3050,
+      "viewCount": 722225310,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/tZbcl-KHk4OL2vHneZCZS3Dya5Op54TNjjWwBX-QV2rU8mJG_Y27LGFIoerxGT8Sd08yHibziA=s88-c-k-c0x00ffffff-no-rj",
