@@ -1,13 +1,18 @@
 {
-  "lastUpdated": "2026-05-05T13:13:18.795Z",
-  "totalChannelsAnalyzed": 80,
+  "lastUpdated": "2026-05-05T19:05:53.110Z",
+  "totalChannelsAnalyzed": 74,
   "totalVideos": 60,
-  "totalShorts": 3,
-  "totalRegularVideos": 57,
-  "totalViewCount": 577864,
-  "totalLikeCount": 15758,
-  "averageViewsPerShort": 1371,
+  "totalShorts": 10,
+  "totalRegularVideos": 50,
+  "totalViewCount": 3918924,
+  "totalLikeCount": 231284,
+  "averageViewsPerShort": 91975,
   "topChannelsByShorts": [
+    {
+      "title": "한국의목소리",
+      "shortsCount": 7,
+      "subscriberCount": 660000
+    },
     {
       "title": "MBCNEWS",
       "shortsCount": 3,
@@ -16,21 +21,63 @@
   ],
   "topShortsByViews": [
     {
+      "title": "[속보] 국힘 탈당 후 창당, 충격적 이유",
+      "channelTitle": "한국의목소리",
+      "viewCount": 337556,
+      "publishedAt": "2026-04-09T03:26:25Z"
+    },
+    {
+      "title": "청년과 70대가 국힘을 떠나는 이유",
+      "channelTitle": "한국의목소리",
+      "viewCount": 293486,
+      "publishedAt": "2026-04-01T06:02:32Z"
+    },
+    {
+      "title": "[속보] 전국민 길들이기, 선넘은 정부",
+      "channelTitle": "한국의목소리",
+      "viewCount": 137831,
+      "publishedAt": "2026-04-01T06:57:45Z"
+    },
+    {
+      "title": "[속보] 대한민국 언론의 현실",
+      "channelTitle": "한국의목소리",
+      "viewCount": 47830,
+      "publishedAt": "2026-03-24T09:54:33Z"
+    },
+    {
+      "title": "[속보] 실시간으로 이상해지는 국민의힘",
+      "channelTitle": "한국의목소리",
+      "viewCount": 46890,
+      "publishedAt": "2026-04-01T06:33:27Z"
+    },
+    {
+      "title": "[속보] 노무현 팔이 멈춰달라는 사위",
+      "channelTitle": "한국의목소리",
+      "viewCount": 24256,
+      "publishedAt": "2026-03-24T09:18:12Z"
+    },
+    {
+      "title": "[속보] 국민에게 \"집토끼\" 논란",
+      "channelTitle": "한국의목소리",
+      "viewCount": 18271,
+      "publishedAt": "2026-04-02T01:19:18Z"
+    },
+    {
       "title": "종합특검, '대통령실 수원지검 수사개입 의혹' 한동훈 출국금지 (2026.05.05/뉴스데스크/MBC)",
       "channelTitle": "MBCNEWS",
-      "viewCount": 3091,
+      "viewCount": 9331,
       "publishedAt": "2026-05-05T11:18:00Z"
     },
     {
       "title": "'이승우 득점' 전북, 4골 폭발‥광주는 8연패 (2026.05.05/뉴스데스크/MBC)",
       "channelTitle": "MBCNEWS",
-      "viewCount": 705,
+      "viewCount": 2707,
       "publishedAt": "2026-05-05T11:58:55Z"
     },
     {
       "title": "삼성전자 이사회 의장 \"파업하면 심각한 영향‥대화로 해결해야\" (2026.05.05/뉴스데스크/MBC)",
       "channelTitle": "MBCNEWS",
-      "viewCount": 318,
+      "viewCount": 1589,
       "publishedAt": "2026-05-05T11:45:44Z"
     }
   ],
@@ -44,9 +91,9 @@
       "publishedAt": "2026-05-05T11:58:55Z",
       "duration": "PT53S",
       "durationSeconds": 53,
-      "viewCount": 705,
-      "likeCount": 14,
-      "commentCount": 4,
+      "viewCount": 2707,
+      "likeCount": 36,
+      "commentCount": 9,
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/bmdPSG9Rgqk/default.jpg",
@@ -104,9 +151,9 @@
       "publishedAt": "2026-05-05T11:45:44Z",
       "duration": "PT30S",
       "durationSeconds": 30,
-      "viewCount": 318,
-      "likeCount": 19,
-      "commentCount": 10,
+      "viewCount": 1589,
+      "likeCount": 28,
+      "commentCount": 15,
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/FZXibUJjHwM/default.jpg",
@@ -169,9 +216,9 @@
       "publishedAt": "2026-05-05T11:18:00Z",
       "duration": "PT29S",
       "durationSeconds": 29,
-      "viewCount": 3091,
-      "likeCount": 273,
-      "commentCount": 123,
+      "viewCount": 9331,
+      "likeCount": 457,
+      "commentCount": 187,
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/NPl9R440miQ/default.jpg",
@@ -219,6 +266,344 @@
         "뉴스속보"
       ],
       "isShorts": true
+    },
+    {
+      "id": "CgKZAhY7nbw",
+      "channelId": "UC8tH3EF_zmxnKwmpuy9LbYw",
+      "channelTitle": "한국의목소리",
+      "title": "[속보] 국힘 탈당 후 창당, 충격적 이유",
+      "description": "",
+      "publishedAt": "2026-04-09T03:26:25Z",
+      "duration": "PT36S",
+      "durationSeconds": 36,
+      "viewCount": 337556,
+      "likeCount": 27083,
+      "commentCount": 1291,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/CgKZAhY7nbw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/CgKZAhY7nbw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/CgKZAhY7nbw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/CgKZAhY7nbw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/CgKZAhY7nbw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "3qkJlYMVZ20",
+      "channelId": "UC8tH3EF_zmxnKwmpuy9LbYw",
+      "channelTitle": "한국의목소리",
+      "title": "[속보] 국민에게 \"집토끼\" 논란",
+      "description": "한국의목소리 오리지널 시리즈 – 정치PAN\n국민대변인 백지원과 함께 이슈를 넘어 ‘판’을 읽어봅니다.\n\n채널에 프로필 링크를 통해 우리의 목소리에 힘을 더해주세요 🇰🇷\n후원금은 100% VOK 콘텐츠 제작비로 사용됩니다.",
+      "publishedAt": "2026-04-02T01:19:18Z",
+      "duration": "PT45S",
+      "durationSeconds": 45,
+      "viewCount": 18271,
+      "likeCount": 1446,
+      "commentCount": 48,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3qkJlYMVZ20/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3qkJlYMVZ20/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3qkJlYMVZ20/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/3qkJlYMVZ20/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/3qkJlYMVZ20/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "정치",
+        "정치판",
+        "한국의목소리",
+        "한국목소리",
+        "윤어게인",
+        "이재명",
+        "국민의힘",
+        "민주당",
+        "선거",
+        "yt:cc=on"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "WCn-f4ZmxSo",
+      "channelId": "UC8tH3EF_zmxnKwmpuy9LbYw",
+      "channelTitle": "한국의목소리",
+      "title": "[속보] 전국민 길들이기, 선넘은 정부",
+      "description": "한국의목소리 오리지널 시리즈 – 정치PAN\n국민대변인 백지원과 함께 이슈를 넘어 ‘판’을 읽어봅니다.\n\n채널에 프로필 링크를 통해 우리의 목소리에 힘을 더해주세요 🇰🇷\n후원금은 100% VOK 콘텐츠 제작비로 사용됩니다.",
+      "publishedAt": "2026-04-01T06:57:45Z",
+      "duration": "PT56S",
+      "durationSeconds": 56,
+      "viewCount": 137831,
+      "likeCount": 11971,
+      "commentCount": 836,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WCn-f4ZmxSo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WCn-f4ZmxSo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WCn-f4ZmxSo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/WCn-f4ZmxSo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/WCn-f4ZmxSo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "정치",
+        "정치판",
+        "한국의목소리",
+        "한국목소리",
+        "윤어게인",
+        "이재명",
+        "국민의힘",
+        "민주당",
+        "선거",
+        "yt:cc=on"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "cwo87vAuSEo",
+      "channelId": "UC8tH3EF_zmxnKwmpuy9LbYw",
+      "channelTitle": "한국의목소리",
+      "title": "[속보] 실시간으로 이상해지는 국민의힘",
+      "description": "한국의목소리 오리지널 시리즈 – 정치PAN\n국민대변인 백지원과 함께 이슈를 넘어 ‘판’을 읽어봅니다.\n\n채널에 프로필 링크를 통해 우리의 목소리에 힘을 더해주세요 🇰🇷\n후원금은 100% VOK 콘텐츠 제작비로 사용됩니다.",
+      "publishedAt": "2026-04-01T06:33:27Z",
+      "duration": "PT48S",
+      "durationSeconds": 48,
+      "viewCount": 46890,
+      "likeCount": 3141,
+      "commentCount": 198,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cwo87vAuSEo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cwo87vAuSEo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cwo87vAuSEo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/cwo87vAuSEo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/cwo87vAuSEo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "정치",
+        "정치판",
+        "한국의목소리",
+        "한국목소리",
+        "윤어게인",
+        "이재명",
+        "국민의힘",
+        "민주당",
+        "선거",
+        "yt:cc=on"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "sDtE3dutZnQ",
+      "channelId": "UC8tH3EF_zmxnKwmpuy9LbYw",
+      "channelTitle": "한국의목소리",
+      "title": "청년과 70대가 국힘을 떠나는 이유",
+      "description": "한국의목소리 오리지널 시리즈 – 정치PAN\n국민대변인 백지원과 함께 이슈를 넘어 ‘판’을 읽어봅니다.\n\n채널에 프로필 링크를 통해 우리의 목소리에 힘을 더해주세요 🇰🇷\n후원금은 100% VOK 콘텐츠 제작비로 사용됩니다.",
+      "publishedAt": "2026-04-01T06:02:32Z",
+      "duration": "PT55S",
+      "durationSeconds": 55,
+      "viewCount": 293486,
+      "likeCount": 31833,
+      "commentCount": 3500,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/sDtE3dutZnQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/sDtE3dutZnQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/sDtE3dutZnQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/sDtE3dutZnQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/sDtE3dutZnQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [
+        "정치",
+        "정치판",
+        "한국의목소리",
+        "한국목소리",
+        "윤어게인",
+        "이재명",
+        "국민의힘",
+        "민주당",
+        "선거",
+        "yt:cc=on"
+      ],
+      "isShorts": true
+    },
+    {
+      "id": "dBJuzblrzI0",
+      "channelId": "UC8tH3EF_zmxnKwmpuy9LbYw",
+      "channelTitle": "한국의목소리",
+      "title": "[속보] 대한민국 언론의 현실",
+      "description": "",
+      "publishedAt": "2026-03-24T09:54:33Z",
+      "duration": "PT43S",
+      "durationSeconds": 43,
+      "viewCount": 47830,
+      "likeCount": 2390,
+      "commentCount": 103,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/dBJuzblrzI0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/dBJuzblrzI0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/dBJuzblrzI0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/dBJuzblrzI0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/dBJuzblrzI0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
+    },
+    {
+      "id": "ugnjjUodOtM",
+      "channelId": "UC8tH3EF_zmxnKwmpuy9LbYw",
+      "channelTitle": "한국의목소리",
+      "title": "[속보] 노무현 팔이 멈춰달라는 사위",
+      "description": "",
+      "publishedAt": "2026-03-24T09:18:12Z",
+      "duration": "PT50S",
+      "durationSeconds": 50,
+      "viewCount": 24256,
+      "likeCount": 1048,
+      "commentCount": 77,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ugnjjUodOtM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ugnjjUodOtM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ugnjjUodOtM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ugnjjUodOtM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ugnjjUodOtM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "tags": [],
+      "isShorts": true
     }
   ],
   "channelStats": [
@@ -229,7 +614,7 @@
       "customUrl": "@mbcnews11",
       "publishedAt": "2006-11-05T21:58:51Z",
       "subscriberCount": 6160000,
-      "videoCount": 379398,
+      "videoCount": 379401,
       "viewCount": 28345415138,
       "thumbnails": {
         "default": {
@@ -261,8 +646,8 @@
       "customUrl": "@ytnnews24",
       "publishedAt": "2013-05-23T07:07:42Z",
       "subscriberCount": 5330000,
-      "videoCount": 953295,
-      "viewCount": 20152175028,
+      "videoCount": 953319,
+      "viewCount": 20160556431,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s88-c-k-c0x00ffffff-no-rj",
@@ -282,9 +667,9 @@
       },
       "uploads": "UUhlgI3UHCOnwUGzWzbJ3H5w",
       "country": "KR",
-      "videosAnalyzed": 30,
+      "videosAnalyzed": 0,
       "shortsCount": 0,
-      "regularVideosCount": 30
+      "regularVideosCount": 0
     },
     {
       "id": "UCWlV3Lz_55UaX4JsMj-z__Q",
@@ -293,8 +678,8 @@
       "customUrl": "@tvchosunnews",
       "publishedAt": "2012-08-23T12:33:18Z",
       "subscriberCount": 3070000,
-      "videoCount": 187923,
-      "viewCount": 5446780025,
+      "videoCount": 187925,
+      "viewCount": 5447155138,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
@@ -319,38 +704,6 @@
       "regularVideosCount": 0
     },
     {
-      "id": "UCmzMtXrJgfCqA0rfhz8_P4A",
-      "title": "웃소 Wootso",
-      "description": "🎉 웃소의 첫 에세이 《10년 째 합숙 중》 출간!! 🎉\n웃소는? 세대 간에 공감하며 함께 보는 영상을 만듭니다! \n일곱명의 멤버들이 함께 지지고 볶는 합숙, 유형별 공감 영상, 보드게임과 각종 챌린지 등등!\n왁자지껄 떠들며 즐기는 모든 웃음을 담아, 매주 ★수요일/토요일★ 여러분을 찾아갑니다~ 알람설정 꾹🔔\n",
-      "customUrl": "@wootso",
-      "publishedAt": "2015-06-10T09:45:01Z",
-      "subscriberCount": 2040000,
-      "videoCount": 1819,
-      "viewCount": 3332631144,
-      "thumbnails": {
-        "default": {
-          "url": "https://yt3.ggpht.com/ytc/AIdro_nT3LUIPqUsAhO3u7qEAbpnqZrNZVRPifc3mtJnt5piaHs=s88-c-k-c0x00ffffff-no-rj",
-          "width": 88,
-          "height": 88
-        },
-        "medium": {
-          "url": "https://yt3.ggpht.com/ytc/AIdro_nT3LUIPqUsAhO3u7qEAbpnqZrNZVRPifc3mtJnt5piaHs=s240-c-k-c0x00ffffff-no-rj",
-          "width": 240,
-          "height": 240
-        },
-        "high": {
-          "url": "https://yt3.ggpht.com/ytc/AIdro_nT3LUIPqUsAhO3u7qEAbpnqZrNZVRPifc3mtJnt5piaHs=s800-c-k-c0x00ffffff-no-rj",
-          "width": 800,
-          "height": 800
-        }
-      },
-      "uploads": "UUmzMtXrJgfCqA0rfhz8_P4A",
-      "country": "KR",
-      "videosAnalyzed": 0,
-      "shortsCount": 0,
-      "regularVideosCount": 0
-    },
-    {
       "id": "UCGbkN-3JpOct4KuEv59NF0Q",
       "title": "엠키타카 MKTK",
       "description": "국회 티키타카! 콘텐츠왕국! 어른김장하! 지역소생연구소!\n\n홈페이지 : http://www.mbcgn.kr\n페이스북 : http://www.facebook.com/withmbcgn\n인스타그램  : https://www.instagram.com/mbcgn/",
@@ -358,7 +711,7 @@
       "publishedAt": "2017-08-08T04:13:21Z",
       "subscriberCount": 1070000,
       "videoCount": 25180,
-      "viewCount": 2596010253,
+      "viewCount": 2597220221,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/hUPG97aBRPUUtqvU3nFszYHV-x3GYfoFNbwNJ1-NvsXBXelhnLpgjoDFP3D7svnaY5bLpli6pQ=s88-c-k-c0x00ffffff-no-rj",
@@ -390,7 +743,7 @@
       "publishedAt": "2022-01-12T03:06:06.679652Z",
       "subscriberCount": 1030000,
       "videoCount": 786,
-      "viewCount": 1140466895,
+      "viewCount": 1140634961,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/MwrNX-40K7CQRTNsOVR_jVYYILGKl30ZHGy7nw2ifmx_AcL-RUp67XGdj7vNV2lsQ8CCfMRrLz8=s88-c-k-c0x00ffffff-no-rj",
@@ -415,32 +768,32 @@
       "regularVideosCount": 0
     },
     {
-      "id": "UCh9Hs6LCnksZbSs2SqSdfqg",
-      "title": "철멍뭉",
-      "description": "미스터리한데 가끔 웃긴 뭐 그런.. 철멍뭉 🐶🐾\n\n철멍뭉 인스타 : mystery_mung\n\n미스터리 / 음모론 / 해외 사건 / 국내 사건 / 일본 사건 / 기묘한 사건\n황당한 사건 / 무서운 사건 / 공포 이야기 / 실제사건 / 오컬트/ 괴담\n\n📌 해당 채널의 모든 영상의 허락 없는 배포 및 상영을 금합니다.\n📌 유튜브, 틱톡, 인스타그램, 스레드 외의 SNS는 하지 않습니다.\n\n『제보 / 문의』 는 bryanman720@gmail.com\n\n구독 좋아요 누르면 더 재밌는 미스터리 영상을 올라올 때마다 보실 수 있습니다 ♥\n",
-      "customUrl": "@mungmoong2",
-      "publishedAt": "2021-09-18T08:28:22.970528Z",
-      "subscriberCount": 674000,
-      "videoCount": 252,
-      "viewCount": 283682745,
+      "id": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "title": "시사IN(시사인)",
+      "description": "더 나은 세상을 만드는 저널리즘, \n시사IN이 만든 라이브 방송 \n시사IN 유튜브 편성 안내\n\n🔴 [월~목 오후 5시] 김은지의 뉴스IN \n김은지 정치팀장이 정치 현안을 샅샅이 훑어드리겠습니다. \n\n●시사IN 홈페이지 https://www.sisain.co.kr/\n○시사IN 구독 https://subscribe.sisain.co.kr/\n○시사IN 후원 https://support.sisain.co.kr\n○시사IN 후원 계좌 하나은행 109-910017-83704 ㈜참언론\n○시사IN paypal http://paypal.me/sisain\n● 광고 문의 webmaster@sisain.co.kr\n\n",
+      "customUrl": "@sisaineditor",
+      "publishedAt": "2010-10-13T01:39:00Z",
+      "subscriberCount": 695000,
+      "videoCount": 3809,
+      "viewCount": 238011121,
       "thumbnails": {
         "default": {
-          "url": "https://yt3.ggpht.com/YdlMkbDXfjuFHvKiyeTV60uscqvnqmHNkQI42kiEEFkE3oy6DFLzv2AHJJNeJvMmAgtEsCsareI=s88-c-k-c0x00ffffff-no-rj",
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s88-c-k-c0x00ffffff-no-rj",
           "width": 88,
           "height": 88
         },
         "medium": {
-          "url": "https://yt3.ggpht.com/YdlMkbDXfjuFHvKiyeTV60uscqvnqmHNkQI42kiEEFkE3oy6DFLzv2AHJJNeJvMmAgtEsCsareI=s240-c-k-c0x00ffffff-no-rj",
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s240-c-k-c0x00ffffff-no-rj",
           "width": 240,
           "height": 240
         },
         "high": {
-          "url": "https://yt3.ggpht.com/YdlMkbDXfjuFHvKiyeTV60uscqvnqmHNkQI42kiEEFkE3oy6DFLzv2AHJJNeJvMmAgtEsCsareI=s800-c-k-c0x00ffffff-no-rj",
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s800-c-k-c0x00ffffff-no-rj",
           "width": 800,
           "height": 800
         }
       },
-      "uploads": "UUh9Hs6LCnksZbSs2SqSdfqg",
+      "uploads": "UUaVuYo_tiiNzTSmlnM-A2kQ",
       "country": "KR",
       "videosAnalyzed": 0,
       "shortsCount": 0,
@@ -454,7 +807,7 @@
       "publishedAt": "2021-09-18T08:28:22.970528Z",
       "subscriberCount": 674000,
       "videoCount": 252,
-      "viewCount": 283682745,
+      "viewCount": 283821397,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/YdlMkbDXfjuFHvKiyeTV60uscqvnqmHNkQI42kiEEFkE3oy6DFLzv2AHJJNeJvMmAgtEsCsareI=s88-c-k-c0x00ffffff-no-rj",
@@ -506,9 +859,9 @@
       },
       "uploads": "UU8tH3EF_zmxnKwmpuy9LbYw",
       "country": "KR",
-      "videosAnalyzed": 0,
-      "shortsCount": 0,
-      "regularVideosCount": 0
+      "videosAnalyzed": 30,
+      "shortsCount": 7,
+      "regularVideosCount": 23
     },
     {
       "id": "UCu0b6ODtYia0snp9JE4UUDw",
@@ -550,7 +903,7 @@
       "publishedAt": "2009-03-21T08:15:07Z",
       "subscriberCount": 535000,
       "videoCount": 3859,
-      "viewCount": 948763488,
+      "viewCount": 949137576,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/fVn9FhfxwrVUvNj_Vii0l6vcyUNNQFQImVhwPhUSHguibKKkR1_8iIyHeaMGxFrjJ6GYGqlymw=s88-c-k-c0x00ffffff-no-rj",
@@ -582,7 +935,7 @@
       "publishedAt": "2022-05-30T11:34:11.689006Z",
       "subscriberCount": 522000,
       "videoCount": 4644,
-      "viewCount": 2303208155,
+      "viewCount": 2303356620,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/GXD6CIjLk1Dnt5VC7nl-M72a7ueVq8b6oA4yjURVnF1ZYbgqtwf5ZPNg72VafPOIw02ANvMh2A=s88-c-k-c0x00ffffff-no-rj",
@@ -678,7 +1031,7 @@
       "publishedAt": "2024-03-17T11:15:44.181866Z",
       "subscriberCount": 467000,
       "videoCount": 270,
-      "viewCount": 149565117,
+      "viewCount": 149565174,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/haTQr8ZLyCIIL48yyYimlvHCx0bHV8v5-qJ49u62tOMhPgnOLloFb6RJaSBbSJSOQyBd52Uhcw=s88-c-k-c0x00ffffff-no-rj",
@@ -708,7 +1061,7 @@
       "description": "구독과 방문 감사합니다.\n문의 mrgray275@gmail.com\n",
       "customUrl": "@linkingranking",
       "publishedAt": "2018-02-07T05:25:49Z",
-      "subscriberCount": 440000,
+      "subscriberCount": 441000,
       "videoCount": 3473,
       "viewCount": 634114477,
       "thumbnails": {
@@ -742,7 +1095,7 @@
       "publishedAt": "2020-05-28T12:15:50.768611Z",
       "subscriberCount": 391000,
       "videoCount": 808,
-      "viewCount": 125559364,
+      "viewCount": 125560078,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/R6ynfgFkV7pKnrgUIp52TOpg2AQ2qD0Geo57N9uoFitMuC1nvsL7LmBRqgnZqqwGCj1RNL0Yvg=s88-c-k-c0x00ffffff-no-rj",
@@ -774,39 +1127,7 @@
       "publishedAt": "2018-11-09T08:01:53Z",
       "subscriberCount": 346000,
       "videoCount": 974,
-      "viewCount": 872507585,
-      "thumbnails": {
-        "default": {
-          "url": "https://yt3.ggpht.com/RstzVEx_9sC_aaMuFohYXwUyclAN97UMi8jX4N8me9lyj7vIOlmHLoOdV1_GfPwJcOGBC_zf=s88-c-k-c0x00ffffff-no-rj",
-          "width": 88,
-          "height": 88
-        },
-        "medium": {
-          "url": "https://yt3.ggpht.com/RstzVEx_9sC_aaMuFohYXwUyclAN97UMi8jX4N8me9lyj7vIOlmHLoOdV1_GfPwJcOGBC_zf=s240-c-k-c0x00ffffff-no-rj",
-          "width": 240,
-          "height": 240
-        },
-        "high": {
-          "url": "https://yt3.ggpht.com/RstzVEx_9sC_aaMuFohYXwUyclAN97UMi8jX4N8me9lyj7vIOlmHLoOdV1_GfPwJcOGBC_zf=s800-c-k-c0x00ffffff-no-rj",
-          "width": 800,
-          "height": 800
-        }
-      },
-      "uploads": "UUd6tMX5cbTf6HNf1iug0HrQ",
-      "country": "KR",
-      "videosAnalyzed": 0,
-      "shortsCount": 0,
-      "regularVideosCount": 0
-    },
-    {
-      "id": "UCd6tMX5cbTf6HNf1iug0HrQ",
-      "title": "이마까TV",
-      "description": "정치 풍자, 패러디를 통해  / 진보 진영에는 힘을 드리고 / 중도층에는 공감을 이끌어 내는 영상 제작을 목표로 합니다.",
-      "customUrl": "@이마까tv",
-      "publishedAt": "2018-11-09T08:01:53Z",
-      "subscriberCount": 346000,
-      "videoCount": 974,
-      "viewCount": 872507585,
+      "viewCount": 873162543,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/RstzVEx_9sC_aaMuFohYXwUyclAN97UMi8jX4N8me9lyj7vIOlmHLoOdV1_GfPwJcOGBC_zf=s88-c-k-c0x00ffffff-no-rj",
@@ -838,7 +1159,7 @@
       "publishedAt": "2013-04-08T07:04:38Z",
       "subscriberCount": 336000,
       "videoCount": 2523,
-      "viewCount": 1884673014,
+      "viewCount": 1884678406,
       "thumbnails": {
         "default": {
           "url": "https://yt3.ggpht.com/9cfPcDDSln3sHmfzt4F-nYQU9rnYhfew9LoTnLeKqkCNbyp_FtOzXqnFM_z6Fl7kvLmi7JAE=s88-c-k-c0x00ffffff-no-rj",
@@ -857,6 +1178,70 @@
         }
       },
       "uploads": "UUc6sEta0lPmVJ3TFIw8s-wA",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCJm_AJKFjq89w5brQ3yTa8g",
+      "title": "미디어쇼츠 ",
+      "description": "정치·연예·사회 주요 현장을\n가장 빠르고 간결한 쇼츠로 전합니다.\n팩트 중심, 현장 중심 뉴스 쇼츠 채널입니다.\n\n\n",
+      "customUrl": "@tv17314",
+      "publishedAt": "2023-05-08T14:08:28.931191Z",
+      "subscriberCount": 331000,
+      "videoCount": 1124,
+      "viewCount": 207976744,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/jLMnaP79XESIB8438eZVkpp-Fasq_jE2SQgMn2IfmkiXnjwClvD14Rv8jHCUMOX3hs1wG_CDQNE=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/jLMnaP79XESIB8438eZVkpp-Fasq_jE2SQgMn2IfmkiXnjwClvD14Rv8jHCUMOX3hs1wG_CDQNE=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/jLMnaP79XESIB8438eZVkpp-Fasq_jE2SQgMn2IfmkiXnjwClvD14Rv8jHCUMOX3hs1wG_CDQNE=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUJm_AJKFjq89w5brQ3yTa8g",
+      "country": "KR",
+      "videosAnalyzed": 0,
+      "shortsCount": 0,
+      "regularVideosCount": 0
+    },
+    {
+      "id": "UCzuBleEdJox6p_p5wexcp5A",
+      "title": "정치일주",
+      "description": "태어난김에 대한민국 정치일주\n\n",
+      "customUrl": "@정치일주",
+      "publishedAt": "2023-06-04T12:54:30.5777Z",
+      "subscriberCount": 302000,
+      "videoCount": 725,
+      "viewCount": 1120801679,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/UGX3Xq_DgGKiHJEsMl6X-gZYvsVvzdhxK7aviC3A_WvoTPP3loXKLz-IlxqRCcOZcSKCLoWnqA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/UGX3Xq_DgGKiHJEsMl6X-gZYvsVvzdhxK7aviC3A_WvoTPP3loXKLz-IlxqRCcOZcSKCLoWnqA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/UGX3Xq_DgGKiHJEsMl6X-gZYvsVvzdhxK7aviC3A_WvoTPP3loXKLz-IlxqRCcOZcSKCLoWnqA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUzuBleEdJox6p_p5wexcp5A",
       "country": "KR",
       "videosAnalyzed": 0,
       "shortsCount": 0,
