@@ -1,37 +1,8 @@
 {
-  "lastUpdated": "2026-09-01T15:45:50.403Z",
+  "lastUpdated": "2026-09-01T20:18:35.894Z",
   "totalChannels": 80,
   "hardcodedChannels": 87,
   "channels": [
-    {
-      "id": "UCBR8-60-B28hp2BmDPdntcQ",
-      "title": "YouTube",
-      "description": "YouTube's official YouTube channel",
-      "customUrl": "@youtube",
-      "publishedAt": "1970-01-01T00:00:00Z",
-      "subscriberCount": 46200000,
-      "videoCount": 1581,
-      "viewCount": 1281699150,
-      "thumbnails": {
-        "default": {
-          "url": "https://yt3.ggpht.com/3s6evpqAiDU9tQR4sC2siJippbH2RWVPnwHgyl4V0th2iuQz0VDQZbUhQBGmsxLYo-mjG6TqZQ=s88-c-k-c0x00ffffff-no-rj",
-          "width": 88,
-          "height": 88
-        },
-        "medium": {
-          "url": "https://yt3.ggpht.com/3s6evpqAiDU9tQR4sC2siJippbH2RWVPnwHgyl4V0th2iuQz0VDQZbUhQBGmsxLYo-mjG6TqZQ=s240-c-k-c0x00ffffff-no-rj",
-          "width": 240,
-          "height": 240
-        },
-        "high": {
-          "url": "https://yt3.ggpht.com/3s6evpqAiDU9tQR4sC2siJippbH2RWVPnwHgyl4V0th2iuQz0VDQZbUhQBGmsxLYo-mjG6TqZQ=s800-c-k-c0x00ffffff-no-rj",
-          "width": 800,
-          "height": 800
-        }
-      },
-      "uploads": "UUBR8-60-B28hp2BmDPdntcQ",
-      "country": "US"
-    },
     {
       "id": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "title": " YTN",
@@ -39,7 +10,7 @@
       "customUrl": "@ytnnews24",
       "publishedAt": "2013-05-23T07:07:42Z",
       "subscriberCount": 5400000,
-      "videoCount": 980559,
+      "videoCount": 980577,
       "viewCount": 21525595457,
       "thumbnails": {
         "default": {
@@ -62,13 +33,42 @@
       "country": "KR"
     },
     {
+      "id": "UCcQTRi69dsVYHN3exePtZ1A",
+      "title": "KBS News",
+      "description": "수신료로 만들어가는 KBS 뉴스",
+      "customUrl": "@newskbs",
+      "publishedAt": "2013-08-06T12:47:09Z",
+      "subscriberCount": 3700000,
+      "videoCount": 470499,
+      "viewCount": 11548387818,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/LIRDgU59ID6x9CqOQQR5TO9WsaenXRWOwD5kj4pwY4mz24hRW6qxIiKZl1JSso-u6auqakRj0g=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/LIRDgU59ID6x9CqOQQR5TO9WsaenXRWOwD5kj4pwY4mz24hRW6qxIiKZl1JSso-u6auqakRj0g=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/LIRDgU59ID6x9CqOQQR5TO9WsaenXRWOwD5kj4pwY4mz24hRW6qxIiKZl1JSso-u6auqakRj0g=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUcQTRi69dsVYHN3exePtZ1A",
+      "country": "KR"
+    },
+    {
       "id": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "title": "뉴스TVCHOSUN",
       "description": "TV조선 뉴스 공식 YouTube 입니다.",
       "customUrl": "@tvchosunnews",
       "publishedAt": "2012-08-23T12:33:18Z",
       "subscriberCount": 3120000,
-      "videoCount": 202450,
+      "videoCount": 202453,
       "viewCount": 5832748695,
       "thumbnails": {
         "default": {
@@ -91,13 +91,42 @@
       "country": "KR"
     },
     {
+      "id": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "title": "연합뉴스TV",
+      "description": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "customUrl": "@yonhapnewstv23",
+      "publishedAt": "2015-01-05T04:29:03Z",
+      "subscriberCount": 2290000,
+      "videoCount": 721401,
+      "viewCount": 4366742134,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUTHCOPwqNfZ0uiKOvFyhGwg",
+      "country": "KR"
+    },
+    {
       "id": "UCgeOlLcX6PReHdWImEnUVTg",
       "title": "스픽스",
       "description": "국민과 함께 더 나은 세상을 만들어가는 스픽스\n혁신-균형-정의를 지향하는 뉴미디어의 표준\n\n#[스픽스 1234] 월~금 12시 34분 생방송\n#[역전의용사들] 월~금 20시 \n#실시간 속보 가장 빠른 분석 [긴급편성]\n#탁월한 관점의 정치, 경제 현안 [고수의전략] \n#차원이 다른 토크  [마키아벨리]\n#가장 듣고 싶었던 얘기 [특집인터뷰]\n\n협업문의 010-8596-0073\n광고문의 speaksad@speaks.kr\n",
       "customUrl": "@speaks_tv",
       "publishedAt": "2022-05-24T02:02:45.424058Z",
       "subscriberCount": 1530000,
-      "videoCount": 39629,
+      "videoCount": 39630,
       "viewCount": 2340920084,
       "thumbnails": {
         "default": {
@@ -154,8 +183,8 @@
       "description": "국회 티키타카! 콘텐츠왕국! 어른김장하! 지역소생연구소!\n\n홈페이지 : http://www.mbcgn.kr\n페이스북 : http://www.facebook.com/withmbcgn\n인스타그램  : https://www.instagram.com/mbcgn/",
       "customUrl": "@mbcgn_tv",
       "publishedAt": "2017-08-08T04:13:21Z",
-      "subscriberCount": 1080000,
-      "videoCount": 27819,
+      "subscriberCount": 1090000,
+      "videoCount": 27821,
       "viewCount": 2733502814,
       "thumbnails": {
         "default": {
@@ -677,7 +706,7 @@
       "customUrl": "@uncoveredcrimeyt",
       "publishedAt": "2017-12-22T15:41:57Z",
       "subscriberCount": 221000,
-      "videoCount": 686,
+      "videoCount": 688,
       "viewCount": 102030806,
       "thumbnails": {
         "default": {
@@ -1054,7 +1083,7 @@
       "customUrl": "@민주데이",
       "publishedAt": "2025-06-20T14:25:53.646309Z",
       "subscriberCount": 102000,
-      "videoCount": 2232,
+      "videoCount": 2233,
       "viewCount": 292381644,
       "thumbnails": {
         "default": {
@@ -1372,7 +1401,7 @@
       "description": "🔥 본 채널은 시사·정치 이슈를 공개된 자료와 다양한 정보를 바탕으로 이해하기 쉽게 전달하는 콘텐츠를 제작합니다.\n모든 영상은 언론 보도, 공공기관 자료, 국회 기록 등 공개된 정보를 참고하여 제작되며, 일부 내용은 제작자의 분석 및 의견이 포함될 수 있습니다. 본 채널은 특정 개인이나 단체를 비방하거나 허위사실을 유포할 목적이 없으며, 사실에 기반한 정보 전달과 공익적 가치 실현을 지향합니다.\n",
       "customUrl": "@정치공감kr",
       "publishedAt": "2020-06-20T23:51:04.028683Z",
-      "subscriberCount": 36200,
+      "subscriberCount": 36300,
       "videoCount": 101,
       "viewCount": 13025719,
       "thumbnails": {
@@ -1599,6 +1628,35 @@
       "country": "KR"
     },
     {
+      "id": "UCl6c1FpIC90-A5dId7ncEpQ",
+      "title": "오늘또 경제학",
+      "description": "오늘또 경제학은 세계 경제 스토리를 그림과 함께 \n재미나고 알기쉽게 다가갈 수 있도록 하는\n유익한 있는 내용을 담고 있습니다.\n",
+      "customUrl": "@오늘또경제학",
+      "publishedAt": "2025-11-08T06:24:12.230919Z",
+      "subscriberCount": 8270,
+      "videoCount": 89,
+      "viewCount": 844309,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/BZ_7Dr1GBMUXKosBYB0s_j9FziPVyZrUGoh0Y-gGwilzzia7LcwoCgvc9CiTYCfDy6_93KrYU0c=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/BZ_7Dr1GBMUXKosBYB0s_j9FziPVyZrUGoh0Y-gGwilzzia7LcwoCgvc9CiTYCfDy6_93KrYU0c=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/BZ_7Dr1GBMUXKosBYB0s_j9FziPVyZrUGoh0Y-gGwilzzia7LcwoCgvc9CiTYCfDy6_93KrYU0c=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUl6c1FpIC90-A5dId7ncEpQ",
+      "country": "CA"
+    },
+    {
       "id": "UCk482YxDN735ugxAB3xQaYw",
       "title": "인생한줄조언",
       "description": "💡 삶의 지혜와 마음을 밝히는 이야기들을 전하는 공간입니다.\n인생의 교훈, 따뜻한 조언 그리고 깊은 깨달음을 담은 감성적인 이야기들을 만나보세요. ✨\n\n",
@@ -1628,32 +1686,32 @@
       "country": "KR"
     },
     {
-      "id": "UCkFcXEet0Chmu_1vsVdTF_Q",
-      "title": "부동산특공대TV",
-      "description": "현장감 있는 부동산 매물 리포트!\n\n직접 보고, 직접 분석하고, 직접 알려드립니다.\n\n대구·경북 신축 아파트와 미분양 아파트, \n오피스텔, 상가 등 다양한 분양 현장을 소개하며 \n실거주와 투자에 도움이 되는 정보를 전달합니다.\n\n모델하우스 리뷰부터 입지 분석, 분양가, 계약 혜택, \n잔여세대 정보까지 한눈에 확인하세요.\n\n좋은 집을 찾는 가장 빠른 방법,\n부동산특공대TV입니다.\n\n⭕ 촬영 문의 : 1555-2584\n⭕ 이메일 : overholic2695@naver.com\n⭕ 문자상담 : 010-5671-2073\n\nWNTDY6@AICOMPANY\n",
-      "customUrl": "@부동산특공대tv",
-      "publishedAt": "2018-10-12T03:37:51Z",
-      "subscriberCount": 5370,
-      "videoCount": 604,
-      "viewCount": 1008983,
+      "id": "UC56av3C2Lpti5a9W8sC-E1w",
+      "title": "보스 BOSS",
+      "description": "계몽행진 팀 BOSS 오피셜 채널\n“국민이 보스다”",
+      "customUrl": "@국민이보스다",
+      "publishedAt": "2025-09-24T11:52:13.350061Z",
+      "subscriberCount": 5540,
+      "videoCount": 123,
+      "viewCount": 333228,
       "thumbnails": {
         "default": {
-          "url": "https://yt3.ggpht.com/sQprdNT60-to2JCrX7y_m5p1j15ptRGkA-5e1HCh6fh0MHE9ZHOFgtQVkgxwE4RwWmn7WYvtLQ=s88-c-k-c0x00ffffff-no-rj",
+          "url": "https://yt3.ggpht.com/vzWm6x46iiRjLiW-WdHldeX9Nd4OUEau1B3o3p7YdR5MppKXogXue9Y7OYZfEh64dNB304s8=s88-c-k-c0x00ffffff-no-rj",
           "width": 88,
           "height": 88
         },
         "medium": {
-          "url": "https://yt3.ggpht.com/sQprdNT60-to2JCrX7y_m5p1j15ptRGkA-5e1HCh6fh0MHE9ZHOFgtQVkgxwE4RwWmn7WYvtLQ=s240-c-k-c0x00ffffff-no-rj",
+          "url": "https://yt3.ggpht.com/vzWm6x46iiRjLiW-WdHldeX9Nd4OUEau1B3o3p7YdR5MppKXogXue9Y7OYZfEh64dNB304s8=s240-c-k-c0x00ffffff-no-rj",
           "width": 240,
           "height": 240
         },
         "high": {
-          "url": "https://yt3.ggpht.com/sQprdNT60-to2JCrX7y_m5p1j15ptRGkA-5e1HCh6fh0MHE9ZHOFgtQVkgxwE4RwWmn7WYvtLQ=s800-c-k-c0x00ffffff-no-rj",
+          "url": "https://yt3.ggpht.com/vzWm6x46iiRjLiW-WdHldeX9Nd4OUEau1B3o3p7YdR5MppKXogXue9Y7OYZfEh64dNB304s8=s800-c-k-c0x00ffffff-no-rj",
           "width": 800,
           "height": 800
         }
       },
-      "uploads": "UUkFcXEet0Chmu_1vsVdTF_Q",
+      "uploads": "UU56av3C2Lpti5a9W8sC-E1w",
       "country": "KR"
     },
     {
@@ -1715,42 +1773,13 @@
       "country": "KR"
     },
     {
-      "id": "UC59xiJoYmwrnoYEE8NPTOnw",
-      "title": "미들 밸런스",
-      "description": "극단의 소음 속에서 중심을 지키는 시선.\n좌도 우도 아닌 중도의 시각으로 ‘팩트’와 ‘상식’의 소식을 전해 드립니다.\n",
-      "customUrl": "@middlebalance",
-      "publishedAt": "2025-05-28T11:56:20.16501Z",
-      "subscriberCount": 3040,
-      "videoCount": 217,
-      "viewCount": 159782,
-      "thumbnails": {
-        "default": {
-          "url": "https://yt3.ggpht.com/hhmw8AJ-ngz_WSojQBNmbu-PTRWdF0GZ0h4ycDefvOj2pgnwTkMzyVW4dseF1m58BqQaLV7icA=s88-c-k-c0x00ffffff-no-rj",
-          "width": 88,
-          "height": 88
-        },
-        "medium": {
-          "url": "https://yt3.ggpht.com/hhmw8AJ-ngz_WSojQBNmbu-PTRWdF0GZ0h4ycDefvOj2pgnwTkMzyVW4dseF1m58BqQaLV7icA=s240-c-k-c0x00ffffff-no-rj",
-          "width": 240,
-          "height": 240
-        },
-        "high": {
-          "url": "https://yt3.ggpht.com/hhmw8AJ-ngz_WSojQBNmbu-PTRWdF0GZ0h4ycDefvOj2pgnwTkMzyVW4dseF1m58BqQaLV7icA=s800-c-k-c0x00ffffff-no-rj",
-          "width": 800,
-          "height": 800
-        }
-      },
-      "uploads": "UU59xiJoYmwrnoYEE8NPTOnw",
-      "country": "KR"
-    },
-    {
       "id": "UCDsUGGIFy1aU0rx7wThgVyA",
       "title": "파란만장TV",
       "description": "#안녕하세요~ 파란만장tv입니다.\n#밴드명:파란만장tv\n#바다낚시#낚시힐링\n#찌낚시#선상낚시\n#갈치환자#생활낚시\n#애견#먹방#일상\n#낚시여행\n#파란만장tv 구독과좋아요. 감사합니다.\n💖후원계좌💖(농협):651081-52-035520      \n예금주:김동성 \n🌟아름다운 후원 감사합니다.🌟\n",
       "customUrl": "@파란만장tv75",
       "publishedAt": "2023-08-13T10:13:17.717534Z",
       "subscriberCount": 2800,
-      "videoCount": 774,
+      "videoCount": 775,
       "viewCount": 1297748,
       "thumbnails": {
         "default": {
@@ -1770,35 +1799,6 @@
         }
       },
       "uploads": "UUDsUGGIFy1aU0rx7wThgVyA",
-      "country": "KR"
-    },
-    {
-      "id": "UCFCfLpCzREphacE3OHqtEQQ",
-      "title": "정치365뉴스",
-      "description": "편 가르기 안 합니다.\n대신 눈 감지도 않습니다.\n여당이든 야당이든, 잘못된 건 비판합니다.\n정치 뉴스, 빠르고 정확하게.\n판단은 여러분이 직접 하세요.\n",
-      "customUrl": "@정치365일",
-      "publishedAt": "2026-01-09T01:17:58.999963Z",
-      "subscriberCount": 2390,
-      "videoCount": 38,
-      "viewCount": 1775856,
-      "thumbnails": {
-        "default": {
-          "url": "https://yt3.ggpht.com/B-w2ToDkaKgRLziiov1eszHeoXbnLkxVnRAFO2LIzJCTwW4MhLftF7WB-MBeBWbTBl_nlPxzqw=s88-c-k-c0x00ffffff-no-rj",
-          "width": 88,
-          "height": 88
-        },
-        "medium": {
-          "url": "https://yt3.ggpht.com/B-w2ToDkaKgRLziiov1eszHeoXbnLkxVnRAFO2LIzJCTwW4MhLftF7WB-MBeBWbTBl_nlPxzqw=s240-c-k-c0x00ffffff-no-rj",
-          "width": 240,
-          "height": 240
-        },
-        "high": {
-          "url": "https://yt3.ggpht.com/B-w2ToDkaKgRLziiov1eszHeoXbnLkxVnRAFO2LIzJCTwW4MhLftF7WB-MBeBWbTBl_nlPxzqw=s800-c-k-c0x00ffffff-no-rj",
-          "width": 800,
-          "height": 800
-        }
-      },
-      "uploads": "UUFCfLpCzREphacE3OHqtEQQ",
       "country": "KR"
     },
     {
@@ -1865,8 +1865,8 @@
       "description": "Welcome to BRIGHT POLITICS!\n\nYour trusted source for the latest political news, analysis, and in-depth discussions from Kenya and around the world. We break down major political events, government decisions, elections, and public affairs in a clear, balanced, and easy-to-understand way.\n\nOn this channel, you'll find: • Breaking political news • Expert political analysis • Election updates • Parliament and government developments • Interviews and public reactions • Fact-based commentary on current affairs\n\nSubscribe to BRIGHT POLITICS and turn on notifications so you never miss the stories shaping our nation 24/7\n\nStay informed. Stay engaged. Stay Bright.\n\n",
       "customUrl": "@brightpolitic",
       "publishedAt": "2026-01-20T09:40:45.606402Z",
-      "subscriberCount": 1180,
-      "videoCount": 31,
+      "subscriberCount": 1190,
+      "videoCount": 29,
       "viewCount": 158050,
       "thumbnails": {
         "default": {
@@ -1887,6 +1887,35 @@
       },
       "uploads": "UUDKjwgMfI_QxCEXMvGq3FXw",
       "country": "KE"
+    },
+    {
+      "id": "UCYa5mZzuWdrdqgcVjNPAenA",
+      "title": "이슈특공대",
+      "description": "정직하고 올바른\n살기좋은 자유민주주의 대한민국이 되길 희망합니다\n",
+      "customUrl": "@issue_forces",
+      "publishedAt": "2014-12-03T14:36:49Z",
+      "subscriberCount": 607,
+      "videoCount": 119,
+      "viewCount": 213567,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/vFvU_LS7JJgfm9gFodOALxvZE8sLmuZ5CAOvMzvcaYsDWJWstcwkwP7wVTZfbzkzuo_HcSbYrw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/vFvU_LS7JJgfm9gFodOALxvZE8sLmuZ5CAOvMzvcaYsDWJWstcwkwP7wVTZfbzkzuo_HcSbYrw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/vFvU_LS7JJgfm9gFodOALxvZE8sLmuZ5CAOvMzvcaYsDWJWstcwkwP7wVTZfbzkzuo_HcSbYrw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUYa5mZzuWdrdqgcVjNPAenA",
+      "country": "KR"
     },
     {
       "id": "UC-ZC7JDv8cOC6H85Y2uYE1w",
@@ -1918,64 +1947,6 @@
       "country": "KR"
     },
     {
-      "id": "UCYa5mZzuWdrdqgcVjNPAenA",
-      "title": "이슈특공대",
-      "description": "정직하고 올바른\n살기좋은 자유민주주의 대한민국이 되길 희망합니다\n",
-      "customUrl": "@issue_forces",
-      "publishedAt": "2014-12-03T14:36:49Z",
-      "subscriberCount": 602,
-      "videoCount": 119,
-      "viewCount": 213567,
-      "thumbnails": {
-        "default": {
-          "url": "https://yt3.ggpht.com/vFvU_LS7JJgfm9gFodOALxvZE8sLmuZ5CAOvMzvcaYsDWJWstcwkwP7wVTZfbzkzuo_HcSbYrw=s88-c-k-c0x00ffffff-no-rj",
-          "width": 88,
-          "height": 88
-        },
-        "medium": {
-          "url": "https://yt3.ggpht.com/vFvU_LS7JJgfm9gFodOALxvZE8sLmuZ5CAOvMzvcaYsDWJWstcwkwP7wVTZfbzkzuo_HcSbYrw=s240-c-k-c0x00ffffff-no-rj",
-          "width": 240,
-          "height": 240
-        },
-        "high": {
-          "url": "https://yt3.ggpht.com/vFvU_LS7JJgfm9gFodOALxvZE8sLmuZ5CAOvMzvcaYsDWJWstcwkwP7wVTZfbzkzuo_HcSbYrw=s800-c-k-c0x00ffffff-no-rj",
-          "width": 800,
-          "height": 800
-        }
-      },
-      "uploads": "UUYa5mZzuWdrdqgcVjNPAenA",
-      "country": "KR"
-    },
-    {
-      "id": "UCWn58qqNhFnxNsrGhMJVqOQ",
-      "title": "개보스TV",
-      "description": "개보스의 정치.사회.패션 등 취미생활 유튜브 입니다!",
-      "customUrl": "@tv-wm9uz",
-      "publishedAt": "2017-10-23T10:55:41Z",
-      "subscriberCount": 430,
-      "videoCount": 81,
-      "viewCount": 172003,
-      "thumbnails": {
-        "default": {
-          "url": "https://yt3.ggpht.com/H-sRCbjUocXy1EHmVKY26lYKT4QfCB2KtxCu49hbLsb5YPG2el4SG89SilmcDNKAt-zj3nk5zg=s88-c-k-c0x00ffffff-no-rj",
-          "width": 88,
-          "height": 88
-        },
-        "medium": {
-          "url": "https://yt3.ggpht.com/H-sRCbjUocXy1EHmVKY26lYKT4QfCB2KtxCu49hbLsb5YPG2el4SG89SilmcDNKAt-zj3nk5zg=s240-c-k-c0x00ffffff-no-rj",
-          "width": 240,
-          "height": 240
-        },
-        "high": {
-          "url": "https://yt3.ggpht.com/H-sRCbjUocXy1EHmVKY26lYKT4QfCB2KtxCu49hbLsb5YPG2el4SG89SilmcDNKAt-zj3nk5zg=s800-c-k-c0x00ffffff-no-rj",
-          "width": 800,
-          "height": 800
-        }
-      },
-      "uploads": "UUWn58qqNhFnxNsrGhMJVqOQ",
-      "country": "KR"
-    },
-    {
       "id": "UCM6J_XXvnp18zssxzHTo-9A",
       "title": "오늘의 이슈는?",
       "description": "",
@@ -2002,6 +1973,35 @@
         }
       },
       "uploads": "UUM6J_XXvnp18zssxzHTo-9A",
+      "country": "KR"
+    },
+    {
+      "id": "UCAWhvHH4ItsSOsQ3apnQi2A",
+      "title": "주식특공대TV",
+      "description": "★☆ 필독 ☆★\n여러분의 주식 전장을 함께 돌파할 든든한 파트너, '한서준'입니다!\n\n\"주식특공대TV\"에서는 주식 초보자부터 숙련자까지 모두 함께 성장할 수 있도록 실속 있는 정보를 전달 드리고 있습니다.\n\n주식투자로 성공하기 위해서는 '어떤 투자'를 해야할까요?\n사실 우리 모두가 그 정답은 알고 있습니다. 바로 \"돈\"이 움직이는 곳에 투자를 해야하죠. \n그리고 \"돈\"이 모이는 종목을 우리는 ★주도주★라고 말합니다.\n\n시장에서 주목을 받는 '테마' 또는 '섹터'는 그 이유가 분명합니다.\n그 이유를 알고, 그 안에서 대장주나 주도주만 알아도 충분히 수익을 만들어낼 수 있습니다.\n\n그래서 \"약속\"드립니다!\n\"돈\"이 모이는 '테마' 또는 '섹터', 그리고 대장주와 주도주 중심으로 발 빠르게 공유드리겠습니다.\n그리고 여러분의 투자 여정에 실질적인 도움이 되겠습니다!\n\n대신 [구독&알림설정] 꼭 부탁드릴게요 :)\n",
+      "customUrl": "@stockspecialtv",
+      "publishedAt": "2025-05-27T05:47:03.385568Z",
+      "subscriberCount": 147,
+      "videoCount": 18,
+      "viewCount": 5500,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/eszf48MhDYH-pQTqdR7vWzcapK7131tqlF9jeUGxHoCsrHduK9WtwENtipSd7wEhYG_L4x7F9A=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/eszf48MhDYH-pQTqdR7vWzcapK7131tqlF9jeUGxHoCsrHduK9WtwENtipSd7wEhYG_L4x7F9A=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/eszf48MhDYH-pQTqdR7vWzcapK7131tqlF9jeUGxHoCsrHduK9WtwENtipSd7wEhYG_L4x7F9A=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUAWhvHH4ItsSOsQ3apnQi2A",
       "country": "KR"
     },
     {
@@ -2179,35 +2179,6 @@
       "country": "KR"
     },
     {
-      "id": "UC3ezic0XFJ4wm5-Ijt8SDTw",
-      "title": "The News Walk",
-      "description": "The true meaning of journalism is to place the perspectives of both the left and the right on the same page and let the audience understand what it is. The News Walk aims to follow the same trail by giving crisp news that matters and remains unheard by the masses.",
-      "customUrl": "@thenewswalkofficial",
-      "publishedAt": "2021-11-28T08:01:12.412404Z",
-      "subscriberCount": 11,
-      "videoCount": 13,
-      "viewCount": 2386,
-      "thumbnails": {
-        "default": {
-          "url": "https://yt3.ggpht.com/nt8IMfkM0hNuMx2dCyBP-UD2rcaz_mOo5SWHFKgt2Q91zyXLRjSrkMphS9sN-LHxvVQKg5KEkUc=s88-c-k-c0x00ffffff-no-rj",
-          "width": 88,
-          "height": 88
-        },
-        "medium": {
-          "url": "https://yt3.ggpht.com/nt8IMfkM0hNuMx2dCyBP-UD2rcaz_mOo5SWHFKgt2Q91zyXLRjSrkMphS9sN-LHxvVQKg5KEkUc=s240-c-k-c0x00ffffff-no-rj",
-          "width": 240,
-          "height": 240
-        },
-        "high": {
-          "url": "https://yt3.ggpht.com/nt8IMfkM0hNuMx2dCyBP-UD2rcaz_mOo5SWHFKgt2Q91zyXLRjSrkMphS9sN-LHxvVQKg5KEkUc=s800-c-k-c0x00ffffff-no-rj",
-          "width": 800,
-          "height": 800
-        }
-      },
-      "uploads": "UU3ezic0XFJ4wm5-Ijt8SDTw",
-      "country": "KR"
-    },
-    {
       "id": "UCIPw0H0y0ha4U0mUES2dWyg",
       "title": "옳소TV",
       "description": "안녕하세요. 옳소TV입니다.^^\n정치,경제,사회,외교 분야의 다양한 논평을 진행하는 옳소TV입니다.\n앞으로도 다양한 이슈로 찾아뵙도록 하겠습니다.\n구독과 좋아요를 꼭 부탁드립니다!~~~!!!!! 감사합니다!",
@@ -2266,32 +2237,61 @@
       "country": "KR"
     },
     {
-      "id": "UCpfLMLmBZDtIrjraT8pOiLA",
-      "title": "오늘또뭔데",
-      "description": "꼭 알아야할 뉴스들을 올려드립니다 \n어느 한군데 국한되지 않는 알아야하는 내용의 뉴스들은 \n다올립니다.\n구독과 좋아요 알람설정까지 하시고 빠르게 뉴스를 받아보세요 !\n",
-      "customUrl": "@오늘또뭔데",
-      "publishedAt": "2025-11-06T10:23:34.705724Z",
-      "subscriberCount": 1,
-      "videoCount": 16,
-      "viewCount": 5497,
+      "id": "UC_2Un3YK3xT5254kpVfSNxA",
+      "title": "밸런스Hz",
+      "description": "같은 조건, 다른 바람.\n\n밸런스Hz는 정치, 지역, 기업, 대학, 목표, 취향 등 서로 다른 선택지를 동일한 기준의 1시간 창작 사운드로 비교하는 중립형 엔터테인먼트 채널입니다.\n\n각 대결 영상은 길이, 음량, 화면 구성, 제작 수준을 최대한 동일하게 맞춥니다. 본 채널은 특정 인물, 정당, 종교, 지역, 기업 또는 단체를 공식적으로 지지하거나 반대하지 않습니다.\n\n영상의 조회수와 시청시간은 실제 여론조사, 투표 결과 또는 과학적으로 입증된 효과를 의미하지 않습니다. 모든 음원은 응원과 재미를 위해 제작한 주파수 기반 앰비언트 사운드입니다.\n",
+      "customUrl": "@balancehzkr",
+      "publishedAt": "2026-08-01T13:49:16.71028Z",
+      "subscriberCount": 2,
+      "videoCount": 12,
+      "viewCount": 2639,
       "thumbnails": {
         "default": {
-          "url": "https://yt3.ggpht.com/TSkN_XiwI1AkQ1SdErHdU9g0TAuTx5AbRp5lTYttT6xwGGVyIKMQYmqDpkW55GeqVXDy-cCr3A=s88-c-k-c0x00ffffff-no-rj",
+          "url": "https://yt3.ggpht.com/QJZfVy_RckazMYDL0HsDpTiVF-A_he-RHSPE3OgKG1W2gsxOp23BIQgnAlFKp7T62O783Q1Y=s88-c-k-c0x00ffffff-no-rj",
           "width": 88,
           "height": 88
         },
         "medium": {
-          "url": "https://yt3.ggpht.com/TSkN_XiwI1AkQ1SdErHdU9g0TAuTx5AbRp5lTYttT6xwGGVyIKMQYmqDpkW55GeqVXDy-cCr3A=s240-c-k-c0x00ffffff-no-rj",
+          "url": "https://yt3.ggpht.com/QJZfVy_RckazMYDL0HsDpTiVF-A_he-RHSPE3OgKG1W2gsxOp23BIQgnAlFKp7T62O783Q1Y=s240-c-k-c0x00ffffff-no-rj",
           "width": 240,
           "height": 240
         },
         "high": {
-          "url": "https://yt3.ggpht.com/TSkN_XiwI1AkQ1SdErHdU9g0TAuTx5AbRp5lTYttT6xwGGVyIKMQYmqDpkW55GeqVXDy-cCr3A=s800-c-k-c0x00ffffff-no-rj",
+          "url": "https://yt3.ggpht.com/QJZfVy_RckazMYDL0HsDpTiVF-A_he-RHSPE3OgKG1W2gsxOp23BIQgnAlFKp7T62O783Q1Y=s800-c-k-c0x00ffffff-no-rj",
           "width": 800,
           "height": 800
         }
       },
-      "uploads": "UUpfLMLmBZDtIrjraT8pOiLA",
+      "uploads": "UU_2Un3YK3xT5254kpVfSNxA",
+      "country": "KR"
+    },
+    {
+      "id": "UCDi05jUKdYqbc-Q_Mub60cA",
+      "title": "news walk",
+      "description": "🔥 हम लेकर आते हैं इंटरनेट पर वायरल होने वाले सबसे धमाकेदार वीडियो!\nयहाँ आपको मिलेंगे ट्रेंडिंग, फनी, मोटिवेशनल, और इमोशनल वीडियो — सब एक ही जगह पर।\nहर दिन नया कंटेंट, नई कहानी और नया जोश 💥\n👇\nSubscribe करें और बने रहें सबसे पहले वायरल वीडियो देखने वालों में!\n\n",
+      "customUrl": "@newswalk0",
+      "publishedAt": "2020-12-12T03:03:13.611267Z",
+      "subscriberCount": 1,
+      "videoCount": 2,
+      "viewCount": 2,
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/99xCzUsirII3bi2Nphb3ermznCAcTWEJdgGOtxe-aAMA885M3nOGaLt6zxvDqO3fRcMIN5utDA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/99xCzUsirII3bi2Nphb3ermznCAcTWEJdgGOtxe-aAMA885M3nOGaLt6zxvDqO3fRcMIN5utDA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/99xCzUsirII3bi2Nphb3ermznCAcTWEJdgGOtxe-aAMA885M3nOGaLt6zxvDqO3fRcMIN5utDA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "uploads": "UUDi05jUKdYqbc-Q_Mub60cA",
       "country": "KR"
     },
     {
