@@ -1,13 +1,18 @@
 {
-  "lastUpdated": "2026-10-11T17:02:20.455Z",
+  "lastUpdated": "2026-10-11T21:14:48.038Z",
   "totalChannelsAnalyzed": 78,
-  "totalVideos": 2021,
-  "totalShorts": 1178,
-  "totalRegularVideos": 843,
-  "totalViewCount": 274755233,
-  "totalLikeCount": 7665641,
-  "averageViewsPerShort": 159723,
+  "totalVideos": 2083,
+  "totalShorts": 1260,
+  "totalRegularVideos": 823,
+  "totalViewCount": 319961893,
+  "totalLikeCount": 8110361,
+  "averageViewsPerShort": 180306,
   "topChannelsByShorts": [
+    {
+      "title": "링킹",
+      "shortsCount": 30,
+      "subscriberCount": 448000
+    },
     {
       "title": "미디어쇼츠 ",
       "shortsCount": 30,
@@ -52,25 +57,32 @@
       "title": "슬기로운 정치생활",
       "shortsCount": 30,
       "subscriberCount": 76800
-    },
-    {
-      "title": "정치도시",
-      "shortsCount": 30,
-      "subscriberCount": 4970
     }
   ],
   "topShortsByViews": [
     {
       "title": "사람냄새 풀풀 나는 참정치인 #정청래",
       "channelTitle": "민주픽",
-      "viewCount": 10047093,
+      "viewCount": 10047095,
       "publishedAt": "2025-06-09T12:34:02Z"
+    },
+    {
+      "title": "초등학생들의 서전트 점프?",
+      "channelTitle": "이선생의 영상일기",
+      "viewCount": 9473213,
+      "publishedAt": "2026-09-07T08:43:20Z"
     },
     {
       "title": "홀로 법사위 무쌍 펼치는 일당백 박은정",
       "channelTitle": "민주픽",
-      "viewCount": 7317055,
+      "viewCount": 7317056,
       "publishedAt": "2025-09-06T09:03:37Z"
+    },
+    {
+      "title": "서전트 점프의 신",
+      "channelTitle": "이선생의 영상일기",
+      "viewCount": 4976666,
+      "publishedAt": "2026-09-11T09:35:54Z"
     },
     {
       "title": "나경원 혼꾸녕 내는 핵사이다 박은정!",
@@ -87,7 +99,7 @@
     {
       "title": "주진우 쭈글이 만들어버린 서영교 의원",
       "channelTitle": "민주픽",
-      "viewCount": 4408140,
+      "viewCount": 4408146,
       "publishedAt": "2025-06-28T04:15:07Z"
     },
     {
@@ -99,7 +111,7 @@
     {
       "title": "조민 인턴십 사건의 전말",
       "channelTitle": "민주픽",
-      "viewCount": 4202354,
+      "viewCount": 4202356,
       "publishedAt": "2025-08-05T02:14:40Z"
     },
     {
@@ -107,18 +119,6 @@
       "channelTitle": "민주픽",
       "viewCount": 4113571,
       "publishedAt": "2025-09-16T06:02:49Z"
-    },
-    {
-      "title": "지귀연 판사 다..당황하셨쎄요?",
-      "channelTitle": "민주픽",
-      "viewCount": 4016859,
-      "publishedAt": "2026-01-14T01:31:32Z"
-    },
-    {
-      "title": "윤거니 전용 밀실 사우나실 공개",
-      "channelTitle": "민주픽",
-      "viewCount": 3947017,
-      "publishedAt": "2025-12-30T09:04:31Z"
     }
   ]
 }
